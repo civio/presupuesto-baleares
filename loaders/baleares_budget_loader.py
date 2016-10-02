@@ -31,15 +31,12 @@ class BalearesBudgetLoader(BudgetLoader):
     def add_functional_category(self, items, line):
         description = line[2]
 
-        # Ignore subprogrammes for now
-        if ( len(line[1])>4 ):
-            return
-
         items.append({
                 'area': (line[1][0:1] if len(line[1])>=1 else None),
                 'policy': (line[1][0:2] if len(line[1])>=2 else None),
                 'function': (line[1][0:3] if len(line[1])>=3 else None),
                 'programme': (line[1][0:4] if len(line[1])>=4 else None),
+                'subprogramme': (line[1] if len(line[1])>=5 else None),
                 'description': description
             })
 
@@ -72,11 +69,13 @@ class BalearesBudgetLoader(BudgetLoader):
             fc_policy = fc_code[0:2]
             fc_function = fc_code[0:3]
             fc_programme = fc_code[0:4]
+            fc_subprogramme = fc_code
         else:
             fc_area = 'X'
             fc_policy = 'XX'
             fc_function = 'XXX'
             fc_programme = 'XXXX'
+            fc_subprogramme = 'XXXXX'
 
         # Institutional and economic codes: keep only the final part of the code also.
         ic_code = self._get_trailing_code(line[3])
@@ -89,6 +88,7 @@ class BalearesBudgetLoader(BudgetLoader):
                 'fc_policy': fc_policy,
                 'fc_function': fc_function,
                 'fc_programme': fc_programme,
+                'fc_subprogramme': fc_subprogramme,
                 'ec_chapter': ec_code[0],
                 'ec_article': (ec_code[0:2] if len(ec_code)>=2 else None),
                 'ec_heading': (ec_code[0:3] if len(ec_code)>=3 else None),
