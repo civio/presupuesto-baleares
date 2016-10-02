@@ -1,0 +1,267 @@
+// Btns
+.btn-default:hover{
+  border-color: darken( $brand-primary, 5% );
+  background: darken( $brand-primary, 5% );
+}
+
+// Icons
+.btn[class*="icon-"]:before{
+  // align-right
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+// Lang Menu
+#menu-lang ul li input[type=submit]{
+  color: $text-color;
+}
+
+.main-entity-logo{
+  margin: 10px 0;
+}
+
+// Header
+.navbar-brand a{
+  color: $text-color;
+
+  &:hover{
+    color: $brand-primary;
+  }
+}
+
+.navbar-default .navbar-nav{
+  [class*="icon-"]:before{
+    display: none;
+  }
+
+  > li > a{
+    text-transform: uppercase;
+    font-weight: $font-weight-600;
+
+    &:hover{
+      color: $dvmi-navbar-color;
+    }
+  }
+
+  > li.active > a,
+  > li.active > a:hover, 
+  > li.active > a:focus{
+    font-weight: $font-weight-600;
+  }
+}
+
+.navbar-default .navbar-toggle,
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus{
+  color: $text-color;
+}
+
+// Section Header
+.section-header .page-title{
+  color: black;
+}
+
+// Social Sharing
+.social-sharing-toolbox li a{
+  background-color: $gray-light;
+}
+
+// Data Panel
+.data-panel .panel-title{
+  font-weight: $font-weight-300;
+}
+
+// Data Downloads
+.panel-downloads{
+  border: none;
+  //background: mix( $brand-terciary, white, 40% );
+
+  a{
+    color: darken($brand-terciary, 25%);
+
+    &:hover{
+      color: $text-color;
+    }
+  }
+}
+
+
+// Home
+.home-content .expense-examples li{
+  background: $page-header-bg;
+
+  a{
+    color: $text-color;
+  }
+}
+
+.home-content .options{
+  background: white;
+
+  .option > div{
+    background: $page-header-bg;
+
+    .icon{
+      color: $brand-terciary;
+    }
+
+    .btn{
+      text-transform: uppercase;
+    }
+  }
+}
+
+// Budget
+.budget-intro{
+  background: white;
+
+  .budget-step{
+    border-color: darken( $brand-terciary, 25% );
+    //background: $brand-secondary;
+
+    h3 
+    span{
+      color: $brand-primary;
+      font-weight: $font-weight-400;
+    }
+    b{
+      font-weight: $font-weight-400;
+    }
+    .desc{
+      font-size: 1em;
+      color: white;
+      background: darken( $brand-terciary, 25% );
+
+      b{
+        font-weight: $font-weight-400;
+      }
+    }
+  }
+}
+
+.budget-data{
+  background: white;
+}
+
+
+// Policies
+.policies-chart{
+  background: white;
+}
+
+.policies-graph{
+  background: white;
+}
+
+.stacked-area-chart-legend .label{
+  
+  &:hover{
+    background: $brand-secondary;
+  }
+}
+
+// Glossary
+.form-search-glossary .btn-primary{
+  color: white;
+  font-weight: $font-weight-400;
+
+  &:hover{
+    color: $brand-secondary;
+    background: darken( $brand-primary, 10% )
+  }
+}
+
+.glossary-terms h3, 
+.glossary-terms h4{
+  font-weight: $font-weight-300;
+  
+  &:before{
+    color: $gray-light;
+  }
+}
+
+.form-search-glossary .form-control{
+  border-color: $brand-primary;
+}
+
+// Search
+.search-content{
+
+  .panel{
+    border-color: $table-color;
+
+    .panel-heading{
+      background: $table-color;
+
+      h3{
+        color: white;
+      }
+    }
+  }
+
+  .results-concepts .concept a{
+    color: $brand-primary;
+  }
+}
+
+
+// Search Icon
+.form-search{
+  
+  label{
+    font-weight: $font-weight-400;
+  }
+
+  .form-inline .btn{
+    color: white;
+    font-weight: $font-weight-400;
+  }
+}
+
+.form-search-glossary .btn-primary{
+  background: $brand-primary; 
+}
+
+table.table-grid{
+  
+  tr td .toggle.expand,
+  tr td .toggle.collapse{
+    line-height: 16px;
+  }
+
+  tr td a{
+    color: $text-color;
+  }
+}
+
+// Tax Receipt
+.tax-receipt-content{
+  .form-user-incomings h3{
+    color: $brand-primary;
+  }
+  #tax-amount{
+    border: none;
+  }
+}
+.tax-receipt-table-content{
+  background: white;
+}
+
+#cookie-bar a.cb-enable{
+  color: white;
+  background-color: $brand-secondary;
+
+  &:hover{
+    color: $brand-secondary;
+    background: transparent;
+  }
+}
+#cookie-bar a.cb-policy{
+  background: transparent;
+  color: $brand-secondary;
+
+  &:hover{
+    color: $text-color;
+  }
+}

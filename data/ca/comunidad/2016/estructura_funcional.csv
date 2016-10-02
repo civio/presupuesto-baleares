@@ -1,0 +1,482 @@
+2016,0,Deute públic
+2016,1,Serveis de caràcter general
+2016,2,"Defensa, protecció civil i seguretat ciutadana"
+2016,3,"Seguretat, protecció i promoció social"
+2016,4,Producció de béns públics de caràcter social
+2016,5,Producció de béns públics de caràcter econòmic
+2016,6,Regulació econòmica de caràcter general
+2016,7,Regulació econòmica de sectors productius
+2016,9,Transferències a altres administracions públiques
+2016,6,Regulació econòmica de caràcter general
+2016,4,Producció de béns públics de caràcter social
+2016,01,Deute públic
+2016,11,Alta direcció de la Comunitat Autònoma i del Govern
+2016,12,Administració general
+2016,13,Relacions exteriors
+2016,14,Justícia
+2016,22,Seguretat i protecció civil
+2016,31,Seguretat i protecció social
+2016,32,Promoció social
+2016,41,Sanitat
+2016,42,Educació
+2016,43,Habitatge i urbanisme
+2016,44,Benestar comunitari
+2016,45,Cultura
+2016,46,Altres serveis comunitaris i socials
+2016,51,Infraestructures bàsiques i transports
+2016,52,Comunicacions
+2016,53,Infraestructures agràries
+2016,54,"Investigació científica, tècnica i aplicada"
+2016,55,Informació bàsica i estadística
+2016,61,Regulació econòmica
+2016,63,Regulació financera
+2016,71,"Agricultura, ramaderia i pesca"
+2016,72,Indústria
+2016,73,Energia
+2016,75,Turisme
+2016,76,Comerç
+2016,91,Transferències a administracions públiques territorials
+2016,61,Regulació econòmica
+2016,41,Sanitat
+2016,011,Deute públic
+2016,111,Alta direcció de la Comunitat Autònoma
+2016,112,Alta direcció del Govern
+2016,121,Serveis generals i funció pública
+2016,124,Despeses relatives a administracions territorials
+2016,126,Altres serveis generals
+2016,131,Administració general de relaciones exteriors
+2016,134,Cooperació internacional
+2016,141,Administració general de justícia
+2016,222,Seguretat i ordre públic
+2016,223,Protecció civil
+2016,313,Acció social
+2016,314,Pensions i altres prestacions econòmiques
+2016,315,Relacions laborals
+2016,322,Promoció de l'ocupació
+2016,323,Promoció sociocultural
+2016,411,Administració general de sanitat
+2016,413,Accions públiques relatives a la salut
+2016,421,Administració general d'educació
+2016,422,Ensenyament
+2016,423,Promoció educativa
+2016,431,Habitatge
+2016,441,Sanejament i proveïment d'aigües
+2016,443,Altres serveis de benestar comunitari
+2016,451,Administració general de cultura
+2016,455,Promoció cultural
+2016,457,Esports i educació física
+2016,463,Comunicació social i participació ciutadana
+2016,511,Administració general infraestr.bàsiques i transp.
+2016,512,Recursos hidràulics
+2016,513,Transport terrestre
+2016,514,Ports i transport marítim
+2016,521,Comunicacions
+2016,531,Reforma agrària
+2016,533,Millora del medi natural
+2016,541,Investigació i documentació científica
+2016,542,Investigació tècnica i aplicada
+2016,551,"Cartografia, meteorologia i estadística"
+2016,611,Administració general d'economia i hisenda
+2016,612,"Política econòmica, pressupostària i fiscal"
+2016,634,Contingències d'execució
+2016,711,"Administració general agricultura,ramaderia,pesca"
+2016,714,Ordenació de les produccions i reg.mercats agraris
+2016,718,Protecció dels recursos pesquers i reforma de les estructures
+2016,721,Administració general d'indústria
+2016,722,Actuacions administratives sobre les indústries
+2016,723,Reconversió i modernització d'empreses
+2016,731,Planificació i producció energètica
+2016,751,Ordenació i promoció turística
+2016,763,Comerç interior
+2016,912,Transferències a corporacions locals
+2016,613,Gestió del sistema tributari
+2016,411,Administració general de sanitat
+2016,412,"Hospitals, serveis assistencials i centres de salu"
+2016,011A,Amortització i despeses financeres de deute públic
+2016,111A,Activitat legislativa
+2016,111B,Control extern de les administracions
+2016,111C,Assessorament consultiu institucional
+2016,111D,"Assessorament matèria social, econòmica i laboral"
+2016,111E,Control patrimonial dels alts càrrecs
+2016,111F,Control dels mitjans de comunicació audiovisuals
+2016,112B,Relacions amb el Parlament
+2016,112C,Relacions i cooperació amb altres administracions públiques i ens públics i privats
+2016,112E,Coordinació de programes de Govern
+2016,112F,Qualitat al Govern de les IB
+2016,121A,Serveis generals de la Presidència del Govern
+2016,121B,Direcció i serveis generals de Presidència
+2016,121E,"Registre, supervisió i relacions amb associacions i entitats jurídiques"
+2016,121G,Escola de les administracions públiques
+2016,121H,Gestió de recursos humans
+2016,121J,Gestió en matèria de joc
+2016,121K,Altres actuacions d'administració general i funció pública
+2016,124A,Cooperació i relacions amb els ens territorials i relacions interadministratives
+2016,126A,Manteniment i conservació del Palau de Marivent
+2016,126B,Publicacions i BOIB
+2016,126C,Comunicació i informació institucional
+2016,126E,Serveis de l'advocacia i coordinació dels serveis jurídics de la CAIB
+2016,126F,Serveis comuns generals
+2016,126H,"Assessorament, estudi, recerca i difusió normativa"
+2016,126I,Gestió del parc mòbil
+2016,126J,Gestió de la central de contractació
+2016,126K,Gestió de la Junta Consultiva de Contractació
+2016,126L,Serveis comuns tecnològics
+2016,126M,Contractació centralitzada
+2016,131A,Coordinació de l'acció exterior del Govern
+2016,131B,Foment i relacions amb comunitats balears radicades a l'exterior
+2016,134A,Planificació i avaluació de la cooperació al desenvolupament
+2016,141A,Col·laboracions institucionals en matèria de justícia
+2016,222A,Seguretat als edificis administratius de la CAIB
+2016,222B,Activitats classificades i espectacles
+2016,222C,Actuació de policies
+2016,223A,Emergències
+2016,313A,Centres assistencials
+2016,313C,Mesures judicials i prevenció del delicte
+2016,313D,Protecció i acció social
+2016,313F,Protecció i defensa dels drets dels menors
+2016,313G,Família i unitats de convivència
+2016,313I,Planificació i ordenació social
+2016,313J,Integració social d'immigrants
+2016,313K,Direcció i serveis generals de Serveis Socials i Cooperació
+2016,314A,Pensions i prestacions econòmiques
+2016,315B,Salut i prevenció de riscs laborals
+2016,315C,Foment de la responsabilitat social corporativa
+2016,315D,Salut i prevenció de riscs laborals a l'administració
+2016,322A,Ocupació i inserció laboral específiques
+2016,322B,Gestió de les relacions laborals
+2016,322D,Foment i gestió de l'ocupació a les IB
+2016,323A,Protecció i foment de la  integració i foment de la participació social de la joventut
+2016,323C,"Promoció, protecció i serveis per a la dona"
+2016,323D,Foment de la participació de centres i cases regionals a les IB
+2016,411A,Direcció i serveis generals de Salut
+2016,411D,Planificació de l'assistència sanitària
+2016,411E,Finançament de la sanitat pública
+2016,413A,Ordenació i inspecció dels serveis sanitaris
+2016,413B,Programes de salut pública
+2016,413C,Sanitat ambiental i alimentària
+2016,413D,Coordinació dels centres insulars
+2016,413E,Pla autonòmic de drogues
+2016,413F,"Planificació, control i gestió del medicament i dels serveis farmacèutics"
+2016,421A,Direcció i serveis generals d'Educació i Universitat
+2016,421B,Ordenació general del sistema educatiu
+2016,421C,Planificació educativa i règim de centres escolars
+2016,421D,Innovació i formació del professorat
+2016,421F,Política i actuacions en matèria universitària
+2016,421G,Ordenació de la formació professional
+2016,421H,Inspecció educativa
+2016,421I,Administració i serveis de suport a l'ensenyament
+2016,421K,Innovació i comunitat educativa
+2016,422A,Educació pública
+2016,422B,Educació concertada i altres ensenyaments
+2016,422G,Tecnologies de la informació i la comunicació
+2016,423B,Altres serveis a l'ensenyament
+2016,431B,"Arquitectura, habitatge i protecció del patrimoni"
+2016,441A,Proveïment d'aigües
+2016,441B,Sanejament i depuració d'aigües
+2016,443B,"Qualitat ambiental, control de la contaminació i assessoria mediambiental"
+2016,443C,Gestió de residus
+2016,443E,Protecció i defensa del consumidor
+2016,443K,Seguiment i vigilància del canvi climàtic
+2016,443L,"Espais de rellevància ambiental, xarxa Natura 2000"
+2016,443M,Educació ambiental i societat
+2016,443Q,Qualitat de l'aire i contaminació atmosfèrica
+2016,451A,"Direcció i serveis generals de Participació, Transparència i Cultura"
+2016,455A,Cultura i política lingüística
+2016,455B,Planificació i normalització de la llengua catalana
+2016,457A,Promoció i foment de l'esport
+2016,463B,Informació i atenció a la ciutadania
+2016,463C,Foment de projectes de comunicació d'interès social
+2016,463E,Foment de la participació ciutadana
+2016,511B,"Direció i serveis generals de territori, energía i mobilitat"
+2016,511C,Ordenació del territori i urbanisme
+2016,511E,Gestió dels transports aeri i marítim a les IB
+2016,512A,"Protecció, control i defensa del domini públic hidràulic. Directiva marc de l'aigüa"
+2016,513C,Ordenació i inspecció del transport terrestre
+2016,513D,Infraestructures bàsiques
+2016,514A,Ordenació del litoral
+2016,514B,Gestió de les instal·lacions portuàries
+2016,521A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
+2016,521B,Gestió dels sistemes i tecnologies de la informació
+2016,531A,Infraestructures agràries de les zones rurals
+2016,533A,Conservació i millora del medi natural
+2016,533B,Planificació forestal
+2016,533D,"Gestió d'espais naturals protegits, parcs naturals, àrees recreatives i finques públiques"
+2016,533F,"Espècies silvestres, conservació i sensibilització"
+2016,533G,Gestió de la sanitat forestal
+2016,541A,Recerca i desenvolupament tecnològic
+2016,542A,Innovació tecnològica
+2016,551A,Estadística
+2016,611A,Direcció i serveis generals d'Hisenda i Administracions Públiques
+2016,612A,Planificació i ordenació de la política econòmica
+2016,612B,Planificació i política pressupostària
+2016,612C,Gestió comptable i control intern
+2016,612E,Gestió de tresoreria i política financera
+2016,612G,Organització i gestió del patrimoni de la Comunitat Autònoma
+2016,612H,Gestió dels fons procedents de la Unió Europea
+2016,634A,Fons de contingència d'execució pressupostària
+2016,711A,"Direcció i servicios generales de Medio Ambient, Agricultura i Pesca"
+2016,714B,Foment del sector agrari de les IB
+2016,718A,Recursos marins i ordenació del sector pesquer
+2016,721A,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2016,722A,Regulació i normativa industrial
+2016,723A,Promoció industrial i tecnològica
+2016,731C,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2016,751A,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2016,751C,Ordenació del sector i redefinició del model turístic
+2016,763A,"Ordenació, reforma i modernització de les estructures comercials"
+2016,912A,Transfèrencies a corporacions locals
+2016,613A,Gestió i inspecció de tributs
+2016,613B,Suport a la gestió tributària
+2016,411B,Administració i serveis generals de l'assistència sanitària
+2016,411C,Formació del personal sanitari
+2016,412A,Atenció primària de salut
+2016,412B,Atenció especialitzada de salut
+2016,412C,Assistència sociosanitària i salut mental
+2016,412D,Assistència sanitària
+2016,011A01,Amortització i despeses financeres de Deute Públic
+2016,011A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,111A01,Activitat legislativa
+2016,111B01,Control extern de les administracions
+2016,111C01,Assessorament consultiu institucional
+2016,111C99,Pagaments compte 409 OPAP exercicis anteriors
+2016,111D01,"Assesorament en matèria social, econòmica i laboral"
+2016,111E01,Control patrimonial dels càrrecs públics
+2016,111F01,Control del mitjans de comunicació audiovisuals
+2016,112B01,Relacions amb el Parlament
+2016,112C01,Relacions i cooperació amb altres administracions públiques i ens públics i privats
+2016,112E01,Coordinació de programes del Govern de les IB
+2016,112F01,Qualitat al Govern de les Illes Balears
+2016,121A01,Serveis generals de la Presidència del Govern
+2016,121A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,121B01,Direcció i serv.grals. de la C.de Presidència
+2016,121B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,121E01,"Registre, supervisió i relacions amb associacions i entitats jurídiques"
+2016,121G01,Escola de les administracions públiques
+2016,121G99,Pagaments compte 409 OPAP exercicis anteriors
+2016,121H01,Gestió de recursos humans
+2016,121H99,Pagaments compte 409 OPAP exercicis anteriors
+2016,121J01,Gestió en matèria de joc
+2016,121J99,Pagaments compte 409 OPAP exercicis anteriors
+2016,121K01,Altres actuacions d'administració general i funció pública
+2016,124A01,Cooperació i relacions amb els ens territorials i relacions interadministratives
+2016,126A01,Manteniment i conservació del Palau de Marivent
+2016,126A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,126B01,Publicacions i Butlletí Oficial Illes Balears
+2016,126C01,Comunicació i informació institucional
+2016,126C99,Pagaments compte 409 OPAP exercicis anteriors
+2016,126E01,Serveis de l'Advocacia i coordinació dels serveis jurídics de la CAIB
+2016,126F01,Serveis comuns generals
+2016,126H01,"Assessorament, estudi, recerca i difusió normativa"
+2016,126I01,Gestió del parc mòbil
+2016,126I99,Pagaments compte 409 OPAP exercicis anteriors
+2016,126J01,Gestió de la central de contractació
+2016,126K01,Gestió de la Junta Consultiva de Contractació
+2016,126L01,Serveis comuns tecnològics
+2016,126L99,Pagaments compte 409 OPAP exercicis anteriors
+2016,126M01,Contractació centralitzada
+2016,131A01,Coordinació de l'acció exterior del Govern
+2016,131B01,Foment i relacions amb comunitats balears radicades a l'exterior
+2016,134A01,Planificació i avaluació de la cooperació al desenvolupament
+2016,141A01,Col·laboracions institucionals en matèria justícia
+2016,222A01,Seguretat als edificis administratius de la CAIB
+2016,222B01,Activitats classificades i espectacles
+2016,222C01,Actuació de policies
+2016,222C99,Pagaments compte 409 OPAP exercicis anteriors
+2016,223A01,Planificació d'emergències
+2016,223A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,313A01,Centres assistencials
+2016,313C01,Mesures judicials i prevenció del delicte
+2016,313C99,Pagaments compte 409 OPAP exercicis anteriors
+2016,313D01,Protecció i acció social
+2016,313D99,Pagaments compte 409 OPAP exercicis anteriors
+2016,313F01,Protecció i defensa dels drets dels menor
+2016,313G01,Família i unitats de convivència
+2016,313G99,Pagaments compte 409 OPAP exercicis anteriors
+2016,313I01,Planificació i ordenació socials
+2016,313I99,Pagaments compte 409 OPAP exercicis anteriors
+2016,313J01,Integració social d'immigrants
+2016,313J99,Pagaments compte 409 OPAP exercicis anteriors
+2016,313K01,Direcció i serveis generals de Serveis Socials i Cooperació
+2016,313K99,Pagaments compte 409 OPAP exercicis anteriors
+2016,314A01,Pensions i prestacions econòmiques
+2016,315B01,Salut i prevenció de riscs laborals
+2016,315B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,315C01,Foment de la responsabilitat social corporativa
+2016,315D01,Salut i prevenció de riscs laborals a l'administració
+2016,315D99,Pagaments compte 409 OPAP exercicis anteriors
+2016,322A01,Ocupació i inserció laboral específiques
+2016,322B01,Gestió de les relacions laborals
+2016,322D01,Direcció i serveis generals del Servei d'Ocupació de les IB
+2016,322D02,Orientació i informació laboral
+2016,322D03,Formació per a desocupats
+2016,322D04,Gestió d'accions formatives
+2016,322D05,Foment de l'ocupació
+2016,322D06,Formació professional dirigida a desocupat
+2016,322D07,Formació professional dirigida a ocupat
+2016,322D08,Oportunitats d'ocupació i de formació
+2016,322D99,Pagaments compte 409 OPAP exercicis anteriors
+2016,323A01,Protecció i foment de la  integració i foment de la participació social de la joventut
+2016,323A02,Consell de la Joventut de les IB
+2016,323C01,"Promoció, protecció i serveis per a la dona"
+2016,323C99,Pagaments compte 409 OPAP exercicis anteriors
+2016,323D01,Foment de la participació de centres i cases regionals a les IB
+2016,411A01,Direcció i serveis generals de Salut
+2016,411A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,411D01,Planificació de l'assistència sanitària
+2016,411D99,Pagaments compte 409 OPAP exercicis anteriors
+2016,411E01,Finançament de la sanitat
+2016,413A01,Ordenació i Inspecció dels serveis sanitaris
+2016,413A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,413B01,Programes de salut pública
+2016,413B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,413C01,Sanitat ambiental i alimentària
+2016,413C99,Pagaments compte 409 OPAP exercicis anteriors
+2016,413D01,Coordinació de centres insulars
+2016,413D99,Pagaments compte 409 OPAP exercicis anteriors
+2016,413E01,Pla autonòmic de drogues
+2016,413F01,"Planificació, control i gestió del medicament i del serveis farmacèutics"
+2016,413F99,Pagaments compte 409 OPAP exercicis anteriors
+2016,421A01,Direcció i serveis generals d'Educació i Universitat
+2016,421A02,Consell escolar de les IB
+2016,421A03,Institut de qualitat i avaluació del sistema educatiu
+2016,421A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,421B01,Ordenació general del sistema educatiu
+2016,421B02,Programes internacionals
+2016,421B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,421C01,Planificació educativa i règim de funcionament de centres escolars
+2016,421C99,Pagaments compte 409 OPAP exercicis anteriors
+2016,421D02,Formació del professorat
+2016,421D03,Aprenentatge permanent
+2016,421F01,Política i actuacions en matèria universitària
+2016,421G01,Ordenació de la formació professional
+2016,421G02,Institut de qualificacions
+2016,421G99,Pagaments compte 409 OPAP exercicis anteriors
+2016,421H01,Inspecció educativa
+2016,421H99,Pagaments compte 409 OPAP exercicis anteriors
+2016,421I01,Gestió i nòmines del personal docent
+2016,421I02,"Administració i serveis a centres concertats, infantil i primària"
+2016,421I03,"Administració i serveis a centres concertats, ESO, batxillerat i FP"
+2016,421I04,"Administració i serveis a centres concertats, règims especials"
+2016,421I05,"Administració i serveis a centres concertats, educació especial"
+2016,421I06,"Administració i serveis a centres concertats, educació adults"
+2016,421I99,Pagaments compte 409 OPAP exercicis anteriors
+2016,421K01,Suport educatiu
+2016,421K02,Innovació educativa
+2016,421K03,Comunitat edfucativa
+2016,421K04,Institut de l'Educació a la Primera Infància
+2016,421K05,Institut per a la Convivència i l'Èxit Escolar
+2016,421K06,Arxiu i Museu de l'Educació de les IB
+2016,421K99,Pagaments compte 409 OPAP exercicis anteriors
+2016,422A01,Educació pública
+2016,422A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,422B01,Educació infantil
+2016,422B02,Educació primària
+2016,422B03,Educació secundaria obligatòria i batxillerat
+2016,422B04,Formació professional
+2016,422G01,Tecnologies de la informació i la comunicació a l'àmbit escolar
+2016,422G99,Pagaments compte 409 OPAP exercicis anteriors
+2016,423B01,Infraestructures a centres docents
+2016,423B02,Equipament i mobiliari escolar
+2016,423B03,Despeses de funcionament de centres
+2016,423B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,431B01,Habitatge
+2016,431B02,Protecció del patrimoni
+2016,441A01,Proveïment d'aigües
+2016,441B01,Sanejament i depuració d'aigües
+2016,443B01,"Qualitat ambiental, control de la contaminació i assessoria mediambiental"
+2016,443C01,Gestió de residus
+2016,443E01,Protecció i defensa del consumidor
+2016,443E99,Pagaments compte 409 OPAP exercicis anteriors
+2016,443K01,Seguiment i vigilància del canvi climàtic
+2016,443L01,"Espais de rellevància ambiental, Xarxa Natura 2000"
+2016,443M01,Educació ambiental i societat
+2016,443M99,Pagaments compte 409 OPAP exercicis anteriors
+2016,443Q01,Qualitat de l'aire i contaminació atmosfèrica
+2016,443Q99,Pagaments compte 409 OPAP exercicis anteriors
+2016,451A01,"Direcció i serveis generals de Participació, Transparència i Cultura"
+2016,451A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,455A01,Promoció de la cultura i de la llengua de les IB
+2016,455A04,Museus
+2016,455A05,Arxius
+2016,455A06,Biblioteques
+2016,455A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,455B01,Planificació i normalització de la llengua catalana
+2016,455B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,457A01,Promoció i foment de l'esport
+2016,457A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,463B01,Informació i atenció a la ciutadania
+2016,463C01,Foment de projectes de comunicació i d'interès social
+2016,463C99,Pagaments compte 409 OPAP exercicis anteriors
+2016,463E01,Foment de la participació ciutadana
+2016,463E99,Pagaments compte 409 OPAP exercicis anteriors
+2016,511B01,"Direcció i serveis generals de Territori, Energía i Mobilitat"
+2016,511B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,511C01,Ordenació del territori i urbanisme
+2016,511E01,Gestió dels transports aeri i marítim a les IB
+2016,512A01,"Protecció i control del domini públic hidràulic, directiva marc de l'aigua"
+2016,512A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,513C01,Ordenació i inspecció del transport terrestre
+2016,513D01,Xarxes viàries
+2016,513D99,Pagaments compte 409 OPAP exercicis anteriors
+2016,514A01,Ordenació del litoral
+2016,514B01,Gestió de les instal·lacions portuàries
+2016,521A01,"Ordenació, regulació i desenvolupament de les telecomunicacions"
+2016,521B01,Gestió dels sistemes i tecnologies de la informació
+2016,531A01,Infraestructures agràries de les zones rurals
+2016,533A01,Conservació i millora del medi natural
+2016,533B01,Planificació forestal
+2016,533B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,533D01,"Gestió d'espais naturals protegits, parcs naturals, àrees recreatives i finques públiques"
+2016,533D02,Gestió de la Xarxa Natura 2000 i projectes
+2016,533F01,Espècies silvestres: conservació i sensibilització
+2016,533F99,Pagaments compte 409 OPAP exercicis anteriors
+2016,533G01,Gestió de la sanitat forestal
+2016,541A01,Recerca i desenvolupament tecnològic
+2016,542A01,Innovació tecnològica
+2016,551A01,Estadística
+2016,551A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,611A01,Direcció i serveis generals d'Hisenda y Administracions Públiques
+2016,611A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,612A01,Planificació i ordenació de la política econòmica
+2016,612B01,Planificació i política pressupostària
+2016,612C01,Gestió comptable i control intern
+2016,612E01,Gestió de tresoreria i política financera
+2016,612E99,Pagaments compte 409 OPAP exercicis anteriors
+2016,612G01,Organització i gestió del patrimoni de la CAIB
+2016,612G99,Pagaments compte 409 OPAP exercicis anteriors
+2016,612H01,Gestió dels fons procedents de la UE
+2016,612H99,Pagaments compte 409 OPAP exercicis anteriors
+2016,634A01,Fons de contingència d'execució pressupostària
+2016,711A01,"Direcció i serveis generlas de Medi Ambient, Agricultura i Pesca"
+2016,711A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,714B01,Agricultura
+2016,714B02,Ramaderia
+2016,714B03,Qualitat agroalimentària
+2016,714B04,Investigació i formació del sector agrari
+2016,714B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,718A01,Recursos marins
+2016,718A02,Ordenació del sector pesquer
+2016,718A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,721A01,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2016,721A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,722A01,Regulació i normativa industrial
+2016,722A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,723A01,Promoció industrial i tecnològica
+2016,731C01,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2016,751A01,"Direcció i serveis generals d'Innovació, Investigació i Turisme"
+2016,751A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,751C01,Ordenació del sector i redefinició del model turístic
+2016,763A01,"Ordenació, reforma i modernització de les estructures comercials"
+2016,763A02,Ordenació empresarial
+2016,763A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,912A01,Transferències a corporacions locals
+2016,613A01,Gestió i inspecció de tributs
+2016,613A99,Pagaments compte 409 OPAP exercicis anteriors
+2016,613B01,Suport a la gestió tributària
+2016,613B99,Pagaments compte 409 OPAP exercicis anteriors
+2016,411B01,Administració i serveis generals de l'assistència sanitària
+2016,411C01,Formació del personal sanitari
+2016,412A01,Atenció primària de salut
+2016,412B01,Atenció especialitzada de salut
+2016,412C01,Assistència sociosanitària i salut mental
+2016,412D01,Assistència sanitària
