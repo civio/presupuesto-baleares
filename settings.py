@@ -24,12 +24,14 @@ OVERVIEW_INCOME_NODES = [
                             'nodes': [['22', '220']],
                             'label.ca': 'Imposts especials',
                             'label.es': 'Impuestos especiales',
+                            'link_id': '22'
                           },
                           '20',
                           {
                             'nodes': [['11', '110']],
                             'label.ca': 'Impost sobre successions i donacions',
                             'label.es': 'Impuesto sobre sucesiones y donaciones',
+                            'link_id': '11'
                           }
                         ]
 OVERVIEW_EXPENSE_NODES = [
