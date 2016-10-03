@@ -96,11 +96,7 @@
     }
 
     function entityLinkFormatter(value, type, item) {
-      if ( uiState.view == 'expense' )
-        var formatter = expenseArticleLinkFormatter;
-      else
-        var formatter = incomeArticleLinkFormatter;
-      return formatter(value, type, item);
+      return rowNameFormatter(value, type, item);
     }
 
     var uiState = null;
