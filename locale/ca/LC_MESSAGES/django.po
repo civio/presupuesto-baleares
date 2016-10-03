@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-10-02 20:44+0200\n"
+"PO-Revision-Date: 2016-10-03 03:55+0200\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -65,3 +65,18 @@ msgstr "Perquè et facis una idea general dels ingressos i les despeses del Gove
 
 msgid "Instituto Nacional de Estadística (INE)"
 msgstr "Institut d'Estadística de les Illes Balears (Ibestat)"
+
+msgid "Desglose institucional"
+msgstr "Desglossament institucional"
+
+msgid "Organismo"
+msgstr "Organisme"
+
+msgid "Gobierno de las Islas Baleares"
+msgstr "Govern de les Illes Balears"
+
+msgid "Servicio de Salud"
+msgstr "Servei de Salut"
+
+msgid "Agencia Tributaria"
+msgstr "Agència Tributària"
