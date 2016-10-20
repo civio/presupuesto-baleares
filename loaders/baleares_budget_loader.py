@@ -83,6 +83,9 @@ class BalearesBudgetLoader(BudgetLoader):
 
         # Gather all the relevant bits and store them to be processed
         items.append({
+                'ic_institution': ic_code[0:2],
+                'ic_section': ic_code[0:4],
+                'ic_department': ic_code,
                 'ic_code': ic_code,
                 'fc_area': fc_area,
                 'fc_policy': fc_policy,
