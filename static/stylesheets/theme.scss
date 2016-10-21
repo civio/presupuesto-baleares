@@ -22,11 +22,15 @@
 }
 
 // Header
-.navbar-brand a{
-  color: $text-color;
+.navbar-brand{
+  font-size: 2em;
+  
+  a{
+    color: $text-color;
 
-  &:hover{
-    color: $brand-primary;
+    &:hover{
+      color: $brand-primary;
+    }
   }
 }
 
