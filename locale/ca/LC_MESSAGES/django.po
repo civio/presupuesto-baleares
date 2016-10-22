@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-10-20 15:47+0200\n"
+"PO-Revision-Date: 2016-10-22 19:09+0200\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: David Cabo <david@civio.es>\n"
 "Language-Team: \n"
-"X-Generator: Poedit 1.8.10\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #: templates/shared/header.html:35
 msgid "Presupuestos"
@@ -23,7 +23,7 @@ msgstr "Pressuposts Generals de les Illes Balears"
 
 #: templates/base.html:4 templates/shared/social_sharing.html:5
 msgid "Presupuestos del Gobierno de Aragón"
-msgstr "Pressupostos del Govern de les Illes Balears"
+msgstr "Pressuposts del Govern de les Illes Balears"
 
 #
 msgid "Información presupuestaria del Gobierno de Aragón"
@@ -31,11 +31,11 @@ msgstr "Informació pressupostària del Govern de les Illes Balears"
 
 #: templates/budgets/budgets_intro.html:16
 msgid ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros "
-"ingresos como el IVA y el IRPF"
+"El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA "
+"y el IRPF"
 msgstr ""
-"El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Govern de les Illes Balears, que son los encargados de recaudar "
-"otros ingresos como el IVA y el IRPF"
+"El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Govern de les Illes Balears, que son los encargados de recaudar otros ingresos "
+"como el IVA y el IRPF"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
@@ -84,3 +84,32 @@ msgstr "Servei de Salut"
 
 msgid "Agencia Tributaria"
 msgstr "Agència Tributària"
+
+# Ajustes especiales para el catalán de Baleares
+#
+#: templates/shared/header.html:32
+msgid "Ir a la home de Presupuestos"
+msgstr "Anar al home de Pressuposts"
+
+#: templates/shared/meta.html:4
+msgid "presupuestos, gastos, ingresos"
+msgstr "pressuposts, despeses, ingressos"
+
+#: templates/tax_receipt/index.html:12
+msgid "cómo se distribuye el dinero que aportas con tus impuestos"
+msgstr "com es distribueixen els diners que aportes amb els teus imposts"
+
+#: templates/tax_receipt/tax_receipt_form.html:6
+msgid "Impuestos"
+msgstr "Imposts"
+
+#: templates/welcome/index.html:83
+msgid "Te contamos en qué se invierte el dinero que recaudamos de tus impuestos"
+msgstr "T'expliquem en què s'inverteix els diners que recaptem dels teus imposts"
+
+msgid "Se realiza a través de <b>impuestos directos</b> - como el IRPF y el impuesto de sociedades - y de <b>impuestos indirectos</b> - el IVA e impuestos sobre el tabaco, el alcohol o la gasolina -."
+msgstr "Es realitza a través <b>d'imposts directes</b> - com l'IRPF i l'impost de societats - i <b>d'imposts indirectes</b> - l'IVA i imposts sobre el tabac, l'alcohol o la benzina."
+
+#: templates/budgets/budgets_intro.html:5
+msgid "El recorrido de mis impuestos"
+msgstr "El recorregut dels meus imposts"
