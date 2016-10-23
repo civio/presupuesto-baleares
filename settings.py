@@ -39,10 +39,10 @@ OVERVIEW_EXPENSE_NODES = [
                           '41', '42',
                           {
                             'nodes': '91',
-                            'label.ca': 'Transfèrencies a corporacions locals',
-                            'label.es': 'Transferencias a corporaciones locales',
+                            'label.ca': 'Suport financer a administracions territorials',
+                            'label.es': 'Apoyo financiero a administraciones locales',
                           },
-                          '31', '51', '01', '44'
+                          '31', '56', '01', '32', '52', '45'
                         ]
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
