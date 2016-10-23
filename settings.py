@@ -77,6 +77,9 @@ SHOW_OVERVIEW_SUBTOTALS = True
 # Warning: the execution data still gets shown in the summary chart and in downloads.
 SHOW_ACTUAL = False
 
+# Add economic categories codes as a prefix in the breakdown tables. Default: False.
+ADD_ECONOMIC_CATEGORIES_PREFIX = True
+
 # Include financial income/expenditures in overview and global policy breakdowns. Default: False.
 INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = False
 
