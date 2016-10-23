@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-10-23 14:37+0200\n"
+"PO-Revision-Date: 2016-10-23 18:45+0200\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -43,10 +43,9 @@ msgstr "Govern de les Illes Balears"
 msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
 msgstr "Dades d'inflació (mitjanes anuals d'IPC per a Illes Balears)"
 
-# TODO
 #: templates/shared/data_sources.html:14
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
-msgstr "Los ingresos y gastos mostrados incluyen a la Administración General y organismos autónomos del Govern, a la Agencia Tributaria y al Servicio de Salud de las Islas Baleares"
+msgstr "Els ingressos i despeses mostrades inclouen a l'administració general i organismes autònoms del Govern, a l'Agència Tributària i al Servei de Salut de les Illes Balears"
 
 #: templates/tax_receipt/tax_receipt_form.html:75
 msgid "Contribuyes con un total de <b id=\"tax-amount-paid\"></b> a los presupuestos del Gobierno de Aragón"
