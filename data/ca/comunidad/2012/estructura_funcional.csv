@@ -1,233 +1,262 @@
 2012,0,Deute públic
-2012,1,Serveis de caràcter general
-2012,2,"Defensa, protecció civil i seguretat ciutadana"
+2012,1,Funcionament institucional i administració general
+2012,2,Serveis públics generals
 2012,3,"Seguretat, protecció i promoció social"
 2012,4,Producció de béns públics de caràcter social
 2012,5,Producció de béns públics de caràcter econòmic
-2012,6,Regulació econòmica de caràcter general
-2012,7,Regulació econòmica de sectors productius
-2012,9,Transferències a altres administracions públiques
-2012,6,Regulació econòmica de caràcter general
-2012,4,Producció de béns públics de caràcter social
+2012,7,Foment i regulació de sectors productius
+2012,8,Fons de contingència
+2012,9,Suport financer a altres administracions públiques
 2012,01,Deute públic
 2012,11,Alta direcció de la Comunitat Autònoma i del Govern
-2012,12,Administració general
-2012,13,Relacions exteriors
-2012,14,Justícia
+2012,12,Administració i serveis generals
+2012,13,Relacions institucionals i processos electorals
+2012,14,Regulació econòmica
+2012,15,"Transparència, comunicació i participació"
+2012,21,Justícia
 2012,22,Seguretat i protecció civil
+2012,23,Relacions exteriors i cooperació al desenvolupament
 2012,31,Seguretat i protecció social
 2012,32,Promoció social
 2012,41,Sanitat
 2012,42,Educació
 2012,43,Habitatge i urbanisme
-2012,44,Benestar comunitari
+2012,44,Consum
 2012,45,Cultura
-2012,46,Altres serveis comunitaris i socials
+2012,46,Esports
 2012,51,Infraestructures bàsiques i transports
-2012,52,Comunicacions
-2012,53,Infraestructures agràries
-2012,54,"Investigació científica, tècnica i aplicada"
-2012,55,Informació bàsica i estadística
-2012,61,Regulació econòmica
-2012,63,Regulació financera
+2012,52,Transport
+2012,53,Ordenació del territori i urbanisme
+2012,54,"Recerca científica, tècnica i aplicada"
+2012,55,Societat de la informació i el coneixement i telecomunicacions
+2012,56,Cicle de l'aigua
+2012,57,Actuacions ambientals
+2012,58,Infraestructures agràries i rurals
+2012,59,Altres actuacions de caràcter econòmic
 2012,71,"Agricultura, ramaderia i pesca"
 2012,72,Indústria
 2012,73,Energia
+2012,74,Mineria
 2012,75,Turisme
 2012,76,Comerç
-2012,91,Transferències a administracions públiques territorials
-2012,61,Regulació econòmica
-2012,41,Sanitat
+2012,81,Fons de contingència
+2012,91,Suport financer a administracions públiques territorials
 2012,011,Deute públic
-2012,111,Alta direcció de la Comunitat Autònoma
-2012,112,Alta direcció del Govern
+2012,111,Alta direcció de la Comunidad Autònoma
 2012,121,Serveis generals i funció pública
-2012,124,Despeses relatives a administracions territorials
 2012,126,Altres serveis generals
-2012,131,Administració general de relacions exteriors
-2012,134,Cooperació internacional
-2012,141,Administració general de justícia
+2012,131,Relacions institucionals
+2012,132,Processos electorals
+2012,141,Política econòmica i pressupostària
+2012,151,"Transparència, comunicació i participació"
+2012,211,Actuacions en matèria de justícia
 2012,222,Seguretat i ordre públic
 2012,223,Protecció civil
+2012,231,Relacions exteriors
+2012,232,Cooperació internacional
+2012,311,"Administració, inspecció i control de seguretat social i protecció"
+2012,312,Assistència a la desocupació
 2012,313,Acció social
 2012,314,Pensions i altres prestacions econòmiques
-2012,315,Relacions laborals
 2012,322,Promoció de l'ocupació
 2012,323,Promoció sociocultural
+2012,324,Relacions laborals
 2012,411,Administració general de sanitat
+2012,412,Serveis assistencials de salut
 2012,413,Accions públiques relatives a la salut
 2012,421,Administració general d'educació
 2012,422,Ensenyament
 2012,423,Promoció educativa
 2012,431,Habitatge
-2012,441,Sanejament i proveïment d'aigües
-2012,443,Altres serveis de benestar comunitari
+2012,441,"Ordenació, control i informació sobre el consum"
 2012,451,Administració general de cultura
-2012,455,Promoció cultura
-2012,457,Esports i educació física
-2012,463,Comunicació social i participació ciutadana
-2012,511,Administració general d'infraestructures bàsiques i transports
-2012,512,Recursos hidràulics
-2012,513,Transports terrestre
-2012,514,Ports i transport marítim
-2012,521,Comunicacions
-2012,531,Reforma agrària
-2012,533,Millora del medi natural
-2012,541,Investigació i documentació científica
-2012,542,Investigació tècnica i aplicada
-2012,551,"Cartografia, meteorologia i estadística"
-2012,611,Administració general d'economia i hisenda
-2012,612,"Política econòmica, pressupostària i fiscal"
-2012,635,Mecanisme extraordinari de finançament a proveïdors
+2012,455,Promoció cultural
+2012,461,Esports
+2012,511,Administració general d'infrastructures bàsiques i transports
+2012,521,Transport terrestre
+2012,522,Transport marítim i aeri
+2012,531,Ordenació del territori
+2012,541,Recerca i documentació científica
+2012,542,Recerca tècnica i aplicada
+2012,551,Societat de la informació i el coneixement i telecomunicacions
+2012,561,Recursos hidràulics
+2012,562,Sanejament i abastament d'aigües
+2012,571,Protecció i conservació del medi natural
+2012,572,Prevenció i control ambiental
+2012,581,Infraestructures per al desenvolupament rural
+2012,591,Cartografia i estadística
 2012,711,"Administració general d'agricultura, ramaderia i pesca"
-2012,714,Ordenació de la producció i regulació dels mercats agraris
-2012,718,Protecció dels recursos pesquers i reforma de les estructures
+2012,714,Ordenació de les produccions i regulació dels mercats agraris
+2012,718,Proteció dels recursos pesquers i reforma de les estructures
+2012,721,Administració general d'indústria
 2012,722,Actuacions administratives sobre les indústries
 2012,723,Reconversió i modernització d'empreses
 2012,731,Planificació i producció energètica
+2012,741,Foment de la mineria i de les comarques mineres
 2012,751,Ordenació i promoció turística
-2012,763,Comerç interior
-2012,912,Transferències a corporacions locals
-2012,613,Gestió del sistema tributari
-2012,411,Administració general de sanitat
-2012,412,"Hospitals, serveis assistencials i centres de salut"
+2012,761,Comerç
+2012,811,Fons de contingència
+2012,912,Suport financer a administracions públiques territorials
 2012,011A,Amortització i despeses financeres de deute públic
 2012,111A,Activitat legislativa
 2012,111B,Control extern de les administracions
 2012,111C,Assessorament consultiu institucional
 2012,111D,"Assessorament en matèria social, econòmica i laboral"
-2012,111E,Control patrimonial dels alts càrrecs
-2012,111F,Control dels mitjans de comunicació audiovisuals
-2012,112B,Relacions amb el Parlament
-2012,112C,Relacions i cooperació amb altres administracions públiques i ens públics i privats
-2012,112E,Coordinació de programes del Govern
-2012,112F,Qualitat al Govern de les IB
-2012,112G,Reorganització i racionalització del sector públic instrumental de la CAIB
+2012,111E,Control patrimonial dels càrrecs públics
+2012,111F,Control dels mitjans de comunicació audiovisual
+2012,112F,Qualitat al Govern de les Illes Balears
 2012,121A,Serveis generals de la Presidència del Govern
-2012,121B,Direcció i serveis generals de Presidència
-2012,121C,Direcció i serveis generals d'Administracions Públiques
-2012,121E,"Registre, supervisió i relacions amb associacions i entitats jurídiques"
-2012,121G,Escola de les administracions públiques
+2012,121B,Direcció i serveis generals de la Conselleria de Presidència
+2012,121C,Coordinació de programes de govern
+2012,121G,Formació i selecció del personal
 2012,121H,Gestió de recursos humans
-2012,121J,Gestió en matèria de joc
-2012,121K,Altres actuacions d'administració general i funció pública
-2012,124A,Cooperació i relacions amb els ens territorials i relacions interadministratives
-2012,126A,Manteniment i conservació del Palau de Marivent
-2012,126B,Publicacions i BOIB
-2012,126C,Comunicació i informació institucional
-2012,126E,Serveis de l'advocacia i coordinació dels serveis jurídics de la CAIB
+2012,121I,Salut i prevenció de riscs laborals a l’Administració
+2012,126B,Publicacions i Butlletí Oficial de les Illes Balears
+2012,126E,Serveis de l'advocacia i coordinació de serveis jurídics
 2012,126F,Serveis comuns generals
-2012,126H,Estudis autonòmics
-2012,131A,Coordinació de l'acció exterior del Govern
-2012,131B,Foment i relacions amb comunitats balears radicades a l'exterior
-2012,134A,Planificació i avaluació de la cooperació al desenvolupament
-2012,141A,Gestió de les competències de justícia
+2012,126H,"Assessorament, estudi, recerca i difusió normativa"
+2012,126I,Gestió del parc mòbil
+2012,126J,Gestió de la central de contractació
+2012,126K,Gestió de la Junta Consultiva de Contractació
+2012,126L,Serveis comuns tecnològics
+2012,126M,Contractació centralitzada
+2012,131A,Relacions amb el Parlament
+2012,131B,Relacions i cooperació amb altres administracions públiques i ens públics i privats
+2012,131C,Foment de la participació de centres i cases regionals a les Illes Balears
+2012,132A,"Organització, gestió i seguiment de processos electorals"
+2012,141A,Direcció i serveis generals d'Hisenda i Administracions Públiques
+2012,141B,Planificació pressupostària i finançament
+2012,141C,Gestió comptable i control intern
+2012,141D,Planificació i ordenació de la política econòmica
+2012,141E,Gestió de tresoreria i política financera
+2012,141F,Organització i gestió del patrimoni de la Comunitat Autònoma
+2012,141G,Gestió dels fons procedents de la Unió Europea
+2012,151A,Comunicació institucional
+2012,151B,Foment de projectes de comunicació d'interès social
+2012,151C,"Qualitat, transparència i participació"
+2012,211A,Col·laboracions institucionals en matèria de justícia
 2012,222A,Seguretat als edificis administratius de la CAIB
 2012,222B,Activitats classificades i espectacles
 2012,222C,Actuació de policies
 2012,223A,Emergències
+2012,231A,Coordinació de l'acció exterior del Govern
+2012,231B,Foment i relacions amb comunitats balears radicades a l'exterior
+2012,232A,Cooperació internacional
 2012,313A,Centres assistencials
+2012,313B,Atenció a la discapacitat
 2012,313C,Mesures judicials i prevenció del delicte
-2012,313D,Protecció i acció social
+2012,313D,Atenció a la dependència
 2012,313F,Protecció i defensa dels drets dels menors
 2012,313G,Família i unitats de convivència
-2012,313I,Planificació i ordenació social
+2012,313I,Planificació i ordenació socials
 2012,313J,Integració social d'immigrants
-2012,313L,Ajuda a les víctimes del delicte
+2012,313K,Direcció i serveis generals de Serveis Socials i Cooperació
 2012,314A,Pensions i prestacions econòmiques
-2012,315B,Salut i prevenció de riscs laborals
-2012,315C,Foment de la responsabilitat social corporativa
-2012,315D,Salut i prevenció de riscs laborals a l'administració
-2012,322A,Ocupació i inserció laboral específiques
+2012,322A,Ocupació i inserció laboral específics
 2012,322B,Gestió de les relacions laborals
-2012,322D,Foment i gestió de l'ocupació a les IB
+2012,322C,Planificació estratègica de l'ocupació
+2012,322D,Foment i gestió de l'ocupació a les Illes Balears
 2012,323A,Protecció i foment de la  integració i foment de la participació social de la joventut
 2012,323C,"Promoció, protecció i serveis per a la dona"
-2012,323D,Foment de la participació de centres i cases regionals a les IB
-2012,411A,"Direcció i serveis generals de Salut, Família i Benestar Social"
-2012,411D,Planificació de l'assistència sanitària
-2012,413A,Ordenació i inspecció dels serveis sanitaris
+2012,324A,Salut i prevenció de riscs laborals
+2012,411A,Direcció i serveis generals de Salut
+2012,411D,"Planificació, avaluació i cartera de serveis"
+2012,411E,Finançament de l'assistència sanitària
+2012,413A,"Acreditació, docència i recerca en salut"
 2012,413B,Programes de salut pública
 2012,413C,Sanitat ambiental i alimentària
-2012,413D,Coordinació dels centres insulars
+2012,413D,Coordinació de centres insulars
 2012,413E,Pla autonòmic de drogues
 2012,413F,"Planificació, control i gestió del medicament i dels serveis farmacèutics"
-2012,421A,"Direcció i serveis generals d'Educació, Cultura i Universitats"
+2012,421A,Direcció i serveis generals d'Educació i Universitat
 2012,421B,Ordenació general del sistema educatiu
 2012,421C,Planificació educativa i règim de centres escolars
-2012,421D,Innovació i formació del professorat
+2012,421D,Formació del professorat
+2012,421E,Projectes lingüístics
 2012,421F,Política i actuacions en matèria universitària
-2012,421G,Ordenació de la formació professional
+2012,421G,Formació professional i aprenentatge permanent
 2012,421H,Inspecció educativa
-2012,421I,Gestió i nòmines del personal docent
+2012,421I,Administració i serveis de suport a l'ensenyament
+2012,421K,Innovació i comunitat educativa
 2012,422A,Educació pública
-2012,422B,Educació concertada i altres ensenyaments
-2012,422G,Tecnologies de la informació i la comunicació
-2012,423A,Beques i ajuts
+2012,422B,Educació concertada
+2012,423A,Beques i ajuts a l'estudi
 2012,423B,Altres serveis a l'ensenyament
+2012,431A,Gestió i foment de l'habitatge social
 2012,431B,"Arquitectura, habitatge i protecció del patrimoni"
-2012,441A,Proveïment d'aigües
-2012,441B,Sanejament i depuració d'aigües
+2012,441A,Protecció i defensa del consumidor
 2012,443A,Administració i plans mediambientals
-2012,443B,"Qualitat ambiental, control de la contaminació i assessoria mediambiental"
-2012,443C,Gestió de residus
-2012,443E,Protecció i defensa del consumidor
+2012,443J,Gestió d'espais naturals
 2012,443K,Seguiment i vigilància del canvi climàtic
-2012,443L,"Espais de rellevància ambiental, xarxa Natura 2000"
+2012,443L,Espais de rellevància ambiental (Xarxa Natura 2000)
 2012,443M,Educació ambiental i societat
+2012,443N,Formació i educació amb relació a la mar
+2012,443P,Qualitat de les aigües de bany
 2012,443Q,Qualitat de l'aire i contaminació atmosfèrica
-2012,451A,Serveis generals de l'Institut d'estudis Baleàrics
+2012,451A,"Direcció i serveis generals de Transparència, Cultura i Esports"
 2012,455A,Promoció i serveis de cultura
-2012,455C,Promoció de la cultura de les IB
-2012,457A,Promoció i foment de l'esport
-2012,463B,Informació i atenció a la ciutadania
-2012,463C,"Ordenació, promoció i foment dels mitjans de comunicació social"
+2012,455B,Planificació i normalització de la llengua catalana
+2012,461A,Promoció i foment de l'esport
+2012,463C,Projectes de comunicació d'interès social
 2012,463D,Eleccions i partits polítics
-2012,463E,Foment de la participació ciutadana
-2012,511C,Ordenació del territori i urbanisme
-2012,511E,Gestió dels transports aeri i marítim a les IB
-2012,512A,"Protecció, control i defensa del domini públic hidràulic. Directiva marc de l'aigüa"
+2012,463E,"Participació, transparència, bon govern i voluntariat"
+2012,511B,"Direcció i serveis generals de Territori, Energia i Mobilitat"
 2012,513C,Ordenació i inspecció del transport terrestre
 2012,513D,Infraestructures bàsiques
-2012,514A,Ordenació del litoral
-2012,514B,Gestió de les instal·lacions portuàries
-2012,521A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
-2012,521B,Gestió dels sistemes i tecnologies de la informació
+2012,521A,Infraestructures bàsiques
+2012,521B,Ordenació i inspecció del transport terrestre
+2012,521C,Transport ferroviari
+2012,522A,Ports i transport marítim
+2012,522B,Aeroports i transport aeri
 2012,531A,Infraestructures agràries de les zones rurals
 2012,533A,Conservació i millora del medi natural
 2012,533B,Planificació forestal
 2012,533D,"Gestió d'espais naturals protegits, parcs naturals, àrees recreatives i finques públiques"
-2012,533F,"Espècies silvestres, conservació i sensibilització"
+2012,533F,Espècies silvestres: conservació i sensibilització
 2012,533G,Gestió de la sanitat forestal
 2012,541A,Recerca i desenvolupament tecnològic
 2012,542A,Innovació tecnològica
-2012,551A,Estadística
-2012,611A,"Direcció i serveis generals de la Vicepresidència Econòmica, de Promoció Empresarial i de"
+2012,551A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
+2012,551B,Gestió dels sistemes i les tecnologies de la informació
+2012,561A,Domini públic hidràulic: protecció i control. Directiva marc de l'aigua
+2012,562A,Abastament d'aigua
+2012,562B,Sanejament i depuració d'aigües
+2012,571A,Gestió de residus
+2012,571B,Educació ambiental
+2012,571C,Gestió d'espais naturals
+2012,571D,Conservació i millora del medi natural
+2012,571E,Planificació forestal
+2012,571F,Espècies silvestres
+2012,571G,Sanitat forestal
+2012,572A,"Seguiment i control del canvi climàtic, qualitat de l'aire i contaminació atmosfèrica"
+2012,581A,Infraestructures de regadiu
+2012,591A,Estadística
+2012,591B,Cartografia
+2012,611A,Direcció i serveis generals d'Hisenda i Administracions Públiques
 2012,612A,Planificació i ordenació de la política econòmica
 2012,612B,Planificació i política pressupostària
 2012,612C,Gestió comptable i control intern
 2012,612E,Gestió de tresoreria i política financera
-2012,612G,Organització i gestió del patrimoni de la Comunitat Autònoma
+2012,612G,Organització i gestió del patrimoni de la comunitat autònoma
 2012,612H,Gestió dels fons procedents de la Unió Europea
-2012,635A,Mecanisme extraordinari de finançament a proveïdors
-2012,711A,"Direcció i serveis generals d'Agricultura, Medi Ambient i Ordenació del Territori"
-2012,714B,Foment del sector agrari de les IB
-2012,718A,Millora de la productivitat i explotació dels recursos pesquers
-2012,718C,Programes europeus de pesca
+2012,633A,Imprevists i funcions no classificades
+2012,634A,Fons de contingència d'execució pressupostària
+2012,711A,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
+2012,714B,Foment del sector agrari
+2012,718A,Recursos marins i ordenació del sector pesquer
+2012,721A,"Direcció i serveis generals de Treball, Comerç i Indústria"
 2012,722A,Regulació i normativa industrial
-2012,723A,Promoció industrial i tecnològica
-2012,731C,Foment de l'ús d'energies renovables i de l'estalvi d'energia
-2012,751A,Direcció i serveis generals de Turisme i Esports
+2012,723A,Promoció industrial
+2012,731A,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2012,751A,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2012,751B,Promoció turística
 2012,751C,Ordenació del sector i redefinició del model turístic
-2012,763A,"Ordenació, reforma i modernització de les estructures comercials"
-2012,912A,Transferències a corporacions locals
-2012,613A,Gestió i inspecció de tributs
-2012,613B,Suport a la gestió tributària
-2012,411B,Administració i serveis generals de l'assistència sanitària
-2012,411C,Formació del personal sanitari
-2012,412A,Atenció primària de salut
-2012,412B,Atenció especialitzada de salut
-2012,412C,Assistència sociosanitària i salut mental
+2012,761A,Ordenació i promoció comercial i empresarial
+2012,761B,Gestió en matèria de joc
+2012,763A,Ordenació de les estructures comercials i empresarials
+2012,811A,Fons de contingència
+2012,912A,Suport financer als consells insulars
+2012,912B,Suport financert a ajuntaments i altres ens locals
 2012,011A01,Amortització i despeses financeres de deute públic
 2012,111A01,Activitat legislativa
 2012,111B01,Control extern de les administracions

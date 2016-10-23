@@ -1,0 +1,741 @@
+2017,0,Deuda pública
+2017,1,Funcionamiento institucional y administración general
+2017,2,Servicios públicos generales
+2017,3,"Seguridad, protección y promoción social"
+2017,4,Producción de bienes públicos de carácter social
+2017,5,Producción de bienes públicos de carácter económico
+2017,7,Fomento y regulación de sectores productivos
+2017,8,Fondo de contingencia
+2017,9,Apoyo financieror a otras administraciones públicas
+2017,01,Deuda pública
+2017,11,Alta dirección de la Comunidad Autónoma y del Gobierno
+2017,12,Administración y servicios generales
+2017,13,Relaciones institucionales y procesos electorales
+2017,14,Regulación económica
+2017,15,"Transparencia, comunicación y participación"
+2017,21,Justicia
+2017,22,Seguridad y protección civil
+2017,23,Relaciones exteriores y cooperación al desarrollo
+2017,31,Seguridad y protección social
+2017,32,Promoción social
+2017,41,Sanidad
+2017,42,Educación
+2017,43,Vivienda y urbanismo
+2017,44,Consumo
+2017,45,Cultura
+2017,46,Deportes
+2017,51,Infraestructuras básicas y transportes
+2017,52,Transporte
+2017,53,Ordenación del territorio y urbanismo
+2017,54,"Investigación científica, técnica y aplicada"
+2017,55,Sociedad de la información y el conocimiento y telecomunicaciones
+2017,56,Ciclo del agua
+2017,57,Actuaciones ambientales
+2017,58,Infraestructuras agrarias y rurales
+2017,59,Otras actuaciones de carácter económico
+2017,71,"Agricultura, ganadería y pesca"
+2017,72,Industria
+2017,73,Energía
+2017,74,Minería
+2017,75,Turismo
+2017,76,Comercio
+2017,81,Fondo de contingencia
+2017,91,Apoyo financiero a administraciones públicas territoriales
+2017,011,Deuda pública
+2017,111,Alta dirección de la Comunidad Autónoma
+2017,121,Servicios generales y función pública
+2017,126,Otros servicios generales
+2017,131,Relaciones institucionales
+2017,132,Procesos electorales
+2017,141,Política económica y presupuestaria
+2017,151,"Transparencia, comunicación y participación"
+2017,211,Actuaciones en materia de justicia
+2017,222,Seguridad y orden público
+2017,223,Protección civil
+2017,231,Relaciones exteriores
+2017,232,Cooperación internacional
+2017,311,"Administración, inspección y control de seguridad social y protección social"
+2017,312,Asistencia al desempleo
+2017,313,Acción social
+2017,314,Pensiones y otras prestaciones económicas
+2017,322,Promoción del empleo
+2017,323,Promoción sociocultural
+2017,324,Relaciones laborales
+2017,411,Administración general de sanidad
+2017,412,Servicios asistenciales de salud
+2017,413,Acciones públicas relativas a la salud
+2017,421,Administración general de educación
+2017,422,Enseñanza
+2017,423,Promoción educativa
+2017,431,Vivienda
+2017,441,"Ordenación, control e información sobre el consumo"
+2017,451,Administración general de cultura
+2017,455,Promoción cultura
+2017,461,Deportes
+2017,511,Administración general de infraestructuras básicas y transportes
+2017,521,Transporte terrestre
+2017,522,Transporte marítimo y aereo
+2017,531,Ordenación del territorio
+2017,541,Investigación y documentación científica
+2017,542,Investigación técnica y aplicada
+2017,551,Sociedad de la información y el conocimiento y telecomunicaciones
+2017,561,Recursos hidraulicos
+2017,562,Saneamiento y abastecimiento de aguas
+2017,571,Protección y conservación del medio natural
+2017,572,Prevención y control ambiental
+2017,581,Infraestructuras para el desarrollo rural
+2017,591,Cartografía y estadística
+2017,711,"Administración general de agricultura, ganadería y pesca"
+2017,714,Ordenación de las producciones y regulación de los mercados agrarios
+2017,718,Protección de los recursos pesqueros y reforma de las estructuras
+2017,721,Administración general de industria
+2017,722,Actuaciones administrativas sobre la industria
+2017,723,Reconversión y modernización de empresas
+2017,731,Planificación y producción energética
+2017,741,Fomento de la minería y de las comarcas mineras
+2017,751,Ordenación y promoción turística
+2017,761,Comercio
+2017,811,Fondo de contingencia
+2017,912,Apoyo financiero a administraciones públicas territoriales
+2017,011A,Amortización y gastos financieros de la deuda pública
+2017,111A,Actividad legislativa
+2017,111B,Control externo y de las administraciones
+2017,111C,Asesoramiento consultivo institucional
+2017,111D,"Asesoramiento en materia social, económica y laboral"
+2017,111E,Control patrimonial de los cargos públicos
+2017,111F,Control de los medios de comunicación audiovisual
+2017,112F,Calidad en el Govern de les Illes Balears
+2017,121A,Servicios generales de la Presidencia
+2017,121B,Dirección y servicios generales de la Conselleria de Presidència
+2017,121C,Coordinación de programas de gobierno
+2017,121G,Formación y selección del personal
+2017,121H,Gestión de recursos humanos
+2017,121I,Salud y prevención de riesgos laborales en la Administración
+2017,126B,Publicaciones i Boletín Oficial de las Islas Baleares
+2017,126E,Servicios de la Abogacía y coordinación de los servicios jurídicos
+2017,126F,Servicios comunes generales
+2017,126H,"Asesoramiento, estudio, investigación y difusión normativa"
+2017,126I,Gestión del parque móvil
+2017,126J,Gestión de la central de contratación
+2017,126K,Gestión de la Junta Consultiva de Contratación
+2017,126L,Servicios comunes tecnológicos
+2017,126M,Contratación centralizada
+2017,131A,Relaciones con el Parlament
+2017,131B,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2017,131C,Fomento de la participación de centros y casas regionales en las Illes Balears
+2017,132A,"Organización, gestión y seguimiento de procesos electorales"
+2017,141A,Dirección y servicios generales de Hacienda y Administraciones Públicas
+2017,141B,Planificación presupuestaria y financiación
+2017,141C,Gestión contable y control interno
+2017,141D,Planificación y ordenación de la politica económica
+2017,141E,Gestión de tesorería y política financiera
+2017,141F,Organización y control del patrimonio de la Comunidad Autónoma
+2017,141G,Gestión de los fondos procedentes de la Unión Europea
+2017,151A,Comunicación institucional
+2017,151B,Fomento de proyectos de comunicación de interés social
+2017,151C,"Calidad, transparencia y participación"
+2017,211A,Colaboraciones institucionales en materia de justicia
+2017,222A,Seguridad en los edificios administrativos de la CAIB
+2017,222B,Actividades clasificadas y espectáculos
+2017,222C,Actuación de policías
+2017,223A,Emergencias
+2017,231A,Coordinación de la acción exterior del Govern
+2017,231B,Fomento y relaciones con comunidades baleares radicades en el exterior
+2017,232A,Cooperación internacional
+2017,313A,Centros asistenciales
+2017,313B,Atención a la discapacidad
+2017,313C,Medidas judiciales y prevención del delito
+2017,313D,Atención a la dependencia
+2017,313F,Protección y defensa de los derechos de los menores
+2017,313G,Familia y unidades de convivencia
+2017,313I,Planificación y ordenación sociales
+2017,313J,Integración social de inmigrantes
+2017,313K,Dirección y servicios generales de Servicios Sociales y Cooperación
+2017,314A,Pensiones y prestaciones económicas
+2017,322A,Empleo e inserción laboral específicos
+2017,322B,Gestión de las relaciones laborales
+2017,322C,Planificación estratégica del empleo
+2017,322D,Fomento y gestión del empleo en las Illes Balears
+2017,323A,Protección y fomento de la integración y fomento de la participación social de la juventud
+2017,323C,"Promoción, protección y servicios para la mujer"
+2017,324A,Salud y prevención de riesgos laborales
+2017,411A,Dirección y servicios generales de Salud
+2017,411D,"Planificación, evaluación y cartera de servicios"
+2017,411E,Financiación de la asistencia sanitaria
+2017,413A,"Acreditación, docencia e investigación en salud"
+2017,413B,Programas de salud pública
+2017,413C,Sanidad ambiental y alimentaria
+2017,413D,Coordinación de centros insulares
+2017,413E,Plan autonómico de drogas
+2017,413F,"Planificación, control y gestión del medicamento y de los servicios farmaceuticos"
+2017,421A,Dirección y servicios generales de Educación y Universidad
+2017,421B,Ordenación general del sistema educativo
+2017,421C,Planificación educativa y régimen de centros escolares
+2017,421D,Formación del profesorado
+2017,421E,Proyectos lingüísticos
+2017,421F,Política y actuaciones en materia universitaria
+2017,421G,Formación profesional y aprendizaje permanente
+2017,421H,Inspección educativa
+2017,421I,Administración y servicios de apoyo a la enseñanza
+2017,421K,Innovación y comunidad educativa
+2017,422A,Educación pública
+2017,422B,Educación concertada
+2017,423A,Becas y ayudas al estudio
+2017,423B,Otros servicios a la enseñanza
+2017,431A,Gestión y fomento de la vivienda social
+2017,431B,"Arquitectura, vivienda y protección del patrimonio"
+2017,441A,Protección y defensa del consumidor
+2017,443A,Administración y planes medioambientales
+2017,443J,Gestión de espacios naturales
+2017,443K,Seguimiento y vigilancia del cambio climático
+2017,443L,Espacios de relevancia ambiental (Xarxa Natura 2000)
+2017,443M,Educación ambiental y sociedad
+2017,443N,Formación y educación en relación al mar
+2017,443P,Calidad de las aguas de baño
+2017,443Q,Calidad del aire y contaminación atmosférica
+2017,451A,"Dirección y servicios generales de Transparencia, Cultura y Deportes"
+2017,455A,Promoción y servicios de cultura
+2017,455B,Planificación  y normalización de la lengua catalana
+2017,461A,Promoción y fomento del deporte
+2017,463C,Proyectos de comunicación de interés social
+2017,463D,Elecciones y partidos políticos
+2017,463E,"Participación, transparencia, buen gobierno y voluntariado"
+2017,511B,"Dirección y servicios generales de Territorio, Energía y Movilidad"
+2017,513C,Ordenación e inspección del transporte terrestre
+2017,513D,Infraestructuras básicas
+2017,521A,Infraestructuras básicas
+2017,521B,Ordenación e inspección del transporte terrestre
+2017,521C,Transporte ferroviario
+2017,522A,Puertos y transporte marítimo
+2017,522B,Aeropuertos y transporte aereo
+2017,531A,Infraestructuras agrarias de las zonas rurales
+2017,533A,Conservación y mejora del medio natural
+2017,533B,Planificación forestal
+2017,533D,"Gestión de espacios naturales protegidos, parques naturales, áreas recreativas y fincas públicas"
+2017,533F,Especies silvestres: conservación i sensibilización
+2017,533G,Gestión de la sanidad forestal
+2017,541A,Investigación y desarrollo tecnológico
+2017,542A,Innovación tecnológica
+2017,551A,"Ordenación, regulación y desarrollo de las telecomunicaciones"
+2017,551B,Gestión de los sistemas y las tecnologías de la información
+2017,561A,Dominio público hidráulico: protección y control. Directiva marco del agua
+2017,562A,Abastecimiento de agua
+2017,562B,Saneamiento y depuración de aguas
+2017,571A,Gestión de residuos
+2017,571B,Educación ambiental
+2017,571C,Gestión de espacios naturales
+2017,571D,Conservación y mejora del medio natural
+2017,571E,Planificación forestal
+2017,571F,Especies silvestres
+2017,571G,Sanidad forestal
+2017,572A,"Seguimiento y contol del cambio climático, calidad del aire y contaminación atmosférica"
+2017,581A,Infraestructuras de regadío
+2017,591A,Estadística
+2017,591B,Cartografía
+2017,611A,Dirección y servicios generales de Hacienda y Administraciones Públicas
+2017,612A,Planificación y ordenación de la política económica
+2017,612B,Planificación y política presupuestaria
+2017,612C,Gestión contable y control interno
+2017,612E,Gestión de tesoreria y política financiera
+2017,612G,Organización y gestión del Patrimonio de la Comunidad Autónoma
+2017,612H,Gestión de los fondos procedentes de la Unión Europea
+2017,633A,Imprevistos y funciones no clasificadas
+2017,634A,Fondo de contingencia de ejecución presupuestaria
+2017,711A,"Dirección y servicios generales de Medio Ambiente, Agricultura y Pesca"
+2017,714B,Fomento del sector agrario
+2017,718A,Recursos marinos y ordenación del sector pesquero
+2017,721A,"Dirección y servicios generales de Trabajo, Comercio e Industria"
+2017,722A,Regulación y normativa industrial
+2017,723A,Promoción industrial
+2017,731A,Fomento de la utilización de energias renovables y del ahorro energético
+2017,751A,"Dirección y servicios generales de Innovación, Investigación y Turismo"
+2017,751B,Promoción turística
+2017,751C,Ordenación del sector y redefinición del modelo turístico
+2017,761A,Ordenación y promoción comercial y empresarial
+2017,761B,Gestión en materia de juego
+2017,763A,Ordenación de las estructuras comerciales y empresariales
+2017,811A,Fondo de contingencia
+2017,912A,Apoyo financiero a los consejos insulares
+2017,912B,Apoyo financiero a ayuntamientos y otros entes locales
+2017,011A01,Amortización y gastos financieros de Deuda Pública
+2017,011A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,111A01,Actividad legislativa
+2017,111B01,Control externo de las administraciones
+2017,111C01,Asesoramiento consultivo institucional
+2017,111C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,111D01,"Asesoramiento en materia social, económica y laboral"
+2017,111E01,Control patrimonial de los cargos públicos
+2017,111F01,Control de los medios de comunicación audiovisuales
+2017,112B01,Relaciones con el Parlamento
+2017,112C01,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2017,112E01,Coordinación de los programas del Gobierno de las IB
+2017,112F01,Calidad en el Gobierno de las IB
+2017,121A01,Servicios generales del la Presidencia del Gobierno
+2017,121A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,121B01,Dirección y servicios generales de Presidencia
+2017,121B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,121E01,"Registro, supervisión y relaciones con asociaciones y entidades jurídicas"
+2017,121G01,Escuela de las administraciones públicas
+2017,121G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,121H01,Gestión de los recursos humanos
+2017,121H99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,121J01,Gestión en materia de juegos
+2017,121J99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,121K01,Altres actuacions d'administració general i funció pública
+2017,124A01,Cooperació i relacions amb els ens territorials i relacions interadministratives
+2017,126A01,Mantenimiento y conservación del Palacio de Marivent
+2017,126A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,126B01,Publicaciones y Boletín Oficial de las IB
+2017,126C01,Comunicación y información institucional
+2017,126C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,126E01,Servicios de la Abogacía y coordinación de los servicios jurídicos de la CAIB
+2017,126F01,Servicios comunes generales
+2017,126H01,"Asesoramiento, estudio, investigación y difusión normativa"
+2017,126I01,Gestión del parque móvil
+2017,126I99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,126J01,Gestión de la central de contratación
+2017,126K01,Gestión de la Junta Consultiva de Contratación
+2017,126L01,Servicios comunes tecnológicos
+2017,126L99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,126M01,Contratación centralizada
+2017,131A01,Coordinación de la acción exterior del Gobierno
+2017,131B01,Fomento y relaciones con comunidades baleares radicadas en el exterior
+2017,134A01,Planificación y evaluación de la cooperación al desarrollo
+2017,141A01,Colaboraciones institucionales en materia de justicia
+2017,222A01,Seguridad en los edificios administrativos de la CAIB
+2017,222B01,Actividades clasificadas y espectáculos
+2017,222C01,Actuación de policías
+2017,222C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,223A01,Planificación de emergencias
+2017,223A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,313A01,Centros asistenciales
+2017,313C01,Medidas judiciales y prevención del delito
+2017,313C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,313D01,Protección y acción social
+2017,313D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,313F01,Protección y defensa de los derechos de los menores
+2017,313G01,Familia y unidades de convivencia
+2017,313G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,313I01,Planificación y ordenación social
+2017,313I99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,313J01,Integración social de inmigrantes
+2017,313J99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,313K01,Dirección y servisios generales de Servicios Sociales y Cooperación
+2017,313K99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,314A01,Pensiones y prestaciones económicas
+2017,315B01,Salud y prevención de riesgos laborales
+2017,315B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,315C01,Fomento de la responsabilidad social corporativa
+2017,315D01,Salud y prevención de riesgos laborales en la administración
+2017,315D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,322A01,Empleo e inserción laboral específicos
+2017,322B01,Gestión de la relaciones laborales
+2017,322D01,Dirección y servicios generales del Servicio de Empleo de las IB
+2017,322D02,Orientación y información laboral
+2017,322D03,Formación para desempleados
+2017,322D04,Gestión de acciones formativas
+2017,322D05,Fomento del empleo
+2017,322D06,Formación profesional dirigida a desempleados
+2017,322D07,Formación profesaional dirigida a empleados
+2017,322D08,Oportunidades de empleo y de formación
+2017,322D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,323A01,Protección y fomento de la integración y fomento de la participación social de la juventud
+2017,323A02,Consejo de la Juventud de las IB
+2017,323C01,"Promoción, protección y servicios para la mujer"
+2017,323C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,323D01,Fomento de la participación de centros y casa regionales en las IB
+2017,411A01,Dirección y servicios generales de Salud
+2017,411A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,411D01,Planificación de la asistencia sanitaria
+2017,411D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,411E01,Financiación de la sanidad
+2017,413A01,Ordenación y inspección de los servicios sanitarios
+2017,413A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,413B01,Programas de salud pública
+2017,413B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,413C01,Sanidad ambiental y alimentaria
+2017,413C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,413D01,Coordinación de centros insulares
+2017,413D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,413E01,Plan autonómico de drogas
+2017,413F01,"Planificación, control y gestión del medicamento y de los servicios farmacéuticos"
+2017,413F99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,421A01,Dirección y servicios generales de Educación y Universidad
+2017,421A02,Consejo escolar de las IB
+2017,421A03,Instituto de calidad y evaluación del sistema educativo
+2017,421A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,421B01,Ordenación general del sistema educativo
+2017,421B02,Programas internacionales
+2017,421B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,421C01,Planificación educativa y régimen de funcionamiento de centros escolares
+2017,421C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,421D02,Formación del profesorado
+2017,421D03,Aprendizaje permanente
+2017,421F01,Política y actuaciones en materia universitaria
+2017,421G01,Ordenación de la formación profesional
+2017,421G02,Instituto de cualificaciones
+2017,421G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,421H01,Inspección educativa
+2017,421H99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,421I01,Gestión y nóminas del personal docente
+2017,421I02,"Administración y servicios a centros concertados, infantil y primaria"
+2017,421I03,"Administración y servicios a centros concertados, ESO, bachillerato y FP"
+2017,421I04,"Administración y servicios a centros concertados, regímenes especiales"
+2017,421I05,"Administración y servicios a centros concertados, educación especial"
+2017,421I06,"Administración y servicios a centros concertados, educación de adultos"
+2017,421I99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,421K01,Soporte educativo
+2017,421K02,Innovación educativa
+2017,421K03,Comunidad educativa
+2017,421K04,Instituto de Educación a la Primera Infancia
+2017,421K05,Instituto para la Convivencia y el Éxito Escolar
+2017,421K06,Archivo y Museo de la Educación de las IB
+2017,421K99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,422A01,Educación pública
+2017,422A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,422B01,Educació infantil
+2017,422B02,Educación primaria
+2017,422B03,Educación secundaria obligatoria y bachillerato
+2017,422B04,Formación profesional
+2017,422G01,Tecnologías de la información y de la comunicación en el ámbito escolar
+2017,422G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,423B01,Infraestructuras en centros docentes
+2017,423B02,Equipamiento y mobiliario escolar
+2017,423B03,Gastos de funcionamiento de centros
+2017,423B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,431B01,Vivienda
+2017,431B02,Protección del patrimonio
+2017,441A01,Abastecimiento de aguas
+2017,441B01,Saneamiento y depuración de aguas
+2017,443B01,"Calidad ambiental, control de la contaminación y asesoría medioambiental"
+2017,443C01,Gestión de residuos
+2017,443E01,Protección y defensa del consumidor
+2017,443E99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,443K01,Seguimiento y vigilancia del cambio climático
+2017,443L01,"Espacios de relevancia ambiental, Red Natura 2000"
+2017,443M01,Educación ambiental y sociedad
+2017,443M99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,443Q01,Calidad del aire y contaminación atmosférica
+2017,443Q99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,451A01,"Dirección y servicios generales de Participación, Transparencia y Cultura"
+2017,451A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,455A01,Promoción de la cultura y de la lengua de las IB
+2017,455A04,Museos
+2017,455A05,Archivos
+2017,455A06,Bibliotecas
+2017,455A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,455B01,Planificación y normalización de la lengua catalana
+2017,455B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,457A01,Promoción y fomento del deporte
+2017,457A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,463B01,Información y atención a la ciudadanía
+2017,463C01,Fomento de proyectos de comunicación y de interés social
+2017,463C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,463E01,Fomento de la participación ciudadana
+2017,463E99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,511B01,"Dirección y servicios generales de Territorio, Energía y Movilidad"
+2017,511B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,511C01,Fomento de la participación ciudadana
+2017,511E01,Gestión de los transportes aéreo y marítimo en las IB
+2017,512A01,"Protección y control del dominio público hidráulico, directiva marco del agua"
+2017,512A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,513C01,Ordenación e inspección del transporte terrestre
+2017,513D01,Redes viarias
+2017,513D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,514A01,Ordenación del litoral
+2017,514B01,Gestión de las instalaciones portuarias
+2017,521A01,"Ordenación, regulación y desarrollo de las telecomunicaciones"
+2017,521B01,Gestión de los sistemas y tecnologías de la información
+2017,531A01,Infraestructura agrarias de las zonas rurales
+2017,533A01,Conservación y mejora del medio natural
+2017,533B01,Planificación forestal
+2017,533B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,533D01,"Gestión de espacios naturales, parques naturales, áreas recreativas y fincas públicas"
+2017,533D02,Gestión de la Red Natura 2000 y proyectos
+2017,533F01,"Especies silvestres, conservación y sensibilización"
+2017,533F99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,533G01,Gestión de la sanidad forestal
+2017,541A01,Investigación y desarrollo tecnológico
+2017,542A01,Innovación tecnológica
+2017,551A01,Estadística
+2017,551A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,611A01,Dirección y servicios generales de Hacienda y Administraciones Públicas
+2017,611A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,612A01,Planificación y ordenación de la política económica
+2017,612B01,Planificación y política presupuestaria
+2017,612C01,Gestión contable y control interno
+2017,612E01,Gestión de tesorería y política financiera
+2017,612E99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,612G01,Organización y gestión del patrimonio de la CAIB
+2017,612G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,612H01,Gestión de los fondos procedentes de la UE
+2017,612H99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,634A01,Fondo de contingencia de ejecución presupuestaria
+2017,711A01,"Dirección y servicios generales de Medio Ambiente, Agricultura y Pesca"
+2017,711A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,714B01,Agricultura
+2017,714B02,Ganadería
+2017,714B03,Calidad agroalimentaria
+2017,714B04,Investigación y formación del sector agrario
+2017,714B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,718A01,Recursos marinos
+2017,718A02,Ordenación del sector de la pesca
+2017,718A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,721A01,"Dirección y servicios generales de Trabajo, Comercio e Industria"
+2017,721A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,722A01,Regulación y normativa industrial
+2017,722A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,723A01,Promoción industrial y tecnológica
+2017,731C01,Fomento del a utilización de energías renovables y del ahorro de energía
+2017,751A01,"Dirección y servicios generales de Innovación, Investigación y Turismo"
+2017,751A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,751C01,Ordenación del sector y redefinición del modelo turístico
+2017,763A01,"Ordenación, reforma y modernización de las estructura comerciales"
+2017,763A02,Ordenación empresarial
+2017,763A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,912A01,Transferencias a corporaciones locales
+2017,613A01,Gestión e inspección de tributos
+2017,613A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,613B01,Soporte a la gestión tributaria
+2017,613B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2017,411B01,Administración y servicios generales de la asistencia sanitaria
+2017,411C01,Formación del personal sanitario
+2017,412A01,Atenció primària de salut
+2017,412B01,Atención especializada de salud
+2017,412C01,Asistencia sociosanitaria y salud mental
+2017,412D01,Asistencia sanitaria
+2017,121A02,XXX
+2017,121B02,XXX
+2017,121C02,XXX
+2017,126H02,XXX
+2017,151A02,XXX
+2017,151C02,XXX
+2017,151C03,XXX
+2017,151C04,XXX
+2017,151C05,XXX
+2017,231A02,XXX
+2017,231B02,XXX
+2017,232A02,XXX
+2017,313B01,XXX
+2017,313G02,XXX
+2017,313I02,XXX
+2017,313I03,XXX
+2017,323C02,XXX
+2017,323C03,XXX
+2017,413B02,XXX
+2017,413C02,XXX
+2017,421D01,XXX
+2017,421E01,XXX
+2017,421E02,XXX
+2017,421E03,XXX
+2017,421E04,XXX
+2017,421F02,XXX
+2017,421F03,XXX
+2017,421F04,XXX
+2017,421F05,XXX
+2017,421F06,XXX
+2017,421F07,XXX
+2017,421F08,XXX
+2017,421G03,XXX
+2017,421G04,XXX
+2017,421G05,XXX
+2017,421G06,XXX
+2017,421G07,XXX
+2017,421G09,XXX
+2017,421G10,XXX
+2017,421G11,XXX
+2017,421G12,XXX
+2017,421G13,XXX
+2017,421I07,XXX
+2017,421K07,XXX
+2017,423B04,XXX
+2017,521C01,XXX
+2017,521D01,XXX
+2017,572B01,XXX
+2017,581A01,XXX
+2017,591B01,XXX
+2017,751B01,XXX
+2017,112B,Relaciones con el Parlamento
+2017,112C,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2017,112E,Coordinación de programas del Gobierno
+2017,112G,Reorganización y racionalización del sector público instrumental dela CAIB
+2017,121E,"Registro, supervisión y relaciones con asociaciones y entidades jurídicas"
+2017,121J,Gestión en materia de juego
+2017,121K,Otras actuaciones de administración general y función pública
+2017,124A,Cooperación y relaciones con los entes territoriales y relaciones interadministrativas
+2017,126A,Mantenimiento y conservación del Palacio de Marivent
+2017,126C,Comunicación e información institucional
+2017,134A,Planificación i evaluación de la cooperación al desarrollo
+2017,313L,Ajyuda a las víctimas del delito
+2017,315B,Salud y prevención de riesgos laborales
+2017,315C,Fomento de la responsabilidad social corporativa
+2017,315D,Salud i prevención de riesgos laborales en la administración
+2017,323D,Fomento del a participación de centros y casas regionales en las IB
+2017,422G,Tecnologias dela información y de la comunicación
+2017,441B,Saneamiento y depuración de aguas
+2017,443B,"Calidad ambiental, control de la contaminación y asesoria mediambiental"
+2017,443C,Gestión de residuaos
+2017,443E,Protección y defensa del consumidor
+2017,455C,Promoción de la cultura de las IB
+2017,457A,Promoción y fomento del deporte
+2017,463B,Información y atención a la ciudadanía
+2017,511C,Ordenación del territorio  y urbanismo
+2017,511E,Gestión de los transportes aéreo y marítimo en las IB
+2017,512A,"Protección, control y defensa del dominio público hidráulico. Directiva marco del agua"
+2017,514A,Ordenación del litoral
+2017,514B,Gestión de las instalaciones portuarias
+2017,635A,Mecanismo extraordinario de financiación a proveedores
+2017,718C,Programas europeos de pesca
+2017,731C,Fomento de la utilización de energías renovables y del ahorro de energía
+2017,613A,Gestión e inspección de tributos
+2017,613B,Soporte a la gestión tributaria
+2017,411B,Administración y servicios generales de la asistencia sanitaria
+2017,411C,Formación del personal sanitario
+2017,412A,Atención primaria de salud
+2017,412B,Atención especializada de salud
+2017,412C,Asistencia sociosanitaria y salud mental
+2017,112B,Relaciones con el Parlamento
+2017,112C,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2017,112E,Coordinación de programas del Gobierno
+2017,112G,Reorganización y racionalización del sector público instrumental dela CAIB
+2017,121E,"Registro, supervisión y relaciones con asociaciones y entidades jurídicas"
+2017,121J,Gestión en materia de juego
+2017,121K,Otras actuaciones de administración general y función pública
+2017,124A,Cooperación y relaciones con los entes territoriales y relaciones interadministrativas
+2017,126A,Mantenimiento y conservación del Palacio de Marivent
+2017,126C,Comunicación e información institucional
+2017,134A,Planificación i evaluación de la cooperación al desarrollo
+2017,315B,Salud y prevención de riesgos laborales
+2017,315C,Fomento de la responsabilidad social corporativa
+2017,315D,Salud i prevención de riesgos laborales en la administración
+2017,323D,Fomento del a participación de centros y casas regionales en las IB
+2017,422G,Tecnologias dela información y de la comunicación
+2017,441B,Saneamiento y depuración de aguas
+2017,443B,"Calidad ambiental, control de la contaminación y asesoria mediambiental"
+2017,443C,Gestión de residuaos
+2017,443E,Protección y defensa del consumidor
+2017,457A,Promoción y fomento del deporte
+2017,463B,Información y atención a la ciudadanía
+2017,511C,Ordenación del territorio  y urbanismo
+2017,511E,Gestión de los transportes aéreo y marítimo en las IB
+2017,512A,"Protección, control y defensa del dominio público hidráulico. Directiva marco del agua"
+2017,514A,Ordenación del litoral
+2017,514B,Gestión de las instalaciones portuarias
+2017,718C,Programas europeos de pesca
+2017,731C,Fomento de la utilización de energías renovables y del ahorro de energía
+2017,613A,Gestión e inspección de tributos
+2017,613B,Soporte a la gestión tributaria
+2017,411B,Administración y servicios generales de la asistencia sanitaria
+2017,411C,Formación del personal sanitario
+2017,412A,Atención primaria de salud
+2017,412B,Atención especializada de salud
+2017,412C,Asistencia sociosanitaria y salud mental
+2017,412D,Asistencia snitaria
+2017,112B,Relaciones con el Parlamento
+2017,112C,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2017,112E,Coordinación de programas del Gobierno
+2017,112G,Reorganización y racionalización del sector público instrumental de la CAIB
+2017,121E,"Registro, supervisión y relaciones con asociaciones y entidades jurídicas"
+2017,121J,Gestión en materia de juego
+2017,121K,Otras actuaciones de administración general y función pública
+2017,124A,Cooperación y relaciones con los entes territoriales y relaciones interadministrativas
+2017,126A,Mantenimiento y conservación del Palacio de Marivent
+2017,126C,Comunicación e información institucional
+2017,134A,Planificación y evaluación de la cooperación al desarrollo
+2017,315B,Salud y prevención de riesgos laborales
+2017,315C,Fomento de la responsabilidad social corporativa
+2017,315D,Salud i prevención de riesgos laborales en la administración
+2017,323D,Fomento del a participación de centros y casas regionales en las IB
+2017,422G,Tecnologias de la información y de la comunicación
+2017,441B,Saneamiento y depuración de aguas
+2017,443B,"Calidad ambiental, control de la contaminación y asesoria mediambiental"
+2017,443C,Gestión de residuos
+2017,443E,Protección y defensa del consumidor
+2017,457A,Promoción y fomento del deporte
+2017,463B,Información y atención a la ciudadanía
+2017,511C,Ordenación del territorio  y urbanismo
+2017,511E,Gestión de los transportes aéreo y marítimo en las IB
+2017,512A,"Protección, control y defensa del dominio público hidráulico. Directiva marco del agua"
+2017,514A,Ordenación del litoral
+2017,514B,Gestión de las instalaciones portuarias
+2017,731C,Fomento de la utilización de energías renovables y del ahorro de energía
+2017,613A,Gestión e inspección de tributos
+2017,613B,Soporte a la gestión tributaria
+2017,411B,Administración y servicios generales de la asistencia sanitaria
+2017,411C,Formación del personal sanitario
+2017,412A,Atención primaria de salud
+2017,412B,Atención especializada de salud
+2017,412C,Asistencia sociosanitaria y salud mental
+2017,412D,Asistencia sanitaria
+2017,112B,Relaciones con el Parlamento
+2017,112C,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2017,112E,Coordinación de programas del Gobierno
+2017,112G,Reorganización y racionalización del sector público instrumental de la CAIB
+2017,121E,"Registro, supervisión y relaciones con asociaciones y entidades jurídicas"
+2017,121J,Gestión en materia de juego
+2017,121K,Otras actuaciones de administración general y función pública
+2017,124A,Cooperación y relaciones con los entes territoriales y relaciones interadministrativas
+2017,126A,Mantenimiento y conservación del Palacio de Marivent
+2017,126C,Comunicación e información institucional
+2017,134A,Planificación y evaluación de la cooperación al desarrollo
+2017,315B,Salud y prevención de riesgos laborales
+2017,315C,Fomento de la responsabilidad social corporativa
+2017,315D,Salud i prevención de riesgos laborales en la administración
+2017,323D,Fomento del a participación de centros y casas regionales en las IB
+2017,422G,Tecnologias de la información y de la comunicación
+2017,422H,Soporte al trilinguismo
+2017,441B,Saneamiento y depuración de aguas
+2017,443B,"Calidad ambiental, control de la contaminación y asesoria mediambiental"
+2017,443C,Gestión de residuos
+2017,443E,Protección y defensa del consumidor
+2017,457A,Promoción y fomento del deporte
+2017,463B,Información y atención a la ciudadanía
+2017,511C,Ordenación del territorio  y urbanismo
+2017,511E,Gestión de los transportes aéreo y marítimo en las IB
+2017,512A,"Protección, control y defensa del dominio público hidráulico. Directiva marco del agua"
+2017,514A,Ordenación del litoral
+2017,514B,Gestión de las instalaciones portuarias
+2017,731C,Fomento de la utilización de energías renovables y del ahorro de energía
+2017,613A,Gestión e inspección de tributos
+2017,613B,Soporte a la gestión tributaria
+2017,411B,Administración y servicios generales de la asistencia sanitaria
+2017,411C,Formación del personal sanitario
+2017,412A,Atención primaria de salud
+2017,412B,Atención especializada de salud
+2017,412C,Asistencia sociosanitaria y salud mental
+2017,412D,Asistencia sanitaria
+2017,112B,Relaciones con el Parlamento
+2017,112C,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2017,112E,Coordinación de programas del Gobierno
+2017,121E,"Registro, supervisión y relaciones con asociaciones y entidades jurídicas"
+2017,121J,Gestión en materia de juego
+2017,121K,Otras actuaciones de administración general y función pública
+2017,124A,Cooperación y relaciones con los entes territoriales y relaciones interadministrativas
+2017,126A,Mantenimiento y conservación del Palacio de Marivent
+2017,126C,Comunicación e información institucional
+2017,134A,Planificación y evaluación de la cooperación al desarrollo
+2017,315B,Salud y prevención de riesgos laborales
+2017,315C,Fomento de la responsabilidad social corporativa
+2017,315D,Salud i prevención de riesgos laborales en la administración
+2017,323D,Fomento del a participación de centros y casas regionales en las IB
+2017,422G,Tecnologias de la información y de la comunicación
+2017,441B,Saneamiento y depuración de aguas
+2017,443B,"Calidad ambiental, control de la contaminación y asesoria mediambiental"
+2017,443C,Gestión de residuos
+2017,443E,Protección y defensa del consumidor
+2017,457A,Promoción y fomento del deporte
+2017,463B,Información y atención a la ciudadanía
+2017,511C,Ordenación del territorio  y urbanismo
+2017,511E,Gestión de los transportes aéreo y marítimo en las IB
+2017,512A,"Protección, control y defensa del dominio público hidráulico. Directiva marco del agua"
+2017,514A,Ordenación del litoral
+2017,514B,Gestión de las instalaciones portuarias
+2017,731C,Fomento de la utilización de energías renovables y del ahorro de energía
+2017,613A,Gestión e inspección de tributos
+2017,613B,Soporte a la gestión tributaria
+2017,411B,Administración y servicios generales de la asistencia sanitaria
+2017,411C,Formación del personal sanitario
+2017,412A,Atención primaria de salud
+2017,412B,Atención especializada de salud
+2017,412C,Asistencia sociosanitaria y salud mental
+2017,412D,Asistencia sanitaria

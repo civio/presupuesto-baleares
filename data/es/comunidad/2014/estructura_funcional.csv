@@ -1,233 +1,507 @@
 2014,0,Deuda pública
-2014,1,Servicios de carácter general
-2014,2,"Defensa, protección civil y seguridad ciudadana"
+2014,1,Funcionamiento institucional y administración general
+2014,2,Servicios públicos generales
 2014,3,"Seguridad, protección y promoción social"
 2014,4,Producción de bienes públicos de carácter social
 2014,5,Producción de bienes públicos de carácter económico
-2014,6,Regulación económica de carácter general
-2014,7,Regulación económica de sectores productivos
-2014,9,Transferencias a otras administraciones públicas
-2014,6,Regulación económica de carácter general
-2014,4,Producción de bienes públicos de carácter social
-2014,01,Deuda Pública
+2014,7,Fomento y regulación de sectores productivos
+2014,8,Fondo de contingencia
+2014,9,Apoyo financieror a otras administraciones públicas
+2014,01,Deuda pública
 2014,11,Alta dirección de la Comunidad Autónoma y del Gobierno
-2014,12,Administración general
-2014,13,Relaciones exteriores
-2014,14,Justicia
+2014,12,Administración y servicios generales
+2014,13,Relaciones institucionales y procesos electorales
+2014,14,Regulación económica
+2014,15,"Transparencia, comunicación y participación"
+2014,21,Justicia
 2014,22,Seguridad y protección civil
+2014,23,Relaciones exteriores y cooperación al desarrollo
 2014,31,Seguridad y protección social
 2014,32,Promoción social
 2014,41,Sanidad
 2014,42,Educación
 2014,43,Vivienda y urbanismo
-2014,44,Bienestar comunitario
+2014,44,Consumo
 2014,45,Cultura
-2014,46,Otros servicios comunitarios y sociales
+2014,46,Deportes
 2014,51,Infraestructuras básicas y transportes
-2014,52,Comunicaciones
-2014,53,Infraestructuras agrarias
+2014,52,Transporte
+2014,53,Ordenación del territorio y urbanismo
 2014,54,"Investigación científica, técnica y aplicada"
-2014,55,Información básica y estadística
-2014,61,Regulación económica
-2014,63,Regulación financiera
+2014,55,Sociedad de la información y el conocimiento y telecomunicaciones
+2014,56,Ciclo del agua
+2014,57,Actuaciones ambientales
+2014,58,Infraestructuras agrarias y rurales
+2014,59,Otras actuaciones de carácter económico
 2014,71,"Agricultura, ganadería y pesca"
 2014,72,Industria
 2014,73,Energía
+2014,74,Minería
 2014,75,Turismo
 2014,76,Comercio
-2014,91,Transferencias a administraciones públicas territoriales
-2014,61,Regulación económica
-2014,41,Sanidad
+2014,81,Fondo de contingencia
+2014,91,Apoyo financiero a administraciones públicas territoriales
 2014,011,Deuda pública
 2014,111,Alta dirección de la Comunidad Autónoma
-2014,112,Alta dirección del Gobierno
 2014,121,Servicios generales y función pública
-2014,124,Gastos relativos a administraciones territoriales
 2014,126,Otros servicios generales
-2014,131,Administración general de relaciones exteriores
-2014,134,Cooperación internacional
-2014,141,Administración general de justicia
+2014,131,Relaciones institucionales
+2014,132,Procesos electorales
+2014,141,Política económica y presupuestaria
+2014,151,"Transparencia, comunicación y participación"
+2014,211,Actuaciones en materia de justicia
 2014,222,Seguridad y orden público
 2014,223,Protección civil
+2014,231,Relaciones exteriores
+2014,232,Cooperación internacional
+2014,311,"Administración, inspección y control de seguridad social y protección social"
+2014,312,Asistencia al desempleo
 2014,313,Acción social
 2014,314,Pensiones y otras prestaciones económicas
-2014,315,Relaciones laborales
 2014,322,Promoción del empleo
 2014,323,Promoción sociocultural
+2014,324,Relaciones laborales
 2014,411,Administración general de sanidad
+2014,412,Servicios asistenciales de salud
 2014,413,Acciones públicas relativas a la salud
 2014,421,Administración general de educación
 2014,422,Enseñanza
 2014,423,Promoción educativa
 2014,431,Vivienda
-2014,441,Saneamiento y abastecimiento de aguas
-2014,443,Otros servicios de bienestar comunitario
-2014,455,Promoción cultural
-2014,457,Deportes y educación física
-2014,463,Comunicación social y participación ciudadana
+2014,441,"Ordenación, control e información sobre el consumo"
+2014,451,Administración general de cultura
+2014,455,Promoción cultura
+2014,461,Deportes
 2014,511,Administración general de infraestructuras básicas y transportes
-2014,512,Recursos hidráulicos
-2014,513,Transporte terrestre
-2014,514,Puertos y transporte marítimo
-2014,521,Comunicaciones
-2014,531,Reforma agraria
-2014,533,Mejora del medio natural
+2014,521,Transporte terrestre
+2014,522,Transporte marítimo y aereo
+2014,531,Ordenación del territorio
 2014,541,Investigación y documentación científica
 2014,542,Investigación técnica y aplicada
-2014,551,"Cartografía, meteorología y estadística"
-2014,611,Administración general de economía y hacienda
-2014,612,"Política económica, presupuestaria y fiscal"
-2014,634,Contingencias de ejecución
+2014,551,Sociedad de la información y el conocimiento y telecomunicaciones
+2014,561,Recursos hidraulicos
+2014,562,Saneamiento y abastecimiento de aguas
+2014,571,Protección y conservación del medio natural
+2014,572,Prevención y control ambiental
+2014,581,Infraestructuras para el desarrollo rural
+2014,591,Cartografía y estadística
 2014,711,"Administración general de agricultura, ganadería y pesca"
-2014,714,Ordenación de la producción y regulación de los mercados agrarios
-2014,718,Protección de los recursos pesqueros i reforma de las estructuras
+2014,714,Ordenación de las producciones y regulación de los mercados agrarios
+2014,718,Protección de los recursos pesqueros y reforma de las estructuras
 2014,721,Administración general de industria
-2014,722,Acciones administrativas sobre las industrias
+2014,722,Actuaciones administrativas sobre la industria
 2014,723,Reconversión y modernización de empresas
 2014,731,Planificación y producción energética
+2014,741,Fomento de la minería y de las comarcas mineras
 2014,751,Ordenación y promoción turística
-2014,763,Comercio interior
-2014,912,Transferencias a corporaciones locales
-2014,613,Gestión del sistema tributario
-2014,411,Administración general de sanidad
-2014,412,"Hospitales, servicios asistenciales y centros de salud"
-2014,011A,Amortización y gastos financieros de deuda pública
+2014,761,Comercio
+2014,811,Fondo de contingencia
+2014,912,Apoyo financiero a administraciones públicas territoriales
+2014,011A,Amortización y gastos financieros de la deuda pública
 2014,111A,Actividad legislativa
-2014,111B,Control externo de las administraciones
+2014,111B,Control externo y de las administraciones
 2014,111C,Asesoramiento consultivo institucional
-2014,111E,Control del patrimonio de los altros cargos
-2014,111F,Control de los medios de comunicación audiovisuales
-2014,112B,Relaciones con el Parlamento
-2014,112C,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
-2014,112E,Coordinación de programas del Gobierno
-2014,112F,Calidad en el Gobierno de las IB
-2014,112G,Reorganización y racionalización del sector público instrumental de la CAIB
-2014,121A,Servicios generales de la Presidencia del Gobierno
-2014,121B,Dirección y servicios generales de Presidencia
-2014,121C,Dirección y servicios generales de Administraciones Públicas
-2014,121E,"Registro, supervisión y relaciones con asociaciones y entidades jurídicas"
-2014,121G,Escuela de las administraciones públicas
+2014,111D,"Asesoramiento en materia social, económica y laboral"
+2014,111E,Control patrimonial de los cargos públicos
+2014,111F,Control de los medios de comunicación audiovisual
+2014,112F,Calidad en el Govern de les Illes Balears
+2014,121A,Servicios generales de la Presidencia
+2014,121B,Dirección y servicios generales de la Conselleria de Presidència
+2014,121C,Coordinación de programas de gobierno
+2014,121G,Formación y selección del personal
 2014,121H,Gestión de recursos humanos
-2014,121J,Gestión en materia de juego
-2014,121K,Otras actuaciones de administración general y función pública
-2014,124A,Cooperación y relaciones con los entes territoriales y relaciones interadministrativas
-2014,126A,Mantenimiento y conservación del Palacio de Marivent
-2014,126B,Publicaciones y BOIB
-2014,126C,Comunicación e información institucional
-2014,126E,Servicios de la abogació y coordinación de los servicios jurídicos de la CAIB
+2014,121I,Salud y prevención de riesgos laborales en la Administración
+2014,126B,Publicaciones i Boletín Oficial de las Islas Baleares
+2014,126E,Servicios de la Abogacía y coordinación de los servicios jurídicos
 2014,126F,Servicios comunes generales
 2014,126H,"Asesoramiento, estudio, investigación y difusión normativa"
 2014,126I,Gestión del parque móvil
 2014,126J,Gestión de la central de contratación
 2014,126K,Gestión de la Junta Consultiva de Contratación
 2014,126L,Servicios comunes tecnológicos
-2014,131A,Coordinación de la acción exterior del Gobierno
-2014,131B,Fomento y relaciones con comunidades baleares ubicadas en el exterior
-2014,134A,Planificación y evaluación de la cooperación al desarrollo
-2014,141A,Colaboraciones institucionales en lateria de justicia
+2014,126M,Contratación centralizada
+2014,131A,Relaciones con el Parlament
+2014,131B,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2014,131C,Fomento de la participación de centros y casas regionales en las Illes Balears
+2014,132A,"Organización, gestión y seguimiento de procesos electorales"
+2014,141A,Dirección y servicios generales de Hacienda y Administraciones Públicas
+2014,141B,Planificación presupuestaria y financiación
+2014,141C,Gestión contable y control interno
+2014,141D,Planificación y ordenación de la politica económica
+2014,141E,Gestión de tesorería y política financiera
+2014,141F,Organización y control del patrimonio de la Comunidad Autónoma
+2014,141G,Gestión de los fondos procedentes de la Unión Europea
+2014,151A,Comunicación institucional
+2014,151B,Fomento de proyectos de comunicación de interés social
+2014,151C,"Calidad, transparencia y participación"
+2014,211A,Colaboraciones institucionales en materia de justicia
 2014,222A,Seguridad en los edificios administrativos de la CAIB
 2014,222B,Actividades clasificadas y espectáculos
-2014,222C,Actuación de policias
+2014,222C,Actuación de policías
 2014,223A,Emergencias
+2014,231A,Coordinación de la acción exterior del Govern
+2014,231B,Fomento y relaciones con comunidades baleares radicades en el exterior
+2014,232A,Cooperación internacional
 2014,313A,Centros asistenciales
+2014,313B,Atención a la discapacidad
 2014,313C,Medidas judiciales y prevención del delito
-2014,313D,Protección y acción social
+2014,313D,Atención a la dependencia
 2014,313F,Protección y defensa de los derechos de los menores
-2014,313G,Família y unidades de convivencia
-2014,313I,Planificación y ordenación social
+2014,313G,Familia y unidades de convivencia
+2014,313I,Planificación y ordenación sociales
 2014,313J,Integración social de inmigrantes
-2014,313K,Dirección y servicios generales de Família y Servicios Sociales
-2014,314A,Pensiones y prestaciones econòmicas
-2014,315B,Salud y prevención de riesgos laborales
-2014,315C,Fomento de la responsabilidad social corporativa
-2014,315D,Salud i prevención de riesgos laborales en la administración
-2014,322A,Empleo y inserción laboral específicos
+2014,313K,Dirección y servicios generales de Servicios Sociales y Cooperación
+2014,314A,Pensiones y prestaciones económicas
+2014,322A,Empleo e inserción laboral específicos
 2014,322B,Gestión de las relaciones laborales
-2014,322D,Fomento y gestión del empleo en las IB
+2014,322C,Planificación estratégica del empleo
+2014,322D,Fomento y gestión del empleo en las Illes Balears
 2014,323A,Protección y fomento de la integración y fomento de la participación social de la juventud
 2014,323C,"Promoción, protección y servicios para la mujer"
-2014,323D,Fomento del a participación de centros y casas regionales en las IB
-2014,411A,"Dirección y servicios generales de Salud, Família y Bienestar Social"
-2014,411D,Planificación de la asistencia sanitaria
-2014,413A,Ordenación y inspección de los servicios sanitarios
+2014,324A,Salud y prevención de riesgos laborales
+2014,411A,Dirección y servicios generales de Salud
+2014,411D,"Planificación, evaluación y cartera de servicios"
+2014,411E,Financiación de la asistencia sanitaria
+2014,413A,"Acreditación, docencia e investigación en salud"
 2014,413B,Programas de salud pública
 2014,413C,Sanidad ambiental y alimentaria
-2014,413D,Coordinación de los centros insulares
+2014,413D,Coordinación de centros insulares
 2014,413E,Plan autonómico de drogas
-2014,413F,"Planificación, control y gestión del medicamento y de los servicios farmacéuticos"
-2014,421A,"Dirección y servicios generales de Educación, Cultura y Universidades"
+2014,413F,"Planificación, control y gestión del medicamento y de los servicios farmaceuticos"
+2014,421A,Dirección y servicios generales de Educación y Universidad
 2014,421B,Ordenación general del sistema educativo
 2014,421C,Planificación educativa y régimen de centros escolares
-2014,421D,Innovación y formación del profesorado
+2014,421D,Formación del profesorado
+2014,421E,Proyectos lingüísticos
 2014,421F,Política y actuaciones en materia universitaria
-2014,421G,Ordenación de la formación profesional
+2014,421G,Formación profesional y aprendizaje permanente
 2014,421H,Inspección educativa
-2014,421I,Administración y servicios de ayuda al a enseñanza
+2014,421I,Administración y servicios de apoyo a la enseñanza
+2014,421K,Innovación y comunidad educativa
 2014,422A,Educación pública
-2014,422B,Educación concertada y otras enseñanzas
-2014,422G,Tecnologias de la información y de la comunicación
-2014,423A,Becas y ayudas
+2014,422B,Educación concertada
+2014,423A,Becas y ayudas al estudio
 2014,423B,Otros servicios a la enseñanza
+2014,431A,Gestión y fomento de la vivienda social
 2014,431B,"Arquitectura, vivienda y protección del patrimonio"
-2014,441A,Abastecimiento de aguas
-2014,441B,Saneamiento y depuración de aguas
-2014,443B,"Calidad ambiental, control de la contaminación y asesoria mediambiental"
-2014,443C,Gestión de residuos
-2014,443E,Protección y defensa del consumidor
+2014,441A,Protección y defensa del consumidor
+2014,443A,Administración y planes medioambientales
+2014,443J,Gestión de espacios naturales
 2014,443K,Seguimiento y vigilancia del cambio climático
-2014,443L,"Espacios de relevancia ambiental, red Natura 2000"
+2014,443L,Espacios de relevancia ambiental (Xarxa Natura 2000)
 2014,443M,Educación ambiental y sociedad
+2014,443N,Formación y educación en relación al mar
+2014,443P,Calidad de las aguas de baño
 2014,443Q,Calidad del aire y contaminación atmosférica
-2014,455A,Cultura y política linguística
-2014,457A,Promoción y fomento del deporte
-2014,463B,Información y atención a la ciudadanía
-2014,463C,Fomento de proyectos de comunicación de interés social
-2014,463E,Fomento de la participación ciudadana
-2014,511C,Ordenación del territorio  y urbanismo
-2014,511E,Gestión de los transportes aéreo y marítimo en las IB
-2014,512A,"Protección, control y defensa del dominio público hidráulico. Directiva marco del agua"
-2014,513C,Oredenación e inspección del transporte terrestre
+2014,451A,"Dirección y servicios generales de Transparencia, Cultura y Deportes"
+2014,455A,Promoción y servicios de cultura
+2014,455B,Planificación  y normalización de la lengua catalana
+2014,461A,Promoción y fomento del deporte
+2014,463C,Proyectos de comunicación de interés social
+2014,463D,Elecciones y partidos políticos
+2014,463E,"Participación, transparencia, buen gobierno y voluntariado"
+2014,511B,"Dirección y servicios generales de Territorio, Energía y Movilidad"
+2014,513C,Ordenación e inspección del transporte terrestre
 2014,513D,Infraestructuras básicas
-2014,514A,Ordenación del litoral
-2014,514B,Gestión de las instalaciones portuarias
-2014,521A,"Ordenación, regulación y desarrollo de las telecomunicaciones"
-2014,521B,Gestión de los sistemas y tecnologías de la información
+2014,521A,Infraestructuras básicas
+2014,521B,Ordenación e inspección del transporte terrestre
+2014,521C,Transporte ferroviario
+2014,522A,Puertos y transporte marítimo
+2014,522B,Aeropuertos y transporte aereo
 2014,531A,Infraestructuras agrarias de las zonas rurales
 2014,533A,Conservación y mejora del medio natural
 2014,533B,Planificación forestal
-2014,533D,"Gestión de espacios naturales protegidos, parques naturales, áreas recreativas y fincas pú"
-2014,533F,"Especies silvestres, conservación y sensibilización"
+2014,533D,"Gestión de espacios naturales protegidos, parques naturales, áreas recreativas y fincas públicas"
+2014,533F,Especies silvestres: conservación i sensibilización
 2014,533G,Gestión de la sanidad forestal
 2014,541A,Investigación y desarrollo tecnológico
 2014,542A,Innovación tecnológica
-2014,551A,Estadística
-2014,611A,Dirección y servicios generales de Hacienda y Presupuestos
-2014,612A,Planificación y ordenación dela política económica
+2014,551A,"Ordenación, regulación y desarrollo de las telecomunicaciones"
+2014,551B,Gestión de los sistemas y las tecnologías de la información
+2014,561A,Dominio público hidráulico: protección y control. Directiva marco del agua
+2014,562A,Abastecimiento de agua
+2014,562B,Saneamiento y depuración de aguas
+2014,571A,Gestión de residuos
+2014,571B,Educación ambiental
+2014,571C,Gestión de espacios naturales
+2014,571D,Conservación y mejora del medio natural
+2014,571E,Planificación forestal
+2014,571F,Especies silvestres
+2014,571G,Sanidad forestal
+2014,572A,"Seguimiento y contol del cambio climático, calidad del aire y contaminación atmosférica"
+2014,581A,Infraestructuras de regadío
+2014,591A,Estadística
+2014,591B,Cartografía
+2014,611A,Dirección y servicios generales de Hacienda y Administraciones Públicas
+2014,612A,Planificación y ordenación de la política económica
 2014,612B,Planificación y política presupuestaria
 2014,612C,Gestión contable y control interno
-2014,612E,Gestión de tesorería y política financiera
-2014,612G,Organización y gestión del patrimonio de la Comunidad Autónoma
+2014,612E,Gestión de tesoreria y política financiera
+2014,612G,Organización y gestión del Patrimonio de la Comunidad Autónoma
 2014,612H,Gestión de los fondos procedentes de la Unión Europea
-2014,634A,Fondos de contingencia de ejecución presupuestaria
-2014,711A,"Dirección y servicios generales de Agricultura, Medio Ambiente y Ordenación del Territorio"
-2014,714B,Fomento del sector agrario de las IB
-2014,718A,Recursos marinos y explotación de los recursos pesqueros
-2014,721A,Dirección y servicios generales de Economía y Competitividad
+2014,633A,Imprevistos y funciones no clasificadas
+2014,634A,Fondo de contingencia de ejecución presupuestaria
+2014,711A,"Dirección y servicios generales de Medio Ambiente, Agricultura y Pesca"
+2014,714B,Fomento del sector agrario
+2014,718A,Recursos marinos y ordenación del sector pesquero
+2014,721A,"Dirección y servicios generales de Trabajo, Comercio e Industria"
 2014,722A,Regulación y normativa industrial
-2014,723A,Promoción industrial y tecnológica
-2014,731C,Fomento de la utilización de energías renovables y del ahorro de energía
-2014,751A,Dirección y servicios generales de Turismo y Deportes
+2014,723A,Promoción industrial
+2014,731A,Fomento de la utilización de energias renovables y del ahorro energético
+2014,751A,"Dirección y servicios generales de Innovación, Investigación y Turismo"
+2014,751B,Promoción turística
 2014,751C,Ordenación del sector y redefinición del modelo turístico
-2014,763A,"Ordenación, reforma y modernización de las estructura comerciales"
-2014,912A,Transferencias a corporaciones locales
-2014,613A,Gestión e inspección de tributos
-2014,613B,Soporte a la gestión tributaria
-2014,411B,Administración y servicios generales de la asistencia sanitaria
-2014,411C,Formación del personal sanitario
-2014,412A,Atención primaria de salud
-2014,412B,Atención especializada de salud
-2014,412C,Asistencia sociosanitaria y salud mental
-2014,412D,Asistencia sanitaria
+2014,761A,Ordenación y promoción comercial y empresarial
+2014,761B,Gestión en materia de juego
+2014,763A,Ordenación de las estructuras comerciales y empresariales
+2014,811A,Fondo de contingencia
+2014,912A,Apoyo financiero a los consejos insulares
+2014,912B,Apoyo financiero a ayuntamientos y otros entes locales
+2014,011A01,Amortización y gastos financieros de deuda pública
+2014,111A01,Actividad legislativa
+2014,111B01,Control externo de las administraciones
+2014,111C01,Asesoramiento consultivo institucional
+2014,111C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,111E01,Control patrimonial de los cargos públicos
+2014,111F01,Control de los medios de comunicación audiovisuales
+2014,112B01,Relaciones con el Parlamento
+2014,112C01,Relaciones y cooperación con otras administraciones públicas y entes públicos y privados
+2014,112E01,Coordinación de los programas del Gobierno de las IB
+2014,112E99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,112F01,Calidad en el Gobierno de las IB
+2014,112G01,Reorganización y racionalización del sector público instrumental de la CAIB
+2014,112G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,121A01,Servicios generales del la Presidencia del Gobierno
+2014,121A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,121B01,Dirección y servicios generales de Presidencia
+2014,121B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,121C01,Dirección y servicios generales de Administraciones Públicas
+2014,121C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,121E01,"Registro, supervisión y relaciones con asociaciones y entidades jurídicas"
+2014,121G01,Escuela de las administraciones públicas
+2014,121G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,121H01,Gestión de los recursos humanos
+2014,121H99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,121J01,Gestión en materia de juegos
+2014,121K01,Otras actuaciones de administración general y función pública
+2014,124A01,Cooperación y relaciones con los entes territoriales y relaciones interadministrativas
+2014,126A01,Mantenimiento y conservación del Palacio de Marivent
+2014,126A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,126B01,Publicaciones y Boletín Oficial de las IB
+2014,126C01,Comunicación y información institucional
+2014,126C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,126E01,Servicios de la Abogacía y coordinación de los servicios jurídicos de la CAIB
+2014,126F01,Servicios comunes generales
+2014,126H01,"Asesoramiento, estudio, investigación y difusión normativa"
+2014,126H99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,126I01,Gestión del parque móvil
+2014,126I99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,126J01,Gestión de la central de contratación
+2014,126K01,Gestión de la Junta Consultiva de Contratación
+2014,126L01,Servicios comunes tecnológicos
+2014,126L99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,131A01,Coordinación de la acción exterior del Gobierno
+2014,131B01,Fomento y relaciones con comunidades baleares radicadas en el exterior
+2014,134A01,Planificación y evaluación de la cooperación al desarrollo
+2014,141A01,Colaboraciones institucionales en materia de justicia
+2014,141A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,222A01,Seguridad en los edificios administrativos de la CAIB
+2014,222A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,222B01,Actividades clasificadas y espectáculos
+2014,222C01,Actuación de policías
+2014,222C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,223A01,Emergencias
+2014,223A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,313A01,Centros asistenciales
+2014,313C01,Medidas judiciales y prevención del delito
+2014,313C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,313D01,Protección y acción social
+2014,313D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,313F01,Protección y defensa de los derechos de los menores
+2014,313G01,Familia y unidades de convivencia
+2014,313G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,313I01,Planificación y ordenación social
+2014,313I99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,313J01,Integración social de inmigrantes
+2014,313K01,Dirección y servicios generales de Familia y Servicios Sociales
+2014,313K99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,314A01,Pensiones y prestaciones económicas
+2014,315B01,Salud y prevención de riesgos laborales
+2014,315B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,315C01,Fomento de la responsabilidad social corporativa
+2014,315D01,Salud y prevención de riesgos laborales en la administración
+2014,315D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,322A01,Empleo e inserción laboral específicos
+2014,322B01,Gestión de las relaciones laborales
+2014,322B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,322D01,Dirección y servicios generales del Servicio de Empleo de las IB
+2014,322D02,Orientación y información laboral
+2014,322D03,Formación para el empleo
+2014,322D04,Gestión de acciones formativas
+2014,322D50,"Fomento y gestión de la ocupación, no justificable Conferencia Sectorial"
+2014,322D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,323A01,Protección y fomento de la integración y fomento de la participación social de la juventud
+2014,323A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,323C01,"Promoción, protección y servicios para la mujer"
+2014,323C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,323D01,Fomento de la participación de centros y casa regionales en las IB
+2014,323D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,411A01,"Dirección y servicios generales de Salud, Familia y Bienestar Social"
+2014,411A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,411D01,Planificación de la asistencia sanitaria
+2014,413A01,Ordenación y inspección de servicios sanitarios
+2014,413A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,413B01,Programas de salud pública
+2014,413B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,413C01,Sanidad ambiental y alimentaria
+2014,413C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,413D01,Coordinación de centros insulares
+2014,413D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,413E01,Plan autonómico de drogas
+2014,413E99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,413F01,"Planificación, control y gestión del medicamento y de los servicios farmacéuticos"
+2014,413F99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,421A01,Dirección y servicios generales de educación y cultura
+2014,421A02,Consejo escolar de las IB
+2014,421A03,Instituto de calidad i evaluación de la enseñanza
+2014,421A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,421B01,Ordenación general del sistema educativo
+2014,421B02,Programas internacionales
+2014,421B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,421C01,Planificación educativa y régimen de funcionamiento de centros escolares
+2014,421C03,Instituto para la convivencia y el éxito escolar
+2014,421C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,421D01,Innovación educativa
+2014,421D02,Formación del profesorado
+2014,421D03,Aprendizaje permanente
+2014,421D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,421F01,Política y actuaciones en materia universitaria
+2014,421F99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,421G01,Ordenación de la formación profesional
+2014,421G02,Instituto de cualificaciones
+2014,421G03,Archivo y museo de educación de las IB
+2014,421G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,421H01,Inspección educativa
+2014,421H99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,421I01,Gestión y nóminas del personal docente
+2014,421I02,"Administración y servicios a centros concertados, infantil y primaria"
+2014,421I03,"Administración y servicios a centros concertados, ESO, bachillerato y FP"
+2014,421I04,"Administración y servicios a centros concertados, regímenes especiales"
+2014,421I05,"Administración y servicios a centros concertados, educación especial"
+2014,421I06,"Administración y servicios a centros concertados, educación de adultos"
+2014,421I99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,422A01,Educación pública
+2014,422B01,Educación infantil
+2014,422B02,Educación primaria
+2014,422B03,Educación secundaria obligatoria y bachillerato
+2014,422B04,Formación profesional
+2014,422G01,Tecnologías de la información y de la comunicación en el ámbito escolar
+2014,422G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,423A01,Becas y ayudas
+2014,423B01,Infraestructuras en centros docentes
+2014,423B02,Equipamiento y mobiliario escolar
+2014,423B03,Gastos de funcionamiento de centros
+2014,431B01,Vivienda
+2014,431B02,Protección del patrimonio
+2014,441A01,Abastecimiento de aguas
+2014,441B01,Saneamiento y depuración de aguas
+2014,443B01,"Calidad ambiental, control de la contaminación y asesoría medioambiental"
+2014,443C01,Gestión de residuos
+2014,443E01,Protección y defensa del consumidor
+2014,443E99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,443K01,Seguimiento y vigilancia del cambio climático
+2014,443L01,"Espacios de relevancia ambiental, Red Natura 2000"
+2014,443L99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,443M01,Educación ambiental y sociedad
+2014,443M99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,443Q01,Calidad del aire y contaminación atmosférica
+2014,443Q99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,455A01,Promoción de la cultura y de la lengua de las IB
+2014,455A04,Museos
+2014,455A05,Archivos
+2014,455A06,Bibliotecas
+2014,455A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,457A01,Promoción y fomento del deporte
+2014,457A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,463B01,Información y atención a la ciudadanía
+2014,463C01,Fomento de proyectos de comunicación y de interés social
+2014,463E01,Fomento de la participación ciudadana
+2014,511C01,Ordenación del territorio y urbanismo
+2014,511E01,Gestión de los transportes aéreo y marítimo en las IB
+2014,511E99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,512A01,"Protección y control del dominio público hidráulico, directiva marco del agua"
+2014,512A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,513C01,Ordenación e inspección del transporte terrestre
+2014,513C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,513D01,Redes viarias
+2014,513D99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,514A01,Ordenación del litoral
+2014,514B01,Gestión de las instalaciones portuarias
+2014,521A01,"Ordenación, regulación y desarrollo de las telecomunicaciones"
+2014,521A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,521B01,Gestión de los sistemas y tecnologías de la información
+2014,531A01,Infraestructura agrarias de las zonas rurales
+2014,533A01,Conservación y mejora del medio natural
+2014,533B01,Planificación forestal
+2014,533B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,533D01,"Gestión de espacios naturales, parques naturales, áreas recreativas y fincas públicas"
+2014,533F01,"Especies silvestres, conservación y sensibilización"
+2014,533F99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,533G01,Gestión de la sanidad forestal
+2014,533G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,541A01,Investigación y desarrollo tecnológico
+2014,541A02,Transferencia del conocimiento
+2014,541A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,542A01,Innovación tecnológica
+2014,551A01,Estadística
+2014,551A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,611A01,Dirección y servicios generales de Economía y Hacienda
+2014,611A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,612A01,Planificación y ordenación de la política económica
+2014,612B01,Planificación y política presupuestaria
+2014,612B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,612C01,Gestión contable y control interno
+2014,612C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,612E01,Gestión de tesorería y política financiera
+2014,612E99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,612G01,Organización y gestión del patrimonio de la CAIB
+2014,612G99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,612H01,Gestión de los fondos procedentes de la UE
+2014,612H99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,634A01,Fondo de contingencia de ejecución presupuestaria
+2014,711A01,Dirección y servicios generales de Agricultura y Pesca
+2014,711A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,714B01,Agricultura
+2014,714B02,Ganadería
+2014,714B03,Calidad agroalimentaria
+2014,714B04,Investigación y formación del sector agrario
+2014,714B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,718A01,Recursos marinos
+2014,718A02,Ordenación del sector de la pesca
+2014,718A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,721A01,Dirección y servicios generales de Economía y Competitividad
+2014,721A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,722A01,Regulación y normativa industrial
+2014,723A01,Promoción industrial y tecnológica
+2014,731C01,Fomento del a utilización de energías renovables y del ahorro de energía
+2014,731C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,751A01,Dirección y servicios generales de Turismo
+2014,751A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,751C01,Ordenación del sector y redefinición del modelo turístico
+2014,751C99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,763A01,"Ordenación, reforma y modernización de las estructura comerciales"
+2014,763A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,912A01,Transferencias a corporaciones locales
+2014,613A01,Gestión e inspección de tributos
+2014,613A99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,613B01,Soporte a la gestión tributaria
+2014,613B99,Pagos cuenta 409 OPAP ejercicios anteriores
+2014,411B01,Administración y servicios generales de la asistencia sanitaria
+2014,411C01,Formación del personal sanitario
+2014,412A01,Atención primaria de salud
+2014,412B01,Atención especializada de salud
+2014,412C01,Asistencia sociosanitaria y salud mental
+2014,412D01,Asistencia sanitaria
 2014,011A01,Amortización y gastos financieros de deuda pública
 2014,111A01,Actividad legislativa
 2014,111B01,Control externo de las administraciones
