@@ -8,7 +8,7 @@ MAIN_ENTITY_NAME = 'Baleares'
 
 BUDGET_LOADER = 'BalearesBudgetLoader'
 
-FEATURED_PROGRAMMES = ['412A', '423A', '514A', '443E', '422A']
+FEATURED_PROGRAMMES = ['412A', '531A', '562A', '422A']
 
 OVERVIEW_INCOME_NODES = [
                           {
