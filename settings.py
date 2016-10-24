@@ -68,7 +68,7 @@ SHOW_INSTITUTIONAL_TAB  = True
 ADJUST_INFLATION_IN_OVERVIEW = False
 
 # Show Subtotals panel in Overview. Default: False
-SHOW_OVERVIEW_SUBTOTALS = True
+# SHOW_OVERVIEW_SUBTOTALS = True
 
 # Calculate budget indicators (True), or show/hide the ones hardcoded in HTML (False). Default: True.
 # CALCULATE_BUDGET_INDICATORS = False
