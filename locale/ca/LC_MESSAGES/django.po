@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2016-10-23 18:45+0200\n"
+"PO-Revision-Date: 2016-10-26 15:40+0200\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -102,6 +102,9 @@ msgstr "T'expliquem en què s'inverteix els diners que recaptem dels teus impost
 msgid "Se realiza a través de <b>impuestos directos</b> - como el IRPF y el impuesto de sociedades - y de <b>impuestos indirectos</b> - el IVA e impuestos sobre el tabaco, el alcohol o la gasolina -."
 msgstr "Es realitza a través <b>d'imposts directes</b> - com l'IRPF i l'impost de societats - i <b>d'imposts indirectes</b> - l'IVA i imposts sobre el tabac, l'alcohol o la benzina."
 
+msgid "Las cifras de 2017 se refieren al proyecto de presupuestos, pendiente de aprobación."
+msgstr "Les xifres del 2017 es refereixen al projecte de pressupost, pendent d'aprovació."
+
 #: templates/budgets/budgets_intro.html:5
 msgid "El recorrido de mis impuestos"
 msgstr "El recorregut dels meus imposts"
@@ -125,3 +128,6 @@ msgstr "A què es destinen"
 
 msgid "La CAIB tiene competencias en la <b>provisión de los principales servicios públicos</b> fundamentales (salud, educación, servicios sociales, empleo), al margen de otros relacionados principalmente con la política económica (turismo, comercio, industria, agricultura, etc.) y la ordenación del territorio y medio ambiente, y las infraestructuras. Por otra parte, una parte significativa de los ingresos se destinan a <b>financiar los consejos insulares</b>, como instituciones de gobierno de las distintas islas, que desarrollan básicamente competencias delegadas por la CAIB relacionadas con las carreteras, los servicios sociales y la cultura, <b>así como los ayuntamientos</b>, a través de los fondos de cooperación local."
 msgstr "La CAIB té competències en la <b>provisió dels principals serveis públics</b> fonamentals (salut, educació, serveis socials, ocupació), al marge d’altres relacionades principalment amb la política econòmica (turisme, comerç, indústria, agricultura, etc.) i l’ordenació del territori i el medi ambient, i les infraestructures. D’altra banda, una part significativa dels ingressos es destinen a <b>finançar els consells insulars</b>, com a institucions de govern de les diferents illes, que desenvolupen bàsicament competències delegades per la CAIB relacionades amb les carreteres, els serveis socials i la cultura, <b>així com els ajuntaments</b>, a través dels fons de cooperació local."
+
+msgid "Presupuestado.StackedArea"
+msgstr "Projecte"

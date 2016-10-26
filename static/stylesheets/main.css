@@ -7737,6 +7737,13 @@ body.widget .stacked-area-chart-legend {
 .stacked-area-chart-legend .label:hover {
   background: #DBD5D2; }
 
+.data-controllers .slider.slider-horizontal .slider-tick-label {
+  vertical-align: top;
+  line-height: 1em;
+  margin-top: 4px; }
+  .data-controllers .slider.slider-horizontal .slider-tick-label small {
+    font-size: 90%; }
+
 .form-search-glossary .btn-primary {
   color: white;
   font-weight: 400; }
