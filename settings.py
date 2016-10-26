@@ -80,6 +80,10 @@ SHOW_ACTUAL = False
 # Add economic categories codes as a prefix in the breakdown tables. Default: False.
 ADD_ECONOMIC_CATEGORIES_PREFIX = True
 
+# Should we group elements at the economic subheading level, or list all of them,
+# grouping by uid?. Default: True. (i.e. group by uid, show all elements)
+BREAKDOWN_BY_UID = False
+
 # Include financial income/expenditures in overview and global policy breakdowns. Default: False.
 INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = False
 
