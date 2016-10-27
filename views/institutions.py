@@ -270,65 +270,58 @@ data = [
 ]
 
 entity_descriptions = [
-    ['001', 'Ens públic Radiotelevisió de les Illes Balears'],
-    ['002', 'Agència del Turisme de les Illes Balears'],
-    ['003', "Agència Balear de l'Aigua i de la Qualitat Ambiental"],
-    ['004', 'Institut Balear de la Natura'],
-    ['005', "Institut Balear de l'Habitatge"],
-    ['006', 'Serveis Ferroviaris de Mallorca'],
-    ['007', "Institut d'Innovació Empresarial de les Illes Balears"],
-    ['008', "Institut Balear d'Infraestructures i Serveis Educatius i Culturals"],
-    ['010', 'Fons de Garantia Agrària i Pesquera de les Illes Balears'],
-    ['011', 'Ports de les Illes Balears'],
-    ['017', 'Institut Balear de la Joventut'],
-    ['018', 'Serveis de Millora Agrària i Pesquera'],
-    ['019', "Serveis d'Informació Territorial de les Illes Balears"],
-    ['104', "Serveis de Millora Agrària, SA"],
-    ['105', "Serveis d'Informació Territorial de les Illes Balears, SA"],
-    ['108', "Ràdio de les Illes Balears, SA"],
-    ['109', "Televisió de les Illes Balears, SA"],
-    ['110', "Gestió d'Emergències de les Illes Balears, SA"],
-    ['111', 'Multimèdia de les Illes Balears, SA'],
-    ['201', "Fundació per a l'Esport Balear"],
-    ['202', 'Fundació Conservatori de Música i Dansa de les Illes Balears'],
-    ['203', "Fundació Institut Socioeducatiu s'Estel"],
-    ['209', 'Fundació Robert Graves'],
-    ['210', "Fundació Teatre Principal d'Inca"],
-    ['212', 'Fundació Banc de Sang i Teixits de les Illes Balears'],
-    ['213', "Fundació Escola Superior d'Art Dramàtic de les Illes Balears"],
-    ['214', "Fundació d'Investigació Sanitària de les Illes Balears Ramon Llull"],
-    ['215', "Fundació d'Atenció i Suport a la Dependència"],
-    ['216', 'Fundació Santuari de Lluc'],
-    ['222', "Fundació Balear d'Innovació i Tecnologia"],
-    ['301', 'Centre Balears Europa'],
-    ['302', 'Escola d’Hoteleria'],
-    ['303', 'Consorci Desestacionalització de l’Oferta a l’Illa de Mallorca'],
-    ['304', 'Velòdrom Palma Arena'],
-    ['305', 'Consorci d’Infraestructures de les Illes Balears'],
-    ['306', 'Consorci Orquestra Simfònica Illes Balears “Ciutat de Palma”'],
-    ['307', 'Consorci Foment d’Infraestructures Universitàries (COFIU)'],
-    ['308', "Institut d'Estudis Baleàrics"],
-    ['309', 'Consorci Recuperació de la Fauna de les Illes Balears (COFIB)'],
-    ['310', "Consorci d'Aigües de les Illes Balears"],
-    ['311', 'Consorci de Transports de Mallorca'],
-    ['312', 'Consorci Formentera Desenvolupament'],
-    ['313', 'Consorci  Infraestructures ELM Palmanyola'],
-    ['314', 'Consorci de Recursos Sociosanitaris i Assistencials IB'],
-    ['315', 'Agència de Qualitat Universitària'],
+    ['001', 'Ens públic Radiotelevisió de les Illes Balears', 'Ente público Radiotelevisión de las Illes Balears'],
+    ['002', 'Agència del Turisme de les Illes Balears', 'Agencia del Turismo de las Illes Balears'],
+    ['003', "Agència Balear de l'Aigua i de la Qualitat Ambiental", 'Agencia Balear del Agua y de la Calidad Ambiental'],
+    ['004', 'Institut Balear de la Natura', 'Instituto Balear de la Naturaleza'],
+    ['005', "Institut Balear de l'Habitatge", 'Instituto Balear de la Vivienda'],
+    ['006', 'Serveis Ferroviaris de Mallorca', 'Servicios Ferroviarios de Mallorca'],
+    ['007', "Institut d'Innovació Empresarial de les Illes Balears", 'Instituto de Innovación Empresarial de las Illes Balears'],
+    ['008', "Institut Balear d'Infraestructures i Serveis Educatius i Culturals", 'Instituto Balear de Infraestructuras y Servicios Educativos y Culturales'],
+    ['010', 'Fons de Garantia Agrària i Pesquera de les Illes Balears', 'Fondo de Garantía Agraria y Pesquera de las Illes Balears'],
+    ['011', 'Ports de les Illes Balears', 'Puertos de las Illes Balears'],
+    ['017', 'Institut Balear de la Joventut', 'Instituto Balear de la Juventud'],
+    ['018', 'Serveis de Millora Agrària i Pesquera', 'Servicios de Mejora Agraria y Pesquera'],
+    ['019', "Serveis d'Informació Territorial de les Illes Balears", 'Servicios de Información Territorial de las Illes Balears'],
+    ['104', "Serveis de Millora Agrària, SA", 'Servicios de Mejora Agraria, SA'],
+    ['105', "Serveis d'Informació Territorial de les Illes Balears, SA", 'Servicios de Información Territorial de las Illes Balears, SA'],
+    ['108', "Ràdio de les Illes Balears, SA", 'Radio de las Illes Balears, SA'],
+    ['109', "Televisió de les Illes Balears, SA", 'Televisión de las Illes Balears, SA'],
+    ['110', "Gestió d'Emergències de les Illes Balears, SA", 'Gestión de Emergencias de las Illes Balears, SA'],
+    ['111', 'Multimèdia de les Illes Balears, SA', 'Multimedia de las Illes Balears, SA'],
+    ['201', "Fundació per a l'Esport Balear", 'Fundación para el  Deporte Balear'],
+    ['202', 'Fundació Conservatori de Música i Dansa de les Illes Balears', 'Fundación para el Conservatorio de Música y Danza de las Illes Balears'],
+    ['203', "Fundació Institut Socioeducatiu s'Estel", "Fundación Instituto Socioeducativo s'Estel"],
+    ['209', 'Fundació Robert Graves', 'Fundación Robert Graves'],
+    ['210', "Fundació Teatre Principal d'Inca", 'Fundación Teatro Principal de Inca'],
+    ['212', 'Fundació Banc de Sang i Teixits de les Illes Balears', 'Fundación Banco de Sangre y Tejidos de las Illes Balears'],
+    ['213', "Fundació Escola Superior d'Art Dramàtic de les Illes Balears", 'Fundación para la Escuela Superior de Arte Dramático de las Illes Balears'],
+    ['214', "Fundació d'Investigació Sanitària de les Illes Balears Ramon Llull", 'Fundación de Investigación Sanitaria de las Illes Balears Ramon Llull'],
+    ['215', "Fundació d'Atenció i Suport a la Dependència", 'Fundación Atención y Apoyo a la Dependencia'],
+    ['216', 'Fundació Santuari de Lluc', 'Fundación Santuario de Lluc'],
+    ['222', "Fundació Balear d'Innovació i Tecnologia", 'Fundación Balear de Innovación y Tecnología'],
+    ['301', 'Centre Balears Europa', 'Centro Baleares Europa'],
+    ['302', 'Escola d’Hoteleria', 'Escuela de Hostelería'],
+    ['303', 'Consorci Desestacionalització de l’Oferta a l’Illa de Mallorca', 'Consorcio Desestacionalitzación de la Oferta en la isla de Mallorca'],
+    ['304', 'Velòdrom Palma Arena', 'Consorcio Velódromo Palma Arena'],
+    ['305', 'Consorci d’Infraestructures de les Illes Balears', 'Consorcio de Infraestructuras de las Illes Balears'],
+    ['306', 'Consorci Orquestra Simfònica Illes Balears “Ciutat de Palma”', 'Consorcio Orquesta Sinfònica de las Illes Balears “Ciutat de Palma”'],
+    ['307', 'Consorci Foment d’Infraestructures Universitàries (COFIU)', 'Consorcio para el Fomento de Infraestructuras Universitarias (COFIU)'],
+    ['308', "Institut d'Estudis Baleàrics", 'Instituto de Estudios Baleáricos'],
+    ['309', 'Consorci Recuperació de la Fauna de les Illes Balears (COFIB)', 'Consorcio para la Recuperación de la Fauna de las Illes Balears (COFIB)'],
+    ['310', "Consorci d'Aigües de les Illes Balears", 'Consorcio de Aguas de las Illes Balears'],
+    ['311', 'Consorci de Transports de Mallorca', 'Consorcio de Transportes de Mallorca'],
+    ['312', 'Consorci Formentera Desenvolupament', 'Consorcio Desarrollo Formentera'],
+    ['313', 'Consorci Infraestructures ELM Palmanyola', 'Consorcio para el Desarrollo de Actuaciones en Palmanyola'],
+    ['314', 'Consorci de Recursos Sociosanitaris i Assistencials IB', 'Consorcio de Recursos Sociosanitarios y Asistenciales IB'],
+    ['315', 'Agència de Qualitat Universitària', 'Agencia de Calidad Universitaria'],
 ]
 
-area_descriptions_es = [
-    ['0', 'Entidades p&uacute;blicas empresariales'],
-    ['1', 'Sociedades mercantiles p&uacute;blicas'],
-    ['2', 'Fundaciones'],
-    ['3', 'Consorcios'],
-]
-
-area_descriptions_ca = [
-    ['0', 'Entitats p&uacute;bliques empresarials'],
-    ['1', 'Societats mercantils p&uacute;bliques'],
-    ['2', 'Fundacions'],
-    ['3', 'Consorcis'],
+area_descriptions = [
+    ['0', 'Entitats p&uacute;bliques empresarials', 'Entidades p&uacute;blicas empresariales'],
+    ['1', 'Societats mercantils p&uacute;bliques', 'Sociedades mercantiles p&uacute;blicas'],
+    ['2', 'Fundacions', 'Fundaciones'],
+    ['3', 'Consorcis', 'Consorcios'],
 ]
 
 def _get_area(item):
@@ -358,17 +351,17 @@ def institutions(request, render_callback=None):
     c['entity'] = main_entity
 
     # Add our custom descriptions
+    descriptions_position = 1 if c['LANGUAGE_CODE']=='ca' else 2
     c['descriptions'] = { 'income': {}, 'expense': {} }
     for item in entity_descriptions:
-        c['descriptions']['income'][item[0]] = item[1]
-        c['descriptions']['expense'][item[0]] = item[1]
+        description = item[descriptions_position]
+        c['descriptions']['income'][item[0]] = description
+        c['descriptions']['expense'][item[0]] = description
 
     c['income_areas'] = {}
     c['expense_areas'] = {}
-    area_descriptions = area_descriptions_ca if c['LANGUAGE_CODE']=='ca' else area_descriptions_es
     for item in area_descriptions:
-        description = item[1]
-        print description
+        description = item[descriptions_position]
         c['income_areas'][item[0]] = description
         c['expense_areas'][item[0]] = description
         c['descriptions']['income'][item[0]] = description
