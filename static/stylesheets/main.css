@@ -7806,4 +7806,21 @@ table.table-grid tr td a {
   #cookie-bar a.cb-policy:hover {
     color: #000; }
 
+#projects-panel {
+  margin-top: 30px; }
+  #projects-panel .panel-title {
+    font-size: 1.125em; }
+  #projects-panel .project-description {
+    display: block;
+    padding-bottom: 6px;
+    margin-bottom: 8px;
+    color: #555555;
+    font-size: 0.913em;
+    text-transform: none;
+    border-bottom: 1px solid #b3b3b3; }
+  #projects-panel .panel-content > p:last-child .project-description {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: none; }
+
 /*# sourceMappingURL=main.css.map */

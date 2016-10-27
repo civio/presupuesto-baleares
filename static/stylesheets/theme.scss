@@ -279,3 +279,28 @@ table.table-grid{
     color: $text-color;
   }
 }
+
+// Proyects panel
+
+#projects-panel{
+  margin-top: $grid-gutter-width;
+
+  .panel-title{
+    font-size: 1.125em;
+  }
+  .project-description{
+    display: block;
+    padding-bottom: 6px;
+    margin-bottom: 8px;
+    color: $gray;
+    font-size: 0.913em;
+    text-transform: none;
+    border-bottom: 1px solid mix( $gray-light, $gray-lighter, 50% );
+  }
+
+  .panel-content > p:last-child .project-description{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    border: none;
+  }
+}
