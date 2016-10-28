@@ -1,14 +1,14 @@
 2015,0,Deute públic
 2015,1,Funcionament institucional i administració general
 2015,2,Serveis públics generals
-2015,3,"Seguretat, protecció i promoció social"
+2015,3,Protecció i promoció social
 2015,4,Producció de béns públics de caràcter social
 2015,5,Producció de béns públics de caràcter econòmic
 2015,7,Foment i regulació de sectors productius
 2015,8,Fons de contingència
 2015,9,Suport financer a altres administracions públiques
 2015,01,Deute públic
-2015,11,Alta direcció de la Comunitat Autònoma i del Govern
+2015,11,Alta direcció de la Comunitat Autònoma i Govern
 2015,12,Administració i serveis generals
 2015,13,Relacions institucionals i processos electorals
 2015,14,Regulació econòmica
@@ -16,9 +16,9 @@
 2015,21,Justícia
 2015,22,Seguretat i protecció civil
 2015,23,Relacions exteriors i cooperació al desenvolupament
-2015,31,Seguretat i protecció social
+2015,31,Protecció social
 2015,32,Promoció social
-2015,41,Sanitat
+2015,41,Salut
 2015,42,Educació
 2015,43,Habitatge i urbanisme
 2015,44,Consum
@@ -28,21 +28,20 @@
 2015,52,Transport
 2015,53,Ordenació del territori i urbanisme
 2015,54,"Recerca científica, tècnica i aplicada"
-2015,55,Societat de la informació i el coneixement i telecomunicacions
-2015,56,Cicle de l'aigua
+2015,55,Societat de la informació i el coneix. i telecom.
+2015,56,Clicle de l'aigua
 2015,57,Actuacions ambientals
 2015,58,Infraestructures agràries i rurals
 2015,59,Altres actuacions de caràcter econòmic
 2015,71,"Agricultura, ramaderia i pesca"
 2015,72,Indústria
 2015,73,Energia
-2015,74,Mineria
 2015,75,Turisme
 2015,76,Comerç
 2015,81,Fons de contingència
-2015,91,Suport financer a administracions públiques territorials
+2015,91,Suport financer administracions públiques territo
 2015,011,Deute públic
-2015,111,Alta direcció de la Comunidad Autònoma
+2015,111,Alta direcció de la Comunitat Autònoma
 2015,121,Serveis generals i funció pública
 2015,126,Altres serveis generals
 2015,131,Relacions institucionals
@@ -54,15 +53,12 @@
 2015,223,Protecció civil
 2015,231,Relacions exteriors
 2015,232,Cooperació internacional
-2015,311,"Administració, inspecció i control de seguretat social i protecció"
-2015,312,Assistència a la desocupació
-2015,313,Acció social
+2015,313,Serveis socials
 2015,314,Pensions i altres prestacions econòmiques
 2015,322,Promoció de l'ocupació
 2015,323,Promoció sociocultural
 2015,324,Relacions laborals
-2015,411,Administració general de sanitat
-2015,412,Serveis assistencials de salut
+2015,411,Administració general de salut
 2015,413,Accions públiques relatives a la salut
 2015,421,Administració general d'educació
 2015,422,Ensenyament
@@ -72,47 +68,45 @@
 2015,451,Administració general de cultura
 2015,455,Promoció cultural
 2015,461,Esports
-2015,511,Administració general d'infrastructures bàsiques i transports
+2015,511,Administració general infraestr.bàsiques i transp.
 2015,521,Transport terrestre
 2015,522,Transport marítim i aeri
 2015,531,Ordenació del territori
 2015,541,Recerca i documentació científica
 2015,542,Recerca tècnica i aplicada
-2015,551,Societat de la informació i el coneixement i telecomunicacions
+2015,551,Societat de la informació i el coneix. i telecom.
 2015,561,Recursos hidràulics
 2015,562,Sanejament i abastament d'aigües
 2015,571,Protecció i conservació del medi natural
 2015,572,Prevenció i control ambiental
 2015,581,Infraestructures per al desenvolupament rural
 2015,591,Cartografia i estadística
-2015,711,"Administració general d'agricultura, ramaderia i pesca"
-2015,714,Ordenació de les produccions i regulació dels mercats agraris
-2015,718,Proteció dels recursos pesquers i reforma de les estructures
+2015,711,"Administració general agricultura,ramaderia,pesca"
+2015,714,Ordenació de les produccions i reg.mercats agraris
+2015,718,Proteció dels recursos pesquers i reforma estruct.
 2015,721,Administració general d'indústria
 2015,722,Actuacions administratives sobre les indústries
-2015,723,Reconversió i modernització d'empreses
+2015,723,Reconversió i modernització del sector industrial
 2015,731,Planificació i producció energètica
-2015,741,Foment de la mineria i de les comarques mineres
 2015,751,Ordenació i promoció turística
 2015,761,Comerç
 2015,811,Fons de contingència
-2015,912,Suport financer a administracions públiques territorials
+2015,912,Suport financer a corporacions locals
 2015,011A,Amortització i despeses financeres de deute públic
 2015,111A,Activitat legislativa
 2015,111B,Control extern de les administracions
 2015,111C,Assessorament consultiu institucional
-2015,111D,"Assessorament en matèria social, econòmica i laboral"
-2015,111E,Control patrimonial dels càrrecs públics
-2015,111F,Control dels mitjans de comunicació audiovisual
-2015,112F,Qualitat al Govern de les Illes Balears
+2015,111D,"Assessorament matèria social, econòmica i laboral"
+2015,111E,Control patrimonial dels alts càrrecs
+2015,111F,Control del mitjans de comunicació audiovisual
 2015,121A,Serveis generals de la Presidència del Govern
-2015,121B,Direcció i serveis generals de la Conselleria de Presidència
-2015,121C,Coordinació de programes de govern
+2015,121B,Direcció i serv.grals. de la C.de Presidència
+2015,121C,Coordinació de programes de Govern
 2015,121G,Formació i selecció del personal
 2015,121H,Gestió de recursos humans
-2015,121I,Salut i prevenció de riscs laborals a l’Administració
-2015,126B,Publicacions i Butlletí Oficial de les Illes Balears
-2015,126E,Serveis de l'advocacia i coordinació de serveis jurídics
+2015,121I,Salut i prevenció de riscs laborals a l'Administr.
+2015,126B,Publicacions i Butlletí Oficial Illes Balears
+2015,126E,Serveis de l'advocacia i coordin. serveis jurídics
 2015,126F,Serveis comuns generals
 2015,126H,"Assessorament, estudi, recerca i difusió normativa"
 2015,126I,Gestió del parc mòbil
@@ -121,28 +115,27 @@
 2015,126L,Serveis comuns tecnològics
 2015,126M,Contractació centralitzada
 2015,131A,Relacions amb el Parlament
-2015,131B,Relacions i cooperació amb altres administracions públiques i ens públics i privats
-2015,131C,Foment de la participació de centres i cases regionals a les Illes Balears
-2015,132A,"Organització, gestió i seguiment de processos electorals"
-2015,141A,Direcció i serveis generals d'Hisenda i Administracions Públiques
+2015,131B,Relacions i coop.altres adm.públiques i altres ens
+2015,131C,Foment participació centres i cases regionals
+2015,132A,"Organització, gestió i seguiment proc. electorals"
+2015,141A,Direcció i serv.gen. Hisenda i Adm.Públiques
 2015,141B,Planificació pressupostària i finançament
 2015,141C,Gestió comptable i control intern
 2015,141D,Planificació i ordenació de la política econòmica
 2015,141E,Gestió de tresoreria i política financera
-2015,141F,Organització i gestió del patrimoni de la Comunitat Autònoma
+2015,141F,Organització i gestió del patrimoni de la com.aut.
 2015,141G,Gestió dels fons procedents de la Unió Europea
 2015,151A,Comunicació institucional
-2015,151B,Foment de projectes de comunicació d'interès social
+2015,151B,Foment de projectes comunicació interès social
 2015,151C,"Qualitat, transparència i participació"
-2015,211A,Col·laboracions institucionals en matèria de justícia
+2015,211A,Col·laboracions institucionals en matèria justícia
 2015,222A,Seguretat als edificis administratius de la CAIB
 2015,222B,Activitats classificades i espectacles
 2015,222C,Actuació de policies
 2015,223A,Emergències
 2015,231A,Coordinació de l'acció exterior del Govern
-2015,231B,Foment i relacions amb comunitats balears radicades a l'exterior
+2015,231B,Foment i rel. amb comunitats balears a l'exterior
 2015,232A,Cooperació internacional
-2015,313A,Centres assistencials
 2015,313B,Atenció a la discapacitat
 2015,313C,Mesures judicials i prevenció del delicte
 2015,313D,Atenció a la dependència
@@ -150,25 +143,25 @@
 2015,313G,Família i unitats de convivència
 2015,313I,Planificació i ordenació socials
 2015,313J,Integració social d'immigrants
-2015,313K,Direcció i serveis generals de Serveis Socials i Cooperació
+2015,313K,Direcció i serv.generals Serv.Socials i Cooperació
 2015,314A,Pensions i prestacions econòmiques
-2015,322A,Ocupació i inserció laboral específics
+2015,322A,Ocupació i inserció laboral específiques
 2015,322B,Gestió de les relacions laborals
-2015,322C,Planificació estratègica de l'ocupació
-2015,322D,Foment i gestió de l'ocupació a les Illes Balears
-2015,323A,Protecció i foment de la  integració i foment de la participació social de la joventut
+2015,322C,Foment de la responsabilitat social corporativa
+2015,322D,Foment i gestió de l'ocupació de les Illes Balears
+2015,323A,Protecció i foment de la  integració i de joventut
 2015,323C,"Promoció, protecció i serveis per a la dona"
 2015,324A,Salut i prevenció de riscs laborals
 2015,411A,Direcció i serveis generals de Salut
 2015,411D,"Planificació, avaluació i cartera de serveis"
-2015,411E,Finançament de l'assistència sanitària
+2015,411E,Finançament sanitari
 2015,413A,"Acreditació, docència i recerca en salut"
 2015,413B,Programes de salut pública
 2015,413C,Sanitat ambiental i alimentària
 2015,413D,Coordinació de centres insulars
 2015,413E,Pla autonòmic de drogues
-2015,413F,"Planificació, control i gestió del medicament i dels serveis farmacèutics"
-2015,421A,Direcció i serveis generals d'Educació i Universitat
+2015,413F,Planif.control i gestió medicament i serv.farmacèu
+2015,421A,Direcció i ser. gen. d'Educació i Universitat
 2015,421B,Ordenació general del sistema educatiu
 2015,421C,Planificació educativa i règim de centres escolars
 2015,421D,Formació del professorat
@@ -180,46 +173,29 @@
 2015,421K,Innovació i comunitat educativa
 2015,422A,Educació pública
 2015,422B,Educació concertada
-2015,423A,Beques i ajuts a l'estudi
+2015,423A,Beques i ajuts al'estudi
 2015,423B,Altres serveis a l'ensenyament
 2015,431A,Gestió i foment de l'habitatge social
 2015,431B,"Arquitectura, habitatge i protecció del patrimoni"
 2015,441A,Protecció i defensa del consumidor
-2015,443A,Administració i plans mediambientals
-2015,443J,Gestió d'espais naturals
-2015,443K,Seguiment i vigilància del canvi climàtic
-2015,443L,Espais de rellevància ambiental (Xarxa Natura 2000)
-2015,443M,Educació ambiental i societat
-2015,443N,Formació i educació amb relació a la mar
-2015,443P,Qualitat de les aigües de bany
-2015,443Q,Qualitat de l'aire i contaminació atmosfèrica
-2015,451A,"Direcció i serveis generals de Transparència, Cultura i Esports"
+2015,451A,"Direcció i serv.gen.Transparència, Cultura Esports"
 2015,455A,Promoció i serveis de cultura
-2015,455B,Planificació i normalització de la llengua catalana
+2015,455B,Planificació i normalització llengua catalana
 2015,461A,Promoció i foment de l'esport
-2015,463C,Projectes de comunicació d'interès social
-2015,463D,Eleccions i partits polítics
-2015,463E,"Participació, transparència, bon govern i voluntariat"
-2015,511B,"Direcció i serveis generals de Territori, Energia i Mobilitat"
-2015,513C,Ordenació i inspecció del transport terrestre
-2015,513D,Infraestructures bàsiques
+2015,511B,"Direcció i serv.generals Territori, Energia i Mob."
 2015,521A,Infraestructures bàsiques
 2015,521B,Ordenació i inspecció del transport terrestre
 2015,521C,Transport ferroviari
+2015,521D,Transport per carretera
 2015,522A,Ports i transport marítim
 2015,522B,Aeroports i transport aeri
-2015,531A,Infraestructures agràries de les zones rurals
-2015,533A,Conservació i millora del medi natural
-2015,533B,Planificació forestal
-2015,533D,"Gestió d'espais naturals protegits, parcs naturals, àrees recreatives i finques públiques"
-2015,533F,Espècies silvestres: conservació i sensibilització
-2015,533G,Gestió de la sanitat forestal
-2015,541A,Recerca i desenvolupament tecnològic
-2015,542A,Innovació tecnològica
-2015,551A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
-2015,551B,Gestió dels sistemes i les tecnologies de la informació
-2015,561A,Domini públic hidràulic: protecció i control. Directiva marc de l'aigua
-2015,562A,Abastament d'aigua
+2015,531A,Ordenació del territori i urbanisme
+2015,541A,Recerca i desenvolupament
+2015,542A,Innovació
+2015,551A,"Ordenació, regul. i desenvol. telecomunicacions"
+2015,551B,Gestió sistemes i tecnologies de la informació
+2015,561A,DPH: Protecció i control Directiva marc de l'aigua
+2015,562A,Abastament d'aigües
 2015,562B,Sanejament i depuració d'aigües
 2015,571A,Gestió de residus
 2015,571B,Educació ambiental
@@ -228,76 +204,26 @@
 2015,571E,Planificació forestal
 2015,571F,Espècies silvestres
 2015,571G,Sanitat forestal
-2015,572A,"Seguiment i control del canvi climàtic, qualitat de l'aire i contaminació atmosfèrica"
+2015,572A,Seguiment i control del canvi climàtic
+2015,572B,Qualitat ambiental i sostenibilitat
 2015,581A,Infraestructures de regadiu
 2015,591A,Estadística
 2015,591B,Cartografia
-2015,611A,Direcció i serveis generals d'Hisenda i Administracions Públiques
-2015,612A,Planificació i ordenació de la política econòmica
-2015,612B,Planificació i política pressupostària
-2015,612C,Gestió comptable i control intern
-2015,612E,Gestió de tresoreria i política financera
-2015,612G,Organització i gestió del patrimoni de la comunitat autònoma
-2015,612H,Gestió dels fons procedents de la Unió Europea
-2015,633A,Imprevists i funcions no classificades
-2015,634A,Fons de contingència d'execució pressupostària
-2015,711A,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
+2015,711A,"Direcció i serv.gen. Medi Ambient, Agric. i Pesca"
 2015,714B,Foment del sector agrari
 2015,718A,Recursos marins i ordenació del sector pesquer
-2015,721A,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2015,721A,"Direcció i serv.gen.Treball, Comerç i Indústria"
 2015,722A,Regulació i normativa industrial
 2015,723A,Promoció industrial
-2015,731A,Foment de l'ús d'energies renovables i de l'estalvi d'energia
-2015,751A,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2015,731A,Foment ús d'energies renovables i estalvi energ.
+2015,751A,"Direcció i serv.gen. Innov.,Recerca i Turisme"
 2015,751B,Promoció turística
-2015,751C,Ordenació del sector i redefinició del model turístic
+2015,751C,Ordenació del sector i redefinició model turístic
 2015,761A,Ordenació i promoció comercial i empresarial
 2015,761B,Gestió en matèria de joc
-2015,763A,Ordenació de les estructures comercials i empresarials
 2015,811A,Fons de contingència
 2015,912A,Suport financer als consells insulars
-2015,912B,Suport financert a ajuntaments i altres ens locals
-2015,112B,Relacions amb el Parlament
-2015,112C,Relacions i cooperació amb altres administracions públiques i ens públics i privats
-2015,112E,Coordinació de programes del Govern
-2015,112G,Reorganització i racionalització del sector públic instrumental de la CAIB
-2015,121E,"Registre, supervisió i relacions amb associacions i entitats jurídiques"
-2015,121J,Gestió en matèria de joc
-2015,121K,Altres actuacions d'administració general i funció pública
-2015,124A,Cooperació i relacions amb els ens territorials i relacions interadministratives
-2015,126A,Manteniment i conservació del Palau de Marivent
-2015,126C,Comunicació i informació institucional
-2015,134A,Planificació i avaluació de la cooperació al desenvolupament
-2015,313L,Ajuda a les víctimes del delicte
-2015,315B,Salut i prevenció de riscs laborals
-2015,315C,Foment de la responsabilitat social corporativa
-2015,315D,Salut i prevenció de riscs laborals a l'administració
-2015,323D,Foment de la participació de centres i cases regionals a les IB
-2015,411B,Administració i serveis generals de l'assistència sanitària
-2015,411C,Formació del personal sanitari
-2015,412A,Atenció primària de salut
-2015,412B,Atenció especialitzada de salut
-2015,412C,Assistència sociosanitària i salut mental
-2015,412D,Assistència sanitària
-2015,422G,Tecnologies de la informació i la comunicació
-2015,422H,Suport al trilingüisme
-2015,441B,Sanejament i depuració d'aigües
-2015,443B,"Qualitat ambiental, control de la contaminació i assessoria mediambiental"
-2015,443C,Gestió de residus
-2015,443E,Protecció i defensa del consumidor
-2015,455C,Promoció de la cultura de les IB
-2015,457A,Promoció i foment de l'esport
-2015,463B,Informació i atenció a la ciutadania
-2015,511C,Ordenació del territori i urbanisme
-2015,511E,Gestió dels transports aeri i marítim a les IB
-2015,512A,"Protecció, control i defensa del domini públic hidràulic. Directiva marc de l'aigüa"
-2015,514A,Ordenació del litoral
-2015,514B,Gestió de les instal·lacions portuàries
-2015,613A,Gestió i inspecció de tributs
-2015,613B,Suport a la gestió tributària
-2015,635A,Mecanisme extraordinari de finançament a proveïdors
-2015,718C,Programes europeus de pesca
-2015,731C,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2015,912B,Suport financer a ajuntaments i altres ens locals
 2015,111E01,Control patrimonial dels alts càrrecs
 2015,126E01,Serveis de l'advocacia i coordin. serveis jurídics
 2015,141E01,Gestió de tresoreria i política financera
@@ -593,6 +519,32 @@
 2015,811A01,Fons de contingència
 2015,912A01,Suport financer als consells insulars
 2015,912B01,Suport financer a ajuntaments i altres ens locals
+2015,4,Producció de béns públics de caràcter social
+2015,41,Sanitat
+2015,411,Administració general de sanitat
+2015,412,"Hospitals, serveis assistencials i centres de salut"
+2015,411B,Administració i serveis generals assit.sanitària
+2015,411B01,Administració i serveis generals assit.sanitària
+2015,411B02,Planificació de l'assistència sanitària
+2015,411C,Formació del personal sanitari
+2015,411C01,Formació del personal sanitari
+2015,412A,Atenció primària de salut
+2015,412A01,Atenció primària de salut
+2015,412B,Atenció especialitzada de salut
+2015,412B01,Atenció especialitzada de salut
+2015,412C,Assistència sociosanitària i salut mental
+2015,412C01,Assistència sociosanitària i salut mental
+2015,412D,Assistència sanitària
+2015,412D01,Assistència sanitària
+2015,1,Funcionament institucional i administració general
+2015,14,Regulació econòmica
+2015,142,Gestió del sistema tributari
+2015,142A,Gestió i inspecció de tributs
+2015,142B,Suport a la gestió tributària
+2015,142A01,Gestió i inspecció de tributs
+2015,142A99,Gestió i inspecció de tributs-obligacions 409
+2015,142B01,Suport a la gestió tributària
+2015,142B99,Suport a la gestió tributària-obligacions 409
 2015,112G01,Reorganització i racionalització del sector públic instrumental de la CAIB
 2015,421B02,Programes internacionals
 2015,422G01,Tecnologies de la informació i la comunicació a l'àmbit escolar
@@ -602,17 +554,9 @@
 2015,443A01,Administració i plans mediambientals
 2015,562A02,Gestió de la demanda
 2015,718C01,Programes europeus de pesca
-2015,313L01,Ajuda a les víctimes de delictes
-2015,455C01,Promoció de la cultura de les IB
-2015,142A01,Gestió i inspecció de tributs
-2015,411B01,Administració i serveis generals de l'assistència sanitària
-2015,412A01,Atenció primària de salut
-2015,412B01,Atenció especialitzada de salut
-2015,412C01,Assistència sociosanitària i salut mental
-2015,411C01,Formació del personal sanitari
 2015,718C02,"Inversions FEP, recursos marins"
 2015,718C03,"Inversions FEP, ordenació de la pesca"
-2015,142B01,Gestió i inspecció de tributs
-2015,412D01,Assistència sanitària
+2015,313L01,Ajuda a les víctimes de delictes
+2015,455C01,Promoció de la cultura de les IB
 2015,422H01,Suport altrilinguisme
 2015,571C02,Gestió de la Xarxa Natura 2000 i projectes

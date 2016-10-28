@@ -1,14 +1,14 @@
 2013,0,Deute públic
 2013,1,Funcionament institucional i administració general
 2013,2,Serveis públics generals
-2013,3,"Seguretat, protecció i promoció social"
+2013,3,Protecció i promoció social
 2013,4,Producció de béns públics de caràcter social
 2013,5,Producció de béns públics de caràcter econòmic
 2013,7,Foment i regulació de sectors productius
 2013,8,Fons de contingència
 2013,9,Suport financer a altres administracions públiques
 2013,01,Deute públic
-2013,11,Alta direcció de la Comunitat Autònoma i del Govern
+2013,11,Alta direcció de la Comunitat Autònoma i Govern
 2013,12,Administració i serveis generals
 2013,13,Relacions institucionals i processos electorals
 2013,14,Regulació econòmica
@@ -16,9 +16,9 @@
 2013,21,Justícia
 2013,22,Seguretat i protecció civil
 2013,23,Relacions exteriors i cooperació al desenvolupament
-2013,31,Seguretat i protecció social
+2013,31,Protecció social
 2013,32,Promoció social
-2013,41,Sanitat
+2013,41,Salut
 2013,42,Educació
 2013,43,Habitatge i urbanisme
 2013,44,Consum
@@ -28,21 +28,20 @@
 2013,52,Transport
 2013,53,Ordenació del territori i urbanisme
 2013,54,"Recerca científica, tècnica i aplicada"
-2013,55,Societat de la informació i el coneixement i telecomunicacions
-2013,56,Cicle de l'aigua
+2013,55,Societat de la informació i el coneix. i telecom.
+2013,56,Clicle de l'aigua
 2013,57,Actuacions ambientals
 2013,58,Infraestructures agràries i rurals
 2013,59,Altres actuacions de caràcter econòmic
 2013,71,"Agricultura, ramaderia i pesca"
 2013,72,Indústria
 2013,73,Energia
-2013,74,Mineria
 2013,75,Turisme
 2013,76,Comerç
 2013,81,Fons de contingència
-2013,91,Suport financer a administracions públiques territorials
+2013,91,Suport financer administracions públiques territo
 2013,011,Deute públic
-2013,111,Alta direcció de la Comunidad Autònoma
+2013,111,Alta direcció de la Comunitat Autònoma
 2013,121,Serveis generals i funció pública
 2013,126,Altres serveis generals
 2013,131,Relacions institucionals
@@ -54,15 +53,12 @@
 2013,223,Protecció civil
 2013,231,Relacions exteriors
 2013,232,Cooperació internacional
-2013,311,"Administració, inspecció i control de seguretat social i protecció"
-2013,312,Assistència a la desocupació
-2013,313,Acció social
+2013,313,Serveis socials
 2013,314,Pensions i altres prestacions econòmiques
 2013,322,Promoció de l'ocupació
 2013,323,Promoció sociocultural
 2013,324,Relacions laborals
-2013,411,Administració general de sanitat
-2013,412,Serveis assistencials de salut
+2013,411,Administració general de salut
 2013,413,Accions públiques relatives a la salut
 2013,421,Administració general d'educació
 2013,422,Ensenyament
@@ -72,47 +68,45 @@
 2013,451,Administració general de cultura
 2013,455,Promoció cultural
 2013,461,Esports
-2013,511,Administració general d'infrastructures bàsiques i transports
+2013,511,Administració general infraestr.bàsiques i transp.
 2013,521,Transport terrestre
 2013,522,Transport marítim i aeri
 2013,531,Ordenació del territori
 2013,541,Recerca i documentació científica
 2013,542,Recerca tècnica i aplicada
-2013,551,Societat de la informació i el coneixement i telecomunicacions
+2013,551,Societat de la informació i el coneix. i telecom.
 2013,561,Recursos hidràulics
 2013,562,Sanejament i abastament d'aigües
 2013,571,Protecció i conservació del medi natural
 2013,572,Prevenció i control ambiental
 2013,581,Infraestructures per al desenvolupament rural
 2013,591,Cartografia i estadística
-2013,711,"Administració general d'agricultura, ramaderia i pesca"
-2013,714,Ordenació de les produccions i regulació dels mercats agraris
-2013,718,Proteció dels recursos pesquers i reforma de les estructures
+2013,711,"Administració general agricultura,ramaderia,pesca"
+2013,714,Ordenació de les produccions i reg.mercats agraris
+2013,718,Proteció dels recursos pesquers i reforma estruct.
 2013,721,Administració general d'indústria
 2013,722,Actuacions administratives sobre les indústries
-2013,723,Reconversió i modernització d'empreses
+2013,723,Reconversió i modernització del sector industrial
 2013,731,Planificació i producció energètica
-2013,741,Foment de la mineria i de les comarques mineres
 2013,751,Ordenació i promoció turística
 2013,761,Comerç
 2013,811,Fons de contingència
-2013,912,Suport financer a administracions públiques territorials
+2013,912,Suport financer a corporacions locals
 2013,011A,Amortització i despeses financeres de deute públic
 2013,111A,Activitat legislativa
 2013,111B,Control extern de les administracions
 2013,111C,Assessorament consultiu institucional
-2013,111D,"Assessorament en matèria social, econòmica i laboral"
-2013,111E,Control patrimonial dels càrrecs públics
-2013,111F,Control dels mitjans de comunicació audiovisual
-2013,112F,Qualitat al Govern de les Illes Balears
+2013,111D,"Assessorament matèria social, econòmica i laboral"
+2013,111E,Control patrimonial dels alts càrrecs
+2013,111F,Control del mitjans de comunicació audiovisual
 2013,121A,Serveis generals de la Presidència del Govern
-2013,121B,Direcció i serveis generals de la Conselleria de Presidència
-2013,121C,Coordinació de programes de govern
+2013,121B,Direcció i serv.grals. de la C.de Presidència
+2013,121C,Coordinació de programes de Govern
 2013,121G,Formació i selecció del personal
 2013,121H,Gestió de recursos humans
-2013,121I,Salut i prevenció de riscs laborals a l’Administració
-2013,126B,Publicacions i Butlletí Oficial de les Illes Balears
-2013,126E,Serveis de l'advocacia i coordinació de serveis jurídics
+2013,121I,Salut i prevenció de riscs laborals a l'Administr.
+2013,126B,Publicacions i Butlletí Oficial Illes Balears
+2013,126E,Serveis de l'advocacia i coordin. serveis jurídics
 2013,126F,Serveis comuns generals
 2013,126H,"Assessorament, estudi, recerca i difusió normativa"
 2013,126I,Gestió del parc mòbil
@@ -121,28 +115,27 @@
 2013,126L,Serveis comuns tecnològics
 2013,126M,Contractació centralitzada
 2013,131A,Relacions amb el Parlament
-2013,131B,Relacions i cooperació amb altres administracions públiques i ens públics i privats
-2013,131C,Foment de la participació de centres i cases regionals a les Illes Balears
-2013,132A,"Organització, gestió i seguiment de processos electorals"
-2013,141A,Direcció i serveis generals d'Hisenda i Administracions Públiques
+2013,131B,Relacions i coop.altres adm.públiques i altres ens
+2013,131C,Foment participació centres i cases regionals
+2013,132A,"Organització, gestió i seguiment proc. electorals"
+2013,141A,Direcció i serv.gen. Hisenda i Adm.Públiques
 2013,141B,Planificació pressupostària i finançament
 2013,141C,Gestió comptable i control intern
 2013,141D,Planificació i ordenació de la política econòmica
 2013,141E,Gestió de tresoreria i política financera
-2013,141F,Organització i gestió del patrimoni de la Comunitat Autònoma
+2013,141F,Organització i gestió del patrimoni de la com.aut.
 2013,141G,Gestió dels fons procedents de la Unió Europea
 2013,151A,Comunicació institucional
-2013,151B,Foment de projectes de comunicació d'interès social
+2013,151B,Foment de projectes comunicació interès social
 2013,151C,"Qualitat, transparència i participació"
-2013,211A,Col·laboracions institucionals en matèria de justícia
+2013,211A,Col·laboracions institucionals en matèria justícia
 2013,222A,Seguretat als edificis administratius de la CAIB
 2013,222B,Activitats classificades i espectacles
 2013,222C,Actuació de policies
 2013,223A,Emergències
 2013,231A,Coordinació de l'acció exterior del Govern
-2013,231B,Foment i relacions amb comunitats balears radicades a l'exterior
+2013,231B,Foment i rel. amb comunitats balears a l'exterior
 2013,232A,Cooperació internacional
-2013,313A,Centres assistencials
 2013,313B,Atenció a la discapacitat
 2013,313C,Mesures judicials i prevenció del delicte
 2013,313D,Atenció a la dependència
@@ -150,25 +143,25 @@
 2013,313G,Família i unitats de convivència
 2013,313I,Planificació i ordenació socials
 2013,313J,Integració social d'immigrants
-2013,313K,Direcció i serveis generals de Serveis Socials i Cooperació
+2013,313K,Direcció i serv.generals Serv.Socials i Cooperació
 2013,314A,Pensions i prestacions econòmiques
-2013,322A,Ocupació i inserció laboral específics
+2013,322A,Ocupació i inserció laboral específiques
 2013,322B,Gestió de les relacions laborals
-2013,322C,Planificació estratègica de l'ocupació
-2013,322D,Foment i gestió de l'ocupació a les Illes Balears
-2013,323A,Protecció i foment de la  integració i foment de la participació social de la joventut
+2013,322C,Foment de la responsabilitat social corporativa
+2013,322D,Foment i gestió de l'ocupació de les Illes Balears
+2013,323A,Protecció i foment de la  integració i de joventut
 2013,323C,"Promoció, protecció i serveis per a la dona"
 2013,324A,Salut i prevenció de riscs laborals
 2013,411A,Direcció i serveis generals de Salut
 2013,411D,"Planificació, avaluació i cartera de serveis"
-2013,411E,Finançament de l'assistència sanitària
+2013,411E,Finançament sanitari
 2013,413A,"Acreditació, docència i recerca en salut"
 2013,413B,Programes de salut pública
 2013,413C,Sanitat ambiental i alimentària
 2013,413D,Coordinació de centres insulars
 2013,413E,Pla autonòmic de drogues
-2013,413F,"Planificació, control i gestió del medicament i dels serveis farmacèutics"
-2013,421A,Direcció i serveis generals d'Educació i Universitat
+2013,413F,Planif.control i gestió medicament i serv.farmacèu
+2013,421A,Direcció i ser. gen. d'Educació i Universitat
 2013,421B,Ordenació general del sistema educatiu
 2013,421C,Planificació educativa i règim de centres escolars
 2013,421D,Formació del professorat
@@ -180,46 +173,29 @@
 2013,421K,Innovació i comunitat educativa
 2013,422A,Educació pública
 2013,422B,Educació concertada
-2013,423A,Beques i ajuts a l'estudi
+2013,423A,Beques i ajuts al'estudi
 2013,423B,Altres serveis a l'ensenyament
 2013,431A,Gestió i foment de l'habitatge social
 2013,431B,"Arquitectura, habitatge i protecció del patrimoni"
 2013,441A,Protecció i defensa del consumidor
-2013,443A,Administració i plans mediambientals
-2013,443J,Gestió d'espais naturals
-2013,443K,Seguiment i vigilància del canvi climàtic
-2013,443L,Espais de rellevància ambiental (Xarxa Natura 2000)
-2013,443M,Educació ambiental i societat
-2013,443N,Formació i educació amb relació a la mar
-2013,443P,Qualitat de les aigües de bany
-2013,443Q,Qualitat de l'aire i contaminació atmosfèrica
-2013,451A,"Direcció i serveis generals de Transparència, Cultura i Esports"
+2013,451A,"Direcció i serv.gen.Transparència, Cultura Esports"
 2013,455A,Promoció i serveis de cultura
-2013,455B,Planificació i normalització de la llengua catalana
+2013,455B,Planificació i normalització llengua catalana
 2013,461A,Promoció i foment de l'esport
-2013,463C,Projectes de comunicació d'interès social
-2013,463D,Eleccions i partits polítics
-2013,463E,"Participació, transparència, bon govern i voluntariat"
-2013,511B,"Direcció i serveis generals de Territori, Energia i Mobilitat"
-2013,513C,Ordenació i inspecció del transport terrestre
-2013,513D,Infraestructures bàsiques
+2013,511B,"Direcció i serv.generals Territori, Energia i Mob."
 2013,521A,Infraestructures bàsiques
 2013,521B,Ordenació i inspecció del transport terrestre
 2013,521C,Transport ferroviari
+2013,521D,Transport per carretera
 2013,522A,Ports i transport marítim
 2013,522B,Aeroports i transport aeri
-2013,531A,Infraestructures agràries de les zones rurals
-2013,533A,Conservació i millora del medi natural
-2013,533B,Planificació forestal
-2013,533D,"Gestió d'espais naturals protegits, parcs naturals, àrees recreatives i finques públiques"
-2013,533F,Espècies silvestres: conservació i sensibilització
-2013,533G,Gestió de la sanitat forestal
-2013,541A,Recerca i desenvolupament tecnològic
-2013,542A,Innovació tecnològica
-2013,551A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
-2013,551B,Gestió dels sistemes i les tecnologies de la informació
-2013,561A,Domini públic hidràulic: protecció i control. Directiva marc de l'aigua
-2013,562A,Abastament d'aigua
+2013,531A,Ordenació del territori i urbanisme
+2013,541A,Recerca i desenvolupament
+2013,542A,Innovació
+2013,551A,"Ordenació, regul. i desenvol. telecomunicacions"
+2013,551B,Gestió sistemes i tecnologies de la informació
+2013,561A,DPH: Protecció i control Directiva marc de l'aigua
+2013,562A,Abastament d'aigües
 2013,562B,Sanejament i depuració d'aigües
 2013,571A,Gestió de residus
 2013,571B,Educació ambiental
@@ -228,76 +204,26 @@
 2013,571E,Planificació forestal
 2013,571F,Espècies silvestres
 2013,571G,Sanitat forestal
-2013,572A,"Seguiment i control del canvi climàtic, qualitat de l'aire i contaminació atmosfèrica"
+2013,572A,Seguiment i control del canvi climàtic
+2013,572B,Qualitat ambiental i sostenibilitat
 2013,581A,Infraestructures de regadiu
 2013,591A,Estadística
 2013,591B,Cartografia
-2013,611A,Direcció i serveis generals d'Hisenda i Administracions Públiques
-2013,612A,Planificació i ordenació de la política econòmica
-2013,612B,Planificació i política pressupostària
-2013,612C,Gestió comptable i control intern
-2013,612E,Gestió de tresoreria i política financera
-2013,612G,Organització i gestió del patrimoni de la comunitat autònoma
-2013,612H,Gestió dels fons procedents de la Unió Europea
-2013,633A,Imprevists i funcions no classificades
-2013,634A,Fons de contingència d'execució pressupostària
-2013,711A,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
+2013,711A,"Direcció i serv.gen. Medi Ambient, Agric. i Pesca"
 2013,714B,Foment del sector agrari
 2013,718A,Recursos marins i ordenació del sector pesquer
-2013,721A,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2013,721A,"Direcció i serv.gen.Treball, Comerç i Indústria"
 2013,722A,Regulació i normativa industrial
 2013,723A,Promoció industrial
-2013,731A,Foment de l'ús d'energies renovables i de l'estalvi d'energia
-2013,751A,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2013,731A,Foment ús d'energies renovables i estalvi energ.
+2013,751A,"Direcció i serv.gen. Innov.,Recerca i Turisme"
 2013,751B,Promoció turística
-2013,751C,Ordenació del sector i redefinició del model turístic
+2013,751C,Ordenació del sector i redefinició model turístic
 2013,761A,Ordenació i promoció comercial i empresarial
 2013,761B,Gestió en matèria de joc
-2013,763A,Ordenació de les estructures comercials i empresarials
 2013,811A,Fons de contingència
 2013,912A,Suport financer als consells insulars
-2013,912B,Suport financert a ajuntaments i altres ens locals
-2013,112B,Relacions amb el Parlament
-2013,112C,Relacions i cooperació amb altres administracions públiques i ens públics i privats
-2013,112E,Coordinació de programes del Govern
-2013,112G,Reorganització i racionalització del sector públic instrumental de la CAIB
-2013,121E,"Registre, supervisió i relacions amb associacions i entitats jurídiques"
-2013,121J,Gestió en matèria de joc
-2013,121K,Altres actuacions d'administració general i funció pública
-2013,124A,Cooperació i relacions amb els ens territorials i relacions interadministratives
-2013,126A,Manteniment i conservació del Palau de Marivent
-2013,126C,Comunicació i informació institucional
-2013,134A,Planificació i avaluació de la cooperació al desenvolupament
-2013,313L,Ajuda a les víctimes del delicte
-2013,315B,Salut i prevenció de riscs laborals
-2013,315C,Foment de la responsabilitat social corporativa
-2013,315D,Salut i prevenció de riscs laborals a l'administració
-2013,323D,Foment de la participació de centres i cases regionals a les IB
-2013,411B,Administració i serveis generals de l'assistència sanitària
-2013,411C,Formació del personal sanitari
-2013,412A,Atenció primària de salut
-2013,412B,Atenció especialitzada de salut
-2013,412C,Assistència sociosanitària i salut mental
-2013,412D,Assistència sanitària
-2013,422G,Tecnologies de la informació i la comunicació
-2013,422H,Suport al trilingüisme
-2013,441B,Sanejament i depuració d'aigües
-2013,443B,"Qualitat ambiental, control de la contaminació i assessoria mediambiental"
-2013,443C,Gestió de residus
-2013,443E,Protecció i defensa del consumidor
-2013,455C,Promoció de la cultura de les IB
-2013,457A,Promoció i foment de l'esport
-2013,463B,Informació i atenció a la ciutadania
-2013,511C,Ordenació del territori i urbanisme
-2013,511E,Gestió dels transports aeri i marítim a les IB
-2013,512A,"Protecció, control i defensa del domini públic hidràulic. Directiva marc de l'aigüa"
-2013,514A,Ordenació del litoral
-2013,514B,Gestió de les instal·lacions portuàries
-2013,613A,Gestió i inspecció de tributs
-2013,613B,Suport a la gestió tributària
-2013,635A,Mecanisme extraordinari de finançament a proveïdors
-2013,718C,Programes europeus de pesca
-2013,731C,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2013,912B,Suport financer a ajuntaments i altres ens locals
 2013,111E01,Control patrimonial dels alts càrrecs
 2013,126E01,Serveis de l'advocacia i coordin. serveis jurídics
 2013,141E01,Gestió de tresoreria i política financera
@@ -593,6 +519,32 @@
 2013,811A01,Fons de contingència
 2013,912A01,Suport financer als consells insulars
 2013,912B01,Suport financer a ajuntaments i altres ens locals
+2013,4,Producció de béns públics de caràcter social
+2013,41,Sanitat
+2013,411,Administració general de sanitat
+2013,412,"Hospitals, serveis assistencials i centres de salut"
+2013,411B,Administració i serveis generals assit.sanitària
+2013,411B01,Administració i serveis generals assit.sanitària
+2013,411B02,Planificació de l'assistència sanitària
+2013,411C,Formació del personal sanitari
+2013,411C01,Formació del personal sanitari
+2013,412A,Atenció primària de salut
+2013,412A01,Atenció primària de salut
+2013,412B,Atenció especialitzada de salut
+2013,412B01,Atenció especialitzada de salut
+2013,412C,Assistència sociosanitària i salut mental
+2013,412C01,Assistència sociosanitària i salut mental
+2013,412D,Assistència sanitària
+2013,412D01,Assistència sanitària
+2013,1,Funcionament institucional i administració general
+2013,14,Regulació econòmica
+2013,142,Gestió del sistema tributari
+2013,142A,Gestió i inspecció de tributs
+2013,142B,Suport a la gestió tributària
+2013,142A01,Gestió i inspecció de tributs
+2013,142A99,Gestió i inspecció de tributs-obligacions 409
+2013,142B01,Suport a la gestió tributària
+2013,142B99,Suport a la gestió tributària-obligacions 409
 2013,112G01,Reorganització i racionalització del sector públic instrumental de la CAIB
 2013,421B02,Programes internacionals
 2013,422G01,Tecnologies de la informació i la comunicació a l'àmbit escolar
@@ -602,17 +554,9 @@
 2013,443A01,Administració i plans mediambientals
 2013,562A02,Gestió de la demanda
 2013,718C01,Programes europeus de pesca
-2013,313L01,Ajuda a les víctimes de delictes
-2013,455C01,Promoció de la cultura de les IB
-2013,142A01,Gestió i inspecció de tributs
-2013,411B01,Administració i serveis generals de l'assistència sanitària
-2013,412A01,Atenció primària de salut
-2013,412B01,Atenció especialitzada de salut
-2013,412C01,Assistència sociosanitària i salut mental
-2013,411C01,Formació del personal sanitari
 2013,718C02,"Inversions FEP, recursos marins"
 2013,718C03,"Inversions FEP, ordenació de la pesca"
-2013,142B01,Gestió i inspecció de tributs
-2013,412D01,Assistència sanitària
+2013,313L01,Ajuda a les víctimes de delictes
+2013,455C01,Promoció de la cultura de les IB
 2013,422H01,Suport altrilinguisme
 2013,571C02,Gestió de la Xarxa Natura 2000 i projectes

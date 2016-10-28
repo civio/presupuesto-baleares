@@ -13,8 +13,8 @@ FEATURED_PROGRAMMES = ['412A', '531A', '562A', '422A']
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': '21',
-                            'label.ca': 'Impost sobre el Valor Afegit',
-                            'label.es': 'Impuesto sobre el Valor Añadido',
+                            'label.ca': 'Impost sobre el valor afegit',
+                            'label.es': 'Impuesto sobre el valor añadido',
                           },
                           {
                             'nodes': '10',
@@ -30,7 +30,7 @@ OVERVIEW_INCOME_NODES = [
                           '20',
                           {
                             'nodes': [['11', '110']],
-                            'label.ca': 'Impost sobre successions i donacions',
+                            'label.ca': 'Impost general sobre successions i donacions',
                             'label.es': 'Impuesto sobre sucesiones y donaciones',
                             'link_id': '11'
                           }

@@ -1,255 +1,300 @@
-2016,02,Parlament de les IB
-2016,03,Sindicatura de Comptes de les IB
-2016,04,Consell Consultiu de les IB
-2016,05,Consell Econòmic i Social de les IB
-2016,06,Oficina de Transparència i Control del Patrimoni dels Càrrecs Públics de les IB
-2016,07,Consell Audiovisual de les IB
-2016,11,Presidència
-2016,12,"Innovació, Recerca i Turisme"
-2016,13,Educació i Universitat
-2016,14,Hisenda i Administracions Públiques
-2016,15,"Medi Ambient, Agricultura i Pesca"
-2016,17,Serveis Socials i Cooperació
-2016,18,Salut
-2016,19,"Treball, Comerç i Indústria"
-2016,25,"Territori, Energia i Mobilitat"
-2016,26,"Participació, Transparència i Cultura"
-2016,31,Serveis comuns generals
+2016,02,Parlament de les Illes Balears
+2016,03,Sindicatura de Comptes de les Illes Balears
+2016,04,Consell Consultiu de les Illes Balears
+2016,05,Consell Econòmic i Social de les Illes Balears
+2016,06,Oficina de Lluita contra la Corrupció IB
+2016,07,Consell Audiovisual de les Illes Balears
+2016,11,Conselleria de Presidència
+2016,12,"Conselleria d'Innovació, Recerca i Turisme"
+2016,13,Conselleria d'Educació i Universitat
+2016,14,Conselleria d'Hisenda i Administracions Públiques
+2016,15,"Conselleria de Medi Ambient, Agricultura i Pesca"
+2016,17,Conselleria de Serveis Socials i Cooperació
+2016,18,Conselleria de Salut
+2016,19,"Conselleria de Treball, Comerç i Indústria"
+2016,25,"Conselleria de Territori, Energia i Mobilitat"
+2016,26,"Conselleria de Transparència, Cultura i Esports"
+2016,31,Serveis comuns
 2016,32,Ens territorials
 2016,33,Serveis comuns tecnològics
 2016,34,Deute públic
-2016,35,Fons de contingència d'execució pressupostaria
+2016,35,Fons de contingència
 2016,36,"Serveis comuns, despeses de personal"
 2016,73,Institut Balear de la Dona
-2016,76,Servei d'Ocupació de les IB
-2016,77,Institut d'Estadística de les IB
+2016,76,Servei d'Ocupació de les Illes Balears
+2016,77,Institut d'Estadística de les Illes Balears
 2016,78,Escola Balear d'Administració Pública
-2016,50,Agència Tributària de les IB
-2016,60,Servei de Salut de les IB
-2016,021,Parlament de les IB
-2016,031,Sindicatura de Comptes de les IB
-2016,041,Consell Consultiu de les IB
-2016,051,Consell Econòmic i Social de les IB
-2016,061,Oficina de Transparència i Control del Patrimoni dels Càrrecs Públics de les IB
-2016,071,Consell Audiovisual de les IB
-2016,111,Presidència de les IB
-2016,112,Secretaria General
-2016,114,DG Coordinació del Govern
-2016,115,DG Comunicació
+2016,021,Parlament de les Illes Balears
+2016,031,Sindicatura de Comptes de les Illes Balears
+2016,041,Consell Consultiu de les Illes Balears
+2016,051,Consell Econòmic i Social de les Illes Balears
+2016,061,Oficina de Lluita contra la Corrupció IB
+2016,071,Consell Audiovisual de les Illes Balears
+2016,111,Presidència de les Illes Balears
+2016,112,Secretaria General Conselleria de Presidència
+2016,114,Direcció General de Coordinació
+2016,115,Direcció General de Comunicació
 2016,116,Direcció de l'Advocacia de la Comunitat Autònoma
-2016,117,DG Relacions Institucionals i Acció Exterior
-2016,118,DG Relacions amb el Parlament de les IB
-2016,121,Secretaria General
-2016,122,DG Turisme
-2016,125,DG Innovació i Recerca
-2016,126,DG Desenvolupament Tecnològic
-2016,127,DG Fons Europeus
-2016,131,Secretaria General
-2016,135,"DG Planificació, Ordenació i Centres"
-2016,136,DG Innovació y Comunitat Educativa
-2016,137,DG Personal Docent
-2016,138,DG Política Universitaria i Ensenyament Superior
-2016,139,DG Formació Professional i Formació del Professorat
-2016,141,Secretaria General
-2016,142,DG Funció Pública i Administracions Públiques
-2016,143,DG Emergències i Interior
-2016,144,DG Pressuposts i Finançament
+2016,117,Direcció General de Relacions Institucionals i Acció Exterior
+2016,118,Direcció General de Relacions amb el Parlament
+2016,121,"Secretaria General Conselleria d'Innovació, Recerca i Turisme"
+2016,122,Direcció General de Turisme
+2016,125,Direcció General d'Innovació i Recerca
+2016,126,Direcció General de Desenvolupament Tecnològic
+2016,127,Direcció General de Fons Europeus
+2016,131,Secretaria General Conselleria d'Educació i Universitat
+2016,135,"Direcció General de Planificació, Ordenació i Centres"
+2016,136,Direcció General d'Innovació i Comunitat Educativa
+2016,137,Direcció General de Personal Docent
+2016,138,Direcció General de Política Universitària i d'Ensenyament Superior
+2016,139,Direcció General de Formació Professional i Formació Professorat
+2016,141,Secretaria General Conselleria d'Hisenda i Administrac.Públiques
+2016,142,Direcció General Funció Pública i Administracions Públiques
+2016,143,Direcció General d'Emergències i Interior
+2016,144,Direcció General de Pressuposts i Finançament
 2016,145,Intervenció General
-2016,146,"DG Tresor, Política Financera i Patrimoni"
-2016,151,Secretaria General
-2016,152,DG Recursos Hídrics
-2016,153,DG Espais Naturals i Biodiversitat
-2016,155,DG Agricultura i Ramaderia
-2016,156,"DG Educació Ambiental, Qualitat Ambiental i Residus"
-2016,159,DG Pesca i Medi Marí
-2016,171,Secretaria General
-2016,172,DG Menors i Família
-2016,173,DG Dependència
-2016,174,DG Planificació i Serveis Socials
-2016,175,DG Cooperació
-2016,181,Secretaria General
-2016,182,DG Salut Pública i Participació
-2016,183,DG Consum
-2016,184,"DG Planificació, Avaluació i Farmàcia"
-2016,185,"DG Acreditació, Docència i Recerca en Salut"
-2016,191,Secretaria General
-2016,192,DG Ocupació i Economía
-2016,193,DG Comerç i Empresa
-2016,194,DG Política Industrial
-2016,196,"DG Treball, Economía Social i Salut Laboral"
-2016,251,Secretaria General
-2016,252,DG Transports
-2016,253,DG Oredenació del Territori
-2016,254,DG Ports i Aeroports
-2016,255,DG Arquitectura i Habitatge
-2016,256,DG Energía i Canvi Climàtic
-2016,261,Secretaria General
-2016,262,DG Cultura
-2016,263,DG Participació i Transparència
-2016,264,DG Política Lingüística
-2016,265,DG Esports i Joventut
-2016,311,"Serveis comuns, despeses diverses"
-2016,321,Ens Territorials
+2016,146,"Direcció General del Tresor, Política Financera i Patrimoni"
+2016,151,"Secretaria General C.Medi Ambient, Agricultura i Pesca"
+2016,152,Direcció General de Recursos Hídrics
+2016,153,Direcció General d'Espais Naturals i Biodiversitat
+2016,155,Direcció General d'Agricultura i Ramaderia
+2016,156,"Direcció General d'Educació Ambiental, Qualitat Amb. i Residus"
+2016,159,Direcció General de Pesca i Medi Marí
+2016,171,Secretaria General C.Serveis Socials i Cooperació
+2016,172,Direcció General de Menors i Famílies
+2016,173,Direcció General de Dependència
+2016,174,Direcció General de Planificació i Serveis Socials
+2016,175,Direcció General de Cooperació
+2016,181,Secretaria General Conselleria de Salut
+2016,182,Direcció General de Salut Pública i Participació
+2016,183,Direcció General de Consum
+2016,184,"Direcció General de Planificació, Avaluació i Farmàcia"
+2016,185,"Direcció General d'Acreditació, Docència i Recerca en Salut"
+2016,191,"Secretaria General C.Treball, Comerç i Indústria"
+2016,192,Direcció General d'Ocupació i Economia
+2016,193,Direcció General Comerç i Empresa
+2016,194,Direcció General de Política Industrial
+2016,196,"Direcció General de Treball, Economia Social i Salut Laboral"
+2016,251,"Secretaria General C.Territori, Energia i Mobilitat"
+2016,252,Direcció General de Transports
+2016,253,Direcció General d'Ordenació del Territori
+2016,254,Direcció General de Ports i Aeroports
+2016,255,Direcció General d'Arquitectura i Habitatge
+2016,256,Direcció General d'Energia i Canvi Climàtic
+2016,261,"Secretaria General C. Transparència, Cultura i Esports"
+2016,262,Direcció General de Cultura
+2016,263,Direcció General de Participació i Transparència
+2016,264,Direcció General de Política Lingüística
+2016,265,Direcció General d'Esports i Joventut
+2016,311,Serveis comuns
+2016,321,Ens territorials
 2016,331,Serveis comuns tecnològics
-2016,341,Deute Públic
-2016,351,Fons de Contingència
+2016,341,Deute públic
+2016,351,Fons de contingència
 2016,361,"Serveis comuns, despeses de personal"
-2016,731,OA Institut Balear de la Dona
-2016,761,OA Servei d'Ocupació de les IB
-2016,771,OA Institut d'Estadística de les IB
-2016,781,OA Escola Balear d'Administració Pública
-2016,500,Agència Tributària de les IB
-2016,600,Gerència Serveis Centrals
-2016,601,Gerència Hospital Universitari Son Espases
-2016,602,"Gerència Àrea Salut, Menorca"
-2016,603,"Gerència Àrea Salut, Eivissa-Formentera"
-2016,604,"Gerència Atenció Primària, Mallorca"
-2016,605,Hospital Formentera
-2016,606,Hospital Son Llàtzer
-2016,607,Hospital Manacor
-2016,608,Hospital Comarcal Inca
-2016,609,Gerència 061
-2016,60B,Central de compres del Servei de Salut de les IB
-2016,60C,"Central de compres, servis centrals"
-2016,60D,"Central de compres, HU Son Espases"
-2016,60E,"Central de compres, àrea salut Eivissa"
-2016,60F,"Central de compres, hospital Formentera"
-2016,60G,"Central de compres, atenció primaria  Mallorca"
-2016,60I,"Central de compres, hospital Inca"
-2016,60L,"Central de compres, hospital Son Llàtzer"
-2016,60M,"Central de compres, àrea salut Menorca"
-2016,60N,"Central de compres, hospital Manacor"
-2016,60U,"Central de compres, gerència 061"
-2016,02101,Gabinet de la Presidència del Parlament de les IB
+2016,731,Institut Balear de la Dona
+2016,761,Servei d'Ocupació de les Illes Balears
+2016,771,Institut d'Estadística de les Illes Balears
+2016,781,Escola Balear d'Administració Pública
+2016,02101,Gabinet de la Presidència del Parlament
 2016,02102,Oficialia Major
-2016,02103,Mesa del Parlament de les IB
-2016,02104,Sindicatura de Greuges de les IB
-2016,03101,Sindicatura de Comptes de les IB
-2016,04101,Consell Consultiu de les IB
-2016,05101,Consell Econòmic i Social de les IB
-2016,06101,Oficina de Transparència i Control del Patrimoni dels Càrrecs Públics de les IB
-2016,07101,Consell Audiovisual de les IB
+2016,02103,Mesa del Parlament de les Illes Balears
+2016,02104,Sindicatura de Greuges
+2016,03101,Sindicatura de Comptes de les Illes Balears
+2016,04101,Consell Consultiu de les Illes Balears
+2016,05101,Consell Econòmic i Social de les Illes Balears
+2016,06101,Oficina de Lluita contra la Corrupció IB
+2016,07101,Consell Audiovisual de les Illes Balears
 2016,11101,Gabinet de la Presidència
-2016,11201,Secretaria General
-2016,11401,DG Coordinació del Govern
-2016,11501,DG Comunicació
-2016,11601,Direcció de l'Advocacia de la Comunitat Autònoma IB
+2016,11201,Secretaria General Conselleria de Presidència
+2016,11202,Marivent
+2016,11401,Direcció General de Coordinació
+2016,11501,Direcció General de Comunicació
+2016,11601,Direcció de l'Advocacia de la Comunitat Autònoma
 2016,11602,Institut d'Estudis Autonòmics
-2016,11701,DG Relacions Institucionals i Acció Exterior
-2016,11801,DG Relacions amb el Parlament de les IB
-2016,12101,Secretaria General
-2016,12201,DG Turisme
-2016,12501,DG Innovació i Recerca
-2016,12601,DG Desenvolupament Tecnològic
-2016,12701,DG Fons Europeus
-2016,13101,Secretaria General
-2016,13501,"DG Planificació, Ordenació i Centres"
-2016,13601,DG Innovació i Comunitat Educativa
-2016,13701,DG Personal Docent
-2016,13801,DG Política Universitària y Ensenyament Superior
-2016,13901,DG Formació Professional i Formació del Professorat
-2016,14101,Secretaria General
-2016,14201,DG Funció Pública i Administracions Públiques
-2016,14301,DG Emergències i Interior
-2016,14401,DG Pressuposts i Finançament
+2016,11701,Direcció General de Relacions Institucionals i Acció Exterior
+2016,11801,Direcció General de Relacions amb el Parlament
+2016,12101,"Secretaria General Conselleria d'Innovació, Recerca i Turisme"
+2016,12201,Direcció General de Turisme
+2016,12501,Direcció General d'Innovació i Recerca
+2016,12601,Direcció General de Desenvolupament Tecnològic
+2016,12701,Direcció General de Fons Europeus
+2016,13101,Secretaria General Conselleria d'Educació i Universitat
+2016,13501,"Direcció General de Planificació, Ordenació i Centres"
+2016,13601,Direcció General d'Innovació i Comunitat Educativa
+2016,13701,Direcció General de Personal Docent
+2016,13801,Direcció General de Política Universitària i d'Ensenyament Superior
+2016,13901,Direcció General de Formació Professional i Formació Professorat
+2016,14101,Secretaria General Conselleria d'Hisenda i Administrac.Públiques
+2016,14201,Direcció General Funció Pública i Administracions Públiques
+2016,14301,Direcció General d'Emergències i Interior
+2016,14401,Direcció General de Pressuposts i Finançament
 2016,14501,Intervenció General
-2016,14601,"DG Tresor, Política Financera i Patrimoni"
-2016,15101,Secretaria General
-2016,15201,DG Recursos Hídrics
-2016,15301,DG Espais Naturals i Biodiversitat
-2016,15501,DG Agricultura i Ramaderia
-2016,15601,"DG Educació Ambiental, Qualitat Ambiental i Residus"
-2016,15901,DG Pesca i Medi Marí
-2016,17101,Secretaria General
-2016,17201,DG Menors i Família
-2016,17301,DG Dependència
-2016,17302,"Centre bases discapacitats, Mallorca"
-2016,17303,"Centre base discapacitats, Menorca"
-2016,17304,"Centre base discapacitats, Eivissa i Formentera"
-2016,17401,DG Planificació i Serveis Socials
-2016,17501,DG Cooperació
-2016,18101,Secretaria General
-2016,18201,DG Salut Pública i Participació
-2016,18204,"Centre insular, Menorca"
-2016,18205,"Centre insular, Eivissa-Formentera"
+2016,14601,"Direcció General del Tresor, Política Financera i Patrimoni"
+2016,15101,"Secretaria General C.Medi Ambient, Agricultura i Pesca"
+2016,15201,Direcció General de Recursos Hídrics
+2016,15301,Direcció General d'Espais Naturals i Biodiversitat
+2016,15501,Direcció General d'Agricultura i Ramaderia
+2016,15601,"Direcció General d'Educació Ambiental, Qualitat Amb. i Residus"
+2016,15901,Direcció General de Pesca i Medi Marí
+2016,17101,Secretaria General C.Serveis Socials i Cooperació
+2016,17201,Direcció General de Menors i Famílies
+2016,17301,Direcció General de Dependència
+2016,17302,Centre base discapacitats Mallorca
+2016,17303,Centre base discapacitats Menorca
+2016,17304,Centre base discapacitats Eivissa i Formentera
+2016,17401,Direcció General de Planificació i Serveis Socials
+2016,17501,Direcció General de Cooperació
+2016,18101,Secretaria General Conselleria de Salut
+2016,18201,Direcció General de Salut Pública i Participació
+2016,18204,Centre insular de Menorca
+2016,18205,Centre insular d'Eivissa i Formentera
 2016,18206,Laboratori de Salut Pública
-2016,18301,DG Consum
-2016,18401,"DG Planificació, Avaluació i Farmàcia"
-2016,18501,"DG Acreditació, Docència i Investigació en Salut"
-2016,19101,Secretaria General
-2016,19201,DG Ocupació i Economia
-2016,19301,DG Comerç i Empresa
-2016,19401,DG Política Industrial
-2016,19601,"DG Treball, Economia Social i Salut Laboral"
-2016,25101,Secretaria General
-2016,25201,DG Transports
-2016,25301,DG ordenació del Territori
-2016,25401,DG Ports i Aeroports
-2016,25501,DG Arquitectura i Habitatge
-2016,25601,DG Energia i Canvi Climàtic
-2016,26101,Secretaria General
-2016,26201,DG Cultura
-2016,26203,Biblioteca Pública de Palma
-2016,26204,Biblioteca Pública de Maó
+2016,18301,Direcció General de Consum
+2016,18401,"Direcció General de Planificació, Avaluació i Farmàcia"
+2016,18501,"Direcció General d'Acreditació, Docència i Recerca en Salut"
+2016,19101,"Secretaria General C.Treball, Comerç i Indústria"
+2016,19201,Direcció General d'Ocupació i Economia
+2016,19301,Direcció General Comerç i Empresa
+2016,19401,Direcció General de Política Industrial
+2016,19601,"Direcció General de Treball, Economia Social i Salut Laboral"
+2016,25101,"Secretaria General C.Territori, Energia i Mobilitat"
+2016,25201,Direcció General de Transports
+2016,25301,Direcció General d'Ordenació del Territori
+2016,25401,Direcció General de Ports i Aeroports
+2016,25501,Direcció General d'Arquitectura i Habitatge
+2016,25601,Direcció General d'Energia i Canvi Climàtic
+2016,26101,"Secretaria General C. Transparència, Cultura i Esports"
+2016,26201,Direcció General de Cultura
+2016,26202,Arxiu General de l'Administració
+2016,26203,Biblioteca pública de Palma
+2016,26204,Biblioteca pública de Maó
 2016,26208,Arxiu del Regne de Mallorca
 2016,26209,Museu de Mallorca
 2016,26210,Museu de Menorca
-2016,26211,Museu Monogràfic Puig des Molins
-2016,26212,Museu Arqueològic d'Eivissa i Formentera
-2016,26213,Museu Etnològic de Muro
-2016,26301,DG Participació i Transparència
-2016,26401,DG Política Lingüística
-2016,26501,DG Esports i Joventut
-2016,26502,"Poliesportiu ""Príncipes de Espanya"""
-2016,31101,"Serveis comuns, despeses diverses"
-2016,32101,Ens Territorials
+2016,26211,Museu Arqueològic d'Eivissa i Formentera
+2016,26301,Direcció General de Participació i Transparència
+2016,26401,Direcció General de Política Lingüística
+2016,26501,Direcció General d'Esports i Joventut
+2016,26502,"Poliesportiu ""Príncipes de España"""
+2016,31101,Serveis comuns
+2016,32101,Ens territorials
 2016,33101,Serveis comuns tecnològics
-2016,34101,Deute Públic
-2016,35101,Fons de Contingència d'Execució Pressupostària
+2016,34101,Deute públic
+2016,35101,Fons de contingència
 2016,36101,"Serveis comuns, despeses de personal"
-2016,73101,OA Institut Balear de la Dona
-2016,73102,Consell de Participació de la Dona de les IB
-2016,76101,OA Servei d'Ocupació de les IB
-2016,77101,OA Institut d'Estadística de les IB
-2016,78101,OA Escola Balear d'Administració Pública
-2016,50001,Pendent denominació 2016
+2016,73101,Institut Balear de la Dona
+2016,73102,Consell de Participació de la Dona
+2016,76101,Servei d'Ocupació de les Illes Balears
+2016,77101,Institut d'Estadística de les Illes Balears
+2016,78101,Escola Balear d'Administració Pública
+2016,60,Servei de Salut de les Illes Balears
+2016,600,Gerència Serveis Centrals
 2016,60001,Serveis Centrals
-2016,60002,"Serveis Centrals, personal funció pública"
+2016,60002,Serveis Centrals Personal funció pública
 2016,60003,Hospital Joan March
 2016,60004,Hospital General
 2016,60005,Hospital Psiquiàtric
-2016,60099,"Serveis Centrals, pagaments 409 exercicis anteriors"
+2016,60099,Gerència Serveis Centrals - deute
+2016,601,Gerència Hospital Son Espases
 2016,60101,Hospital Universitari Son Espases
-2016,60199,"Hospital Universitari Son Espases, pagaments 409 exercicis anterior"
-2016,60201,"Àrea de Salut, Menorca"
-2016,60301,"Àrea de Salut, Eivissa-Formentera"
-2016,60401,"Gerència Atenció Primària, Mallorca"
-2016,60402,"Gerència Atenció Primària Mallorca, Ponent"
-2016,60403,"Gerència Atenció Primària Mallorca, Mitjorn"
-2016,60404,"Gerència Atenció Primària Mallorca, Tramuntana"
-2016,60405,"Gerència Atenció Primària Mallorca, Llevant"
-2016,60501,Hospital Formentera
+2016,60199,Hospital Univ. Son Espases-oblig. 409
+2016,602,Gerència Àrea de Salut de Menorca
+2016,60201,Àrea de Salut de Menorca
+2016,60299,Gerència Àrea de S de Menorca-oblig. 409
+2016,603,Gerència Àrea de Salut d'Eivissa-Form.
+2016,60301,Àrea de Salut d'Eivissa - Formentera
+2016,60399,Àrea de Salut d'Eivissa-oblig. 409
+2016,604,Gerència Atenció Primària de Mallorca
+2016,60401,Gerència Atenció Primària Mallorca
+2016,60402,Gerència Atenció Primària Mallorca - Sector de Ponent
+2016,60403,Gerència Atenció Primària Mallorca - Sector de Migjorn
+2016,60404,Gerència Atenció Primària Mallorca - Sector de Tramuntana
+2016,60405,Gerència Atenció Primària Mallorca - Sector de Llevant
+2016,60499,Gerència Atenció Primària Mallorca - deute
+2016,605,Hospital de Formentera
+2016,60501,Hospital de Formentera
+2016,60599,Hospital de Formentera-oblig. 409
+2016,606,Hospital Son Llàtzer
 2016,60601,Hospital Son Llàtzer
-2016,60701,Hospital Manacor
-2016,60799,"Hospital Manacor, pagaments 409 exercicis anteriors"
-2016,60801,Hospital Comarcal Inca
-2016,60899,"Hospital Comarcal Inca, pagaments 409 exercicis anterior"
-2016,60901,Gerència 061
-2016,60B01,Central de compres
-2016,60B99,"Central de compres, pagaments 409 exercicis anteriors"
-2016,60C01,"Central de compres, servis centrals"
-2016,60D01,"Central de compres, HU Son Espases"
-2016,60D99,"Central de compres, HU Son Espases pagaments compta 409 exercicis anteriors"
-2016,60E01,"Central de compres, àrea salut Eivissa"
-2016,60E99,"Central de compres, àrea salut Eivissa pagaments 409 exercicis anteriors"
-2016,60F01,"Central de compres, hospital de Formentera"
-2016,60G01,"Central de compres, atenció primària  Mallorca"
-2016,60I01,"Central de compres, hospital Inca"
-2016,60I99,"Central de compres, hospital Inca pagaments 409 exercicis anteriors"
-2016,60L01,"Central de compres, hospital Son Llàtzer"
-2016,60L99,"Central de compres, hospital Son Llàtzer, pagaments compta 409 exercicis anteriors"
-2016,60M01,"Central de compres, àrea salut Menorca"
-2016,60M99,"Central de compres, àrea salut Menorca pagaments 409 exercicis anteriors"
-2016,60N01,"Central de compres, hospital Manacor"
-2016,60N99,"Central de compres, hospital Manacor pagaments 409 exercicis anteriors"
-2016,60U01,"Central de compres, gerència 061"
+2016,60699,Hospital Son Llàtzer - deute
+2016,607,Hospital de Manacor
+2016,60701,Hospital de Manacor
+2016,60799,Hospital de Manacor - deute
+2016,608,Hospital comarcal d'Inca
+2016,60801,Hospital comarcal d'Inca
+2016,60899,Hospital Comarcal d'Inca - deute
+2016,609,Gerència 061
+2016,60901,Gerència del 061
+2016,60999,Gerència del 061-oblig. 409
+2016,60B,Central de Compres del Servei de Salut
+2016,60B01,Central de Compres del Servei de Salut
+2016,60B99,Central de Compres del Servei de Salut-oblig. 409
+2016,60C,Central compres - Serv.centrals
+2016,60C01,Central compres - Serv.centrals
+2016,60C99,Central compres - Serv.centrals - Deute
+2016,60D,Central compres - H.Son Espases
+2016,60D01,Central compres - H.Son Espases
+2016,60D99,Central compres - H.Son Espases - Deute
+2016,60E,Central compres - Àrea Eivissa
+2016,60E01,Central compres - Àrea Eivissa
+2016,60E99,Central compres - Àrea Eivissa - Deute
+2016,60F,Central compres - H.Formentera
+2016,60F01,Central compres - H.Formentera
+2016,60F99,Central compres - H.Formentera - Deute
+2016,60G,Central compres - GAP Mallorca
+2016,60G01,Central compres - GAP Mallorca
+2016,60G99,Central compres - GAP Mallorca - Deute
+2016,60I,Central compres - H.Inca
+2016,60I01,Central compres - H.Inca
+2016,60I99,Central compres - H.Inca - Deute
+2016,60L,Central compres - H.Son Llàtzer
+2016,60L01,Central compres - H.Son Llàtzer
+2016,60L99,Central compres - H.Son Llàtzer - Deute
+2016,60M,Central compres - Àrea Menorca
+2016,60M01,Central compres - Àrea Menorca
+2016,60M99,Central compres - Àrea Menorca - Deute
+2016,60N,Central compres - H.Manacor
+2016,60N01,Central compres - H.Manacor
+2016,60N99,Central compres - H.Manacor - Deute
+2016,60U,Central compres - Gerència 061
+2016,60U01,Central compres - Gerència 061
+2016,60U99,Central compres - Gerència 061 - Deute
+2016,50,Agència Tributària de les Illes Balears
+2016,500,Agència Tributària de les Illes Balears
+2016,50001,Agència Tributària de les Illes Balears
+2016,11102,Institut d'Estudis Autonòmics
+2016,11103,Oficina de Control Pressupostari
+2016,12301,DG Esports
+2016,12302,Poliesportiu Prícipes de España
+2016,12303,Escola de Vela Cala Nova
+2016,12401,DG Ports i Aeroports
+2016,13201,DG Cultura i Joventut
+2016,13202,Sa Llonja
+2016,13203,Biblioteca Pública de Palma
+2016,13204,Biblioteca Pública de Maó
+2016,13208,Arxiu del Regne de Mallorca
+2016,13209,Museu de Mallorca
+2016,13210,Museu de Menorca
+2016,13211,Museu Monogràfic Es Puig des Molins
+2016,13212,Museu Arqueològic d'Eivissa
+2016,13213,Museu Etnològic de Muro
+2016,13401,"DG Ordenació, Innovació i Formació Professional"
+2016,14701,DG Comerç i Empresa
+2016,14801,DG Indústria i Energia
+2016,14901,DG Innovació i Desenvolupament Tecnològic
+2016,15401,DG Ordenació del Territori
+2016,15701,DG Transports
+2016,16101,Secretaria General
+2016,16201,"DG Funció Pública, Administracions Públiques i Qualitat dels Serveis"
+2016,16301,"DG Interior, Emergències i Justícia"
+2016,16401,"DG Patrimoni, Contractes i Obres Públiques"
+2016,18102,Oficina del Defensor dels Usuaris del Sistema Sanitari
+2016,18302,"Centre base discapacitats, Mallorca"
+2016,18303,"Centre base discapacitats, Menorca"
+2016,18304,"Centre base discapacitats, Eivissa-Formentera"
+2016,71101,Institut d'Estudis Baleàrics
+2016,60A01,Complex Hospitalari de Mallorca
+2016,19501,DG Innovació i Desenvolupament Tecnològic
+2016,26212,Museu Arqueològic d'Eivissa i Formentera
+2016,26213,Museu Etnològic de Muro

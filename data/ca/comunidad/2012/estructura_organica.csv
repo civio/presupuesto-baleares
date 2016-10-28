@@ -1,114 +1,274 @@
-2012,02,Parlament de les IB
-2012,03,Sindicatura de Comptes de les IB
-2012,04,Consell Consultiu de les IB
-2012,05,Consell Econòmic i Social de les IB
-2012,06,Oficina de Transparència i Control del Patrimoni dels Càrrecs Públics de les IB
-2012,07,Consell Audiovisual de les IB
-2012,11,Presidència
-2012,12,Turisme i Esports
-2012,13,"Educació, Cultura i Universitats"
-2012,14,"Vicepresidència Econòmica, de Promoció Empresarial i d'Ocupació"
-2012,15,"Agricultura, Medi Ambient i Territori"
-2012,16,Administracions Públiques
-2012,18,"Salut, Família i Benestar Social"
-2012,31,"Serveis comuns, despeses diverses"
-2012,32,Ens Territorials
-2012,34,Deute Públic
+2012,02,Parlament de les Illes Balears
+2012,03,Sindicatura de Comptes de les Illes Balears
+2012,04,Consell Consultiu de les Illes Balears
+2012,05,Consell Econòmic i Social de les Illes Balears
+2012,06,Oficina de Lluita contra la Corrupció IB
+2012,07,Consell Audiovisual de les Illes Balears
+2012,11,Conselleria de Presidència
+2012,12,"Conselleria d'Innovació, Recerca i Turisme"
+2012,13,Conselleria d'Educació i Universitat
+2012,14,Conselleria d'Hisenda i Administracions Públiques
+2012,15,"Conselleria de Medi Ambient, Agricultura i Pesca"
+2012,17,Conselleria de Serveis Socials i Cooperació
+2012,18,Conselleria de Salut
+2012,19,"Conselleria de Treball, Comerç i Indústria"
+2012,25,"Conselleria de Territori, Energia i Mobilitat"
+2012,26,"Conselleria de Transparència, Cultura i Esports"
+2012,31,Serveis comuns
+2012,32,Ens territorials
+2012,33,Serveis comuns tecnològics
+2012,34,Deute públic
+2012,35,Fons de contingència
 2012,36,"Serveis comuns, despeses de personal"
-2012,71,OA Institut d'Estudis Baleàrics
-2012,73,OA Institut Balear de la Dona
-2012,76,OA Servei d'Ocupació de les IB
-2012,77,OA Institut d'Estadística de les IB
-2012,78,OA Escola Balear d'Administració Pública
-2012,50,Agència Tributària de les IB
-2012,60,Servei de Salut de les IB
-2012,021,Parlament de les IB
-2012,031,Sindicatura de Comptes de les IB
-2012,041,Consell Consultiu de les IB
-2012,051,Consell Econòmic i Social de les IB
-2012,061,Oficina de Transparència i Control del Patrimoni dels Càrrecs Públics de les IB
-2012,071,Consell Audiovisual de les IB
-2012,111,Gabinet de la Presidència
-2012,112,Secretaria General
-2012,114,DG Coordinació del Govern
-2012,115,DG Cooperació i Immigració
-2012,116,Direcció de l'Advocacia de la Comunitat Autònoma IB
-2012,117,DG Relacions Institucionals i Acció Exterior
-2012,121,Secretaria General
-2012,122,DG Turisme
-2012,123,DG Esports
-2012,124,DG Port i Aeroports
-2012,131,Secretaria General
-2012,132,DG Cultura i Joventut
-2012,134,"DG Ordenació, Innovació i Formació Professional"
-2012,135,"DG Planificació, Inspecció i Infraestructures Educatives"
-2012,137,DG Recursos Humans
-2012,138,"DG Universitats, Recerca i Transferència del Coneixement"
-2012,141,Secretaria General
-2012,142,DG Economia i Estadística
-2012,143,DG Treball i Salut Laboral
-2012,144,DG Pressuposts i Finançament
+2012,73,Institut Balear de la Dona
+2012,76,Servei d'Ocupació de les Illes Balears
+2012,77,Institut d'Estadística de les Illes Balears
+2012,78,Escola Balear d'Administració Pública
+2012,021,Parlament de les Illes Balears
+2012,031,Sindicatura de Comptes de les Illes Balears
+2012,041,Consell Consultiu de les Illes Balears
+2012,051,Consell Econòmic i Social de les Illes Balears
+2012,061,Oficina de Lluita contra la Corrupció IB
+2012,071,Consell Audiovisual de les Illes Balears
+2012,111,Presidència de les Illes Balears
+2012,112,Secretaria General Conselleria de Presidència
+2012,114,Direcció General de Coordinació
+2012,115,Direcció General de Comunicació
+2012,116,Direcció de l'Advocacia de la Comunitat Autònoma
+2012,117,Direcció General de Relacions Institucionals i Acció Exterior
+2012,118,Direcció General de Relacions amb el Parlament
+2012,121,"Secretaria General Conselleria d'Innovació, Recerca i Turisme"
+2012,122,Direcció General de Turisme
+2012,125,Direcció General d'Innovació i Recerca
+2012,126,Direcció General de Desenvolupament Tecnològic
+2012,127,Direcció General de Fons Europeus
+2012,131,Secretaria General Conselleria d'Educació i Universitat
+2012,135,"Direcció General de Planificació, Ordenació i Centres"
+2012,136,Direcció General d'Innovació i Comunitat Educativa
+2012,137,Direcció General de Personal Docent
+2012,138,Direcció General de Política Universitària i d'Ensenyament Superior
+2012,139,Direcció General de Formació Professional i Formació Professorat
+2012,141,Secretaria General Conselleria d'Hisenda i Administrac.Públiques
+2012,142,Direcció General Funció Pública i Administracions Públiques
+2012,143,Direcció General d'Emergències i Interior
+2012,144,Direcció General de Pressuposts i Finançament
 2012,145,Intervenció General
-2012,146,DG Tresor i Política Financera
-2012,147,DG Comerç i Empresa
-2012,148,DG Indústria i Energia
-2012,149,DG Innovació i Desenvolupament Tecnològic
-2012,151,Secretaria General
-2012,152,DG Recursos Hídrics
-2012,153,"DG Medi Natural, Educació Ambiental i Canvi Climàtic"
-2012,154,DG Ordenació del Territori
-2012,155,DG Medi Rural i Marí
-2012,156,DG Arquitectura i Habitatge
-2012,157,DG Transports
-2012,161,Secretaria General
-2012,162,"DG Funció Pública, Administracions Públiques i Qualitat dels Serveis"
-2012,163,"DG Interior, Emergències i Justícia"
-2012,164,"DG Patrimoni, Contractes i Obres Públiques"
-2012,181,Secretaria General
-2012,182,DG Salut Pública i Consum
-2012,183,"DG Família, Benestar Social i Atenció a Persones en Situació Especial"
-2012,184,DG Gestió Econòmica i Farmàcia
-2012,311,"Serveis comuns, despeses diverses"
-2012,321,Ens Territorials
-2012,341,Deute Públic
+2012,146,"Direcció General del Tresor, Política Financera i Patrimoni"
+2012,151,"Secretaria General C.Medi Ambient, Agricultura i Pesca"
+2012,152,Direcció General de Recursos Hídrics
+2012,153,Direcció General d'Espais Naturals i Biodiversitat
+2012,155,Direcció General d'Agricultura i Ramaderia
+2012,156,"Direcció General d'Educació Ambiental, Qualitat Amb. i Residus"
+2012,159,Direcció General de Pesca i Medi Marí
+2012,171,Secretaria General C.Serveis Socials i Cooperació
+2012,172,Direcció General de Menors i Famílies
+2012,173,Direcció General de Dependència
+2012,174,Direcció General de Planificació i Serveis Socials
+2012,175,Direcció General de Cooperació
+2012,181,Secretaria General Conselleria de Salut
+2012,182,Direcció General de Salut Pública i Participació
+2012,183,Direcció General de Consum
+2012,184,"Direcció General de Planificació, Avaluació i Farmàcia"
+2012,185,"Direcció General d'Acreditació, Docència i Recerca en Salut"
+2012,191,"Secretaria General C.Treball, Comerç i Indústria"
+2012,192,Direcció General d'Ocupació i Economia
+2012,193,Direcció General Comerç i Empresa
+2012,194,Direcció General de Política Industrial
+2012,196,"Direcció General de Treball, Economia Social i Salut Laboral"
+2012,251,"Secretaria General C.Territori, Energia i Mobilitat"
+2012,252,Direcció General de Transports
+2012,253,Direcció General d'Ordenació del Territori
+2012,254,Direcció General de Ports i Aeroports
+2012,255,Direcció General d'Arquitectura i Habitatge
+2012,256,Direcció General d'Energia i Canvi Climàtic
+2012,261,"Secretaria General C. Transparència, Cultura i Esports"
+2012,262,Direcció General de Cultura
+2012,263,Direcció General de Participació i Transparència
+2012,264,Direcció General de Política Lingüística
+2012,265,Direcció General d'Esports i Joventut
+2012,311,Serveis comuns
+2012,321,Ens territorials
+2012,331,Serveis comuns tecnològics
+2012,341,Deute públic
+2012,351,Fons de contingència
 2012,361,"Serveis comuns, despeses de personal"
-2012,711,OA Institut d'Estudis Baleàrics
-2012,731,OA Institut Balear de la Dona
-2012,761,OA Servei d'Ocupació de les IB
-2012,771,OA Institut d'Estadística de les IB
-2012,781,OA Escola Balear d'Administració Pública
-2012,500,Agència Tributària de les IB
-2012,600,Serveis Centrals
-2012,601,Hospital Universitari Son Espases
-2012,602,"Àrea Salut, Menorca"
-2012,603,"Àrea Salut, Eivissa-Formentera"
-2012,604,"Atenció Primària, Mallorca"
-2012,605,Hospital Formentera
-2012,609,Gerència 061
-2012,02101,Gabinet de la Presidència del Parlament de les IB
+2012,731,Institut Balear de la Dona
+2012,761,Servei d'Ocupació de les Illes Balears
+2012,771,Institut d'Estadística de les Illes Balears
+2012,781,Escola Balear d'Administració Pública
+2012,02101,Gabinet de la Presidència del Parlament
 2012,02102,Oficialia Major
-2012,02103,Mesa del Parlament de les IB
-2012,02104,Sindicatura de Greuges de les IB
-2012,03101,Sindicatura de Comptes de les IB
-2012,04101,Consell Consultiu de les IB
-2012,05101,Consell Econòmic i Social de les IB
-2012,06101,Oficina de Transparència i Control del Patrimoni dels Càrrecs Públics de les IB
-2012,07101,Consell Audiovisual de les IB
+2012,02103,Mesa del Parlament de les Illes Balears
+2012,02104,Sindicatura de Greuges
+2012,03101,Sindicatura de Comptes de les Illes Balears
+2012,04101,Consell Consultiu de les Illes Balears
+2012,05101,Consell Econòmic i Social de les Illes Balears
+2012,06101,Oficina de Lluita contra la Corrupció IB
+2012,07101,Consell Audiovisual de les Illes Balears
 2012,11101,Gabinet de la Presidència
+2012,11201,Secretaria General Conselleria de Presidència
+2012,11202,Marivent
+2012,11401,Direcció General de Coordinació
+2012,11501,Direcció General de Comunicació
+2012,11601,Direcció de l'Advocacia de la Comunitat Autònoma
+2012,11602,Institut d'Estudis Autonòmics
+2012,11701,Direcció General de Relacions Institucionals i Acció Exterior
+2012,11801,Direcció General de Relacions amb el Parlament
+2012,12101,"Secretaria General Conselleria d'Innovació, Recerca i Turisme"
+2012,12201,Direcció General de Turisme
+2012,12501,Direcció General d'Innovació i Recerca
+2012,12601,Direcció General de Desenvolupament Tecnològic
+2012,12701,Direcció General de Fons Europeus
+2012,13101,Secretaria General Conselleria d'Educació i Universitat
+2012,13501,"Direcció General de Planificació, Ordenació i Centres"
+2012,13601,Direcció General d'Innovació i Comunitat Educativa
+2012,13701,Direcció General de Personal Docent
+2012,13801,Direcció General de Política Universitària i d'Ensenyament Superior
+2012,13901,Direcció General de Formació Professional i Formació Professorat
+2012,14101,Secretaria General Conselleria d'Hisenda i Administrac.Públiques
+2012,14201,Direcció General Funció Pública i Administracions Públiques
+2012,14301,Direcció General d'Emergències i Interior
+2012,14401,Direcció General de Pressuposts i Finançament
+2012,14501,Intervenció General
+2012,14601,"Direcció General del Tresor, Política Financera i Patrimoni"
+2012,15101,"Secretaria General C.Medi Ambient, Agricultura i Pesca"
+2012,15201,Direcció General de Recursos Hídrics
+2012,15301,Direcció General d'Espais Naturals i Biodiversitat
+2012,15501,Direcció General d'Agricultura i Ramaderia
+2012,15601,"Direcció General d'Educació Ambiental, Qualitat Amb. i Residus"
+2012,15901,Direcció General de Pesca i Medi Marí
+2012,17101,Secretaria General C.Serveis Socials i Cooperació
+2012,17201,Direcció General de Menors i Famílies
+2012,17301,Direcció General de Dependència
+2012,17302,Centre base discapacitats Mallorca
+2012,17303,Centre base discapacitats Menorca
+2012,17304,Centre base discapacitats Eivissa i Formentera
+2012,17401,Direcció General de Planificació i Serveis Socials
+2012,17501,Direcció General de Cooperació
+2012,18101,Secretaria General Conselleria de Salut
+2012,18201,Direcció General de Salut Pública i Participació
+2012,18204,Centre insular de Menorca
+2012,18205,Centre insular d'Eivissa i Formentera
+2012,18206,Laboratori de Salut Pública
+2012,18301,Direcció General de Consum
+2012,18401,"Direcció General de Planificació, Avaluació i Farmàcia"
+2012,18501,"Direcció General d'Acreditació, Docència i Recerca en Salut"
+2012,19101,"Secretaria General C.Treball, Comerç i Indústria"
+2012,19201,Direcció General d'Ocupació i Economia
+2012,19301,Direcció General Comerç i Empresa
+2012,19401,Direcció General de Política Industrial
+2012,19601,"Direcció General de Treball, Economia Social i Salut Laboral"
+2012,25101,"Secretaria General C.Territori, Energia i Mobilitat"
+2012,25201,Direcció General de Transports
+2012,25301,Direcció General d'Ordenació del Territori
+2012,25401,Direcció General de Ports i Aeroports
+2012,25501,Direcció General d'Arquitectura i Habitatge
+2012,25601,Direcció General d'Energia i Canvi Climàtic
+2012,26101,"Secretaria General C. Transparència, Cultura i Esports"
+2012,26201,Direcció General de Cultura
+2012,26202,Arxiu General de l'Administració
+2012,26203,Biblioteca pública de Palma
+2012,26204,Biblioteca pública de Maó
+2012,26208,Arxiu del Regne de Mallorca
+2012,26209,Museu de Mallorca
+2012,26210,Museu de Menorca
+2012,26211,Museu Arqueològic d'Eivissa i Formentera
+2012,26301,Direcció General de Participació i Transparència
+2012,26401,Direcció General de Política Lingüística
+2012,26501,Direcció General d'Esports i Joventut
+2012,26502,"Poliesportiu ""Príncipes de España"""
+2012,31101,Serveis comuns
+2012,32101,Ens territorials
+2012,33101,Serveis comuns tecnològics
+2012,34101,Deute públic
+2012,35101,Fons de contingència
+2012,36101,"Serveis comuns, despeses de personal"
+2012,73101,Institut Balear de la Dona
+2012,73102,Consell de Participació de la Dona
+2012,76101,Servei d'Ocupació de les Illes Balears
+2012,77101,Institut d'Estadística de les Illes Balears
+2012,78101,Escola Balear d'Administració Pública
+2012,60,Servei de Salut de les Illes Balears
+2012,600,Gerència Serveis Centrals
+2012,60001,Serveis Centrals
+2012,60002,Serveis Centrals Personal funció pública
+2012,60003,Hospital Joan March
+2012,60004,Hospital General
+2012,60005,Hospital Psiquiàtric
+2012,60099,Gerència Serveis Centrals - deute
+2012,601,Gerència Hospital Son Espases
+2012,60101,Hospital Universitari Son Espases
+2012,60199,Hospital Univ. Son Espases-oblig. 409
+2012,602,Gerència Àrea de Salut de Menorca
+2012,60201,Àrea de Salut de Menorca
+2012,60299,Gerència Àrea de S de Menorca-oblig. 409
+2012,603,Gerència Àrea de Salut d'Eivissa-Form.
+2012,60301,Àrea de Salut d'Eivissa - Formentera
+2012,60399,Àrea de Salut d'Eivissa-oblig. 409
+2012,604,Gerència Atenció Primària de Mallorca
+2012,60401,Gerència Atenció Primària Mallorca
+2012,60402,Gerència Atenció Primària Mallorca - Sector de Ponent
+2012,60403,Gerència Atenció Primària Mallorca - Sector de Migjorn
+2012,60404,Gerència Atenció Primària Mallorca - Sector de Tramuntana
+2012,60405,Gerència Atenció Primària Mallorca - Sector de Llevant
+2012,60499,Gerència Atenció Primària Mallorca - deute
+2012,605,Hospital de Formentera
+2012,60501,Hospital de Formentera
+2012,60599,Hospital de Formentera-oblig. 409
+2012,606,Hospital Son Llàtzer
+2012,60601,Hospital Son Llàtzer
+2012,60699,Hospital Son Llàtzer - deute
+2012,607,Hospital de Manacor
+2012,60701,Hospital de Manacor
+2012,60799,Hospital de Manacor - deute
+2012,608,Hospital comarcal d'Inca
+2012,60801,Hospital comarcal d'Inca
+2012,60899,Hospital Comarcal d'Inca - deute
+2012,609,Gerència 061
+2012,60901,Gerència del 061
+2012,60999,Gerència del 061-oblig. 409
+2012,60B,Central de Compres del Servei de Salut
+2012,60B01,Central de Compres del Servei de Salut
+2012,60B99,Central de Compres del Servei de Salut-oblig. 409
+2012,60C,Central compres - Serv.centrals
+2012,60C01,Central compres - Serv.centrals
+2012,60C99,Central compres - Serv.centrals - Deute
+2012,60D,Central compres - H.Son Espases
+2012,60D01,Central compres - H.Son Espases
+2012,60D99,Central compres - H.Son Espases - Deute
+2012,60E,Central compres - Àrea Eivissa
+2012,60E01,Central compres - Àrea Eivissa
+2012,60E99,Central compres - Àrea Eivissa - Deute
+2012,60F,Central compres - H.Formentera
+2012,60F01,Central compres - H.Formentera
+2012,60F99,Central compres - H.Formentera - Deute
+2012,60G,Central compres - GAP Mallorca
+2012,60G01,Central compres - GAP Mallorca
+2012,60G99,Central compres - GAP Mallorca - Deute
+2012,60I,Central compres - H.Inca
+2012,60I01,Central compres - H.Inca
+2012,60I99,Central compres - H.Inca - Deute
+2012,60L,Central compres - H.Son Llàtzer
+2012,60L01,Central compres - H.Son Llàtzer
+2012,60L99,Central compres - H.Son Llàtzer - Deute
+2012,60M,Central compres - Àrea Menorca
+2012,60M01,Central compres - Àrea Menorca
+2012,60M99,Central compres - Àrea Menorca - Deute
+2012,60N,Central compres - H.Manacor
+2012,60N01,Central compres - H.Manacor
+2012,60N99,Central compres - H.Manacor - Deute
+2012,60U,Central compres - Gerència 061
+2012,60U01,Central compres - Gerència 061
+2012,60U99,Central compres - Gerència 061 - Deute
+2012,50,Agència Tributària de les Illes Balears
+2012,500,Agència Tributària de les Illes Balears
+2012,50001,Agència Tributària de les Illes Balears
 2012,11102,Institut d'Estudis Autonòmics
 2012,11103,Oficina de Control Pressupostari
-2012,11201,Secretaria General
-2012,11401,DG Coordinació del Govern
-2012,11501,DG Cooperació i Immigració
-2012,11601,Direcció de l'Advocacia de la CAIB
-2012,11701,DG Relacions Institucionals i Acció Exterior
-2012,12101,Secretaria General
-2012,12201,DG Turisme
 2012,12301,DG Esports
 2012,12302,Poliesportiu Prícipes de España
 2012,12303,Escola de Vela Cala Nova
 2012,12401,DG Ports i Aeroports
-2012,13101,Secretaria General
 2012,13201,DG Cultura i Joventut
 2012,13202,Sa Llonja
 2012,13203,Biblioteca Pública de Palma
@@ -120,69 +280,21 @@
 2012,13212,Museu Arqueològic d'Eivissa
 2012,13213,Museu Etnològic de Muro
 2012,13401,"DG Ordenació, Innovació i Formació Professional"
-2012,13501,"DG Planificació, Inspecció i Infraestructures Educatives"
-2012,13701,DG Recursos Humans
-2012,13801,"DG Universitats, Recerca i Transferència del Coneixement"
-2012,14101,Secretaria General
-2012,14201,DG Economia i Estadística
-2012,14301,DG Treball i Salut Laboral
-2012,14401,DG Pressuposts i Finançament
-2012,14501,Intervenció General
-2012,14601,DG Tresor i Política Financera
 2012,14701,DG Comerç i Empresa
 2012,14801,DG Indústria i Energia
 2012,14901,DG Innovació i Desenvolupament Tecnològic
-2012,15101,Secretaria General
-2012,15201,DG Recursos Hídrics
-2012,15301,"DG Medi Natural, Educació Ambiental i Canvi Climàtic"
 2012,15401,DG Ordenació del Territori
-2012,15501,DG Medi Rural i Marí
-2012,15601,DG Arquitectura i Habitatge
 2012,15701,DG Transports
 2012,16101,Secretaria General
 2012,16201,"DG Funció Pública, Administracions Públiques i Qualitat dels Serveis"
 2012,16301,"DG Interior, Emergències i Justícia"
 2012,16401,"DG Patrimoni, Contractes i Obres Públiques"
-2012,18101,Secretaria General
 2012,18102,Oficina del Defensor dels Usuaris del Sistema Sanitari
-2012,18201,DG Salut Pública i Consum
-2012,18204,"Centre insular, Menorca"
-2012,18205,"Centre insular, Eivissa-Formentera"
-2012,18301,"DG Família, Benestar Social i Atenció a Persones en Situació Especial"
 2012,18302,"Centre base discapacitats, Mallorca"
 2012,18303,"Centre base discapacitats, Menorca"
 2012,18304,"Centre base discapacitats, Eivissa-Formentera"
-2012,18401,DG Gestió Econòmica i Farmàcia
-2012,31101,"Serveis comuns, despeses diverses"
-2012,32101,Ens Territorials
-2012,34101,Deute Públic
-2012,36101,"Serveis comuns, despeses de personal"
 2012,71101,Institut d'Estudis Baleàrics
-2012,73101,OA Institut Balear de la Dona
-2012,73102,Consell de Participació de la Dona de les IB
-2012,76101,OA Servei d'Ocupació de les IB
-2012,77101,OA Institut d'Estadística de les IB
-2012,78101,OA Escola Balear d'Administració Pública
-2012,50001,Agència Tributària de les IB
-2012,60001,Serveis Centrals
-2012,60002,"Serveis Centrals, personal funció pública"
-2012,60003,Hospital Joan March
-2012,60004,Hospital General
-2012,60005,Hospital Psiquiàtric
-2012,60099,"Serveis Centrals, pagaments 409 exercicis anteriors"
-2012,60101,Hospital Universitari Son Espases
-2012,60199,"Hospital Universitari Son Espases, pagaments 409 exercicis anterior"
-2012,60201,"Àrea de Salut, Menorca"
-2012,60299,"Àrea de Salut Menorca, pagaments 409 exercicis anterior"
-2012,60301,"Àrea de Salut, Eivissa-Formentera"
-2012,60399,"Àrea de Salut Eivissa-Formentera, pagaments 409 exercicis anterior"
-2012,60401,"Gerència Atenció Primària, Mallorca"
-2012,60402,"Gerència Atenció Primària Mallorca, Ponent"
-2012,60403,"Gerència Atenció Primària Pallorca, Mitjorn"
-2012,60404,"Gerència Atenció Primària Mallorca, Tramuntana"
-2012,60405,"Gerència Atenció Primària Mallotca, Llevant"
-2012,60499,"Gerència Atenció Primària Mallorca, pagaments 409 exercicis anterior"
-2012,60501,Hospital Formentera
-2012,60599,"Hospital Formentera, pagaments 409 exercicis anteriors"
-2012,60901,Gerència 061
-2012,60999,"Gerència 061, pagaments 409 exercicis anterior"
+2012,60A01,Complex Hospitalari de Mallorca
+2012,19501,DG Innovació i Desenvolupament Tecnològic
+2012,26212,Museu Arqueològic d'Eivissa i Formentera
+2012,26213,Museu Etnològic de Muro

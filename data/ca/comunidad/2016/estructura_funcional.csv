@@ -1,14 +1,14 @@
 2016,0,Deute públic
 2016,1,Funcionament institucional i administració general
 2016,2,Serveis públics generals
-2016,3,"Seguretat, protecció i promoció social"
+2016,3,Protecció i promoció social
 2016,4,Producció de béns públics de caràcter social
 2016,5,Producció de béns públics de caràcter econòmic
 2016,7,Foment i regulació de sectors productius
 2016,8,Fons de contingència
 2016,9,Suport financer a altres administracions públiques
 2016,01,Deute públic
-2016,11,Alta direcció de la Comunitat Autònoma i del Govern
+2016,11,Alta direcció de la Comunitat Autònoma i Govern
 2016,12,Administració i serveis generals
 2016,13,Relacions institucionals i processos electorals
 2016,14,Regulació econòmica
@@ -16,9 +16,9 @@
 2016,21,Justícia
 2016,22,Seguretat i protecció civil
 2016,23,Relacions exteriors i cooperació al desenvolupament
-2016,31,Seguretat i protecció social
+2016,31,Protecció social
 2016,32,Promoció social
-2016,41,Sanitat
+2016,41,Salut
 2016,42,Educació
 2016,43,Habitatge i urbanisme
 2016,44,Consum
@@ -28,21 +28,20 @@
 2016,52,Transport
 2016,53,Ordenació del territori i urbanisme
 2016,54,"Recerca científica, tècnica i aplicada"
-2016,55,Societat de la informació i el coneixement i telecomunicacions
-2016,56,Cicle de l'aigua
+2016,55,Societat de la informació i el coneix. i telecom.
+2016,56,Clicle de l'aigua
 2016,57,Actuacions ambientals
 2016,58,Infraestructures agràries i rurals
 2016,59,Altres actuacions de caràcter econòmic
 2016,71,"Agricultura, ramaderia i pesca"
 2016,72,Indústria
 2016,73,Energia
-2016,74,Mineria
 2016,75,Turisme
 2016,76,Comerç
 2016,81,Fons de contingència
-2016,91,Suport financer a administracions públiques territorials
+2016,91,Suport financer administracions públiques territo
 2016,011,Deute públic
-2016,111,Alta direcció de la Comunidad Autònoma
+2016,111,Alta direcció de la Comunitat Autònoma
 2016,121,Serveis generals i funció pública
 2016,126,Altres serveis generals
 2016,131,Relacions institucionals
@@ -54,15 +53,12 @@
 2016,223,Protecció civil
 2016,231,Relacions exteriors
 2016,232,Cooperació internacional
-2016,311,"Administració, inspecció i control de seguretat social i protecció"
-2016,312,Assistència a la desocupació
-2016,313,Acció social
+2016,313,Serveis socials
 2016,314,Pensions i altres prestacions econòmiques
 2016,322,Promoció de l'ocupació
 2016,323,Promoció sociocultural
 2016,324,Relacions laborals
-2016,411,Administració general de sanitat
-2016,412,Serveis assistencials de salut
+2016,411,Administració general de salut
 2016,413,Accions públiques relatives a la salut
 2016,421,Administració general d'educació
 2016,422,Ensenyament
@@ -72,47 +68,45 @@
 2016,451,Administració general de cultura
 2016,455,Promoció cultural
 2016,461,Esports
-2016,511,Administració general d'infrastructures bàsiques i transports
+2016,511,Administració general infraestr.bàsiques i transp.
 2016,521,Transport terrestre
 2016,522,Transport marítim i aeri
 2016,531,Ordenació del territori
 2016,541,Recerca i documentació científica
 2016,542,Recerca tècnica i aplicada
-2016,551,Societat de la informació i el coneixement i telecomunicacions
+2016,551,Societat de la informació i el coneix. i telecom.
 2016,561,Recursos hidràulics
 2016,562,Sanejament i abastament d'aigües
 2016,571,Protecció i conservació del medi natural
 2016,572,Prevenció i control ambiental
 2016,581,Infraestructures per al desenvolupament rural
 2016,591,Cartografia i estadística
-2016,711,"Administració general d'agricultura, ramaderia i pesca"
-2016,714,Ordenació de les produccions i regulació dels mercats agraris
-2016,718,Proteció dels recursos pesquers i reforma de les estructures
+2016,711,"Administració general agricultura,ramaderia,pesca"
+2016,714,Ordenació de les produccions i reg.mercats agraris
+2016,718,Proteció dels recursos pesquers i reforma estruct.
 2016,721,Administració general d'indústria
 2016,722,Actuacions administratives sobre les indústries
-2016,723,Reconversió i modernització d'empreses
+2016,723,Reconversió i modernització del sector industrial
 2016,731,Planificació i producció energètica
-2016,741,Foment de la mineria i de les comarques mineres
 2016,751,Ordenació i promoció turística
 2016,761,Comerç
 2016,811,Fons de contingència
-2016,912,Suport financer a administracions públiques territorials
+2016,912,Suport financer a corporacions locals
 2016,011A,Amortització i despeses financeres de deute públic
 2016,111A,Activitat legislativa
 2016,111B,Control extern de les administracions
 2016,111C,Assessorament consultiu institucional
-2016,111D,"Assessorament en matèria social, econòmica i laboral"
-2016,111E,Control patrimonial dels càrrecs públics
-2016,111F,Control dels mitjans de comunicació audiovisual
-2016,112F,Qualitat al Govern de les Illes Balears
+2016,111D,"Assessorament matèria social, econòmica i laboral"
+2016,111E,Control patrimonial dels alts càrrecs
+2016,111F,Control del mitjans de comunicació audiovisual
 2016,121A,Serveis generals de la Presidència del Govern
-2016,121B,Direcció i serveis generals de la Conselleria de Presidència
-2016,121C,Coordinació de programes de govern
+2016,121B,Direcció i serv.grals. de la C.de Presidència
+2016,121C,Coordinació de programes de Govern
 2016,121G,Formació i selecció del personal
 2016,121H,Gestió de recursos humans
-2016,121I,Salut i prevenció de riscs laborals a l’Administració
-2016,126B,Publicacions i Butlletí Oficial de les Illes Balears
-2016,126E,Serveis de l'advocacia i coordinació de serveis jurídics
+2016,121I,Salut i prevenció de riscs laborals a l'Administr.
+2016,126B,Publicacions i Butlletí Oficial Illes Balears
+2016,126E,Serveis de l'advocacia i coordin. serveis jurídics
 2016,126F,Serveis comuns generals
 2016,126H,"Assessorament, estudi, recerca i difusió normativa"
 2016,126I,Gestió del parc mòbil
@@ -121,28 +115,27 @@
 2016,126L,Serveis comuns tecnològics
 2016,126M,Contractació centralitzada
 2016,131A,Relacions amb el Parlament
-2016,131B,Relacions i cooperació amb altres administracions públiques i ens públics i privats
-2016,131C,Foment de la participació de centres i cases regionals a les Illes Balears
-2016,132A,"Organització, gestió i seguiment de processos electorals"
-2016,141A,Direcció i serveis generals d'Hisenda i Administracions Públiques
+2016,131B,Relacions i coop.altres adm.públiques i altres ens
+2016,131C,Foment participació centres i cases regionals
+2016,132A,"Organització, gestió i seguiment proc. electorals"
+2016,141A,Direcció i serv.gen. Hisenda i Adm.Públiques
 2016,141B,Planificació pressupostària i finançament
 2016,141C,Gestió comptable i control intern
 2016,141D,Planificació i ordenació de la política econòmica
 2016,141E,Gestió de tresoreria i política financera
-2016,141F,Organització i gestió del patrimoni de la Comunitat Autònoma
+2016,141F,Organització i gestió del patrimoni de la com.aut.
 2016,141G,Gestió dels fons procedents de la Unió Europea
 2016,151A,Comunicació institucional
-2016,151B,Foment de projectes de comunicació d'interès social
+2016,151B,Foment de projectes comunicació interès social
 2016,151C,"Qualitat, transparència i participació"
-2016,211A,Col·laboracions institucionals en matèria de justícia
+2016,211A,Col·laboracions institucionals en matèria justícia
 2016,222A,Seguretat als edificis administratius de la CAIB
 2016,222B,Activitats classificades i espectacles
 2016,222C,Actuació de policies
 2016,223A,Emergències
 2016,231A,Coordinació de l'acció exterior del Govern
-2016,231B,Foment i relacions amb comunitats balears radicades a l'exterior
+2016,231B,Foment i rel. amb comunitats balears a l'exterior
 2016,232A,Cooperació internacional
-2016,313A,Centres assistencials
 2016,313B,Atenció a la discapacitat
 2016,313C,Mesures judicials i prevenció del delicte
 2016,313D,Atenció a la dependència
@@ -150,25 +143,25 @@
 2016,313G,Família i unitats de convivència
 2016,313I,Planificació i ordenació socials
 2016,313J,Integració social d'immigrants
-2016,313K,Direcció i serveis generals de Serveis Socials i Cooperació
+2016,313K,Direcció i serv.generals Serv.Socials i Cooperació
 2016,314A,Pensions i prestacions econòmiques
-2016,322A,Ocupació i inserció laboral específics
+2016,322A,Ocupació i inserció laboral específiques
 2016,322B,Gestió de les relacions laborals
-2016,322C,Planificació estratègica de l'ocupació
-2016,322D,Foment i gestió de l'ocupació a les Illes Balears
-2016,323A,Protecció i foment de la  integració i foment de la participació social de la joventut
+2016,322C,Foment de la responsabilitat social corporativa
+2016,322D,Foment i gestió de l'ocupació de les Illes Balears
+2016,323A,Protecció i foment de la  integració i de joventut
 2016,323C,"Promoció, protecció i serveis per a la dona"
 2016,324A,Salut i prevenció de riscs laborals
 2016,411A,Direcció i serveis generals de Salut
 2016,411D,"Planificació, avaluació i cartera de serveis"
-2016,411E,Finançament de l'assistència sanitària
+2016,411E,Finançament sanitari
 2016,413A,"Acreditació, docència i recerca en salut"
 2016,413B,Programes de salut pública
 2016,413C,Sanitat ambiental i alimentària
 2016,413D,Coordinació de centres insulars
 2016,413E,Pla autonòmic de drogues
-2016,413F,"Planificació, control i gestió del medicament i dels serveis farmacèutics"
-2016,421A,Direcció i serveis generals d'Educació i Universitat
+2016,413F,Planif.control i gestió medicament i serv.farmacèu
+2016,421A,Direcció i ser. gen. d'Educació i Universitat
 2016,421B,Ordenació general del sistema educatiu
 2016,421C,Planificació educativa i règim de centres escolars
 2016,421D,Formació del professorat
@@ -180,46 +173,29 @@
 2016,421K,Innovació i comunitat educativa
 2016,422A,Educació pública
 2016,422B,Educació concertada
-2016,423A,Beques i ajuts a l'estudi
+2016,423A,Beques i ajuts al'estudi
 2016,423B,Altres serveis a l'ensenyament
 2016,431A,Gestió i foment de l'habitatge social
 2016,431B,"Arquitectura, habitatge i protecció del patrimoni"
 2016,441A,Protecció i defensa del consumidor
-2016,443A,Administració i plans mediambientals
-2016,443J,Gestió d'espais naturals
-2016,443K,Seguiment i vigilància del canvi climàtic
-2016,443L,Espais de rellevància ambiental (Xarxa Natura 2000)
-2016,443M,Educació ambiental i societat
-2016,443N,Formació i educació amb relació a la mar
-2016,443P,Qualitat de les aigües de bany
-2016,443Q,Qualitat de l'aire i contaminació atmosfèrica
-2016,451A,"Direcció i serveis generals de Transparència, Cultura i Esports"
+2016,451A,"Direcció i serv.gen.Transparència, Cultura Esports"
 2016,455A,Promoció i serveis de cultura
-2016,455B,Planificació i normalització de la llengua catalana
+2016,455B,Planificació i normalització llengua catalana
 2016,461A,Promoció i foment de l'esport
-2016,463C,Projectes de comunicació d'interès social
-2016,463D,Eleccions i partits polítics
-2016,463E,"Participació, transparència, bon govern i voluntariat"
-2016,511B,"Direcció i serveis generals de Territori, Energia i Mobilitat"
-2016,513C,Ordenació i inspecció del transport terrestre
-2016,513D,Infraestructures bàsiques
+2016,511B,"Direcció i serv.generals Territori, Energia i Mob."
 2016,521A,Infraestructures bàsiques
 2016,521B,Ordenació i inspecció del transport terrestre
 2016,521C,Transport ferroviari
+2016,521D,Transport per carretera
 2016,522A,Ports i transport marítim
 2016,522B,Aeroports i transport aeri
-2016,531A,Infraestructures agràries de les zones rurals
-2016,533A,Conservació i millora del medi natural
-2016,533B,Planificació forestal
-2016,533D,"Gestió d'espais naturals protegits, parcs naturals, àrees recreatives i finques públiques"
-2016,533F,Espècies silvestres: conservació i sensibilització
-2016,533G,Gestió de la sanitat forestal
-2016,541A,Recerca i desenvolupament tecnològic
-2016,542A,Innovació tecnològica
-2016,551A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
-2016,551B,Gestió dels sistemes i les tecnologies de la informació
-2016,561A,Domini públic hidràulic: protecció i control. Directiva marc de l'aigua
-2016,562A,Abastament d'aigua
+2016,531A,Ordenació del territori i urbanisme
+2016,541A,Recerca i desenvolupament
+2016,542A,Innovació
+2016,551A,"Ordenació, regul. i desenvol. telecomunicacions"
+2016,551B,Gestió sistemes i tecnologies de la informació
+2016,561A,DPH: Protecció i control Directiva marc de l'aigua
+2016,562A,Abastament d'aigües
 2016,562B,Sanejament i depuració d'aigües
 2016,571A,Gestió de residus
 2016,571B,Educació ambiental
@@ -228,76 +204,26 @@
 2016,571E,Planificació forestal
 2016,571F,Espècies silvestres
 2016,571G,Sanitat forestal
-2016,572A,"Seguiment i control del canvi climàtic, qualitat de l'aire i contaminació atmosfèrica"
+2016,572A,Seguiment i control del canvi climàtic
+2016,572B,Qualitat ambiental i sostenibilitat
 2016,581A,Infraestructures de regadiu
 2016,591A,Estadística
 2016,591B,Cartografia
-2016,611A,Direcció i serveis generals d'Hisenda i Administracions Públiques
-2016,612A,Planificació i ordenació de la política econòmica
-2016,612B,Planificació i política pressupostària
-2016,612C,Gestió comptable i control intern
-2016,612E,Gestió de tresoreria i política financera
-2016,612G,Organització i gestió del patrimoni de la comunitat autònoma
-2016,612H,Gestió dels fons procedents de la Unió Europea
-2016,633A,Imprevists i funcions no classificades
-2016,634A,Fons de contingència d'execució pressupostària
-2016,711A,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
+2016,711A,"Direcció i serv.gen. Medi Ambient, Agric. i Pesca"
 2016,714B,Foment del sector agrari
 2016,718A,Recursos marins i ordenació del sector pesquer
-2016,721A,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2016,721A,"Direcció i serv.gen.Treball, Comerç i Indústria"
 2016,722A,Regulació i normativa industrial
 2016,723A,Promoció industrial
-2016,731A,Foment de l'ús d'energies renovables i de l'estalvi d'energia
-2016,751A,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2016,731A,Foment ús d'energies renovables i estalvi energ.
+2016,751A,"Direcció i serv.gen. Innov.,Recerca i Turisme"
 2016,751B,Promoció turística
-2016,751C,Ordenació del sector i redefinició del model turístic
+2016,751C,Ordenació del sector i redefinició model turístic
 2016,761A,Ordenació i promoció comercial i empresarial
 2016,761B,Gestió en matèria de joc
-2016,763A,Ordenació de les estructures comercials i empresarials
 2016,811A,Fons de contingència
 2016,912A,Suport financer als consells insulars
-2016,912B,Suport financert a ajuntaments i altres ens locals
-2016,112B,Relacions amb el Parlament
-2016,112C,Relacions i cooperació amb altres administracions públiques i ens públics i privats
-2016,112E,Coordinació de programes del Govern
-2016,112G,Reorganització i racionalització del sector públic instrumental de la CAIB
-2016,121E,"Registre, supervisió i relacions amb associacions i entitats jurídiques"
-2016,121J,Gestió en matèria de joc
-2016,121K,Altres actuacions d'administració general i funció pública
-2016,124A,Cooperació i relacions amb els ens territorials i relacions interadministratives
-2016,126A,Manteniment i conservació del Palau de Marivent
-2016,126C,Comunicació i informació institucional
-2016,134A,Planificació i avaluació de la cooperació al desenvolupament
-2016,313L,Ajuda a les víctimes del delicte
-2016,315B,Salut i prevenció de riscs laborals
-2016,315C,Foment de la responsabilitat social corporativa
-2016,315D,Salut i prevenció de riscs laborals a l'administració
-2016,323D,Foment de la participació de centres i cases regionals a les IB
-2016,411B,Administració i serveis generals de l'assistència sanitària
-2016,411C,Formació del personal sanitari
-2016,412A,Atenció primària de salut
-2016,412B,Atenció especialitzada de salut
-2016,412C,Assistència sociosanitària i salut mental
-2016,412D,Assistència sanitària
-2016,422G,Tecnologies de la informació i la comunicació
-2016,422H,Suport al trilingüisme
-2016,441B,Sanejament i depuració d'aigües
-2016,443B,"Qualitat ambiental, control de la contaminació i assessoria mediambiental"
-2016,443C,Gestió de residus
-2016,443E,Protecció i defensa del consumidor
-2016,455C,Promoció de la cultura de les IB
-2016,457A,Promoció i foment de l'esport
-2016,463B,Informació i atenció a la ciutadania
-2016,511C,Ordenació del territori i urbanisme
-2016,511E,Gestió dels transports aeri i marítim a les IB
-2016,512A,"Protecció, control i defensa del domini públic hidràulic. Directiva marc de l'aigüa"
-2016,514A,Ordenació del litoral
-2016,514B,Gestió de les instal·lacions portuàries
-2016,613A,Gestió i inspecció de tributs
-2016,613B,Suport a la gestió tributària
-2016,635A,Mecanisme extraordinari de finançament a proveïdors
-2016,718C,Programes europeus de pesca
-2016,731C,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2016,912B,Suport financer a ajuntaments i altres ens locals
 2016,111E01,Control patrimonial dels alts càrrecs
 2016,126E01,Serveis de l'advocacia i coordin. serveis jurídics
 2016,141E01,Gestió de tresoreria i política financera
@@ -593,6 +519,32 @@
 2016,811A01,Fons de contingència
 2016,912A01,Suport financer als consells insulars
 2016,912B01,Suport financer a ajuntaments i altres ens locals
+2016,4,Producció de béns públics de caràcter social
+2016,41,Sanitat
+2016,411,Administració general de sanitat
+2016,412,"Hospitals, serveis assistencials i centres de salut"
+2016,411B,Administració i serveis generals assit.sanitària
+2016,411B01,Administració i serveis generals assit.sanitària
+2016,411B02,Planificació de l'assistència sanitària
+2016,411C,Formació del personal sanitari
+2016,411C01,Formació del personal sanitari
+2016,412A,Atenció primària de salut
+2016,412A01,Atenció primària de salut
+2016,412B,Atenció especialitzada de salut
+2016,412B01,Atenció especialitzada de salut
+2016,412C,Assistència sociosanitària i salut mental
+2016,412C01,Assistència sociosanitària i salut mental
+2016,412D,Assistència sanitària
+2016,412D01,Assistència sanitària
+2016,1,Funcionament institucional i administració general
+2016,14,Regulació econòmica
+2016,142,Gestió del sistema tributari
+2016,142A,Gestió i inspecció de tributs
+2016,142B,Suport a la gestió tributària
+2016,142A01,Gestió i inspecció de tributs
+2016,142A99,Gestió i inspecció de tributs-obligacions 409
+2016,142B01,Suport a la gestió tributària
+2016,142B99,Suport a la gestió tributària-obligacions 409
 2016,112G01,Reorganització i racionalització del sector públic instrumental de la CAIB
 2016,421B02,Programes internacionals
 2016,422G01,Tecnologies de la informació i la comunicació a l'àmbit escolar
@@ -602,17 +554,9 @@
 2016,443A01,Administració i plans mediambientals
 2016,562A02,Gestió de la demanda
 2016,718C01,Programes europeus de pesca
-2016,313L01,Ajuda a les víctimes de delictes
-2016,455C01,Promoció de la cultura de les IB
-2016,142A01,Gestió i inspecció de tributs
-2016,411B01,Administració i serveis generals de l'assistència sanitària
-2016,412A01,Atenció primària de salut
-2016,412B01,Atenció especialitzada de salut
-2016,412C01,Assistència sociosanitària i salut mental
-2016,411C01,Formació del personal sanitari
 2016,718C02,"Inversions FEP, recursos marins"
 2016,718C03,"Inversions FEP, ordenació de la pesca"
-2016,142B01,Gestió i inspecció de tributs
-2016,412D01,Assistència sanitària
+2016,313L01,Ajuda a les víctimes de delictes
+2016,455C01,Promoció de la cultura de les IB
 2016,422H01,Suport altrilinguisme
 2016,571C02,Gestió de la Xarxa Natura 2000 i projectes
