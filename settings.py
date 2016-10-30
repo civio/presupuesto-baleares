@@ -74,7 +74,7 @@ SHOW_INSTITUTIONAL_TAB  = True
 ADJUST_INFLATION_IN_OVERVIEW = False
 
 # Show Subtotals panel in Overview. Default: False
-# SHOW_OVERVIEW_SUBTOTALS = True
+SHOW_OVERVIEW_SUBTOTALS = True
 
 # Calculate budget indicators (True), or show/hide the ones hardcoded in HTML (False). Default: True.
 # CALCULATE_BUDGET_INDICATORS = False
@@ -91,7 +91,7 @@ ADD_ECONOMIC_CATEGORIES_PREFIX = True
 BREAKDOWN_BY_UID = False
 
 # Include financial income/expenditures in overview and global policy breakdowns. Default: False.
-INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = False
+# INCLUDE_FINANCIAL_CHAPTERS_IN_BREAKDOWNS = True
 
 # Search in entity names. Default: True.
 SEARCH_ENTITIES = False
