@@ -104,6 +104,17 @@ class BalearesBudgetLoader(BudgetLoader):
                     })
         return categories
 
+    def add_institutional_category(self, items, line):
+        description = self._escape_unicode(line[2])
+        ic_code = self._amend_institutional_code(line[1])
+
+        items.append({
+                'institution': ic_code[0:3],
+                'section': (ic_code[0:5] if len(ic_code)>3 else None),
+                'department': (ic_code if len(ic_code)>5 else None),
+                'description': description
+            })
+
     def add_functional_category(self, items, line):
         fc_code = line[1]
         description = line[2]
@@ -116,7 +127,6 @@ class BalearesBudgetLoader(BudgetLoader):
                 'subprogramme': (fc_code if len(fc_code)>=5 else None),
                 'description': description
             })
-
 
     def add_economic_category(self, items, line):
         description = line[3]
@@ -157,13 +167,13 @@ class BalearesBudgetLoader(BudgetLoader):
             fc_subprogramme = 'XXXXX'
 
         # Institutional and economic codes: keep only the final part of the code also.
-        ic_code = self._get_trailing_code(line[3])
+        ic_code = self._amend_institutional_code(self._get_trailing_code(line[3]))
         ec_code = self._get_trailing_code(line[5])
 
         # Gather all the relevant bits and store them to be processed
         items.append({
-                'ic_institution': ic_code[0:2],
-                'ic_section': ic_code[0:4],
+                'ic_institution': ic_code[0:3],
+                'ic_section': ic_code[0:5],
                 'ic_department': ic_code,
                 'ic_code': ic_code,
                 'fc_area': fc_area,
@@ -182,6 +192,19 @@ class BalearesBudgetLoader(BudgetLoader):
                 'description': None,
                 'amount': self._read_english_number(line[10])
             })
+
+    # The original codes are not well organised because the first digit doesn't reflect
+    # the different public bodies taking part. We fix that by adding a leading digit that does.
+    def _amend_institutional_code(self, ic_code):
+        if len(ic_code)==1:     # Let the top-level codes go through unmodified
+            return ic_code
+
+        if ic_code.startswith('50'):
+            return '1'+ic_code  # ATIB, Agencia Tributaria
+        elif ic_code.startswith('60'):
+            return '2'+ic_code  # SSIB, Seguridad Social
+        else:
+            return '0'+ic_code
 
     def _get_trailing_code(self, full_code):
         # Check for complex code format, since sometimes (2017 so far) is not there
