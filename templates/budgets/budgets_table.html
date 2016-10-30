@@ -1,0 +1,96 @@
+{% macro budgets_table(title, field, descriptions) %}
+<div class="panel totals {{ field }}-table">
+  <div class="panel-title row">
+    <div class="col-sm-3">{{ _(title) }}</div>
+    <div class="col-sm-3 text-right column-1"></div>
+    <div class="col-sm-3 text-right column-2"></div>
+    <div class="col-sm-3 text-right column-3">{{ _('Variación') }}</div>
+  </div>
+  <div class="panel-content">
+    <div class="total-budgeted row" id='row-chapters-1-9'>
+      <div class="col-sm-3">{{ _('Total Presupuestado') }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub chapters-first small row" id='row-chapters-1'>
+      <div class="col-sm-3">1. {{ descriptions[field]['1'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub small row" id='row-chapters-2'>
+      <div class="col-sm-3">2. {{ descriptions[field]['2'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub small row" id='row-chapters-3'>
+      <div class="col-sm-3">3. {{ descriptions[field]['3'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub small row" id='row-chapters-4'>
+      <div class="col-sm-3">4. {{ descriptions[field]['4'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub small row" id='row-chapters-5'>
+      <div class="col-sm-3">5. {{ descriptions[field]['5'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub chapters-sub-first row" id='row-chapters-1-5'>
+      <div class="col-sm-3"><a class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Capítulos I-V') }}"></a> {{ _('Subtotal Corriente') }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub chapters-first small row" id='row-chapters-6'>
+      <div class="col-sm-3">6. {{ descriptions[field]['6'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub small row" id='row-chapters-7'>
+      <div class="col-sm-3">7. {{ descriptions[field]['7'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub row" id='row-chapters-6-7'>
+      <div class="col-sm-3"><a class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Capítulos VI-VII') }}"></a> {{ _('Subtotal de Capital') }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-first row" id='row-chapters-1-7'>
+      <div class="col-sm-3"><a class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Capítulos I-VII') }}"></a> {{ _('Subtotal No Financiero') }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-first chapters-sub small row" id='row-chapters-8'>
+      <div class="col-sm-3">8. {{ descriptions[field]['8'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-sub small row" id='row-chapters-9'>
+      <div class="col-sm-3">9. {{ descriptions[field]['9'] }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+    <div class="chapters chapters-first row" id='row-chapters-8-9'>
+      <div class="col-sm-3"><a class="icon-question" data-toggle="tooltip" data-placement="right" title="{{ _('Capítulos VIII-IX') }}"></a> {{ _('Subtotal Financiero') }}</div>
+      <div class="col-sm-3 text-right column-1"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-2"><span class="data-label"></span><span class="data-point"></span></div>
+      <div class="col-sm-3 text-right column-3"><span class="data-label"></span><span class="data-point"></span></div>
+    </div>
+  </div>
+</div>
+{% endmacro %}

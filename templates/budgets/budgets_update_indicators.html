@@ -1,0 +1,113 @@
+<script>
+// Global function getSum
+function getSum(breakdown, ids, field, year, budgetStatuses) {
+  // Prefer the execution amount if it exists and the year is complete,
+  // ...otherwise stick with the budget.
+  var use_execution_data = budgetStatuses[year]!== undefined &&
+                            budgetStatuses[year]=='' &&
+                            breakdown.years['actual_'+year];
+  var column_name = use_execution_data ? 'actual_'+year : year;
+  return _.reduce(ids, function(sum, id) {
+      // It's rare, but it may happen that a chapter is missing, so double check
+      return sum + ((breakdown.sub[id]&&breakdown.sub[id][field][column_name]) || 0);
+    }, 0);
+}
+
+// Update budget totals
+function updateBudgetTotals(chapterBreakdown, economicBreakdown, budgetStatuses, adjustInflationFn, uiState) {
+  function format(amount) {
+    return formatAmount(adjustInflationFn(amount, uiState.year));
+  }
+
+  var hasPreviousYear = (chapterBreakdown.years[uiState.year-1]!=null);
+
+  // Set data labels and headers
+  $('.panel-title .column-1, .column-1 .data-label').text(hasPreviousYear ? uiState.year-1 : '');
+  $('.panel-title .column-2, .column-2 .data-label').text(uiState.year);
+  $('.panel-title .column-3, .column-3 .data-label').text(hasPreviousYear ? '∆'+(uiState.year-1)+'-'+uiState.year : '');
+
+  // Populate data rows
+  var dataRows = [
+    [[1], 'expense', '.expense-table #row-chapters-1'],
+    [[2], 'expense', '.expense-table #row-chapters-2'],
+    [[3], 'expense', '.expense-table #row-chapters-3'],
+    [[4], 'expense', '.expense-table #row-chapters-4'],
+    [[5], 'expense', '.expense-table #row-chapters-5'],
+    [[1,2,3,4,5], 'expense', '.expense-table #row-chapters-1-5'],
+    [[6], 'expense', '.expense-table #row-chapters-6'],
+    [[7], 'expense', '.expense-table #row-chapters-7'],
+    [[6,7], 'expense', '.expense-table #row-chapters-6-7'],
+    [[1,2,3,4,5,6,7], 'expense', '.expense-table #row-chapters-1-7'],
+    [[8], 'expense', '.expense-table #row-chapters-8'],
+    [[9], 'expense', '.expense-table #row-chapters-9'],
+    [[8,9], 'expense', '.expense-table #row-chapters-8-9'],
+    [[1,2,3,4,5,6,7,8,9], 'expense', '.expense-table #row-chapters-1-9'],
+
+    [[1], 'income', '.income-table #row-chapters-1'],
+    [[2], 'income', '.income-table #row-chapters-2'],
+    [[3], 'income', '.income-table #row-chapters-3'],
+    [[4], 'income', '.income-table #row-chapters-4'],
+    [[5], 'income', '.income-table #row-chapters-5'],
+    [[1,2,3,4,5], 'income', '.income-table #row-chapters-1-5'],
+    [[6], 'income', '.income-table #row-chapters-6'],
+    [[7], 'income', '.income-table #row-chapters-7'],
+    [[6,7], 'income', '.income-table #row-chapters-6-7'],
+    [[1,2,3,4,5,6,7], 'income', '.income-table #row-chapters-1-7'],
+    [[8], 'income', '.income-table #row-chapters-8'],
+    [[9], 'income', '.income-table #row-chapters-9'],
+    [[8,9], 'income', '.income-table #row-chapters-8-9'],
+    [[1,2,3,4,5,6,7,8,9], 'income', '.income-table #row-chapters-1-9'],
+  ];
+
+  _.each(dataRows, function(dataRow) {
+    var ids = dataRow[0],
+        field = dataRow[1],
+        row = $(dataRow[2]);
+
+    var currentExpense = getSum(chapterBreakdown, ids, field, uiState.year, budgetStatuses);
+    $('.column-2 .data-point', row).text(format(currentExpense));
+
+    if ( hasPreviousYear ) {
+      var previousExpense = getSum(chapterBreakdown, ids, field, uiState.year-1, budgetStatuses),
+          variation = currentExpense - previousExpense,
+          variationPercentage = variation / previousExpense;
+      $('.column-1 .data-point', row).text(format(previousExpense));
+      $('.column-3 .data-point', row).text(format(variation)+' ('+formatPercentage(variationPercentage)+')');
+
+    } else {
+      $('.column-1 .data-point', row).text('');
+      $('.column-3 .data-point', row).text('');
+    }
+  });
+}
+
+// Calculate global budget indicators
+function calculateIndicators(chapterBreakdown, budgetStatuses, adjustInflationFn, uiState) {
+  function format(amount) {
+    return formatAmount(adjustInflationFn(amount, uiState.year));
+  }
+
+  var gross_savings = getSum(chapterBreakdown, _.range(1, 6), 'income', uiState.year, budgetStatuses) -
+                      getSum(chapterBreakdown, _.range(1, 6), 'expense', uiState.year, budgetStatuses);
+  var net_savings = gross_savings - getSum(chapterBreakdown, '9', 'expense', uiState.year, budgetStatuses);
+  var funding_capacity = gross_savings +
+                          getSum(chapterBreakdown, [6, 7], 'income', uiState.year, budgetStatuses) -
+                          getSum(chapterBreakdown, [6, 7], 'expense', uiState.year, budgetStatuses);
+
+  $('#total-gross-savings').text(format(gross_savings));
+  $('#total-net-savings').text(format(net_savings));
+  $('#total-funding-capacity').text(format(funding_capacity));
+
+  $('#indicators-year, #totals-year').text(uiState.year);
+}
+
+// Show the budget indicators for the current year.
+// The indicators' values are expected to be part of the HTML.
+function showIndicators(uiState) {
+  // Update budget indicators by year
+  $('#totals-panel .panel.indicators .value').hide();
+  $('#totals-panel .panel.indicators .value-'+uiState.year).show();
+
+  $('#indicators-year, #totals-year').text(uiState.year);
+}
+</script>

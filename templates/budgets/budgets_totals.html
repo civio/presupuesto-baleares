@@ -1,0 +1,7 @@
+{% from 'budgets/budgets_table.html' import budgets_table as budgets_table %}
+
+<!-- Budget Totals -->
+<div class="budget-totals">
+  {{ budgets_table('Gastos', 'expense', descriptions) }}
+  {{ budgets_table('Ingresos', 'income', descriptions) }}
+</div>

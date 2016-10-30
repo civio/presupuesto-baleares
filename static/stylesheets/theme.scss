@@ -149,6 +149,35 @@
 }
 
 
+// Budgets Data Panel
+.budget-data{
+  .budget-totals{
+    .panel-title{
+      .col-sm-3{
+        padding-right: 0;
+        padding-left: 0;
+      }
+    }
+
+    .panel-content{
+      .col-sm-3{
+        padding: $grid-gutter-width/4 0 0;
+      }
+    }
+  }
+}
+
+@media (min-width: $screen-sm-min) {
+  .budget-data .budget-totals{
+    .panel-content{
+      .col-sm-3{
+        padding: $grid-gutter-width/4;
+      }
+    }
+  }
+}
+
+
 // Policies
 .policies-chart{
   background: white;

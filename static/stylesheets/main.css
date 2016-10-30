@@ -7728,6 +7728,15 @@ body.widget .stacked-area-chart-legend {
 .budget-data {
   background: white; }
 
+.budget-data .budget-totals .panel-title .col-sm-3 {
+  padding-right: 0;
+  padding-left: 0; }
+.budget-data .budget-totals .panel-content .col-sm-3 {
+  padding: 7.5px 0 0; }
+
+@media (min-width: 768px) {
+  .budget-data .budget-totals .panel-content .col-sm-3 {
+    padding: 7.5px; } }
 .policies-chart {
   background: white; }
 
