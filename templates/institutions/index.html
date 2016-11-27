@@ -29,30 +29,7 @@
     <div class="container">
 
       <!-- Policies Chart -->
-      <div class="policies-chart">
-        <div id="budget-summary"></div>
-        <div id="expenseChartContainer" class="chart-container">
-          <div class="popover top" role="tooltip">
-            <div class="arrow"></div>
-            <p class="popover-subtitle"></p>
-            <h4 class="popover-title"></h4>
-            <div class="popover-content">
-              <span class="popover-content-value"></span>
-            </div>
-          </div>
-        </div>
-        <div id="incomeChartContainer" class="chart-container">
-          <div class="popover top" role="tooltip">
-            <div class="arrow"></div>
-            <p class="popover-subtitle"></p>
-            <h4 class="popover-title"></h4>
-            <div class="popover-content">
-              <span class="popover-content-value"></span>
-            </div>
-          </div>
-        </div>
-        <p class="no-data-alert">{{ _('Información no disponible') }}</p>
-      </div>
+      {% include 'entities/policies-chart.html' %}
 
       {% include 'shared/data_controllers.html' %}
 

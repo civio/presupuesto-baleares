@@ -412,20 +412,22 @@ def institutions(request, render_callback=None):
     set_title(c, main_entity.name)
 
     # Prepare the budget breakdowns
-    c['economic_breakdown'] = BudgetBreakdown(['name'])
-    c['economic_breakdown_by_area'] = BudgetBreakdown([_get_area, 'name', 'chapter'])
+    c['breakdowns'] = {
+        'economic': BudgetBreakdown(['name']),
+        'economic_by_area': BudgetBreakdown([_get_area, 'name', 'chapter'])
+    }
     for item in data:
         for chapter in range(1, 10):
             amount = item[2+chapter]*100
             if amount > 0:
                 datapoint = DataPoint(year=item[0], name=item[1], expense=item[2], chapter='C'+str(chapter), amount=amount)
-                c['economic_breakdown'].add_item(datapoint.year, datapoint)
-                c['economic_breakdown_by_area'].add_item(datapoint.year, datapoint)
+                c['breakdowns']['economic'].add_item(datapoint.year, datapoint)
+                c['breakdowns']['economic_by_area'].add_item(datapoint.year, datapoint)
 
     # Additional data needed by the view
     populate_level(c, main_entity.level)
     populate_entity_stats(c, main_entity)
-    populate_years(c, 'economic_breakdown')
+    populate_years(c, c['breakdowns']['economic'])
     populate_budget_statuses(c, main_entity.id)
     c['entity'] = main_entity
 
