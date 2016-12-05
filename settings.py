@@ -115,6 +115,10 @@ LANGUAGES = (
 # In order to get the ID create an app in https://developers.facebook.com/
 FACEBOOK_ID             = '135301130284103'
 
+# Google Analytics ID. Default: ''
+# In order to get the ID create a Google Analytics Acount in https://analytics.google.com/analytics/web/
+ANALYTICS_ID            = 'UA-28946840-16'
+
 # Setup Data Source Budget link
 DATA_SOURCE_BUDGET      = 'http://www.caib.es/sacmicrofront/home.do?mkey=M226&lang=ca'
 
