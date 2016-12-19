@@ -17,7 +17,6 @@ $brand-terciary:        #BAAFAB;
 $brand-primary-accent:  $brand-primary;
 
 $text-color:            #000;
-$table-color:           darken( $brand-terciary, 25% );
 
 $headings-color:        $brand-primary;
 
@@ -88,6 +87,13 @@ $dvmi-navbar-color:       $text-color;
 
 $navbar-default-link-active-color:    $brand-primary;
 $navbar-default-link-active-bg:       $brand-secondary;
+
+
+// Panels
+// ---------------
+
+$panel-default-border:      darken( $brand-terciary, 25% );
+$panel-default-heading-bg:  darken( $brand-terciary, 25% );
 
 
 // Popover
@@ -173,13 +179,7 @@ $budget-stream-color: $brand-primary;
 // --------------
 
 $slider-bg:     $brand-terciary;
-$slider-color:  $table-color;
-
-
-// Data Panel
-// --------------
-
-$data-panel-color: $table-color;
+$slider-color:  $panel-default-heading-bg;
 
 
 // Data Sources

@@ -155,13 +155,6 @@
 // Budgets Data Panel
 .budget-data{
   .budget-totals{
-    .panel-title{
-      .col-sm-3{
-        padding-right: 0;
-        padding-left: 0;
-      }
-    }
-
     .panel-content{
       .col-sm-3{
         padding: $grid-gutter-width/4 0 0;
@@ -233,18 +226,6 @@
 
 // Search
 .search-content{
-
-  .panel{
-    border-color: $table-color;
-
-    .panel-heading{
-      background: $table-color;
-
-      h3{
-        color: white;
-      }
-    }
-  }
 
   .results-concepts .concept a{
     color: $brand-primary;
