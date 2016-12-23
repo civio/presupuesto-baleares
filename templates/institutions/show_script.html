@@ -28,28 +28,7 @@
     var i18n          = { 'Presupuestado': 'Presupuestado' };
     var colorScale    = {{ color_scale|safe }};
     var labelsMinSize = {{ treemap_labels_min_size|safe }};
-
-
-    // Helper functions to set the totals panel
-    // TODO: This is duplicated in policies/show_script.html. Must combine! Ongoing part of #364
-    function setEconomicTotals(breakdown, columnDef, classSelector) {
-      var format = function(amount) { return columnDef.render(amount, 'display', breakdown); },
-          totalNonFinancial = totalFinancial = 0;
-
-      _.each(breakdown.sub, function(value, id) {
-        var amount = columnDef.data(breakdown.sub[id]);
-        if ( id[0]==='8' || id[0]==='9' ) {
-          totalFinancial += amount
-        } else {
-          totalNonFinancial += amount
-        }
-      });
-
-      if ( !includeFinancialChapters ) {
-        $("#non-financial-total "+classSelector+"-amount").text(format(totalNonFinancial));
-      }
-      $("#main-total "+classSelector+"-amount").text(format(totalNonFinancial+totalFinancial));
-    }
+    var labelsFontSizeMin = {{ treemap_labels_font_size_min }};
 
     function getColumnDefinition(uiState) {
       var getBreakdownValue = getBreakdownValueFunction(uiState.field, uiState.year);
@@ -118,36 +97,46 @@
 {% endif %}
       ]);
 
-      // Update totals texts
-      $('#totals-year').text(uiState.year);
-      var label = uiState.view == 'income' ? '{{ _("Ingresado") }}' : '{{ _("Gastado") }}';
-      $('#totals-panel .total-executed > span').html( label );
-      var executionLabelPostfix = getExecutionTotalLabel(budgetStatuses[uiState.year], budgetStatusLabels);
-      $("#main-total .main-label").html('{{ _("Total") }}' + executionLabelPostfix);
-
-      // Show actual/budgeted split only when there's data available
-      // (and the field format is not '% of total', gets confusing otherwise)
+      // Get breakdown
       var breakdown = breakdowns[uiState.view],
           hasActualData = breakdown[uiState.field]['actual_'+uiState.year];
-      if ( hasActualData && uiState.format!='percentage' ) {
-        $("#totals-panel .total-executed").show();
+
+      // Hide totals panel if format is '% of total'
+      if ( uiState.format === 'percentage' ) {
+        $('#totals-panel').hide();
       } else {
-        $("#totals-panel .total-executed").hide();
+        $('#totals-panel').show();
       }
 
-      // Fill in the amounts in the totals
-      var setTotals = (uiState.view === 'functional' || uiState.view==='institutional') ?
-                        setFunctionalTotals :
-                        setEconomicTotals;
-      setTotals(breakdown, columnDef, '.total-budgeted');
-      if ( hasActualData )
-        setTotals(breakdown, executionColumnDef, '.total-executed');
+      // Set total labels
+      var executedLabel = uiState.view == 'income' ? '{{ _("Ingresado") }}' : '{{ _("Gastado") }}',
+          executionLabelPostfix = getExecutionTotalLabel(budgetStatuses[uiState.year], budgetStatusLabels);
+
+      TotalHelpers.setLabels(uiState.year+' '+executionLabelPostfix, executedLabel, '{{ _("Total") }}', includeFinancialChapters);
+
+
+      var setTotals = (uiState.view === 'functional' || uiState.view === 'institutional') ?
+                        TotalHelpers.setFunctionalTotals :
+                        TotalHelpers.setEconomicTotals;
+
+      // Set total budgeted amount
+      setTotals(breakdown, columnDef, '.total-budgeted', includeFinancialChapters, (!includeFinancialChapters) ? financialExpenseBreakdown : null);
+
+      // Show total budgeted executed if hasActualData or clear otherwise
+      if ( hasActualData ) {
+        setTotals(breakdown, executionColumnDef, '.total-executed', includeFinancialChapters, (!includeFinancialChapters) ? financialExpenseBreakdown : null);
+      } else {
+        TotalHelpers.clear('.total-executed');
+      }
 
       // Setup & Update Budget Summary
       budgetSummary.update( breakdowns[uiState.view], areas[uiState.view], uiState.field, uiState.view, uiState.year );
 
       // Setup & Update Budget Treemap
-      budgetTreemap.update( breakdowns[uiState.view], areas[uiState.view], uiState );
+      // XXX: How many levels of institutional breakdown to show is subject to debate. See #347.
+      budgetTreemap
+        .treeLevels( uiState.view==='institutional' ? {{ institutional_max_levels }} : 1 )
+        .update( breakdowns[uiState.view], areas[uiState.view], uiState );
 
       // Show an alert if no data is available
       if ( myGrid.page.info().recordsDisplay != 0 ) {
@@ -169,17 +158,26 @@
 
 
     // Initialization
-    _.each(breakdowns, function(b, name) { gridData[name] = breakdownToTable(b); });
+
+    // Set gridData
+    for (var item in breakdowns) {
+      gridData[item] = breakdownToTable( breakdowns[item] );
+    }
 
     // Create Budget Summary
-    var budgetSummary = new BudgetSummary('#budget-summary', colorScale);
+    var budgetSummary = new BudgetSummary('#budget-summary')
+      .colors(colorScale)
+      .setup();
 
     // Create Budget Treemap
-    var budgetTreemap = new BudgetTreemap('#budget-treemap', stats, 2, colorScale, labelsMinSize, i18n, budgetStatuses);
-{% if not entities %}
-    // Limit treemap depth for top-level entities
-    budgetTreemap.maxLevels(1);
-{% endif %}
+    var budgetTreemap = new BudgetTreemap('#budget-treemap', stats, budgetStatuses)
+      .colors(colorScale)
+      .labelsMinSize(labelsMinSize)
+      .labelsFontSizeMin(labelsFontSizeMin)
+      .setup();
+
+    // Resize treemap
+    $(window).resize( budgetTreemap.resize );
 
     // Listen BudgetTreemap & BudgetSummary events
     $('#budget-summary').bind('budget-summary-over', onBudgetSummaryOver);
