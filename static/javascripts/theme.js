@@ -86,7 +86,7 @@ $(document).ready(function(){
     });
   };
 
-  addYearSelectorCustomLabels();
+  // addYearSelectorCustomLabels();
 
   if ($('body').hasClass('body-subprogrammes')) {
     addProjects();  
