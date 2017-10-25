@@ -106,7 +106,7 @@ class BalearesBudgetLoader(BudgetLoader):
 
     def add_institutional_category(self, items, line):
         description = self._escape_unicode(line[2])
-        ic_code = self._amend_institutional_code(line[1])
+        ic_code = self._amend_institutional_code(self._get_trailing_code(line[1]))
 
         items.append({
                 'institution': ic_code[0:3],
@@ -129,14 +129,15 @@ class BalearesBudgetLoader(BudgetLoader):
             })
 
     def add_economic_category(self, items, line):
+        ec_code = self._get_trailing_code(line[2])
         description = line[3]
 
         items.append({
                 'expense': (line[1].upper() == 'G'),
-                'chapter': (line[2][0:1] if len(line[2])>=1 else None),
-                'article': (line[2][0:2] if len(line[2])>=2 else None),
-                'heading': (line[2][0:3] if len(line[2])>=3 else None),
-                'subheading': (line[2][0:5] if len(line[2])>=5 else None),
+                'chapter': (ec_code[0:1] if len(ec_code)>=1 else None),
+                'article': (ec_code[0:2] if len(ec_code)>=2 else None),
+                'heading': (ec_code[0:3] if len(ec_code)>=3 else None),
+                'subheading': (ec_code[0:5] if len(ec_code)>=5 else None),
                 'description': description
             })
 
