@@ -340,6 +340,7 @@
 2018,G,2018/AGIB00/77,A empreses privades
 2018,G,2018/AGIB00/78,A famílies i institucions sense finalitat lucrativa
 2018,G,2018/AGIB00/79,A l'exterior
+2018,G,2018/AGIB00/82,Concessió de préstecs al sector públic
 2018,G,2018/AGIB00/83,Concessió de préstecs fora del sector públic
 2018,G,2018/AGIB00/91,Amortització de préstecs en euros
 2018,G,2018/ATIB00/10,Retribucions d'alts càrrecs
@@ -477,6 +478,8 @@
 2018,G,2018/AGIB00/770,A empreses privades
 2018,G,2018/AGIB00/780,A famílies i institucions sense finalitat lucrativa
 2018,G,2018/AGIB00/790,A l'exterior
+2018,G,2018/AGIB00/820,Concessió de préstecs al sector públic a curt termini
+2018,G,2018/AGIB00/821,Concessió de préstecs al sector públic a llarg termini
 2018,G,2018/AGIB00/830,Concessió de préstecs fora del sector públic a curt termini
 2018,G,2018/AGIB00/831,Concessió de préstecs fora del sector públic a largo plazo
 2018,G,2018/AGIB00/913,Amortització de préstecs rebuts a llarg termini d'ens de fora del sector públic
@@ -899,6 +902,8 @@
 2018,G,2018/AGIB00/77000,A empreses privades
 2018,G,2018/AGIB00/78000,A famílies i institucions sense finalitat lucrativa
 2018,G,2018/AGIB00/79000,A l'exterior
+2018,G,2018/AGIB00/82007,A empreses vinculades i a altres ens participats per la CAIB
+2018,G,2018/AGIB00/82104,A empreses públiques i altres ens públics
 2018,G,2018/AGIB00/83008,A famílies i institucions sense finalitat lucrativa
 2018,G,2018/AGIB00/83108,A famílies i institucions sense finalitat lucrativa
 2018,G,2018/AGIB00/91300,Amortització de préstecs a llarg termini d'ens de fora del sector públic
@@ -1143,5 +1148,3 @@
 2018,G,2018/SSIB00/64090,"Arrendament financer amb opció de compra, leasing"
 2018,G,2018/SSIB00/91100,Amortització de préstecs a llarg termini d'ens del sector públic
 2018,G,2018/SSIB00/91300,Amortització de préstecs a curt termini d'ens de fora del sectro públic
-2018,G,82007,XXX
-2018,G,82104,XXX

@@ -340,6 +340,7 @@
 2018,G,2018/AGIB00/77,A empresas privadas
 2018,G,2018/AGIB00/78,A familias e instituciones sin finalidad lucrativa
 2018,G,2018/AGIB00/79,Al exterior
+2018,G,2018/AGIB00/82,Concesión de préstamos al sector público
 2018,G,2018/AGIB00/83,Concesión de préstamos fuera del sector público
 2018,G,2018/AGIB00/91,Amortización de préstamos en euros
 2018,G,2018/ATIB00/10,Retribuciones de altos cargos
@@ -477,6 +478,8 @@
 2018,G,2018/AGIB00/770,A empresas privadas
 2018,G,2018/AGIB00/780,A familias e instituciones sin fines de lucro
 2018,G,2018/AGIB00/790,Al exterior
+2018,G,2018/AGIB00/820,Concesión de préstamos al sector público a corto plazo
+2018,G,2018/AGIB00/821,Concesión de préstamos al sector público a largo plazo
 2018,G,2018/AGIB00/830,Concesión de préstamos fuera del sector público  corto plazo
 2018,G,2018/AGIB00/831,Concesión de préstamos fuera del sector publico a largo plazo
 2018,G,2018/AGIB00/913,Amortización de préstamos recibidos a largo plazo de entes de fuera del sector público
@@ -899,6 +902,8 @@
 2018,G,2018/AGIB00/77000,A empresa privadas
 2018,G,2018/AGIB00/78000,A famílias e instituciones sin fines de lucro
 2018,G,2018/AGIB00/79000,Al exterior
+2018,G,2018/AGIB00/82007,A empresas vinculadas y a otros entes participados por la CAIB
+2018,G,2018/AGIB00/82104,A empresas públicas y otros entes públicos
 2018,G,2018/AGIB00/83008,A famílias e instituciones sin fines de lucro
 2018,G,2018/AGIB00/83108,A famílias e instituciones sin fines de lucro
 2018,G,2018/AGIB00/91300,Amortización de préstamos a largo plazo de entes del fuera del sector público
@@ -1143,5 +1148,3 @@
 2018,G,2018/SSIB00/64090,"Arrendamiento financiero con opción de compra, leasing"
 2018,G,2018/SSIB00/91100,Amortització de préstecs a curt termini d'ens de fora del sectro públic
 2018,G,2018/SSIB00/91300,Amortización de préstamos a corto plazo de entes de fuera del sector público
-2018,G,82007,XXX
-2018,G,82104,XXX
