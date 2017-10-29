@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-02-18 12:14+0100\n"
-"PO-Revision-Date: 2017-10-29 21:15+0100\n"
+"PO-Revision-Date: 2017-10-29 21:46+0100\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -137,3 +137,12 @@ msgstr "Projecte"
 
 msgid " (cap. %(chapter)s)"
 msgstr " "
+
+msgid "Subtotal Financiero"
+msgstr "Subtotal Financer"
+
+msgid "Subtotal No Financiero"
+msgstr "Subtotal No Financer"
+
+msgid "Subtotal Corriente"
+msgstr "Subtotal Corrent"
