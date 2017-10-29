@@ -1,0 +1,161 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<!-- Budget Stream Intro -->
+{% include 'budgets/budgets_intro.html' %}
+
+<!-- Budget Sankey Viz -->
+<div class="budget-viz">
+  <div class="container">
+    <h2 class="page-title">{{ _('Ingresos y gastos en el Gobierno de Aragón') }}</h2>
+
+    <div class="sankey-container">
+      <div class="sankey-labels">
+        <p class="sankey-label-incomes">{{ _('Ingresos no financieros') }}</p>
+        <p class="sankey-label-expenses">{{ _('Gastos no financieros') }}</p>
+      </div>
+      <div class="sankey chart-container" id="chart">
+        <div id="pop-up" class="popover top" role="tooltip">
+          <div class="arrow"></div>
+          <div class="popover-title"></div>
+          <div class="popover-content"></div>
+        </div>
+      </div>
+
+      <div class="data-controllers">
+        <p class="title">{{ _('Elige año') }}</p>
+        <div class="layout-slider">
+          <label for="year-selection">{{ _('Año') }}</label>
+          <input id="year-selection" type="text" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Budget Data -->
+<div id="budgets-totals" class="budget-data">
+  <div class="container">
+
+    <h2 class="page-title" id="indicadores">{{ _('Datos presupuestarios en <span id="totals-year"></span>')|safe }}</h2>
+    
+    <div id="totals-panel" class="data-panel">
+
+      <!-- Budget Totals -->
+      {% include 'budgets/budgets_totals.html' %}
+
+      <!-- Budget Indicators -->
+      {% include 'budgets/budgets_indicators.html' %}
+
+    </div>
+
+    <!-- Social Sharing Buttons -->
+    {% include 'shared/social_sharing.html' %}
+  </div>
+</div>
+
+<!-- Data Sources Panel -->
+{% include 'shared/data_sources.html' %}
+
+<!-- Some extra Javascript, camouflaged as HTML files :/ -->
+{% include 'shared/policy_paths.html' %}
+{% include 'budgets/budgets_update_indicators.html' %}
+
+<script>
+  $(function() {
+    function redraw() {
+      var uiState = getUIState();
+      sankey.update(uiState);
+      updateBudgetTotals(chapterBreakdown, economicBreakdown, budgetStatuses, adjustInflationFn, uiState);
+      $('.execution-status').html(getExecutionTotalLabel(budgetStatuses[uiState.year], i18n));
+{% if calculate_budget_indicators %}
+      calculateIndicators(chapterBreakdown, budgetStatuses, adjustInflationFn, uiState);
+{% else %}
+      showIndicators(uiState);
+{% endif %}
+    }
+
+    // Return a function to convert nominal amounts to inflation-adjusted ones.
+    // If needed, that is, because this behaviour can be configured at a theme-level:
+    // we can configure it to show nominal amounts.
+    function getInflationAdjustmentFunction(stats) {
+      return function(value, year) {
+{% if adjust_inflation_in_overview %}
+        return adjustInflation(value, stats, year);
+{% else %}
+        return value;
+{% endif %}
+      }
+    }
+
+    // Calculate maximum amount to display across all years, so we can set a global scale for the Sankey
+    function calculateMaximumSankeyAmount(breakdown) {
+      var highest_amount = 0;
+      for (var column in breakdown.years) {
+        var year = breakdown.years[column].toString();
+        var highest_this_year = Math.max( 
+                                  (breakdown.income[year]||0), 
+                                  (breakdown.income['actual_'+year]||0),
+                                  (breakdown.expense[year]||0), 
+                                  (breakdown.expense['actual_'+year]||0) );
+        var highest_amount = Math.max(highest_amount, 
+                                      adjustInflationFn(highest_this_year, breakdown.years[column]));
+      }
+      return highest_amount;
+    }
+
+    var stats = {{ stats|safe }};
+    var budgetStatuses = {{ budget_statuses|safe }};
+    var adjustInflationFn = getInflationAdjustmentFunction(stats);
+
+    var functionalBreakdown = {{ breakdowns['functional'].to_json( labels=descriptions['functional'] )|safe }};
+    var economicBreakdown = {{ breakdowns['economic'].to_json( labels=descriptions['income'] )|safe }};
+    var chapterBreakdown = {{ breakdowns['chapter'].to_json()|safe }};  // Used for indicators
+    var i18n = {
+      'other': '{{ _("Otros") }}',
+      'government': '{{ _("Gobierno de Aragón") }}',
+      'budgeted': '{{ _("Presupuestado") }}',
+      'executed': '{{ _("Ejecutado") }}',
+      '1T': '{{ _("hasta el primer trimestre") }}',
+      '2T': '{{ _("hasta el segundo trimestre") }}',
+      '3T': '{{ _("hasta el tercer trimestre") }}',
+      'D': "{{ _("a día de hoy") | safe }}",
+      'PR': '{{ _("proyecto") }}',
+{% if adjust_inflation_in_overview %}
+      'amounts.are.real': '{{ _("(Cantidades actualizadas con la inflación)") }}',
+{% endif %}
+      'n/d': 'No hay datos'
+    };
+
+    var sankey = new BudgetSankey(functionalBreakdown, economicBreakdown, adjustInflationFn, budgetStatuses, i18n);
+    sankey.incomeNodes({{ income_nodes|safe }});
+    sankey.expenseNodes({{ expense_nodes|safe }});
+    // Set a constant scale for the Sankey diagram across the years (otherwise each year would look
+    // equally big). Note: 4% margin to avoid clipping, as there is some spacing between the items.
+    sankey.maxAmountEver( calculateMaximumSankeyAmount(functionalBreakdown) * 1.04 );
+
+    {# If we have multiple languages, let the Sankey chart know which one to use #}
+    {% if LANGUAGES|length > 1 %}
+    sankey.language('{{ LANGUAGE_CODE }}');
+    {% endif %}
+
+    {# The padding of the Sankey layout algorithm can be customized for best results. #}
+    {% if node_padding %}
+    var nodePadding = {{ node_padding }};
+    sankey.nodePadding(nodePadding);
+    {% endif %}
+
+    {# The aggressiveness of the Sankey layout algorithm can be customized for best results. #}
+    {% if relax_factor %}
+    var relaxFactor = {{ relax_factor }};
+    sankey.relaxFactor(relaxFactor);
+    {% endif %}
+
+    initSlider("#year-selection", {{ years|safe }}, redraw, {{ starting_year }});
+    sankey.draw("#chart", getUIState());
+    redraw();
+  })
+</script>
+
+{% endblock %}
