@@ -88,9 +88,9 @@ $(document).ready(function(){
 
   addYearSelectorCustomLabels();
 
-  if ($('body').hasClass('body-subprogrammes')) {
-    addProjects();  
-  }
+  // if ($('body').hasClass('body-subprogrammes')) {
+  //   addProjects();
+  // }
 });
 
 
