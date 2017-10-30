@@ -8,7 +8,7 @@ MAIN_ENTITY_NAME = 'Baleares'
 
 BUDGET_LOADER = 'BalearesBudgetLoader'
 
-FEATURED_PROGRAMMES = ['121C', '723A', '722A']
+FEATURED_PROGRAMMES = ['121C', '723A', '722A', '542A', '423B', '413B', '455A', '322D']
 
 # Number of programmes to feature in home page. Default: 3
 # NUMBER_OF_FEATURED_PROGRAMMES = 4
