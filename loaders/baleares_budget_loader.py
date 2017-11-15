@@ -116,7 +116,7 @@ class BalearesBudgetLoader(BudgetLoader):
             })
 
     def add_functional_category(self, items, line):
-        fc_code = line[1]
+        fc_code = self._get_trailing_code(line[1])
         description = line[2]
 
         items.append({

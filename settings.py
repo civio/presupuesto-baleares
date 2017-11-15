@@ -89,7 +89,7 @@ SHOW_OVERVIEW_SUBTOTALS = True
 
 # Show an extra column with actual revenues/expenses. Default: True.
 # Warning: the execution data still gets shown in the summary chart and in downloads.
-SHOW_ACTUAL = False
+# SHOW_ACTUAL = False
 
 # Add economic categories codes as a prefix in the breakdown tables. Default: False.
 ADD_ECONOMIC_CATEGORIES_PREFIX = True

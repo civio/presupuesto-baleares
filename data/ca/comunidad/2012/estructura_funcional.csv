@@ -1,569 +1,588 @@
-2012,0,Deute públic
-2012,1,Funcionament institucional i administració general
-2012,2,Serveis públics generals
-2012,3,Protecció i promoció social
-2012,4,Producció de béns públics de caràcter social
-2012,5,Producció de béns públics de caràcter econòmic
-2012,7,Foment i regulació de sectors productius
-2012,8,Fons de contingència
-2012,9,Suport financer a altres administracions públiques
-2012,01,Deute públic
-2012,11,Alta direcció de la Comunitat Autònoma i Govern
-2012,12,Administració i serveis generals
-2012,13,Relacions institucionals i processos electorals
-2012,14,Regulació econòmica
-2012,15,"Transparència, comunicació i participació"
-2012,21,Justícia
-2012,22,Seguretat i protecció civil
-2012,23,Relacions exteriors i cooperació al desenvolupament
-2012,31,Protecció social
-2012,32,Promoció social
-2012,41,Salut
-2012,42,Educació
-2012,43,Habitatge i urbanisme
-2012,44,Consum
-2012,45,Cultura
-2012,46,Esports
-2012,51,Infraestructures bàsiques i transports
-2012,52,Transport
-2012,53,Ordenació del territori i urbanisme
-2012,54,"Recerca científica, tècnica i aplicada"
-2012,55,Societat de la informació i el coneix. i telecom.
-2012,56,Cicle de l'aigua
-2012,57,Actuacions ambientals
-2012,58,Infraestructures agràries i rurals
-2012,59,Altres actuacions de caràcter econòmic
-2012,71,"Agricultura, ramaderia i pesca"
-2012,72,Indústria
-2012,73,Energia
-2012,75,Turisme
-2012,76,Comerç
-2012,81,Fons de contingència
-2012,91,Suport financer administracions públiques territorials
-2012,011,Deute públic
-2012,111,Alta direcció de la Comunitat Autònoma
-2012,121,Serveis generals i funció pública
-2012,126,Altres serveis generals
-2012,131,Relacions institucionals
-2012,132,Processos electorals
-2012,141,Política econòmica i pressupostària
-2012,151,"Transparència, comunicació i participació"
-2012,211,Actuacions en matèria de justícia
-2012,222,Seguretat i ordre públic
-2012,223,Protecció civil
-2012,231,Relacions exteriors
-2012,232,Cooperació internacional
-2012,313,Serveis socials
-2012,314,Pensions i altres prestacions econòmiques
-2012,322,Promoció de l'ocupació
-2012,323,Promoció sociocultural
-2012,324,Relacions laborals
-2012,411,Administració general de salut
-2012,413,Accions públiques relatives a la salut
-2012,421,Administració general d'educació
-2012,422,Ensenyament
-2012,423,Promoció educativa
-2012,431,Habitatge
-2012,441,"Ordenació, control i informació sobre el consum"
-2012,451,Administració general de cultura
-2012,455,Promoció cultural
-2012,461,Esports
-2012,511,Administració general infraestr.bàsiques i transp.
-2012,521,Transport terrestre
-2012,522,Transport marítim i aeri
-2012,531,Ordenació del territori
-2012,541,Recerca i documentació científica
-2012,542,Recerca tècnica i aplicada
-2012,551,Societat de la informació i el coneix. i telecom.
-2012,561,Recursos hidràulics
-2012,562,Sanejament i abastament d'aigües
-2012,571,Protecció i conservació del medi natural
-2012,572,Prevenció i control ambiental
-2012,581,Infraestructures per al desenvolupament rural
-2012,591,Cartografia i estadística
-2012,711,"Administració general agricultura,ramaderia,pesca"
-2012,714,Ordenació de les produccions i reg.mercats agraris
-2012,718,Proteció dels recursos pesquers i reforma estruct.
-2012,721,Administració general d'indústria
-2012,722,Actuacions administratives sobre les indústries
-2012,723,Reconversió i modernització del sector industrial
-2012,731,Planificació i producció energètica
-2012,751,Ordenació i promoció turística
-2012,761,Comerç
-2012,811,Fons de contingència
-2012,912,Suport financer a corporacions locals
-2012,011A,Amortització i despeses financeres de deute públic
-2012,111A,Activitat legislativa
-2012,111B,Control extern de les administracions
-2012,111C,Assessorament consultiu institucional
-2012,111D,"Assessorament matèria social, econòmica i laboral"
-2012,111E,Control patrimonial dels alts càrrecs
-2012,111F,Control del mitjans de comunicació audiovisual
-2012,121A,Serveis generals de la Presidència del Govern
-2012,121B,Direcció i serv.grals. de la C.de Presidència
-2012,121C,Coordinació de programes de Govern
-2012,121G,Formació i selecció del personal
-2012,121H,Gestió de recursos humans
-2012,121I,Salut i prevenció de riscs laborals a l'Administr.
-2012,126B,Publicacions i Butlletí Oficial Illes Balears
-2012,126E,Serveis de l'advocacia i coordin. serveis jurídics
-2012,126F,Serveis comuns generals
-2012,126H,"Assessorament, estudi, recerca i difusió normativa"
-2012,126I,Gestió del parc mòbil
-2012,126J,Gestió de la central de contractació
-2012,126K,Gestió de la Junta Consultiva de Contractació
-2012,126L,Serveis comuns tecnològics
-2012,126M,Contractació centralitzada
-2012,131A,Relacions amb el Parlament
-2012,131B,Relacions i coop.altres adm.públiques i altres ens
-2012,131C,Foment participació centres i cases regionals
-2012,132A,"Organització, gestió i seguiment proc. electorals"
-2012,141A,Direcció i serv.gen. Hisenda i Adm.Públiques
-2012,141B,Planificació pressupostària i finançament
-2012,141C,Gestió comptable i control intern
-2012,141D,Planificació i ordenació de la política econòmica
-2012,141E,Gestió de tresoreria i política financera
-2012,141F,Organització i gestió del patrimoni de la com.aut.
-2012,141G,Gestió dels fons procedents de la Unió Europea
-2012,151A,Comunicació institucional
-2012,151B,Foment de projectes comunicació interès social
-2012,151C,"Qualitat, transparència i participació"
-2012,211A,Col·laboracions institucionals en matèria justícia
-2012,222A,Seguretat als edificis administratius de la CAIB
-2012,222B,Activitats classificades i espectacles
-2012,222C,Actuació de policies
-2012,223A,Emergències
-2012,231A,Coordinació de l'acció exterior del Govern
-2012,231B,Foment i rel. amb comunitats balears a l'exterior
-2012,232A,Cooperació internacional
-2012,313B,Atenció a la discapacitat
-2012,313C,Mesures judicials i prevenció del delicte
-2012,313D,Atenció a la dependència
-2012,313F,Protecció i defensa dels drets dels menors
-2012,313G,Família i unitats de convivència
-2012,313I,Planificació i ordenació socials
-2012,313J,Integració social d'immigrants
-2012,313K,Direcció i serv.generals Serv.Socials i Cooperació
-2012,314A,Pensions i prestacions econòmiques
-2012,322A,Ocupació i inserció laboral específiques
-2012,322B,Gestió de les relacions laborals
-2012,322C,Foment de la responsabilitat social corporativa
-2012,322D,Foment i gestió de l'ocupació de les Illes Balears
-2012,323A,Protecció i foment de la  integració i de joventut
-2012,323C,"Promoció, protecció i serveis per a la dona"
-2012,324A,Salut i prevenció de riscs laborals
-2012,411A,Direcció i serveis generals de Salut
-2012,411D,"Planificació, avaluació i cartera de serveis"
-2012,411E,Finançament sanitari
-2012,413A,"Acreditació, docència i recerca en salut"
-2012,413B,Programes de salut pública
-2012,413C,Sanitat ambiental i alimentària
-2012,413D,Coordinació de centres insulars
-2012,413E,Pla autonòmic de drogues
-2012,413F,Planif.control i gestió medicament i serv.farmacèu
-2012,421A,Direcció i ser. gen. d'Educació i Universitat
-2012,421B,Ordenació general del sistema educatiu
-2012,421C,Planificació educativa i règim de centres escolars
-2012,421D,Formació del professorat
-2012,421E,Projectes lingüístics
-2012,421F,Política i actuacions en matèria universitària
-2012,421G,Formació professional i aprenentatge permanent
-2012,421H,Inspecció educativa
-2012,421I,Administració i serveis de suport a l'ensenyament
-2012,421K,Innovació i comunitat educativa
-2012,422A,Educació pública
-2012,422B,Educació concertada
-2012,423A,Beques i ajuts al'estudi
-2012,423B,Altres serveis a l'ensenyament
-2012,431A,Gestió i foment de l'habitatge social
-2012,431B,"Arquitectura, habitatge i protecció del patrimoni"
-2012,441A,Protecció i defensa del consumidor
-2012,451A,"Direcció i serv.gen.Transparència, Cultura Esports"
-2012,455A,Promoció i serveis de cultura
-2012,455B,Planificació i normalització llengua catalana
-2012,461A,Promoció i foment de l'esport
-2012,511B,"Direcció i serv.generals Territori, Energia i Mob."
-2012,521A,Infraestructures bàsiques
-2012,521B,Ordenació i inspecció del transport terrestre
-2012,521C,Transport ferroviari
-2012,521D,Transport per carretera
-2012,522A,Ports i transport marítim
-2012,522B,Aeroports i transport aeri
-2012,531A,Ordenació del territori i urbanisme
-2012,541A,Recerca i desenvolupament
-2012,542A,Innovació
-2012,551A,"Ordenació, regul. i desenvol. telecomunicacions"
-2012,551B,Gestió sistemes i tecnologies de la informació
-2012,561A,DPH: Protecció i control Directiva marc de l'aigua
-2012,562A,Abastament d'aigües
-2012,562B,Sanejament i depuració d'aigües
-2012,571A,Gestió de residus
-2012,571B,Educació ambiental
-2012,571C,Gestió d'espais naturals
-2012,571D,Conservació i millora del medi natural
-2012,571E,Planificació forestal
-2012,571F,Espècies silvestres
-2012,571G,Sanitat forestal
-2012,572A,Seguiment i control del canvi climàtic
-2012,572B,Qualitat ambiental i sostenibilitat
-2012,581A,Infraestructures de regadiu
-2012,591A,Estadística
-2012,591B,Cartografia
-2012,711A,"Direcció i serv.gen. Medi Ambient, Agric. i Pesca"
-2012,714B,Foment del sector agrari
-2012,718A,Recursos marins i ordenació del sector pesquer
-2012,721A,"Direcció i serv.gen.Treball, Comerç i Indústria"
-2012,722A,Regulació i normativa industrial
-2012,723A,Promoció industrial
-2012,731A,Foment ús d'energies renovables i estalvi energ.
-2012,751A,"Direcció i serv.gen. Innov.,Recerca i Turisme"
-2012,751B,Promoció turística
-2012,751C,Ordenació del sector i redefinició model turístic
-2012,761A,Ordenació i promoció comercial i empresarial
-2012,761B,Gestió en matèria de joc
-2012,811A,Fons de contingència
-2012,912A,Suport financer als consells insulars
-2012,912B,Suport financer a ajuntaments i altres ens locals
-2012,111E01,Control patrimonial dels alts càrrecs
-2012,126E01,Serveis de l'advocacia i coordin. serveis jurídics
-2012,141E01,Gestió de tresoreria i política financera
-2012,411E01,Finançament sanitari
-2012,413E01,Pla autonòmic de drogues
-2012,421E01,Projectes lingüístics
-2012,571E01,Planificació forestal
-2012,421E02,Dinamitzadors lingüístics
-2012,421E03,Auxiliars de conversa
-2012,421E04,Projecte EuroFP I
-2012,421E05,Projecte EuroFP II
-2012,141E99,Gestió de tresoreria i política fin.-oblig. 409
-2012,413E99,Pla autonòmic de drogues - oblig. 409
-2012,011A01,Amortització i despeses financeres de Deute Públic
-2012,011A99,Amort. i desp. financ. de deute públic -oblig. 409
-2012,111A01,Activitat legislativa
-2012,111B01,Control extern de les administracions
-2012,111C01,Assessorament consultiu institucional
-2012,111C99,Assessorament consultiu institucional-oblig.409
-2012,111D01,"Assessorament matèria social, econòmica i laboral"
-2012,111F01,Control del mitjans de comunicació audiovisual
-2012,121A01,Serveis generals de la Presidència del Govern
-2012,121A02,Obertura a la ciutadania dels edificis Presidència
-2012,121A99,Serveis generals de la Presidència-oblig. 409
-2012,121B01,Direcció i serv.grals. de la C.de Presidència
-2012,121B02,Manteniment i conservació complex de Marivent
-2012,121B99,Direc. i serv. grals. de la C. de Pres.-oblig.409
-2012,121C01,Coordinació de programes de Govern
-2012,121C02,Polítiques en matèria d'igualtat
-2012,121C99,Coordinació de programes de Govern-oblig.409
-2012,121G01,Formació i selecció del personal
-2012,121G99,Formació i selecció del personal-oblig. 409
-2012,121H01,Gestió de recursos humans
-2012,121H99,Gestió de recursos humans-oblig.409
-2012,121I01,Salut i prevenció de riscs laborals a l'Administr.
-2012,126B01,Publicacions i Butlletí Oficial Illes Balears
-2012,126B99,Publicacions i BOIB - obligacions 409
-2012,126F01,Serveis comuns generals
-2012,126F99,Serveis comuns generals - obligacions 409
-2012,126H01,"Assessorament, estudi i recerca"
-2012,126H02,Publicacions
-2012,126H99,"Asses., estudi, recerca i difusió norm.-oblig. 409"
-2012,126I01,Gestió del parc mòbil
-2012,126I99,Gestió del parc mòbil-oblig. 409
-2012,126J01,Gestió de la central de contractació
-2012,126K01,Gestió de la Junta Consultiva de Contractació
-2012,126L01,Serveis comuns tecnològics
-2012,126L99,Serveis comuns tecnològics-oblig. 409
-2012,126M01,Contractació centralitzada
-2012,131A01,Relacions amb el Parlament
-2012,131B01,Foment de l'acció cívica
-2012,131B02,Rememoració efemèrides pròpies de la Com.Autònoma
-2012,131C01,Foment participació centres i cases regionals
-2012,132A01,"Organització, gestió i seguiment proc. electorals"
-2012,141A01,Direcció i serv.gen. Hisenda i Adm.Públiques
-2012,141A99,Direcció i serv.gen. Hisenda i Adm.Públ.-oblig.409
-2012,141B01,Planificació i política pressupostària
-2012,141B99,Planificació i política pressupostària-oblig. 409
-2012,141C01,Gestió comptable i control intern
-2012,141C99,Gestió comptable i control intern-oblig. 409
-2012,141D01,Planificació i ordenació de la política econòmica
-2012,141D99,Planif. i ord. de la política econòmica-oblig. 409
-2012,141F01,Organització i gestió del Patrimoni de la Comunita
-2012,141F99,Org. i gestió del Patr.i de la Comunitat-oblig.409
-2012,141G01,Gestió dels fons procedents de la Unió Europea
-2012,151A01,Publicitat institucional
-2012,151A02,Comunicació institucional
-2012,151A99,Comunicació institucional - oblig. 409
-2012,151B01,Foment de projectes comunicació interès social
-2012,151C01,Qualitat al Govern de les Illes Balears
-2012,151C02,Atenció i informació a la ciutadania
-2012,151C03,Transparència i bona governança
-2012,151C04,Participació
-2012,151C05,Voluntariat
-2012,211A01,Col·laboracions institucionals en matèria justícia
-2012,222A01,Seguretat als edificis administratius de la CAIB
-2012,222A99,Seguretat als edificis admin. CAIB - oblig. 409
-2012,222B01,Activitats classificades i espectacles
-2012,222B99,Activitats classificades i espectacles-oblig. 409
-2012,222C01,Actuació de policies
-2012,222C99,Actuació de policies - obligacions 409
-2012,223A01,Emergències
-2012,223A99,Emergències-oblig.409
-2012,231A01,Participació en organismes interregionals
-2012,231A02,Impuls i coordinació de l'acció exterior
-2012,231B01,Foment i rel. amb comunitats balears a l'exterior
-2012,232A01,Cooperació internacional
-2012,232A02,Cooperació amb entitats
-2012,232A03,Cooperació bilateral
-2012,313B01,Atenció a la discapacitat
-2012,313C01,Mesures judicials i prevenció del delicte
-2012,313C99,Mesures judicials i prev. del delicte-oblig. 409
-2012,313D01,Atenció a la dependència
-2012,313D99,Atenció a la dependència-oblig. 409
-2012,313F01,Protecció i defensa dels drets dels menor
-2012,313F99,Protec. i defensa drets dels menors-oblig. 409
-2012,313G01,Suport a la infància i a la família
-2012,313G02,Programa d'emancipació
-2012,313G99,Família i unitats de convivència-oblig. 409
-2012,313I01,Planificació i ordenació socials
-2012,313I02,Construcció de centres de serveis socials
-2012,313I03,Rendes socials
-2012,313I99,Planificació i ordenació socials-oblig. 409
-2012,313J01,Integració social d'immigrants
-2012,313J99,Integració social d'immigrants - obligacions 409
-2012,313K01,Direcció i serv.generals Serv.Socials i Cooperació
-2012,313K99,Direcció i serv.gen.Serv.Socials Coop.-oblig. 409
-2012,314A01,Pensions i prestacions econòmiques
-2012,322A01,Ocupació i inserció laboral específiques
-2012,322B01,Gestió de les relacions laborals
-2012,322B99,Gestió de les relacions laborals - oblig. 409
-2012,322C01,Foment de la responsabilitat social corporativa
-2012,322D01,Direcció i serveis generals del SOIB
-2012,322D02,Orientació i informació laboral
-2012,322D03,Formació per a desocupats
-2012,322D04,Gestió d'accions formatives
-2012,322D05,Foment de l'ocupació
-2012,322D06,Formació professional dirigida a desocupats
-2012,322D07,Formació professional dirigida a ocupats
-2012,322D08,Oportunitats d'ocupació i formació
-2012,322D50,Foment i gestió ocupació-no justificable Conf.Sect
-2012,322D99,Foment i gestió de l'ocupació a les IB-oblig. 409
-2012,323A01,Protecció i foment de la  integració i foment de l
-2012,323A02,Consell de la Joventut de les Illes Balears
-2012,323A99,Protec. i foment de la  integr.i de jov.-oblig.409
-2012,323C01,"Promoció, protecció i serveis per a la dona"
-2012,323C02,Igualtat de dones i homes
-2012,323C03,Violències masclistes
-2012,323C99,"Promoció, protec. i serv. per a la dona-oblig. 409"
-2012,324A01,Salut i prevenció de riscs laborals
-2012,411A01,Direcció i serveis generals de Salut
-2012,411A99,Direcció i serveis generals de Salut-oblig. 409
-2012,411D01,"Planificació, avaluació i cartera de serveis"
-2012,411D99,Planificació de l'assistència sanitària-oblig. 409
-2012,413A01,"Acreditació, docència i recerca en salut"
-2012,413A99,"Acreditació, docència i recerca salut-oblig. 409"
-2012,413B01,Programes de salut pública
-2012,413B02,Campanyes de vacunació
-2012,413B99,Programes de salut pública-obligacions 409
-2012,413C01,Sanitat ambiental i alimentària
-2012,413C02,Laboratori de Salut de Pública
-2012,413C99,Sanitat ambiental i alimentària-oblig. 409
-2012,413D01,Coordinació de centres insulars
-2012,413D99,Coordinació de centres insulars-oblig. 409
-2012,413F01,Planif.control i gestió medicament i serv.farmacèu
-2012,413F99,Planif. del medic. i dels serv. farmac.-oblig. 409
-2012,421A01,Direcció i ser. gen. d'Educació i Universitat
-2012,421A02,Consell escolar de les Illes Balears
-2012,421A03,Institut de Qualitat i Avaluació del Sist.Educatiu
-2012,421A99,Direcció i ser. gen. C. Educació i Univ-oblig. 409
-2012,421B01,Ordenació general del sistema educatiu
-2012,421B99,Ord. general del sistema educatiu-oblig. 409
-2012,421C01,Planificació educativa i règim de centres escolars
-2012,421C99,Planif. educativa i règim de c.escolars-oblig. 409
-2012,421D01,Formació del professorat
-2012,421D02,Pla Quadriennal de Formació del Professional
-2012,421D03,Pla de Formació Lingüística (FOLC)
-2012,421D99,Innovació i formació del prof.-oblig. 409
-2012,421F01,Actuacions en matèria universitària
-2012,421F02,Agència Qualitat Universitària IB
-2012,421F03,Ensenyaments artístics superiors
-2012,421F04,Infraestructures universitàries
-2012,421F05,Ajudes desplaçaments i Euroregió
-2012,421F06,Convenis implantació nous estudis universitaris
-2012,421F07,Transferència nominativa UIB
-2012,421F08,Millora competitivitat UIB
-2012,421F99,Política i act. en matèria univ.-oblig. 409
-2012,421G01,Despeses generals de la Formació Professional
-2012,421G02,Institut de les Qualificacions
-2012,421G03,Despeses generals Aprenentatge permanent
-2012,421G04,Assegurances FCT
-2012,421G05,Tutors FCT
-2012,421G06,Formació professorat FP
-2012,421G07,Promoció de la Formació Professional
-2012,421G08,Promoció i difusió FP (Estat/FSE)
-2012,421G09,Proves lliures ESO i Batxiller
-2012,421G10,Conveni Cambra de Comerç
-2012,421G11,Programa de Qualificació Inicial
-2012,421G12,Convenis ajuntaments i consells insulars
-2012,421G13,Compres equipament centres FP
-2012,421G99,FP i aprenentatge permanent-oblig. 409
-2012,421H01,Inspecció educativa
-2012,421H99,Inspecció educativa-oblig. 409
-2012,421I01,Gestió i nòmines del personal docent
-2012,421I02,Serveis d'Educació Infantil
-2012,421I03,Serveis ESO
-2012,421I04,Serveis Règim Especial
-2012,421I05,Serveis Educació Especials
-2012,421I06,Serveis Adults
-2012,421I07,Servei de prevenció Personal Docent
-2012,421I99,Admin. i serv. de suport a l'ensenyament-oblig.409
-2012,421K01,Atenció a la diversitat
-2012,421K02,Innovació educativa
-2012,421K03,Comunitat educativa
-2012,421K04,Institut de l'Educació a la Primera Infància
-2012,421K05,Institut per a la Convivència i l'Èxit Escolar
-2012,421K06,Tecnologies de la Informació i de la Comunicació
-2012,421K07,Arxiu i Museu de l'Educació
-2012,421K99,Innovació i comunitat educativa - obligacions 409
-2012,422A01,Educació pública
-2012,422A99,Educació pública - oblig. 409
-2012,422B01,Educació infantil concertada
-2012,422B02,Educació primària concertada
-2012,422B03,Educació secundària i batxillerat concertada
-2012,422B04,Formació professional concertada
-2012,423A01,Beques i ajuts a l'estudi
-2012,423A02,Menjadors escolars
-2012,423B01,Altres serveis a l'ensenyament
-2012,423B02,Equipament i mobiliari escolar
-2012,423B03,Infraestructures centres docents
-2012,423B04,Funcionament centres educatius
-2012,423B99,Altres serveis a l'ensenyament - oblig. 409
-2012,431A01,Gestió i foment de l'habitatge social
-2012,431B01,Habitatge
-2012,431B02,Arquitectura i protecció del patrimoni
-2012,431B99,"Arquitectura, habit. i protec.patrimoni-oblig. 409"
-2012,441A01,Protecció i defensa del consumidor
-2012,441A99,Protecció i defensa del consumidor-oblig. 409
-2012,451A01,"Direcció i serv.gen.Transparència, Cultura Esports"
-2012,451A99,D. i serv.gen.Transp.Cultura i Esports-oblig. 409
-2012,455A01,Promoció i serveis de cultura
-2012,455A02,"Formació, recerca i investigació de la llengua"
-2012,455A04,Museus
-2012,455A05,Arxius
-2012,455A06,Biblioteques
-2012,455A99,Promoció i serveis de cultura- oblig. 409
-2012,455B01,Planificació i normalització llengua catalana
-2012,455B99,Planif. i normalit. llengua catalana - oblig. 409
-2012,461A01,Promoció i foment de l'esport
-2012,511B01,"Direcció i serv.generals Territori, Energia i Mob."
-2012,511B99,"Direc. i SGTerrit.i, Energia i Mob.-oblig. 409"
-2012,521A01,Infraestructures bàsiques
-2012,521A99,Infraestructures bàsiques-obligacions 409
-2012,521B01,Ordenació i inspecció del transport terrestre
-2012,521B99,Ord. i insp. del transport terrestre-oblig. 409
-2012,521C01,Transport ferroviari
-2012,521D01,Transport per carretera
-2012,522A01,Ports i transport marítim
-2012,522B01,Aeroports i transport aeri
-2012,531A01,Ordenació del territori i urbanisme
-2012,541A01,Recerca i desenvolupament
-2012,541A99,Recerca i desenvolupament-oblig.409
-2012,542A01,Innovació
-2012,551A01,"Ordenació, regul. i desenvol. telecomunicacions"
-2012,551A99,"Ordenació, regul. i desenvol. telecom.-oblig.409"
-2012,551B01,Gestió sistemes i tecnologies de la informació
-2012,561A01,"Protecció, control i defensa del domini públic hid"
-2012,561A99,Domini Púb.Hidràulic: Protec. i control-oblig. 409
-2012,562A01,Abastament d'aigües
-2012,562A99,Abastament d'aigües-oblig. 409
-2012,562B01,Sanejament i depuració d'aigües
-2012,562B99,Sanej. i depuració d'aigües-oblig. 409
-2012,571A01,Gestió de residus
-2012,571B01,Educació ambiental
-2012,571C01,Gestió d'espais naturals
-2012,571D01,Conservació i millora del medi natural
-2012,571F01,Espècies silvestres
-2012,571G01,Sanitat forestal
-2012,572A01,Seguiment i control del canvi climàtic
-2012,572B01,Qualitat ambiental i sostenibilitat
-2012,581A01,Infraestructures de regadiu
-2012,591A01,Estadística
-2012,591B01,Cartografia
-2012,711A01,"Direcció i serv.gen. Medi Ambient, Agric. i Pesca"
-2012,711A99,"Direcció i serv.gen. Medi Ambient, Agri-oblig. 409"
-2012,714B01,Agricultura
-2012,714B02,Ramaderia
+2012,151B01,Foment de projectes de comunicació i d'interès social
+2012,423B01,Infraestructures a centres docents
+2012,422G01,Tecnologies de la informació i la comunicació a l'àmbit escolar
+2012,421B02,Programes internacionals
+2012,571C02,Gestió de la Xarxa Natura 2000 i projectes
 2012,714B03,Qualitat agroalimentària
 2012,714B04,Investigació i formació del sector agrari
-2012,714B05,Sanitat vegetal
-2012,714B06,Investigació agrària
-2012,714B07,Experimentació i difusió de resultats
-2012,714B99,Foment del sector agrari-oblig. 409
-2012,718A01,Recursos marins
 2012,718A02,Ordenació del sector pesquer
-2012,718A99,Rec. marins i ord. del sector pesquer-oblig. 409
-2012,721A01,"Direcció i serv.gen.Treball, Comerç i Indústria"
-2012,721A99,"Direcció i serv.gen.Treball,Comerç,Ind.-oblig. 409"
-2012,722A01,Regulació i normativa industrial
-2012,722A99,Regulació i normativa industrial - oblig. 409
-2012,723A01,Promoció industrial
-2012,731A01,Foment ús d'energies renovables i estalvi energ.
-2012,731A99,Foment ús d'energ. renov. i est. energ.-oblig. 409
-2012,751A01,"Direcció i serv.gen. Innov.,Recerca i Turisme"
-2012,751A99,"Direcció i serv.gen. Innov.,Recerca i T-oblig. 409"
-2012,751B01,Promoció turística
-2012,751C01,Ordenació del sector i redefinició model turístic
-2012,751C99,Ord. del sector i redef. model turístic-oblig. 409
-2012,761A01,Ordenació i promoció comercial
-2012,761A02,Promoció empresarial
-2012,761A99,Orden.promoció comercial i empresarial-oblig. 409
-2012,761B01,Gestió en matèria de joc
-2012,811A01,Fons de contingència
-2012,912A01,Suport financer als consells insulars
-2012,912B01,Suport financer a ajuntaments i altres ens locals
-2012,4,Producció de béns públics de caràcter social
-2012,41,Sanitat
-2012,411,Administració general de sanitat
-2012,412,"Hospitals, serveis assistencials i centres de salut"
-2012,411B,Administració i serveis generals assit.sanitària
-2012,411B01,Administració i serveis generals assit.sanitària
-2012,411B02,Planificació de l'assistència sanitària
-2012,411C,Formació del personal sanitari
-2012,411C01,Formació del personal sanitari
-2012,412A,Atenció primària de salut
-2012,412A01,Atenció primària de salut
-2012,412B,Atenció especialitzada de salut
-2012,412B01,Atenció especialitzada de salut
-2012,412C,Assistència sociosanitària i salut mental
-2012,412C01,Assistència sociosanitària i salut mental
-2012,412D,Assistència sanitària
-2012,412D01,Assistència sanitària
-2012,1,Funcionament institucional i administració general
-2012,14,Regulació econòmica
-2012,142,Gestió del sistema tributari
-2012,142A,Gestió i inspecció de tributs
-2012,142B,Suport a la gestió tributària
-2012,142A01,Gestió i inspecció de tributs
-2012,142A99,Gestió i inspecció de tributs-obligacions 409
-2012,142B01,Suport a la gestió tributària
-2012,142B99,Suport a la gestió tributària-obligacions 409
-2012,112G,Reorganització i racionalització del sector públic instrumental de la CAIB
-2012,313L,Ajuda a les víctimes del delicte
-2012,422G,Tecnologies de la informació i la comunicació
-2012,422H,Suport al trilingüisme
-2012,443A,Administració i plans mediambientals
-2012,455C,Promoció de la cultura de les IB
-2012,718C,Programes europeus de pesca
+2012,126F99,Pagaments compte 409 OPAP exercicis anteriors
+2012,132A01,Eleccions i partits polítics
+2012,141E99,Pagaments compte 409 OPAP exercicis anteriors
+2012,151B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,222C99,Pagaments compte 409 OPAP exercicis anteriors
+2012,322B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,411D99,Pagaments compte 409 OPAP exercicis anteriors
+2012,421B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,422A99,Pagaments compte 409 OPAP exercicis anteriors
+2012,422G99,Pagaments compte 409 OPAP exercicis anteriors
+2012,423B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,431B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,531A99,Pagaments compte 409 OPAP exercicis anteriors
+2012,561A99,Pagaments compte 409 OPAP exercicis anteriors
+2012,571F99,Pagaments compte 409 OPAP exercicis anteriors
+2012,751C99,Pagaments compte 409 OPAP exercicis anteriors
+2012,761A99,Pagaments compte 409 OPAP exercicis anteriors
+2012,761B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,912B99,Pagaments compte 409 OPAP exercicis anteriors
 2012,112G01,Reorganització i racionalització del sector públic instrumental de la CAIB
-2012,313L01,Ajuda a les víctimes de delictes
-2012,421B02,Programes internacionals
-2012,421C02,Institut d'avaluació i qualitat de l'ensenyament
 2012,421C03,Institut per a la convivència i l'èxit escolar
-2012,422G01,Tecnologies de la informació i la comunicació a l'àmbit escolar
+2012,423A01,Beques i ajuts
 2012,422H01,Suport altrilinguisme
-2012,443A01,Administració i plans mediambientals
-2012,455C01,Promoció de la cultura de les IB
 2012,541A02,Transferència del coneixement
-2012,562A02,Gestió de la demanda
-2012,571C02,Gestió de la Xarxa Natura 2000 i projectes
-2012,718C01,Programes europeus de pesca
+2012,126H99,Pagaments compte 409 OPAP exercicis anteriors
+2012,126B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,112G99,Pagaments compte 409 OPAP exercicis anteriors
+2012,232A99,Pagaments compte 409 OPAP exercicis anteriors
+2012,131B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,522B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,562A99,Pagaments compte 409 OPAP exercicis anteriors
+2012,121C99,Pagaments compte 409 OPAP exercicis anteriors
+2012,222B99,Pagaments compte 409 OPAP exercicis anteriors
+2012,731A99,Pagaments compte 409 OPAP exercicis anteriors
+2012,322D50,"Foment i gestió de l'ocupació a les IB, no justificable Conferèecia Sectorial"
+2012,131C99,Pagaments compte 409 OPAP exercicis anteriors
+2012,211A99,Pagaments compte 409 OPAP exercicis anteriors
+2012,455A02,Formació i avaluació de la llengua
 2012,718C02,"Inversions FEP, recursos marins"
+2012,562A02,Gestió de la demanda
+2012,421C02,Institut d'avaluació i qualitat de l'ensenyament
+2012,443A01,Administració i plans mediambientals
 2012,718C03,"Inversions FEP, ordenació de la pesca"
+2012,313L01,Ajuda a les víctimes de delictes
+2012,455C01,Promoció de la cultura de les IB
+2012,718C01,Programes europeus de pesca
+2012,132A01,Eleccions i partits polítics
+2012,2018/AGIB00/0,Deute públic
+2012,2018/AGIB00/1,Funcionament institucional i administració general
+2012,2018/AGIB00/2,Serveis públics generals
+2012,2018/AGIB00/3,Protecció i promoció social
+2012,2018/AGIB00/4,Producció de béns públics de caràcter social
+2012,2018/AGIB00/5,Producció de béns públics de caràcter econòmic
+2012,2018/AGIB00/7,Foment i regulació de sectors productius
+2012,2018/AGIB00/8,Fons de contingència
+2012,2018/AGIB00/9,Suport financer a altres administracions públiques
+2012,2018/ATIB00/1,Funcionament institucional i administració general
+2012,2018/SSIB00/4,Producció de béns públics de caràcter social
+2012,2018/AGIB00/01,Deute públic
+2012,2018/AGIB00/11,Alta direcció de la Comunitat Autònoma i del Govern
+2012,2018/AGIB00/12,Administració i serveis generals
+2012,2018/AGIB00/13,Relacions institucionals i processos electorals
+2012,2018/AGIB00/14,Regulació econòmica
+2012,2018/AGIB00/15,"Transparència, comunicació i participació"
+2012,2018/AGIB00/21,Justícia
+2012,2018/AGIB00/22,Seguretat i protecció civil
+2012,2018/AGIB00/23,Relacions exteriors i cooperació per al desenvolupament
+2012,2018/AGIB00/31,Protecció social
+2012,2018/AGIB00/32,Promoció social
+2012,2018/AGIB00/41,Salut
+2012,2018/AGIB00/42,Educació
+2012,2018/AGIB00/43,Habitatge
+2012,2018/AGIB00/44,Consum
+2012,2018/AGIB00/45,Cultura
+2012,2018/AGIB00/46,Esports
+2012,2018/AGIB00/51,Infraestructures bàsiques i transports
+2012,2018/AGIB00/52,Transports
+2012,2018/AGIB00/53,Ordenació del territori i urbanisme
+2012,2018/AGIB00/54,"Recerca científica, tècnica i aplicada"
+2012,2018/AGIB00/55,Societat de la informació i el coneixement i telecomunicacions
+2012,2018/AGIB00/56,Cicle de l'aigüa
+2012,2018/AGIB00/57,Actuacions ambientals
+2012,2018/AGIB00/58,Infraestructures agràries i rurals
+2012,2018/AGIB00/59,Altres actuacions de caràcter econòmic
+2012,2018/AGIB00/71,"Agricultura, ramaderia i pesca"
+2012,2018/AGIB00/72,Indústria
+2012,2018/AGIB00/73,Energia
+2012,2018/AGIB00/75,Turisme
+2012,2018/AGIB00/76,Comerç
+2012,2018/AGIB00/81,Fons de contingència
+2012,2018/AGIB00/91,Suport financer a altres administracions públiques
+2012,2018/ATIB00/14,Regulació econòmica
+2012,2018/SSIB00/41,Salut
+2012,2018/AGIB00/011,Deute públic
+2012,2018/AGIB00/111,Alta direcció de la Comunitat Autònoma IB
+2012,2018/AGIB00/121,Serveis generals i funció pública
+2012,2018/AGIB00/126,Altres serveis generals
+2012,2018/AGIB00/131,Relacions institucionals
+2012,2018/AGIB00/141,Política econòmica i pressupostària
+2012,2018/AGIB00/151,"Transparència, comunicació i participació"
+2012,2018/AGIB00/211,Actuacions en matèria de justícia
+2012,2018/AGIB00/222,Seguretat i ordre públic
+2012,2018/AGIB00/223,Protecció civil
+2012,2018/AGIB00/231,Relacions exteriors
+2012,2018/AGIB00/232,Cooperació internacional
+2012,2018/AGIB00/313,Serveis socials
+2012,2018/AGIB00/314,Pensions i altres prestacions econòmiques
+2012,2018/AGIB00/322,Promoció de l'ocupació
+2012,2018/AGIB00/323,Promoció sociocultural
+2012,2018/AGIB00/324,Relacions laborals
+2012,2018/AGIB00/411,Administració general de salut
+2012,2018/AGIB00/413,Accions públiques relatives a la salut
+2012,2018/AGIB00/421,Administració general d'educació
+2012,2018/AGIB00/422,Ensenyament
+2012,2018/AGIB00/423,Promoció educativa
+2012,2018/AGIB00/431,Habitatge
+2012,2018/AGIB00/441,"Ordenació, control i informació sobre el consum"
+2012,2018/AGIB00/451,Administració general de cultura
+2012,2018/AGIB00/455,Promoció cultural
+2012,2018/AGIB00/461,Esports
+2012,2018/AGIB00/511,Administració general d'infraestructures bàsiques i de transports
+2012,2018/AGIB00/521,Transport terrestre
+2012,2018/AGIB00/522,Transports aéris i marítims
+2012,2018/AGIB00/531,Ordenació del territori
+2012,2018/AGIB00/541,Recerca i documentació científica
+2012,2018/AGIB00/542,Recerca tècnica i aplicada
+2012,2018/AGIB00/551,Societat de la informació i del coneixement i telecomunicacions
+2012,2018/AGIB00/561,Recursos hidràulics
+2012,2018/AGIB00/562,Sanejament i proveïment d'aigües
+2012,2018/AGIB00/571,Protecció i conservació del medi natural
+2012,2018/AGIB00/572,Prevenció i control ambiental
+2012,2018/AGIB00/581,Infraestructures per el desenvolupament rural
+2012,2018/AGIB00/591,Cartografía i estadística
+2012,2018/AGIB00/711,"Administració general d'aagricultura, ramaderia i pesca"
+2012,2018/AGIB00/714,Ordenació de les produccions i regulació dels mercats
+2012,2018/AGIB00/718,Proteció dels recursos pesquers i reforma estructural del sector
+2012,2018/AGIB00/722,Actuacions administratives sobre les indústries
+2012,2018/AGIB00/723,Reconversió i modernització del sector industrial
+2012,2018/AGIB00/731,Planificació i producció energètica
+2012,2018/AGIB00/751,Ordenació i promoció turística
+2012,2018/AGIB00/761,Comerç
+2012,2018/AGIB00/811,Fons de contingència
+2012,2018/AGIB00/912,Soporte financiero a corporaciones locales
+2012,2018/ATIB00/142,Gestió del sistema tributari
+2012,2018/SSIB00/411,Administració general de salut
+2012,2018/SSIB00/412,"Hospitals, serveis assistencials i centres de salut"
+2012,2018/AGIB00/011A,Amortització i despeses financeres de deute públic
+2012,2018/AGIB00/111A,Activitat legislativa
+2012,2018/AGIB00/111B,Control extern de les administracions
+2012,2018/AGIB00/111C,Assessorament consultiu institucional
+2012,2018/AGIB00/111D,"Assessorament matèria social, econòmica i laboral"
+2012,2018/AGIB00/111E,Control patrimonial dels alts càrrecs
+2012,2018/AGIB00/111F,Control dels mitjans de comunicació audiovisuals
+2012,2018/AGIB00/121A,Serveis generals de la Presidència del Govern
+2012,2018/AGIB00/121B,Direcció i serveis generals de Presidència
+2012,2018/AGIB00/121C,Coordinació de programes del Govern
+2012,2018/AGIB00/121G,Formació i selecció del personal
+2012,2018/AGIB00/121H,Gestió dels recursos humans
+2012,2018/AGIB00/121I,Salut i prevenció de riscs laborals a l'administració
+2012,2018/AGIB00/121L,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2012,2018/AGIB00/126B,Publicacions i BOIB
+2012,2018/AGIB00/126E,Serveis de l'advocacia i coordinació dels serveis jurídics de la CAIB
+2012,2018/AGIB00/126F,Serveis comuns generals
+2012,2018/AGIB00/126H,"Assessorament, estudi, recerca i difusió normativa"
+2012,2018/AGIB00/126I,Gestió del parc mòbil
+2012,2018/AGIB00/126J,Gestió de la central de contractació
+2012,2018/AGIB00/126K,Gestió de la Junta Consultiva de Contractació
+2012,2018/AGIB00/126L,Serveis comuns tecnològics
+2012,2018/AGIB00/126M,Contractació centralitzada
+2012,2018/AGIB00/131A,Relacions amb el Parlament de les IB
+2012,2018/AGIB00/131B,Relacions i cooperació amb altres admistración públiques i altres ens públics
+2012,2018/AGIB00/131C,Foment de la participació de centres i cases regionals
+2012,2018/AGIB00/131D,Polítiques de Memòria
+2012,2018/AGIB00/141A,Direcció i serveis generals d'hisenda i administracions públiques
+2012,2018/AGIB00/141B,Planificación pressupostària i finançament
+2012,2018/AGIB00/141C,Gestió comptable i control intern
+2012,2018/AGIB00/141D,Planificació i ordenació de la política econòmica
+2012,2018/AGIB00/141E,Gestió de tresoreria i política financera
+2012,2018/AGIB00/141F,Organització i gestió del patrimoni de la Comunitat Autònoma
+2012,2018/AGIB00/141G,Gestió dels fons procedents de la UE
+2012,2018/AGIB00/151A,Comunicació institucional
+2012,2018/AGIB00/151C,"Qualitat, transparència i participació"
+2012,2018/AGIB00/151D,Participación y voluntariat
+2012,2018/AGIB00/211A,Col·laboracions institucionals en matèria de justicia
+2012,2018/AGIB00/222A,Seguretat als edificis administratius de la CAIB
+2012,2018/AGIB00/222B,Activitats classificades i espectacles
+2012,2018/AGIB00/222C,Actuació de policies
+2012,2018/AGIB00/223A,Emergències
+2012,2018/AGIB00/231A,Coordinació de l'acció exterior del Govern
+2012,2018/AGIB00/231B,Foment i relacions amb comunitats balears radicades a l'exterior
+2012,2018/AGIB00/232A,Cooperació internacional
+2012,2018/AGIB00/313B,Atenció a la discapacitat
+2012,2018/AGIB00/313C,Mesures judicials i prevenció del delicte
+2012,2018/AGIB00/313D,Atenció a la dependència
+2012,2018/AGIB00/313F,Protecció i defensa dels drets dels menors
+2012,2018/AGIB00/313G,Família i unitats de convivència
+2012,2018/AGIB00/313I,Planificació i ordenació social
+2012,2018/AGIB00/313J,Integració social d'immigrants
+2012,2018/AGIB00/313K,Direcció i serveis generals de Serveis Socials i Cooperació
+2012,2018/AGIB00/314A,Pensions i prestacions econòmiques
+2012,2018/AGIB00/322A,Ocupació i inserció laboral específiques
+2012,2018/AGIB00/322B,Gestió de les relacions laborals
+2012,2018/AGIB00/322D,Foment i gestió de l'ocupació de les Illes Balears
+2012,2018/AGIB00/322E,"Impuls del Turisme Sostenible (ITS), projectes d'ocupació"
+2012,2018/AGIB00/323A,Protecció i foment de la  integració i de la participació social de la joventut
+2012,2018/AGIB00/323C,"Promoció, protecció i serveis per a la dona"
+2012,2018/AGIB00/324A,Salut i prevenció de riscs laborals
+2012,2018/AGIB00/411A,Direcció i serveis generals de Salut
+2012,2018/AGIB00/411D,"Planificació, avaluació i cartera de serveis"
+2012,2018/AGIB00/411E,Finançament de la sanitat pública
+2012,2018/AGIB00/413A,"Acreditació, docència i recerca en salut"
+2012,2018/AGIB00/413B,Programes de salut pública
+2012,2018/AGIB00/413C,Sanitat ambiental i alimentària
+2012,2018/AGIB00/413D,Coordinació de centres insulars
+2012,2018/AGIB00/413E,Pla autonòmic de drogues
+2012,2018/AGIB00/413F,"Planificació, control i gestió del medicament i dels serveis farmacèutics"
+2012,2018/AGIB00/421A,Direcció i serveis generals d'Educació i Universitat
+2012,2018/AGIB00/421B,Ordenació general del sistema educatiu
+2012,2018/AGIB00/421C,Planificació educativa i règim de centres escolars
+2012,2018/AGIB00/421D,Formació del professorat
+2012,2018/AGIB00/421E,Projectes lingüístics
+2012,2018/AGIB00/421F,Política i actuacions en matèria universitària
+2012,2018/AGIB00/421G,Formació professional i aprenentatge permanent
+2012,2018/AGIB00/421H,Inspecció educativa
+2012,2018/AGIB00/421I,Administració i serveis de suport a l'ensenyament
+2012,2018/AGIB00/421K,Innovació i comunitat educativa
+2012,2018/AGIB00/422A,Educació pública
+2012,2018/AGIB00/422B,Educació concertada
+2012,2018/AGIB00/423B,Altres serveis a l'ensenyament
+2012,2018/AGIB00/431A,Gestió i foment de l'habitatge social
+2012,2018/AGIB00/431B,"Arquitectura, habitatge i protecció del patrimoni"
+2012,2018/AGIB00/441A,Protecció i defensa del consumidor
+2012,2018/AGIB00/451A,"Direcció i serveis generals de, Cultura, Transparància i Esports"
+2012,2018/AGIB00/455A,Promoció i serveis de cultura
+2012,2018/AGIB00/455B,Planificació i normalització de la llengua catalana
+2012,2018/AGIB00/455C,"Impuls del Turisme Sostenible (ITS), projectes de patrimoni cultural"
+2012,2018/AGIB00/461A,Promoció i foment de l'esport
+2012,2018/AGIB00/511B,"Direció i serveis generals de territori, energía i mobilitat"
+2012,2018/AGIB00/521A,Infraestructures bàsiques
+2012,2018/AGIB00/521B,Ordenació i inspecció del transport terrestre
+2012,2018/AGIB00/521C,Transport ferroviari
+2012,2018/AGIB00/521D,Transport per carretera
+2012,2018/AGIB00/522A,Ports i transport marítim
+2012,2018/AGIB00/522B,Aeroports i transport aeri
+2012,2018/AGIB00/531A,Ordenació del territori i urbanisme
+2012,2018/AGIB00/541A,Recerca i desenvolupament tecnològic
+2012,2018/AGIB00/541B,"Impuls del Turisme Sostenible (ITS), projectes de reçerca"
+2012,2018/AGIB00/542A,Innovació
+2012,2018/AGIB00/551A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
+2012,2018/AGIB00/551B,Gestió de sistemes i tecnologies de la informació
+2012,2018/AGIB00/551C,Mitjans de comunicació social
+2012,2018/AGIB00/561A,"Protecció, control i defensa del domini públic hidràulic. Directiva marc de l'aigüa"
+2012,2018/AGIB00/562A,Abastament d'aigües
+2012,2018/AGIB00/562B,Sanejament i depuració d'aigües
+2012,2018/AGIB00/571A,Gestió de residus
+2012,2018/AGIB00/571B,Educació ambiental
+2012,2018/AGIB00/571C,Gestió d'espais naturals
+2012,2018/AGIB00/571D,Conservació i millora del medi natural
+2012,2018/AGIB00/571E,Planificació forestal
+2012,2018/AGIB00/571F,Espècies silvestres
+2012,2018/AGIB00/571G,Sanitat forestal
+2012,2018/AGIB00/571H,"Impuls del Turisme Sostenible (ITS), projectes medioambientals"
+2012,2018/AGIB00/572A,Seguiment i control del canvi climàtic
+2012,2018/AGIB00/572B,Qualitat ambiental i sostenibilitat
+2012,2018/AGIB00/581A,Infraestructures de regadiu
+2012,2018/AGIB00/591A,Estadística
+2012,2018/AGIB00/591B,Cartografía
+2012,2018/AGIB00/711A,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
+2012,2018/AGIB00/714B,Foment del sector agrari de les IB
+2012,2018/AGIB00/718A,Recursos marins i ordenació del sector pesquer
+2012,2018/AGIB00/722A,Regulació i normativa industrial
+2012,2018/AGIB00/723A,Promoció industrial
+2012,2018/AGIB00/731A,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2012,2018/AGIB00/751A,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2012,2018/AGIB00/751B,Promoció del turisme
+2012,2018/AGIB00/751C,Ordenació del sector i redefinició del model turístic
+2012,2018/AGIB00/751D,"Impuls del Turisme Sostenible (ITS), projectes turístics"
+2012,2018/AGIB00/761A,Ordenació i promoció comercial i empresarial
+2012,2018/AGIB00/761B,Gestió en matèria de joc
+2012,2018/AGIB00/811A,Fons de contingència
+2012,2018/AGIB00/912A,Suport financer als consells insulars
+2012,2018/AGIB00/912B,Suport financer a ajuntament i altres entitats locals
+2012,2018/ATIB00/142A,Gestió i inspecció de tributs
+2012,2018/ATIB00/142B,Suport a la gestió tributaria
+2012,2018/SSIB00/411B,Administració i serveis generals de l'assistència sanitària
+2012,2018/SSIB00/411C,Formació del personal sanitari
+2012,2018/SSIB00/412A,Atenció primària de salut
+2012,2018/SSIB00/412B,Atenció especialitzada de salut
+2012,2018/SSIB00/412C,Assistència sociosanitària i salut mental
+2012,2018/SSIB00/412D,Assistència sanitària
+2012,2017/AGIB00/011A01,Amortització i despeses financeres de Deute Públic
+2012,2017/AGIB00/011A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/111A01,Activitat legislativa
+2012,2017/AGIB00/111B01,Control extern de les administracions
+2012,2017/AGIB00/111C01,Assessorament consultiu institucional
+2012,2017/AGIB00/111C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/111D01,"Assessorament en matèria social, econòmica i laboral"
+2012,2017/AGIB00/111E01,Control patrimonial dels càrrecs públics
+2012,2017/AGIB00/111F01,Control del mitjans de comunicació audiovisuals
+2012,2017/AGIB00/121A01,Serveis generals de la Presidència del Govern
+2012,2017/AGIB00/121A02,Obertura a la ciutadania dels edificis de Presidència
+2012,2017/AGIB00/121A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/121B01,Direcció i serveis generals de Presidència
+2012,2017/AGIB00/121B02,Manteniment i conservació del complex de Marivent
+2012,2017/AGIB00/121B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/121C01,Coordinació dels programes de Govern
+2012,2017/AGIB00/121C02,Polítiques en matèria d'igualtat
+2012,2017/AGIB00/121G01,Formació i selecció del personal
+2012,2017/AGIB00/121G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/121H01,Gestió de recursos humans
+2012,2017/AGIB00/121H99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/121I01,Salut i prevenció de riscs laborals a l'Administració
+2012,2017/AGIB00/121I99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/126B01,Publicacions i Butlletí Oficial Illes Balears
+2012,2017/AGIB00/126E01,Serveis de l'Advocacia i coordinació dels serveis jurídics de la CAIB
+2012,2017/AGIB00/126F01,Serveis comuns generals
+2012,2017/AGIB00/126H01,"Assessorament, estudi, recerca i difusió normativa"
+2012,2017/AGIB00/126H02,Publicacions
+2012,2017/AGIB00/126I01,Gestió del parc mòbil
+2012,2017/AGIB00/126I99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/126J01,Gestió de la central de contractació
+2012,2017/AGIB00/126J99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/126K01,Gestió de la Junta Consultiva de Contractació
+2012,2017/AGIB00/126L01,Serveis comuns tecnològics
+2012,2017/AGIB00/126L99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/126M01,Contractació centralitzada
+2012,2017/AGIB00/131A01,Relacions amb el Parlament
+2012,2017/AGIB00/131B01,Foment de l'acció cívica
+2012,2017/AGIB00/131B02,Rememoració efemèrides pròpies de la Comunitat Autònoma
+2012,2017/AGIB00/131C01,Foment de la participació de centres i cases regionals
+2012,2017/AGIB00/141A01,Direcció i serveis generals d' Hisenda i Administracions Públiques
+2012,2017/AGIB00/141A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/141B01,Planificació i política pressupostària
+2012,2017/AGIB00/141B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/141C01,Gestió comptable i control intern
+2012,2017/AGIB00/141C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/141D01,Planificació i ordenació de la política econòmica
+2012,2017/AGIB00/141E01,Gestió de tresoreria i política financera
+2012,2017/AGIB00/141F01,Organització i gestió del Patrimoni de la Comunitat Autònoma
+2012,2017/AGIB00/141F99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/141G01,Gestió dels fons procedents de la Unió Europea
+2012,2017/AGIB00/141G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/151A01,Publicitat institucional
+2012,2017/AGIB00/151A02,Comunicació institucional
+2012,2017/AGIB00/151A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/151C01,Qualitat al Govern de les Illes Balears
+2012,2017/AGIB00/151C02,Atenció i informació a la ciutadania
+2012,2017/AGIB00/151C03,Transparència i bona governança
+2012,2017/AGIB00/151C04,Participació
+2012,2017/AGIB00/151C05,Voluntariat
+2012,2017/AGIB00/151C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/211A01,Col·laboracions institucionals en matèria justícia
+2012,2017/AGIB00/222A01,Seguretat als edificis administratius de la CAIB
+2012,2017/AGIB00/222A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/222B01,Activitats classificades i espectacles
+2012,2017/AGIB00/222C01,Actuació de policies
+2012,2017/AGIB00/223A01,Emergències
+2012,2017/AGIB00/223A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/231A01,Participació en organismes interregionals
+2012,2017/AGIB00/231A02,Impuls i coordinació de l'acció exterior
+2012,2017/AGIB00/231B01,Foment i relacions amb comunitats balears radicades a l'exterior
+2012,2017/AGIB00/232A01,Cooperació internacional
+2012,2017/AGIB00/232A02,Cooperació amb entitats
+2012,2017/AGIB00/313B01,Atenció a la discapacitat
+2012,2017/AGIB00/313B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/313C01,Mesures judicials i prevenció del delicte
+2012,2017/AGIB00/313C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/313D01,Atenció a la dependència
+2012,2017/AGIB00/313D99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/313F01,Protecció i defensa dels drets dels menor
+2012,2017/AGIB00/313F99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/313G01,Suport a la infància i a la família
+2012,2017/AGIB00/313G02,Programa d'emancipació
+2012,2017/AGIB00/313G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/313I01,Planificació i ordenació socials
+2012,2017/AGIB00/313I02,Construcció de centres de serveis socials
+2012,2017/AGIB00/313I03,Rendes socials
+2012,2017/AGIB00/313I99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/313J01,Integració social d'immigrants
+2012,2017/AGIB00/313J99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/313K01,Direcció i serveis generals de Serveis Socials i Cooperació
+2012,2017/AGIB00/313K99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/314A01,Pensions i prestacions econòmiques
+2012,2017/AGIB00/322A01,Ocupació i inserció laboral específiques
+2012,2017/AGIB00/322B01,Gestió de les relacions laborals
+2012,2017/AGIB00/322C01,Foment de la responsabilitat social corporativa
+2012,2017/AGIB00/322D01,Direcció i serveis generals del Servei d'Ocupació de les IB
+2012,2017/AGIB00/322D02,Orientació i informació laboral
+2012,2017/AGIB00/322D03,Formació per a desocupats
+2012,2017/AGIB00/322D04,Gestió d'accions formatives
+2012,2017/AGIB00/322D05,Foment de l'ocupació
+2012,2017/AGIB00/322D06,Formació professional dirigida a desocupats
+2012,2017/AGIB00/322D07,Formació professional dirigida a ocupats
+2012,2017/AGIB00/322D08,Oportunitats d'ocupació i formació
+2012,2017/AGIB00/322D99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/323A01,Protecció i foment de la  integració i foment de la participació social de la joventut
+2012,2017/AGIB00/323A02,Consell de la Joventut de les IB
+2012,2017/AGIB00/323A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/323C01,"Promoció, protecció i serveis per a la dona"
+2012,2017/AGIB00/323C02,Igualtat de dones i homes
+2012,2017/AGIB00/323C03,Violències masclistes
+2012,2017/AGIB00/323C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/324A01,Salut i prevenció de riscs laborals
+2012,2017/AGIB00/324A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/411A01,Direcció i serveis generals de Salut
+2012,2017/AGIB00/411A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/411D01,"Planificació, avaluació i cartera de serveis"
+2012,2017/AGIB00/411E01,Finançament sanitari
+2012,2017/AGIB00/413A01,"Acreditació, docència i recerca en salut"
+2012,2017/AGIB00/413A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/413B01,Programes de salut pública
+2012,2017/AGIB00/413B02,Campanyes de vacunació
+2012,2017/AGIB00/413B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/413C01,Sanitat ambiental i alimentària
+2012,2017/AGIB00/413C02,Laboratori de salut pública
+2012,2017/AGIB00/413C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/413D01,Coordinació de centres insulars
+2012,2017/AGIB00/413D99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/413E01,Pla autonòmic de drogues
+2012,2017/AGIB00/413E99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/413F01,"Planificació, control i gestió del medicament i del serveis farmacèutics"
+2012,2017/AGIB00/413F99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/421A01,Direcció i serveis generals d'Educació i Universitat
+2012,2017/AGIB00/421A02,Consell escolar de les IB
+2012,2017/AGIB00/421A03,Institut de qualitat i avaluació del sistema educatiu
+2012,2017/AGIB00/421A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/421B01,Ordenació general del sistema educatiu
+2012,2017/AGIB00/421C01,Planificació educativa i règim de funcionament de centres escolars
+2012,2017/AGIB00/421C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/421D01,Formació del professorat
+2012,2017/AGIB00/421D02,Pla cuadriennal de formació del professional docent
+2012,2017/AGIB00/421D03,Pla de formació lingüística (FOLC)
+2012,2017/AGIB00/421D99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/421E01,Projectes lingüístics
+2012,2017/AGIB00/421E02,Dinamitzadors lingüístics
+2012,2017/AGIB00/421E03,Auxiliars de conversa
+2012,2017/AGIB00/421E04,Projecte EuroFP I
+2012,2017/AGIB00/421E05,Projecte EuroFP II
+2012,2017/AGIB00/421F01,Actuacions en matèria universitària
+2012,2017/AGIB00/421F02,Agència de qualitat universitària de les  IB
+2012,2017/AGIB00/421F03,Ensenyaments artístics superiors
+2012,2017/AGIB00/421F04,Infraestructures universitàries
+2012,2017/AGIB00/421F05,Ajuts per a desplaçaments i Euroregió
+2012,2017/AGIB00/421F06,Convenis per a la implantació nous estudis universitaris
+2012,2017/AGIB00/421F07,Transferència nominativa UIB
+2012,2017/AGIB00/421F08,Millora de competitivitat de la UIB
+2012,2017/AGIB00/421F99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/421G01,Despeses generals de la Formació Professional
+2012,2017/AGIB00/421G02,Institut de les qualificacions professionals
+2012,2017/AGIB00/421G03,Despeses generals d'aprenentatge permanent
+2012,2017/AGIB00/421G04,Assegurances FCT
+2012,2017/AGIB00/421G05,Tutors FCT
+2012,2017/AGIB00/421G06,Formació del professorat de la Formació Professional
+2012,2017/AGIB00/421G07,Promoció de la Formació Professional
+2012,2017/AGIB00/421G08,"Promoció i difussio de la Formació Professional, cofinançat AGE/FSE"
+2012,2017/AGIB00/421G09,Proves lliures d'ESO i batxillerat
+2012,2017/AGIB00/421G10,Conveni amb la Cambra de Comerç
+2012,2017/AGIB00/421G11,Programa de qualificació inicial
+2012,2017/AGIB00/421G12,Convenis amb ajuntaments i consells insulars
+2012,2017/AGIB00/421G13,Compres d'equipament per a centres de Formació Professional
+2012,2017/AGIB00/421G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/421H01,Inspecció educativa
+2012,2017/AGIB00/421H99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/421I01,Gestió i nòmines del personal docent
+2012,2017/AGIB00/421I02,Serveis d'Educació Infantil
+2012,2017/AGIB00/421I03,Serveis ESO
+2012,2017/AGIB00/421I04,Serveis de Règim Especial
+2012,2017/AGIB00/421I05,Serveis de Educació Especials
+2012,2017/AGIB00/421I06,Serveis de Adults
+2012,2017/AGIB00/421I07,Servei de prevenció de Personal Docent
+2012,2017/AGIB00/421I99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/421K01,Atenció a la diversitat
+2012,2017/AGIB00/421K02,Innovació educativa
+2012,2017/AGIB00/421K03,Comunitat educativa
+2012,2017/AGIB00/421K04,Institut de l'Educació a la Primera Infància
+2012,2017/AGIB00/421K05,Institut per a la Convivència i l'Èxit Escolar
+2012,2017/AGIB00/421K06,Tecnologies de la informació i de la comunicació
+2012,2017/AGIB00/421K07,Arxiu i Museu de l'Educació de les IB
+2012,2017/AGIB00/421K99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/422A01,Educació pública
+2012,2017/AGIB00/422B01,Educació infantil concertada
+2012,2017/AGIB00/422B02,Educació primària concertada
+2012,2017/AGIB00/422B03,Educació secundària obligatòria i batxillerat concertats
+2012,2017/AGIB00/422B04,Formació professional concertada
+2012,2017/AGIB00/423B02,Equipament i mobiliari escolar
+2012,2017/AGIB00/423B03,Infraestructures de centres docents
+2012,2017/AGIB00/423B04,Funcionament de centres educatius
+2012,2017/AGIB00/431A01,Gestió i foment de l'habitatge social
+2012,2017/AGIB00/431B01,Habitatge
+2012,2017/AGIB00/431B02,Arquitectura i protecció del patrimoni
+2012,2017/AGIB00/441A01,Protecció i defensa del consumidor
+2012,2017/AGIB00/441A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/451A01,"Direcció i serveis generals de Transparència, Cultura i Esports"
+2012,2017/AGIB00/451A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/455A01,Promoció i serveis de cultura
+2012,2017/AGIB00/455A04,Museus
+2012,2017/AGIB00/455A05,Arxius
+2012,2017/AGIB00/455A06,Biblioteques
+2012,2017/AGIB00/455A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/455B01,Planificació i normalització de la llengua catalana
+2012,2017/AGIB00/455B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/461A01,Promoció i foment de l'esport
+2012,2017/AGIB00/461A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/511B01,"Direcció i serveis generals de Territori, Energia i Mobilitat"
+2012,2017/AGIB00/511B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/521A01,Infraestructures bàsiques
+2012,2017/AGIB00/521A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/521B01,Ordenació i inspecció del transport terrestre
+2012,2017/AGIB00/521B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/521C01,Transport ferroviari
+2012,2017/AGIB00/521D01,Transport per carretera
+2012,2017/AGIB00/522A01,Ports i transport marítim
+2012,2017/AGIB00/522B01,Aeroports i transport aeri
+2012,2017/AGIB00/531A01,Ordenació del territori i urbanisme
+2012,2017/AGIB00/533G01,Gestió de la sanitat forestal
+2012,2017/AGIB00/541A01,Recerca i desenvolupament
+2012,2017/AGIB00/541A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/542A01,Innovació
+2012,2017/AGIB00/542A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/551A01,"Ordenació, regulació i desenvolupament de les telecomunicacions"
+2012,2017/AGIB00/551A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/551B01,Gestió de sistemes i tecnologies de la informació
+2012,2017/AGIB00/551B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/561A01,"Protecció, control i defensa del domini públic hidràulic"
+2012,2017/AGIB00/562A01,Abastament d'aigües
+2012,2017/AGIB00/562B01,Sanejament i depuració d'aigües
+2012,2017/AGIB00/562B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/571A01,Gestió de residus
+2012,2017/AGIB00/571A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/571B01,Educació ambiental
+2012,2017/AGIB00/571B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/571C01,Gestió d'espais naturals
+2012,2017/AGIB00/571C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/571D01,Conservació i millora del medi natural
+2012,2017/AGIB00/571E01,Planificació forestal
+2012,2017/AGIB00/571E99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/571F01,Espècies silvestres
+2012,2017/AGIB00/571G01,Sanitat forestal
+2012,2017/AGIB00/571G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/572A01,Seguiment i control del canvi climàtic
+2012,2017/AGIB00/572A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/572B01,Qualitat ambiental i sostenibilitat
+2012,2017/AGIB00/572B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/581A01,Infraestructures de regadiu
+2012,2017/AGIB00/591A01,Estadística
+2012,2017/AGIB00/591A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/591B01,Cartografia
+2012,2017/AGIB00/711A01,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
+2012,2017/AGIB00/711A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/714B01,Agricultura
+2012,2017/AGIB00/714B02,Ramaderia
+2012,2017/AGIB00/714B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/718A01,Recursos marins
+2012,2017/AGIB00/718A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/721A01,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2012,2017/AGIB00/721A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/722A01,Regulació i normativa industrial
+2012,2017/AGIB00/722A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/723A01,Promoció industrial i tecnològica
+2012,2017/AGIB00/731A01,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2012,2017/AGIB00/751A01,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2012,2017/AGIB00/751A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/AGIB00/751B01,Promoció turística
+2012,2017/AGIB00/751C01,Ordenació del sector i redefinició del model turístic
+2012,2017/AGIB00/761A01,Ordenació i promoció comercial
+2012,2017/AGIB00/761A02,Promoció empresarial
+2012,2017/AGIB00/761B01,Gestió en matèria de joc
+2012,2017/AGIB00/811A01,Fons de contingència
+2012,2017/AGIB00/912A01,Suport financer als consells insulars
+2012,2017/AGIB00/912B01,Suport financer a ajuntaments i altres ens locals
+2012,2017/ATIB00/142A01,Gestió i inspecció de tributs
+2012,2017/ATIB00/142A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/ATIB00/142B01,Suport a la gestió tributaria
+2012,2017/ATIB00/142B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2012,2017/SSIB00/411B01,Administració i serveis generals de l'assistència sanitària
+2012,2017/SSIB00/411C01,Formació del personal sanitari
+2012,2017/SSIB00/412A01,Atenció primària de salut
+2012,2017/SSIB00/412B01,Atenció especialitzada de salut
+2012,2017/SSIB00/412C01,Assistència sociosanitària i salut mental
+2012,2017/SSIB00/412D01,Assistència sanitària

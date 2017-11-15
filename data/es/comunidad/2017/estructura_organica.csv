@@ -1,262 +1,304 @@
-2017,02,Parlamento de las IB
-2017,03,Sindicatura de Cuentas de las IB
-2017,04,Consejo Consultivo de las IB
-2017,05,Consejo Económico y Social delas IB
-2017,06,Oficina de Transparencia y Control del Patrimonio de los Cargos Públicos de las IB
-2017,07,Condejo Audiovisual de las IB
-2017,11,Presidencia
-2017,12,"Innovación, Investigación y Turismo"
-2017,13,Educación y Universidad
-2017,14,Hacienda y Administraciones Públicas
-2017,15,"Medio Ambiente, Agricultura y Pesca"
-2017,17,Servicios Sociales i Cooperación
-2017,18,Salud
-2017,19,"Trabajo, Comercio e Industria"
-2017,25,"Territorio, Energia y Movilidad"
-2017,26,"Participación, Transparencia y Cultura"
-2017,31,Servicios comunes generales
-2017,32,Entes Territoriales
-2017,33,Servicios comunes tecnológicos
-2017,34,Deuda Pública
-2017,35,Fondo de contingencia de ejecución presupuestaria
-2017,36,"Servicios comunes, gastos de personal"
-2017,73,Instituto Balear de la Mujer
-2017,76,Servicio de Empleo de las IB
-2017,77,Instituto de Estadística de las IB
-2017,78,Escuela Balear de Administración Pública
-2017,50,Agencia Tributaria de las IB
-2017,60,Servicio de Salud de las IB
-2017,021,Parlamento de las IB
-2017,031,Sindicatura de Cuentas de las IB
-2017,041,Consejo Consultivo de las IB
-2017,051,Consejo Econòmico i Social de las IB
-2017,061,Oficina de Transparencia y Control del Patrimonio de los Cargos Públicos de las IB
-2017,071,Consejo Audiovisual de las IB
-2017,111,Presidencia de les IB
-2017,112,Secretaría General
-2017,114,DG Coordinación del Gobierno
-2017,115,DG Comunicación
-2017,116,Dirección de la Abogacía de la Comunidad Autónoma de las IB
-2017,117,DG Relaciones Institucionales y Acción Exterior
-2017,118,DG Relaciones con el Parlameto de las IB
-2017,121,Secretaría General
-2017,122,DG Turismo
-2017,125,DG Innovacion e Investigación
-2017,126,DG Desarrollo Tecnológico
-2017,127,DG Fondos Europeos
-2017,131,Secretaría General
-2017,135,"DG Planificación, Ordenación y Centros"
-2017,136,DG Innovación y Comunidad Educativa
-2017,137,DG Personal Docente
-2017,138,DG Política Universitaria y Enseñanza Superior
-2017,139,DG Formación Profesional y Formación del Profesorado
-2017,141,Secretaria General
-2017,142,DG Función Pública y Administraciones Públicas
-2017,143,DG Emergencias e Interior
-2017,144,DG Presupuestos y Financiación
-2017,145,Intervención General
-2017,146,"DG Tesoro, Política Financiera y Patrimonio"
-2017,151,Secretaria General
-2017,152,DG Recursos Hídricos
-2017,153,DG Espais Naturals i Biodiversitat
-2017,155,DG Agricultura y Ganaderia
-2017,156,"DG Educación Ambiental, Calidad Ambiental y Residuos"
-2017,159,DG Pesca y Recursos Marinos
-2017,171,Secretaría General
-2017,172,DG Menores y Família
-2017,173,DG Dependencia
-2017,174,DG Planificación y Servicios Sociales
-2017,175,DG Cooperación
-2017,181,Secretaría General
-2017,182,DG Salut Pública y Participación
-2017,183,DG Consumo
-2017,184,"DG Planificación, Evaluación y Farmacia"
-2017,185,"DG Acreditación, Docencia y Investigación en Salud"
-2017,191,Secretaría General
-2017,192,Dg Empleo y Economia
-2017,193,DG Comercio y Empresa
-2017,194,Dg Política Industrial
-2017,196,"DG Trabajo, Ecomomia Social y Saluy Laboral"
-2017,251,Secretaría General
-2017,252,DG Transportes
-2017,253,DG Ordenación del Territorio
-2017,254,DG Puertos y Aeropuertos
-2017,255,DG Arquitectura y Vivienda
-2017,256,DG Energía y Cambio Climático
-2017,261,Secretaría General
-2017,262,DG Cultura
-2017,263,DG Participación y Transparencia
-2017,264,DG Política Lingüística
-2017,265,DG Deportes y Juventud
-2017,311,"Servicios comunes, gastos diversos"
-2017,321,Entes Territoriales
-2017,331,Servicios comunes tecnológicos
-2017,341,Deuda Pública
-2017,351,Fondo de Contingencia
-2017,361,"Servicios comunes, gastos de personal"
-2017,731,OA Instituto Balear de la Mujer
-2017,761,OA Servicio de Empleo de las IB
-2017,771,OA Instituto de Estadística de las IB
-2017,781,OA Escuela Balear de Administración Pública
-2017,500,Agencia Tributaria de las IB
-2017,600,Gerencia Servicios Centrales
-2017,601,Gerencia Hospital Universitario Son Espases
-2017,602,"Gerencia Área de Salud, Menorca"
-2017,603,"Gerencia Área de Salud, Ibiza-Formentera"
-2017,604,"Gerencia Atención Primaria, Mallorca"
-2017,605,Hospital Formentera
-2017,606,Hospital Son Llàtzer
-2017,607,Hospital Manacor
-2017,608,Hospital Comarcal Inca
-2017,609,Gerencia 061
-2017,60B,Central de compras del Servicio de Salud de las IB
-2017,60C,"Central de compras, servicios centrales"
-2017,60D,"Central de compras, HU Son Espases"
-2017,60E,"Central de compras, área salut Ibiza"
-2017,60F,"Central de compras, hospital Formentera"
-2017,60G,"Central de compras, atención primaria Mallorca"
-2017,60I,"Central de compras, hospital Inca"
-2017,60L,"Central de compras, hospital Son Llàtzer"
-2017,60M,"Central de compras, área salud Menorca"
-2017,60N,"Central de compras, hospital Manacor"
-2017,60U,"Central de compras, gerencia 061"
-2017,02101,Gabinete de la Presidencia del Parlamento de las IB
-2017,02102,Oficialía Mayor
-2017,02103,Mesa del Parlamento de las IB
-2017,02104,Sindicatura de Agravios de las IB
-2017,03101,Sindicatura de Cuentas de las IB
-2017,04101,Consejo Consultivo de las IB
-2017,05101,Consejo Económico y social de las IB
-2017,06101,Oficina de Transparencia y Control del Patrimonio de los Cargos Públicos de las IB
-2017,07101,Consejo Audiovisual de las IB
-2017,11101,Gabinete de la Presidencia
-2017,11201,Secretaria General
-2017,11401,DG Coordinación del Gobierno
-2017,11501,DG Comunicación
-2017,11601,Dirección de la Abogacía de la Comunidad Autónoma IB
-2017,11602,Instituto de Estudios Autonómicos
-2017,11701,DG Relaciones Institucionales y Acción Exterior
-2017,11801,DG Relaciones cons el Parlamento de las IB
-2017,12101,Secretaría General
-2017,12201,DG Turismo
-2017,12501,DG Innovación e Investigación
-2017,12601,DG Desarrollo Tecnológico
-2017,12701,DG Fondos Europeos
-2017,13101,Secretaría General
-2017,13501,"DG Planificación, Ordenación y Centros"
-2017,13601,DG Innovación y Comunidad Educativa
-2017,13701,DG Personal Docente
-2017,13801,DG Política Universitaria y Enseñanza Superior
-2017,13901,DG Formación Profesional y Formación de Profesorado
-2017,14101,Secretaría General
-2017,14201,DG Función Pública y Administraciones Públicas
-2017,14301,DG Emergencias e Interior
-2017,14401,DG Presupuestos y Financiación
-2017,14501,Intervención General
-2017,14601,"DG Tesoro, Política Financiera y Patrimonio"
-2017,15101,Secretaría General
-2017,15201,DG Recursos Hídricos
-2017,15301,DG Espacios Naturales y Biodiversidad
-2017,15501,DG Agricultura y Ganadería
-2017,15601,"DG Educación Ambiental, Calidad Ambiental y Residuos"
-2017,15901,DG Pesca y Medio Marino
-2017,17101,Secretaria General
-2017,17201,DG Menores y Familia
-2017,17301,DG Dependencia
-2017,17302,"Centro base discapacitados , Mallorca"
-2017,17303,"Centro base discapacitados, Menorca"
-2017,17304,"Centro base discapacitados, Ibiza y Formentera"
-2017,17401,DG Planificación y Servicios Sociales
-2017,17501,DG Cooperación
-2017,18101,Secretaría General
-2017,18201,DG Salud Pública y Participación
-2017,18204,"Centro insular, Menorca"
-2017,18205,"Centro insular, Ibiza-Formentera"
 2017,18206,Laboratorio de Salud Pública
-2017,18301,DG Consumo
-2017,18401,"DG Planificación, Evaluación y Farmacia"
-2017,18501,"DG Acreditación, Docencia e Investigación en Salud"
-2017,19101,Secretaría General
-2017,19201,DG Empleo y Economía
-2017,19301,DG Comercio y Empresa
-2017,19401,DG Política Industrial
-2017,19601,"DG Trabajo, Economía Social y Salud Laboral"
-2017,25101,Secretaría General
-2017,25201,DG Transportes
-2017,25301,DG Ordenación del Territorio
-2017,25401,DG Puertos y Aeropuertos
-2017,25501,DG Arquitectura i Vivienda
-2017,25601,DG Energía y Cambio Climático
-2017,26101,Secretaría General
-2017,26201,DG Cultura
-2017,26203,Biblioteca Pública de Palma
-2017,26204,Biblioteca Pública de Mahón
-2017,26208,Archivo del Reino de Mallorca
-2017,26209,Museo de Mallorca
-2017,26210,Museo de Menorca
-2017,26211,Museo Monográfico Puig des Molins
-2017,26212,Museo Arqueológico de Ibiza y Formentera
 2017,26213,Museo Etnológico de Muro
-2017,26301,DG Participación y Transparencia
-2017,26401,DG Política Lingüística
-2017,26501,DG Deportes y Juventud
-2017,26502,Polideportivo Príncipes de España
-2017,31101,"Servicios comunes, gastos diversos"
-2017,32101,Entes Territoriales
-2017,33101,Servicios comunes tecnológicos
-2017,34101,Deuda Pública
-2017,35101,Fondo de Contingencia de Ejecución Presupuestaria
-2017,36101,"Servicios comunes, gastos de personal"
-2017,73101,OA Instituto Balear de la Mujer
-2017,73102,Consejo de Participación de la Mujer de las IB
-2017,76101,OA Servicio de Empleo de las IB
-2017,77101,OA Instituto de Estadística de las IB
-2017,78101,OA Escuela Balear de Administración Pública
-2017,50001,Pendiente denominación 2016
-2017,60001,Servicios Centrales
-2017,60002,"Servicios Centrales, personal función pública"
-2017,60003,Hospital Joan March
-2017,60004,Hospital General
-2017,60005,Hospital Psiquiátrico
-2017,60099,"Servicios Centrales, pagos 409 ejercicios anteriores"
-2017,60101,Hospital Universitario Son Espases
-2017,60199,"Hospital Universitario Son Espases, pagos 409 ejercicios anteriores"
-2017,60201,"Área de Salud, Menorca"
-2017,60301,"Área de salud, Ibiza-Formentera"
-2017,60401,"Gerencia Atención Primaria, Mallorca"
-2017,60402,"Gerencia Atención Primaria Mallorca, Ponent"
-2017,60403,"Gerencia Atención Primaria Mallorca, Mitjorn"
-2017,60404,"Gerencia Atención Primaria Mallorca, Tramuntana"
-2017,60405,"Gerencia Atención Primaria Mallorca, Llevant"
-2017,60501,Hospital Formentera
-2017,60601,Hospital Son Llàtzer
-2017,60701,Hospital Manacor
-2017,60799,"Hospital Manacor, pagos 409 ejercicios anteriores"
-2017,60801,Hospital Comarcal Inca
-2017,60899,"Hospital Comarcal Inca, pagos 409 ejercicios anteriores"
-2017,60901,Gerencia 061
-2017,60B01,Central de compras
-2017,60B99,"Central de compras, pagos 409 ejercicios anteriores"
-2017,60C01,"Central de compras, servicios centrales"
-2017,60D01,"Central de compras, HU Son Espases"
-2017,60D99,"Central de compras, HU Son Espases, pagos cuenta 409 ejercicios anteriores"
-2017,60E01,"Central de compras, área salud Ibiza"
-2017,60E99,"Central de compras, área salud Ibiza pagos 409 ejercicios anteriores"
-2017,60F01,"Central de compras, hospital de Formentera"
-2017,60G01,"Central de compras, atención primaria Mallorca"
-2017,60I01,"Central de compras, hospital Inca"
-2017,60I99,"Central de compras, hospital Inca pagos 409 ejercicios anteriores"
-2017,60L01,"Central de compras, hospital Son Llàtzer"
-2017,60L99,"Central de compras, hospital Son Llàtzer, pagos cuenta 409 ejercicios anteriores"
-2017,60M01,"Central de compras, área salud Menorca"
-2017,60M99,"Central de compras, área salud Menorca pagos 409 ejercicios anteriores"
-2017,60N01,"Central de compras, hospital Manacor"
-2017,60N99,"Central de compras, hospital Manacor pagos 409 ejercicios anteriores"
-2017,60U01,"Central de compras, gerencia 061"
-2017,0,Gobierno de las Illes Baleares
-2017,1,Agencia Tributaria de las IB
-2017,2,Servicio de Salud de las IB
-2017,16,Administraciones Públicas
-2017,71,Instituto de Estudios Baleáricos
-2017,11202,Marivent
-2017,26202,Archivo General de la Administración
+2017,60A99,"Complejo Hospitalario de Mallorca, pagos 409 ejercicios anteriores"
+2017,11102,Instituto de Estudios Autonómicos
+2017,11103,Oficina de Control Presupuestario
+2017,12301,DG Deportes
+2017,12302,Polideportivo Príncipes de España
+2017,12401,DG Puertos y Aeropuertos
+2017,13201,"Secretaría Autonómica de Educación, Cultura y Universidades"
+2017,13203,Biblioteca Pública de Palma
+2017,13204,Biblioteca Pública de Mahón
+2017,13208,Archivo del Reino de Mallorca
+2017,13209,Museo de Mallorca
+2017,13210,Museo de Menorca
+2017,13211,Museo Monográfico Es Puig des Molins
+2017,13212,Museo Arqueológico de Ibiza
+2017,13213,Museo Etnológico de Muro
+2017,13401,"DG Ordenación, Innovación y Formación Profesional"
+2017,15401,DG Ordenación del Territorio
+2017,15701,DG Transportes
+2017,16101,Secretaría General
+2017,16201,"DG Función Pública, Administraciones Públicas y Calidad de los Servicios"
+2017,16301,"DG Interior, Emergencias y Justicia"
+2017,19501,DG Innovación y Desarrollo Tecnológico
+2017,12303,Escuela de Vela Cala Nova
+2017,13202,Sa Llonja
+2017,14701,DG Comercio y Empresa
+2017,14801,DG Industria y Energía
+2017,14901,DG Innovación y Desarrollo Tecnológico
+2017,16401,"DG Patrimonio, Contratos y Obras Públicas"
+2017,18302,"Centro base discapacitados, Mallorca"
+2017,18303,"Centro base discapacitados, Menorca"
+2017,18304,"Centro base discapacitados, Ibiza-Formentera"
+2017,60A01,Complejo Hospitalario de Mallorca
+2017,18102,Oficina del Defensor de los Usuarios del Sistema Sanitario
+2017,71101,OA Instituto de Estudios Baleáricos
+2017,2018/AGIB00/02,Parlamento de las IB
+2017,2018/AGIB00/03,Sindicatura de Cuentas de las IB
+2017,2018/AGIB00/04,Consejo Consultivo de las IB
+2017,2018/AGIB00/05,Consejo Económico y Social de las IB
+2017,2018/AGIB00/06,Oficina de prevención y lucha contra la corrupción en las IB
+2017,2018/AGIB00/07,Consejo Audiovisual de las IB
+2017,2018/AGIB00/11,Presidencia
+2017,2018/AGIB00/12,"Innovación, Investigación y Turismo"
+2017,2018/AGIB00/13,Educación y Universidad
+2017,2018/AGIB00/14,Hacienda y Administraciones Públicas
+2017,2018/AGIB00/15,"Medio Ambiente, Agricultura y Pesca"
+2017,2018/AGIB00/17,Servicios Sociales i Cooperación
+2017,2018/AGIB00/18,Salud
+2017,2018/AGIB00/19,"Trabajo, Comercio e Industria"
+2017,2018/AGIB00/25,"Territorio, Energia y Movilidad"
+2017,2018/AGIB00/26,"Cultura, Participación y Deportes"
+2017,2018/AGIB00/31,Servicios comunes generales
+2017,2018/AGIB00/32,Entes territoriales
+2017,2018/AGIB00/33,Servicios comunes tecnológicos
+2017,2018/AGIB00/34,Deuda Pública
+2017,2018/AGIB00/35,Fondo de contingencia de ejecución presupuestaria
+2017,2018/AGIB00/36,"Servicios comunes, gastos de personal"
+2017,2018/AGIB00/37,Fomento e Impulso del Turismo Sostenible (FITS)
+2017,2018/AGIB00/73,Instituto Balear de la Mujer
+2017,2018/AGIB00/76,Servicio de Empleo de las IB
+2017,2018/AGIB00/77,Instituto de Estadística de las IB
+2017,2018/AGIB00/78,Escuela Balear de Administración Pública
+2017,2018/AGIB00/79,Instituto se Salud Laboral de las IB
+2017,2018/ATIB00/50,Agencia Tributaria de las IB
+2017,2018/SSIB00/60,Servicio de Salud de las IB
+2017,2018/AGIB00/021,Parlamento de las IB
+2017,2018/AGIB00/031,Sindicatura de Cuentas de las IB
+2017,2018/AGIB00/041,Consejo Consultivo de las IB
+2017,2018/AGIB00/051,Consejo Econòmico y Social de las IB
+2017,2018/AGIB00/061,Oficina de Prevención y Lucha contra la Corrupción en las IB
+2017,2018/AGIB00/071,Consejo Audiovisual de las IB
+2017,2018/AGIB00/111,Presidencia de les IB
+2017,2018/AGIB00/112,Secretaría General
+2017,2018/AGIB00/113,DG Transparencia y Buén Gobierno
+2017,2018/AGIB00/114,DG Coordinación del Gobierno
+2017,2018/AGIB00/115,DG Comunicación
+2017,2018/AGIB00/116,Dirección de la Abogacía de la Comunidad Autónoma de las IB
+2017,2018/AGIB00/117,DG Relaciones Institucionales y Acción Exterior
+2017,2018/AGIB00/118,DG Relaciones con el Parlameto de las IB
+2017,2018/AGIB00/121,Secretaría General
+2017,2018/AGIB00/122,DG Turismo
+2017,2018/AGIB00/125,DG Innovacion e Investigación
+2017,2018/AGIB00/126,DG Desarrollo Tecnológico
+2017,2018/AGIB00/127,DG Fondos Europeos
+2017,2018/AGIB00/131,Secretaría General
+2017,2018/AGIB00/135,"DG Planificación, Ordenación y Centros"
+2017,2018/AGIB00/136,DG Innovación y Comunidad Educativa
+2017,2018/AGIB00/137,DG Personal Docente
+2017,2018/AGIB00/138,DG Política Universitaria y Enseñanza Superior
+2017,2018/AGIB00/139,DG Formación Profesional y Formación del Profesorado
+2017,2018/AGIB00/141,Secretaria General
+2017,2018/AGIB00/142,DG Función Pública y Administraciones Públicas
+2017,2018/AGIB00/143,DG Emergencias e Interior
+2017,2018/AGIB00/144,DG Presupuestos y Financiación
+2017,2018/AGIB00/145,Intervención General
+2017,2018/AGIB00/146,"DG Tesoro, Política Financiera y Patrimonio"
+2017,2018/AGIB00/151,Secretaria General
+2017,2018/AGIB00/152,DG Recursos Hídricos
+2017,2018/AGIB00/153,DG Espais Naturals i Biodiversitat
+2017,2018/AGIB00/155,DG Agricultura y Ganaderia
+2017,2018/AGIB00/156,"DG Educación Ambiental, Calidad Ambiental y Residuos"
+2017,2018/AGIB00/159,DG Pesca y Recursos Marinos
+2017,2018/AGIB00/171,Secretaría General
+2017,2018/AGIB00/172,DG Menores y Famílias
+2017,2018/AGIB00/173,DG Dependencia
+2017,2018/AGIB00/174,DG Planificación y Servicios Sociales
+2017,2018/AGIB00/175,DG Cooperación
+2017,2018/AGIB00/181,Secretaría General
+2017,2018/AGIB00/182,DG Salut Pública y Participación
+2017,2018/AGIB00/183,DG Consumo
+2017,2018/AGIB00/184,"DG Planificación, Evaluación y Farmacia"
+2017,2018/AGIB00/185,"DG Acreditación, Docencia y Investigación en Salud"
+2017,2018/AGIB00/191,Secretaría General
+2017,2018/AGIB00/192,DG Empleo y Economía
+2017,2018/AGIB00/193,DG Comercio y Empresa
+2017,2018/AGIB00/194,DG Política Industrial
+2017,2018/AGIB00/196,"DG Trabajo, Ecomomia Social y Saluy Laboral"
+2017,2018/AGIB00/251,Secretaría General
+2017,2018/AGIB00/252,DG Transportes
+2017,2018/AGIB00/253,DG Ordenación del Territorio
+2017,2018/AGIB00/254,DG Puertos y Aeropuertos
+2017,2018/AGIB00/255,DG Arquitectura y Vivienda
+2017,2018/AGIB00/256,DG Energía y Cambio Climático
+2017,2018/AGIB00/261,Secretaría General
+2017,2018/AGIB00/262,DG Cultura
+2017,2018/AGIB00/263,DG Participación y Transparencia
+2017,2018/AGIB00/264,DG Política Lingüística
+2017,2018/AGIB00/265,DG Deportes y Juventud
+2017,2018/AGIB00/311,"Servicios comunes, gastos diversos"
+2017,2018/AGIB00/321,Entes Territoriales
+2017,2018/AGIB00/331,Servicios comunes tecnológicos
+2017,2018/AGIB00/341,Deuda Pública
+2017,2018/AGIB00/351,Fondo de contingencia de ejecución presupuestaria
+2017,2018/AGIB00/361,"Servicios comunes, gastos de personal"
+2017,2018/AGIB00/371,Fomento e Impulso del Turismo Sostenible (FITS)
+2017,2018/AGIB00/731,OA Instituto Balear de la Mujer
+2017,2018/AGIB00/761,OA Servicio de Empleo de las IB
+2017,2018/AGIB00/771,OA Instituto de Estadística de las IB
+2017,2018/AGIB00/781,OA Escuela Balear de Administración Pública
+2017,2018/AGIB00/791,OA Instituto de Salud Laboral de las IB
+2017,2018/ATIB00/500,Agencia Tributaria de las IB
+2017,2018/SSIB00/600,Gerencia Servicios Centrales
+2017,2018/SSIB00/601,Gerencia Hospital Universitario Son Espases
+2017,2018/SSIB00/602,"Gerencia Área de Salud, Menorca"
+2017,2018/SSIB00/603,"Gerencia Área de Salud, Ibiza-Formentera"
+2017,2018/SSIB00/604,"Gerencia Atención Primaria, Mallorca"
+2017,2018/SSIB00/605,Hospital Formentera
+2017,2018/SSIB00/606,Hospital Son Llàtzer
+2017,2018/SSIB00/607,Hospital Manacor
+2017,2018/SSIB00/608,Hospital Comarcal Inca
+2017,2018/SSIB00/609,Gerencia 061
+2017,2018/SSIB00/60B,Central de compras del Servicio de Salud de las IB
+2017,2018/SSIB00/60C,"Central de compras, servicios centrales"
+2017,2018/SSIB00/60D,"Central de compras, HU Son Espases"
+2017,2018/SSIB00/60E,"Central de compras, área salut Ibiza"
+2017,2018/SSIB00/60F,"Central de compras, hospital Formentera"
+2017,2018/SSIB00/60G,"Central de compras, atención primaria Mallorca"
+2017,2018/SSIB00/60I,"Central de compras, hospital Inca"
+2017,2018/SSIB00/60L,"Central de compras, hospital Son Llàtzer"
+2017,2018/SSIB00/60M,"Central de compras, área salud Menorca"
+2017,2018/SSIB00/60N,"Central de compras, hospital Manacor"
+2017,2018/SSIB00/60U,"Central de compras, gerencia 061"
+2017,2017/AGIB00/02101,Gabinete de la Presidencia del Parlamento de las IB
+2017,2017/AGIB00/02102,Oficialía Mayor
+2017,2017/AGIB00/02103,Mesa del Parlamento de las IB
+2017,2017/AGIB00/02104,Sindicatura de Agravios de las IB
+2017,2017/AGIB00/03101,Sindicatura de Cuentas de las IB
+2017,2017/AGIB00/04101,Consejo Consultivo de las IB
+2017,2017/AGIB00/05101,Consejo Económico y Social de las IB
+2017,2017/AGIB00/06101,Oficina de Transparencia y Control del Patrimonio de los Cargos Públicos de las IB
+2017,2017/AGIB00/07101,Consejo Audiovisual de las IB
+2017,2017/AGIB00/11101,Gabinete de la Presidencia
+2017,2017/AGIB00/11201,Secretaria General
+2017,2017/AGIB00/11202,Sección de ediciones
+2017,2017/AGIB00/11401,DG Coordinación del Gobierno
+2017,2017/AGIB00/11501,DG Comunicación
+2017,2017/AGIB00/11601,Dirección de la Abogacía de la Comunidad Autónoma IB
+2017,2017/AGIB00/11602,Instituto de Estudios Autonómicos
+2017,2017/AGIB00/11701,DG Relaciones Institucionales y Acción Exterior
+2017,2017/AGIB00/11801,DG Relaciones cons el Parlamento de las IB
+2017,2017/AGIB00/12101,Secretaría General
+2017,2017/AGIB00/12201,DG Turismo
+2017,2017/AGIB00/12501,DG Innovación e Investigación
+2017,2017/AGIB00/12601,DG Desarrollo Tecnológico
+2017,2017/AGIB00/12701,DG Fondos Europeos
+2017,2017/AGIB00/13101,Secretaría General
+2017,2017/AGIB00/13501,"DG Planificación, Ordenación y Centros"
+2017,2017/AGIB00/13601,DG Innovación y Comunidad Educativa
+2017,2017/AGIB00/13701,DG Personal Docente
+2017,2017/AGIB00/13801,DG Política Universitaria y Enseñanza Superior
+2017,2017/AGIB00/13901,DG Formación Profesional y Formación de Profesorado
+2017,2017/AGIB00/14101,Secretaría General
+2017,2017/AGIB00/14201,DG Función Pública y Administraciones Públicas
+2017,2017/AGIB00/14301,DG Emergencias e Interior
+2017,2017/AGIB00/14401,DG Presupuestos y Financiación
+2017,2017/AGIB00/14501,Intervención General
+2017,2017/AGIB00/14601,"DG Tesoro, Política Financiera y Patrimonio"
+2017,2017/AGIB00/15101,Secretaría General
+2017,2017/AGIB00/15201,DG Recursos Hídricos
+2017,2017/AGIB00/15301,DG Espacios Naturales y Biodiversidad
+2017,2017/AGIB00/15501,DG Agricultura y Ganadería
+2017,2017/AGIB00/15601,"DG Educación Ambiental, Calidad Ambiental y Residuos"
+2017,2017/AGIB00/15901,DG Pesca y Medio Marino
+2017,2017/AGIB00/17101,Secretaria General
+2017,2017/AGIB00/17201,DG Menores y Familia
+2017,2017/AGIB00/17301,DG Dependencia
+2017,2017/AGIB00/17302,"Centro base discapacitados , Mallorca"
+2017,2017/AGIB00/17303,"Centro base discapacitados, Menorca"
+2017,2017/AGIB00/17304,"Centro base discapacitados, Ibiza y Formentera"
+2017,2017/AGIB00/17401,DG Planificación y Servicios Sociales
+2017,2017/AGIB00/17501,DG Cooperación
+2017,2017/AGIB00/18101,Secretaría General
+2017,2017/AGIB00/18201,DG Salud Pública y Participación
+2017,2017/AGIB00/18204,"Centro insular, Menorca"
+2017,2017/AGIB00/18205,"Centro insular, Ibiza-Formentera"
+2017,2017/AGIB00/18301,DG Consumo
+2017,2017/AGIB00/18401,"DG Planificación, Evaluación y Farmacia"
+2017,2017/AGIB00/18501,"DG Acreditación, Docencia e Investigación en Salud"
+2017,2017/AGIB00/19101,Secretaría General
+2017,2017/AGIB00/19201,DG Empleo y Economía
+2017,2017/AGIB00/19301,DG Comercio y Empresa
+2017,2017/AGIB00/19401,DG Política Industrial
+2017,2017/AGIB00/19601,"DG Trabajo, Economía Social y Salud Laboral"
+2017,2017/AGIB00/25101,Secretaría General
+2017,2017/AGIB00/25201,DG Transportes
+2017,2017/AGIB00/25301,DG Ordenación del Territorio
+2017,2017/AGIB00/25401,DG Puertos y Aeropuertos
+2017,2017/AGIB00/25501,DG Arquitectura y Vivienda
+2017,2017/AGIB00/25601,DG Energía y Cambio Climático
+2017,2017/AGIB00/26101,Secretaría General
+2017,2017/AGIB00/26201,DG Cultura
+2017,2017/AGIB00/26202,Archivo General de la Administración
+2017,2017/AGIB00/26203,Biblioteca Pública de Palma
+2017,2017/AGIB00/26204,Biblioteca Pública de Mahón
+2017,2017/AGIB00/26208,Archivo del Reino de Mallorca
+2017,2017/AGIB00/26209,Museo de Mallorca
+2017,2017/AGIB00/26210,Museo de Menorca
+2017,2017/AGIB00/26211,Museo Arqueológico de Ibiza y Formentera
+2017,2017/AGIB00/26212,No vigente
+2017,2017/AGIB00/26301,DG Participación y Transparencia
+2017,2017/AGIB00/26401,DG Política Lingüística
+2017,2017/AGIB00/26501,DG Deportes y Juventud
+2017,2017/AGIB00/26502,Polideportivo Príncipes de España
+2017,2017/AGIB00/31101,"Servicios comunes, gastos diversos"
+2017,2017/AGIB00/32101,Entes Territoriales
+2017,2017/AGIB00/33101,Servicios comunes tecnológicos
+2017,2017/AGIB00/34101,Deuda Pública
+2017,2017/AGIB00/35101,Fondo de Contingencia de Ejecución Presupuestaria
+2017,2017/AGIB00/36101,"Servicios comunes, gastos de personal"
+2017,2017/AGIB00/73101,OA Instituto Balear de la Mujer
+2017,2017/AGIB00/73102,Consejo de Participación de la Mujer de las IB
+2017,2017/AGIB00/76101,OA Servicio de Empleo de las IB
+2017,2017/AGIB00/77101,OA Instituto de Estadística de las IB
+2017,2017/AGIB00/78101,OA Escuela Balear de Administración Pública
+2017,2017/ATIB00/50001,Agencia Tributaria de las IB
+2017,2017/SSIB00/60001,Servicios Centrales
+2017,2017/SSIB00/60002,"Servicios Centrales, personal función pública"
+2017,2017/SSIB00/60003,Hospital Joan March
+2017,2017/SSIB00/60004,Hospital General
+2017,2017/SSIB00/60005,Hospital Psiquiátrico
+2017,2017/SSIB00/60099,"Servicios Centrales, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60101,Hospital Universitario Son Espases
+2017,2017/SSIB00/60199,"Hospital Universitario Son Espases, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60201,"Área de Salud, Menorca"
+2017,2017/SSIB00/60299,"Área de Salud Menorca, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60301,"Área de Salud, Ibiza-Formentera"
+2017,2017/SSIB00/60399,"Área de Salud Ibiza-Formentera, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60401,"Gerencia Atención Primaria, Mallorca"
+2017,2017/SSIB00/60402,"Gerencia Atención Primaria Mallorca, Ponent"
+2017,2017/SSIB00/60403,"Gerencia Atención Primaria Mallorca, Mitjorn"
+2017,2017/SSIB00/60404,"Gerencia Atención Primaria Mallorca, Tramuntana"
+2017,2017/SSIB00/60405,"Gerencia Atención Primaria Mallorca, Llevant"
+2017,2017/SSIB00/60499,"Gerencia Atención Primaria Mallorca, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60501,Hospital Formentera
+2017,2017/SSIB00/60599,"Hospital Formentera, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60601,Hospital Son Llàtzer
+2017,2017/SSIB00/60699,"Hospital Son Llàtzer, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60701,Hospital Manacor
+2017,2017/SSIB00/60799,"Hospital Manacor, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60801,Hospital Comarcal Inca
+2017,2017/SSIB00/60899,"Hospital Comarcal Inca, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60901,Gerencia 061
+2017,2017/SSIB00/60999,"Gerencia 061, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60B01,Central de compras
+2017,2017/SSIB00/60B99,"Central de compras, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60C01,"Central de compras, servicios centrales"
+2017,2017/SSIB00/60C99,"Central de compras, pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60D01,"Central de compras, HU Son Espases"
+2017,2017/SSIB00/60D99,"Central de compras, HU Son Espases, pagos cuenta 409 ejercicios anteriores"
+2017,2017/SSIB00/60E01,"Central de compras, área salud Ibiza"
+2017,2017/SSIB00/60E99,"Central de compras, área salud Ibiza pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60F01,"Central de compras, hospital de Formentera"
+2017,2017/SSIB00/60F99,"Central de compras, hospital de Formentera; pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60G01,"Central de compras, atención primaria Mallorca"
+2017,2017/SSIB00/60I01,"Central de compras, hospital Inca"
+2017,2017/SSIB00/60I99,"Central de compras, hospital Inca pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60L01,"Central de compras, hospital Son Llàtzer"
+2017,2017/SSIB00/60L99,"Central de compras, hospital Son Llàtzer, pagos cuenta 409 ejercicios anteriores"
+2017,2017/SSIB00/60M01,"Central de compras, área salud Menorca"
+2017,2017/SSIB00/60M99,"Central de compras, área salud Menorca pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60N01,"Central de compras, hospital Manacor"
+2017,2017/SSIB00/60N99,"Central de compras, hospital Manacor pagos 409 ejercicios anteriores"
+2017,2017/SSIB00/60U01,"Central de compras, gerencia 061"

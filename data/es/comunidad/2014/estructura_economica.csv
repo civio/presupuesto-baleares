@@ -1,888 +1,386 @@
-2014,I,1,Impuestos directos
-2014,I,2,Impuestos indirectos
-2014,I,3,"Tasas, precios públicos y otros ingresos"
-2014,I,4,Transferencias corrientes
-2014,I,5,Ingresos patrimoniales
-2014,I,6,Enajenacions de inversiones reales
-2014,I,7,Transferencias de capital
-2014,I,8,Activos financieros
-2014,I,9,Pasivos financieros
-2014,I,3,"Tasas, precios públicos y otros ingresos"
-2014,I,4,Transferencias corrientes
-2014,I,5,Ingresos patrimoniales
-2014,I,7,Transferencias de capital
-2014,I,3,"Tasas, precios públicos y otros ingresos"
-2014,I,4,Transferencias corrientes
-2014,I,5,Ingresos patrimoniales
-2014,I,7,Transferencias de capital
-2014,I,10,Sobre la renta
-2014,I,11,Sobre el capital
-2014,I,20,Sobre transmisiones patrimoniales y actos jurídicos documentados
-2014,I,21,Sobre el valor añadido
-2014,I,22,Sobre consumos específicos
-2014,I,28,Otros impuestos indirectos
-2014,I,30,Tasas
-2014,I,32,Otros ingresos procedentes de la prestación de servicios
-2014,I,33,Venta de bienes
-2014,I,38,Reintegros de operaciones corrientes
-2014,I,39,Otros ingresos
-2014,I,40,Del Estado
-2014,I,44,Del sector público instrumental del a Comunidad Autónoma IB
-2014,I,45,De comunidades autónomas
-2014,I,46,De corporaciones locales
-2014,I,49,Del exterior
-2014,I,52,Intereses de depósitos
-2014,I,54,Rentas de bienes inmuebles
-2014,I,55,Productos de concesiones y aprovechamientos especiales
-2014,I,59,Otros ingresos patrimoniales
-2014,I,61,Enajenación de las demás inversiones
-2014,I,68,Reintegros por operaciones de capital
-2014,I,70,Del Estado
-2014,I,79,Del exterior
-2014,I,87,Remanentes de tesorería
-2014,I,91,Préstamos recibidos en euros
-2014,I,33,Venta de bienes
-2014,I,38,Reintegros de operaciones corrientes
-2014,I,45,De comunidades autónomas
-2014,I,52,Intereses de depósitos
-2014,I,75,De comunidades autónomas
-2014,I,30,Tasas
-2014,I,31,Precios públicos
-2014,I,32,Otros ingresos procedentes de la prestación de servicios
-2014,I,33,Venta de bienes
-2014,I,38,Reintegros de operaciones corrientes
-2014,I,39,Otros ingresos
-2014,I,40,Del Estado
-2014,I,44,Del sector público instrumental del a Comunidad Autónoma IB
-2014,I,45,De comunidades autónomas
-2014,I,47,De empresas privadas
-2014,I,52,Intereses de depósitos
-2014,I,55,Productos de concesiones y aprovechamientos especiales
-2014,I,75,De comunidades autónomas
-2014,I,100,Impuesto sobre la renta de las personas físicas
-2014,I,110,Impuesto general sobre sucesiones y donaciones
-2014,I,111,Impuesto sobre el patrimonio de las personas físicas
-2014,I,200,Impuesto sobre transmisiones intervivos
-2014,I,201,Impuesto sobre actos jurídicos documentados
-2014,I,210,Impuesto sobre el valor añadido
-2014,I,220,Impuestos especiales
-2014,I,283,Canon de depuración de agüas
-2014,I,300,Tasas de juego
-2014,I,301,Tasas y cánones de la ordenación de las telecomunicaciones
-2014,I,303,"Tasas académicas, derechos de matrícula, expedición de títulos y otros similares"
-2014,I,309,Otras tasas
-2014,I,329,Otros ingresos procedentes de la prestación de servicios
-2014,I,330,Venta de publicaciones propias
-2014,I,332,Venta de fotocopias y otros productos de reprografía
-2014,I,333,Venta de medicamentos
-2014,I,334,Venta de productos agropecuarios
-2014,I,339,Venta de otros bienes
-2014,I,380,Reintegros de ejercicios cerrados
-2014,I,381,Reintegros del presupuesto corriente
-2014,I,391,Recargos y multas
-2014,I,399,Ingresos diversos
-2014,I,400,De la Administración General
-2014,I,401,De organismos autónomos
-2014,I,402,De la Seguridad Social
-2014,I,441,De sociedades mercantiles públicas de la Comunidad Autónoma IB
-2014,I,451,De otras comunidades autónomas
-2014,I,469,De otros entes territoriales
-2014,I,490,Del Fondo Social Europeo
-2014,I,492,Otras transferencias de la UE
-2014,I,520,Intereses de cuentas bancarias
-2014,I,540,Alquileres y productos de inmuebles
-2014,I,550,Productos de concesiones administrativas
-2014,I,559,Otras concesiones y aprovechamientos
-2014,I,599,Otros ingresos patrimoniales
-2014,I,619,Venta de otras inversiones reales
-2014,I,680,Reintegros de ejercicios cerrados
-2014,I,700,De la Administración General
-2014,I,701,De organismos autónomos
-2014,I,790,Del Fondo Europeo de Desarrollo Regional
-2014,I,792,De los fondos para la financiación de la Política Agraria Común
-2014,I,796,Otras transferencias de la UE
-2014,I,870,Remanente de tesoreria
-2014,I,911,A largo plazo de entes del sector público
-2014,I,913,A largo plazo de entes que no pertenecen al sector públic
-2014,I,339,Venta de otros bienes
-2014,I,380,Reintegros de ejercicios cerrados
-2014,I,381,Reintegros del presupuesto corriente
-2014,I,450,De la Comunidad Autónoma IB
-2014,I,520,Intereses de cuentas bancarias
-2014,I,750,De la Comunidad Autónoma IB
-2014,I,303,"Tasas académicas, derechos de matrícula, expedición de títulos y otros similares"
-2014,I,309,Otras tasas
-2014,I,319,Otros precios públicos
-2014,I,327,Otros ingresos procedentes de la prestación de servicios de asistencia sanitaria
-2014,I,333,Venta de medicamentos
-2014,I,339,Venta de otros bienes
-2014,I,380,Reintegros de ejercicios cerrados
-2014,I,381,Reintegros del presupuesto corriente
-2014,I,391,Recargos y multas
-2014,I,399,Ingresos diversos
-2014,I,401,De organismos autónomos
-2014,I,402,De la Seguridad Social
-2014,I,444,De fundacions participadas por la Comunidad Autónoma IB
-2014,I,450,De la Comunidad Autónoma IB
-2014,I,470,De empresas privadas
-2014,I,520,Intereses de cuentas bancarias
-2014,I,550,Productos de concesiones administrativas
-2014,I,750,De la Comunidad Autónoma IB
-2014,I,10000,"Impuesto sobre la renta de las personas físicas, tarifa autonómica"
-2014,I,11000,Impuesto general sobre sucesiones y donaciones
-2014,I,11100,Impuesto extraordinario sobre el patrimonio de las personas físicas
-2014,I,20000,Impuesto sobre transmisiones inter-vivos
-2014,I,20001,"Impuesto sobre transmisiones inter-vivos, timbres"
-2014,I,20100,Impuesto sobre actos jurídicos documentados
-2014,I,20101,"Impuesto sobre actos jurídicos documentados, timbres"
-2014,I,21000,Impuesto sobre el valor añadido
-2014,I,22001,Impuesto especial sobre la cerveza
-2014,I,22003,Impuesto especial sobre el alcohol y bebidas derivadas
-2014,I,22004,Impuesto especial sobre las labores del tabaco
-2014,I,22005,Impuesto especial sobre los hidrocarburos
-2014,I,22006,Impuesto especial sobre determinados medios de transporte
-2014,I,22007,Impuesto especial sobre productos intermedios
-2014,I,22008,"Impuesto especial sobre la venta minorista de determinados hidrocarburos, tramo autonómico"
-2014,I,22009,Impuesto especial sobre la electricidad
-2014,I,22010,Impuesto sobre estancias en empresas turísticas de alojamiento
-2014,I,28300,Canon de saneamiento/depuración de aguas
-2014,I,30000,Tasas de juego
-2014,I,30001,"Tasas por servicios administrativos en materia de casinos, juegos y apuestas"
-2014,I,30101,Autorizaciones/certificaciones relacionadas con la radiodifusión sonora a través de ondas métricas con MF
-2014,I,30301,"Servicios docentes, Conservatorio Profesional de Música y Danza de las IB"
-2014,I,30302,"Servicios docentes, Escuelas Oficiales de Idiomas"
-2014,I,30303,"Servicios docentes, ES de Diseño y de Conservación y Restauración de Bienes Culturales de las IB"
-2014,I,30304,"Derechos de matrícula, pruebas de evaluación y acreditación de conocimiento del catalán"
-2014,I,30305,Expedición de títulos académicos y profesionales
-2014,I,30306,Matrícula/inscripción a las pruebas selectivas para el acceso a los cuerpos docentes
-2014,I,30307,Matrícula/inscripción a las pruebas selectivas para el acceso a la Administración de la Comunitat Autónoma IB
-2014,I,30308,Matrícula/inscripción a los cursos programados por la Escuela Balear de Administración Pública
-2014,I,30309,Expedición de títulos i compulsa de documentos expedidos por la Escuela Balear de Administración Pública
-2014,I,30310,Matrícula/inscripción a las pruebas para la verificación de la capacidad profesional de los transportistas y …
-2014,I,30311,Servicios de reconocimiento de la capacidad para el ejercicio de actividades náuticas recreativas
-2014,I,30314,Servicios de reconocimiento de la capacitación náutico pesquera y de buceo profesional
-2014,I,30315,Matrícula/inscripción a las pruebas de guías turísticos de la Comunitat Autónoma IB
-2014,I,30317,"Servicios docentes, enseñanzas deportivas del sistema educativo"
-2014,I,30318,Matrícula/inscripción a las pruebas de acceso a los ciclos formativos
-2014,I,30320,Reconocimiento de la competencia profesional adquirida a través de la experiencia laboral en las IB
-2014,I,30901,Actuaciones del Registro de Entidades Jurídicas
-2014,I,30902,Apertura de establecimientos turísticos y otras autorizaciones administrativas
-2014,I,30904,"Fotocopias, copias y expedición de certificados"
-2014,I,30905,Compulsa y autentificación de documentos
-2014,I,30907,"Servicios del laboratorio de la atmósfera, certificados de emisiones y suministro de datos de la atmósfera"
-2014,I,30908,Informes de evaluación de impacto ambiental
+2014,I,54900,Otras rentas de bienes inmuebles
 2014,I,30909,Servicios facultativos en materia de medio ambiente
-2014,I,30910,Servicios y actividades en zonas de servitud de protección y tránsito portuario
-2014,I,30917,Concesión de autorizaciones en zonas de dominio público hidráulico y de policía de canales
-2014,I,30919,Autorización de concesiones para el vertido de aguas residuales
-2014,I,30943,Servicios administrativos generales en materia de transportes
-2014,I,30944,Autorizaciones de transporte por carretera y de actividades auxiliares y complementarias del transporte
-2014,I,30946,Servicios y actuaciones en materia de arquitectura y vivienda
-2014,I,30947,"Comprobación, reconocimiento y acreditación de la capacidad para el alquiler de embarcaciones de recreo"
-2014,I,30948,Autorizaciones para el ejercicio de la actividad de escuelas nauticodeportivas y de centros lucrativos de actividades sub acuática
-2014,I,30950,Tramitación de autorizaciones administrativas y de comprobación técnico sanitaria
-2014,I,30951,Inscripciones y anotaciones en el Registro Sanitario
-2014,I,30952,"Tramitación de autorizaciones administrativas en los centros, establecimientos y servicios sanitarios"
-2014,I,30954,Control sanitario de las condiciones de la piscinas de uso público
-2014,I,30956,Control de las condicione sanitarias de los establecimientos que elaboran o sirven comidas preparadas
-2014,I,30957,"Autorizaciones para la instalación, traslado o transmisión de oficinas de farmacia"
-2014,I,30958,Otras actuaciones sanitarias
-2014,I,30959,Servicios del laboratorio de salud pública
-2014,I,30960,Realización de ensayos clínicos con medicamentos
-2014,I,30966,Licencias de pesca
-2014,I,30967,Celebración de campeonatos de pesca
-2014,I,30968,"Ordenación y defensa de las industrias agrícolas, forestales y pecuarias"
-2014,I,30969,Servicios de gestión técnico facultativa de los servicios agronómicos
-2014,I,30971,Servicios industriales de energía
-2014,I,30973,Servicios administrativos
-2014,I,30974,Licencia autonómica de gran establecimiento comercial
-2014,I,30979,Inscripción en los registros de emergencias
-2014,I,30980,Autorización de entidades formadoras
-2014,I,30981,Declaración de interés sanitario
-2014,I,30982,Registro de entidades formadoras de manipuladores de alimentos
-2014,I,30983,Registro de actividades de carnicería y charcutería
-2014,I,30985,Registro de entidades formadoras para el uso de desfibriladores
-2014,I,30986,Inscripción de empresas de servicios de biocidas y plaguicidas
-2014,I,30987,Supervisión de las instalaciones de agua para el consumo humano
-2014,I,30989,Revisión del grado de discapacidad
+2014,I,22010,Impuesto sobre estancias en empresas turísticas de alojamiento
 2014,I,30990,Revisión del grado de dependencia
-2014,I,30991,Registro de parejas estables
-2014,I,30992,Servicios administrativos generales del Servicio de Empleo de las IB
-2014,I,30993,Servicios administrativos especiales relativos a especies silvestres
-2014,I,30999,Otras tasas
-2014,I,32920,"Entradas a museos, exposiciones, espectáculos, …"
-2014,I,32930,"Derechos de alojamiento, restauración y residencia"
-2014,I,32999,Otros ingresos procedentes de la prestación de servicios
-2014,I,33001,"Venta, publicación y anuncios del BOIB"
-2014,I,33099,Venta de otras publicaciones propias
-2014,I,33200,Venta de fotocopias y de otros productos de reprografía
-2014,I,33300,Venta de medicamentos
-2014,I,33400,Venta de productos agropecuarios
-2014,I,33900,Venta de otros bienes
-2014,I,33901,Venta de impresos
-2014,I,38000,Reintegros de ejercicios cerrados
-2014,I,38100,Reintegros del presupuesto corriente
-2014,I,38101,Reintegros de remanentes de pagos a justificar
-2014,I,39100,Recargos de apremio
-2014,I,39101,Intereses de demora
-2014,I,39102,Multas y sanciones
-2014,I,39901,Recursos eventuales
-2014,I,39999,Otros ingresos diversos
-2014,I,40000,De la Administración General
-2014,I,40001,Fondo de garantía
-2014,I,40002,Fondo de suficiencia
-2014,I,40003,Fondo de competitividad
-2014,I,40009,Liquidación de ejercicios anteriores
+2014,I,30909,Servicios facultativos en materia de medio ambiente
+2014,I,22010,Impuesto sobre estancias en empresas turísticas de alojamiento
+2014,I,40008,Anticipos a cuenta por aplazamiento devolución de liquidaciones negativas
+2014,I,70101,Del Servicio Público de Empleo INEM
+2014,I,30989,Revisión del grado de discapacidad
 2014,I,40060,"Fondo de cohesión sanidad, asistencia a desplazados"
-2014,I,40100,De organismos autónomos de carácter administrativo
-2014,I,40101,Del Servicio Público de Empleo INEM
-2014,I,40201,Del Instituto de Migración y Servicios Sociales IMSERSO
-2014,I,40260,Programa de ahorro en incapacidad temporal IT
-2014,I,40261,Asistencia a residentes extranjeros
-2014,I,44100,De empresas públicas no societarias y de otros entes públicos de la Comunitat Autónoma IB
-2014,I,45100,De otras comunidades autónomas
-2014,I,46900,De otros entes territoriales
-2014,I,49000,Del Fondo Social Europeo
-2014,I,49200,Otras transferencias de la UE
 2014,I,52000,Intereses de consignaciones judiciales
-2014,I,52099,Otros intereses de cuentas bancarias
-2014,I,54001,Alquileres de locales
-2014,I,54002,Alquileres de edificios en general
-2014,I,55000,Productos de concesiones administrativas
-2014,I,55900,Otras concesiones y aprovechamientos
-2014,I,59900,Otros ingresos patrimoniales
-2014,I,61900,Enajenación de otras inversiones reales
-2014,I,68000,Reintegros de ejercicios cerrados
-2014,I,70000,De la Administración General
-2014,I,70100,De organismos autónomos de carácter administrativo
-2014,I,79000,Del Fondo Europeo de Desarrollo Regional FEDER
-2014,I,79200,Del FEOGA-Orientación
-2014,I,79203,Del Fondo Europeo Agrícola de Desarrollo Rural
-2014,I,79600,Otras transferencias de la UE
-2014,I,87001,"Remanentes de tesorería, financiación de incorporaciones de crédito"
-2014,I,87002,"Remanentes de tesorería, financiación de ampliaciones de crédito"
-2014,I,91100,A largo plazo de entes del sector público
-2014,I,91300,A largo plazo de entes que no pertenecen al sector público
-2014,I,33901,Venta de impresos
-2014,I,38000,Reintegros de ejercicios cerrados
-2014,I,38100,Reintegros del presupuesto corriente
-2014,I,45000,De la Comunidad Autónoma IB
-2014,I,52099,Otros intereses de cuentas bancarias
-2014,I,75000,De la Comunidad Autónoma IB
-2014,I,30307,Matrícula/inscripción a las pruebas selectivas para el acceso a la Administración de la Comunitat Autónoma IB
-2014,I,30901,Expedición de la tarjeta sanitaria
 2014,I,31900,"Asistencia sanitaria, pagos al contado"
-2014,I,31901,"Asistencia sanitaria, aseguradoras privadas"
-2014,I,31902,"Asistencia sanitaria, particulares"
-2014,I,31903,"Asistencia sanitaria, accidentes de trabajo"
-2014,I,31904,"Asistencia sanitaria, accidentes de tránsito/tráfico UNESPA"
-2014,I,31905,"Asistencia sanitaria, empresas colaboradoras de la Seguridad Social"
-2014,I,31908,"Asistencia sanitaria, mutuas de seguros escolares y deportivas"
 2014,I,31909,"Asistencia sanitaria, corporaciones locales"
-2014,I,31910,"Asistencia sanitaria, otros entes y organismos públicos"
-2014,I,31917,"Asistencia sanitaria, accidentes de tránsito/tráfico"
-2014,I,31918,"Asistencia sanitaria, cuotas por convenios especiales de asistencia sanitaria"
-2014,I,32700,Otros ingresos procedentes de la prestación de servicios de asistencia sanitaria
-2014,I,32704,"Asistencia sanitaria, empresa colaboradoras de la Seguridad Social"
-2014,I,33300,Venta de medicamentos
-2014,I,33901,Venta de impresos
-2014,I,38000,Reintegros de ejercicios cerrados
-2014,I,38100,Reintegros del presupuesto corriente
-2014,I,38101,Reintegros de remanentes de pagos a justificar
-2014,I,39100,Recargos de apremio
-2014,I,39101,Intereses de demora
-2014,I,39996,Ingresos por anuncios de concursos
-2014,I,39998,Ingresos por resoluciones judiciales
-2014,I,39999,Otros ingresos diversos
-2014,I,40100,De organismos autónomos de carácter administrativo
-2014,I,40200,De la Seguridad Social
-2014,I,44400,De fundaciones participadas por la Comunitat Autónoma IB
-2014,I,45000,De la Comunidad Autónoma IB
-2014,I,45001,"De la Comunitat Autónoma IB, asistencia a desplazados"
-2014,I,45002,"De la Comunitat Autónoma IB, programa de ahorro en incapacidad temporal IT"
-2014,I,45004,"De la Comunitat Autónoma IB, asistencia a residentes extranjeros"
-2014,I,47000,De empresas privadas
-2014,I,52099,Otros intereses de cuentas bancarias
-2014,I,55000,Productos de concesiones administrativas
-2014,I,55001,"Ingresos de cafeterías, librerías y aparatos de TV"
-2014,I,75000,De la Comunidad Autónoma IB
-2014,G,1,Gastos de personal
-2014,G,2,Gastos corrientes en bienes y servicios
-2014,G,3,Gastos financieros
-2014,G,4,Transferencias corrientes
-2014,G,5,Fondo de contingencia
-2014,G,6,Inversiones reales
-2014,G,7,Transferencias de capital
-2014,G,8,Activos financieros
-2014,G,9,Pasivos financieros
-2014,G,1,Gastos de personal
-2014,G,2,Gastos corrientes en bienes y servicios
-2014,G,3,Gastos financieros
-2014,G,6,Inversiones reales
-2014,G,1,Gastos de personal
-2014,G,2,Gastos corrientes en bienes y servicios
-2014,G,3,Gastos financieros
-2014,G,4,Transferencias corrientes
-2014,G,6,Inversiones reales
-2014,G,9,Pasivos financieros
-2014,G,10,Retribuciones de altos cargos
-2014,G,11,Retribuciones del personal eventual
-2014,G,12,Retribuciones de los funcionarios y del personal estatutario
-2014,G,13,Retribuciones del personal laboral
-2014,G,14,Otro personal
-2014,G,15,Incentivos al rendimiento
-2014,G,16,"Cuotas, prestaciones y gastos sociales a cargo de la empresa"
-2014,G,20,Arrendamientos y cánones
-2014,G,21,"Reparaciones, mantenimiento y conservación"
-2014,G,22,"Material, suministros y otros"
-2014,G,23,Indemnizaciones por razón del servicio
-2014,G,24,Dotación para servicios nuevos
-2014,G,26,Conciertos para la prestación de servicios sociales
-2014,G,30,De deuda pública en euros
-2014,G,31,De préstamos en euros
-2014,G,35,Intereses de demora y otros gastos financieros
-2014,G,40,Al Estado
-2014,G,42,Al Servicio de Salud de las IB
-2014,G,44,Al sector público instrumental y a otros enstes del sectro público de la CAIB
-2014,G,46,A corporaciones locales
-2014,G,47,A empresas privadas
-2014,G,48,A familias e instituciones sin finalidad lucrativa
-2014,G,49,Al exterior
-2014,G,50,Fondo de contingencia
-2014,G,60,Inversión nueva en infraestructura y bienes destinados al uso general
-2014,G,61,Inversión de reposición  en infraestructura y bienes destinados al uso general
-2014,G,62,Inversión nueva asociada al funcionamiento operativo de los servicios
-2014,G,63,Inversión de reposición asociada al funcionamiento operativo de los servicios
-2014,G,64,Gastos en inversión de carácter inmaterial
-2014,G,70,Al Estado
-2014,G,72,AL Servicio de Salud de las IB
-2014,G,74,Al sector público instrumental y a otros enstes del sectro público de la CAIB
-2014,G,76,A corporaciones locales
-2014,G,77,A empresas privadas
-2014,G,78,A familias e instituciones sin finalidad lucrativa
-2014,G,82,Concesión de préstamos al sector público
-2014,G,83,Concesión de préstamos fuera del sector público
-2014,G,87,Aportaciones patrimoniales
-2014,G,91,Amortización de préstamos en euros
-2014,G,10,Retribuciones de altos cargos
-2014,G,12,Retribuciones de los funcionarios y del personal estatutario
-2014,G,13,Retribuciones del personal laboral
-2014,G,15,Incentivos al rendimiento
-2014,G,16,"Cuotas, prestaciones y gastos sociales a cargo de la empresa"
-2014,G,20,Arrendamientos y cánones
-2014,G,21,"Reparaciones, mantenimiento y conservación"
-2014,G,22,"Material, suministros y otros"
-2014,G,23,Indemnizaciones por razón del servicio
-2014,G,31,De préstamos en euros
-2014,G,62,Inversión nueva asociada al funcionamiento operativo de los servicios
-2014,G,64,Gastos en inversión de carácter inmaterial
-2014,G,10,Retribuciones de altos cargos
-2014,G,12,Retribuciones de los funcionarios y del personal estatutario
-2014,G,13,Retribuciones del personal laboral
-2014,G,14,Otro personal
-2014,G,15,Incentivos al rendimiento
-2014,G,16,"Cuotas, prestaciones y gastos sociales a cargo de la empresa"
-2014,G,20,Arrendamientos y cánones
-2014,G,21,"Reparaciones, mantenimiento y conservación"
-2014,G,22,"Material, suministros y otros"
-2014,G,23,Indemnizaciones por razón del servicio
-2014,G,25,Asistencia sanitaria con medios ajenos
-2014,G,31,De préstamos en euros
-2014,G,35,Intereses de demora y otros gastos financieros
-2014,G,44,Al sector público instrumental y a otros enstes del sectro público de la CAIB
-2014,G,48,A familias e instituciones sin finalidad lucrativa
-2014,G,62,Inversión nueva asociada al funcionamiento operativo de los servicios
-2014,G,63,Inversión de reposición asociada al funcionamiento operativo de los servicios
-2014,G,64,Gastos en inversión de carácter inmaterial
-2014,G,91,Amortización de préstamos en euros
-2014,G,100,Retribuciones básicas y otras remuneraciones
-2014,G,110,Retribuciones básicas y otras remuneraciones
-2014,G,120,Retribuciones básicas de funcionarios y personal estatutario
-2014,G,121,Retribuciones complementarias de funcionarios y personal estatutario
-2014,G,126,Retribuciones de funcionarios interinos
-2014,G,130,Laboral fijo
-2014,G,131,Laboral temporal
-2014,G,141,Retribuciones de otro personal
-2014,G,150,Productividad
-2014,G,151,Gratificaciones
-2014,G,160,Cuotas sociales
-2014,G,162,Gastos sociales a favor de funcionarios y personal no laboral
-2014,G,163,Gastos sociales a favor del personal laboral
-2014,G,200,Arrendamientos de terrenos y bienes naturales
-2014,G,202,Arrendamientos de edificios y otras construcciones
-2014,G,203,"Arrendamientos de maquinaria, instalaciones y utillaje"
-2014,G,204,Arrendamientos de material de transporte
-2014,G,205,Arrendamientos de mobiliario y enseres
-2014,G,206,Arrendamientos de equipos para procesos de la información
-2014,G,208,Arrendamientos de otro inmovilizado material
-2014,G,209,Cánones
-2014,G,210,De infraestructura y bienes naturales
-2014,G,212,De edificios y otras construcciones
-2014,G,213,"De maquinaria, instalaciones y utillaje"
-2014,G,214,De medios de transporte
-2014,G,215,De mobiliario y enseres
-2014,G,216,De equipos para procesos de la información
-2014,G,219,De otro inmovilizado material
-2014,G,220,Material de oficina
-2014,G,221,Suministros
-2014,G,222,Comunicaciones
-2014,G,223,Transportes
-2014,G,224,Primas de seguros
-2014,G,225,Tributos
-2014,G,226,Gastos diversos
-2014,G,227,Trabajos realizados por otras empresas y profesionales independientes
-2014,G,229,Gasto de funcionamiento de centros escolares
-2014,G,230,"Dietas, locomoción y traslados"
-2014,G,231,Asistencias y pernoctas
-2014,G,239,Otras indemnizaciones
-2014,G,240,Dotación para servicios nuevos
-2014,G,261,"Conciertos con instituciones, prestación de servicios sociales"
-2014,G,300,Intereses
-2014,G,309,Otros gastos financieros
-2014,G,310,Intereses
-2014,G,319,Otros gastos financieros
-2014,G,352,Intereses de demora
-2014,G,359,Otros gastos financieros
-2014,G,400,A la Administración General
-2014,G,401,A organismos autónomos
-2014,G,402,A la Seguridad Social
-2014,G,404,"A sociedades mercantiles estatales, entidades empresarial y otros entes públicos"
-2014,G,420,Al Servicio de Salud de las IB
-2014,G,440,A sociedades mercantiles públicas
-2014,G,441,A entidades públicas empresariales y a otros entes públicos
-2014,G,443,A consorcios participados por la CAIB
-2014,G,444,A fundaciones del sector público autonómico
-2014,G,445,A otras fundaciones participadas por la CAIB
-2014,G,460,A ayuntamientos
-2014,G,461,A consejos insulares
-2014,G,464,A empresas públicas y a otros entes públicos de corporaciones locales
-2014,G,469,A otros entes territoriales
-2014,G,470,A empresas privadas
-2014,G,480,A familias e instituciones sin fines de lucro
-2014,G,481,A centros de enseñanza concertados
-2014,G,490,Al exterior
-2014,G,500,Fondo de contingencia
-2014,G,600,Terrenos y bienes naturales
-2014,G,601,Infraestructura y bienes destinados al uso general
-2014,G,608,"Bienes del patrimonio histórico, artístico y cultural"
-2014,G,611,Infraestructuras y bienes destinados al uso general
-2014,G,618,"Bienes del patrimonio histórico, artístico y cultural"
-2014,G,620,Terrenos y bienes naturales
-2014,G,622,Edificios y otras construcciones
-2014,G,623,"Maquinaria, instalaciones y utillaje"
-2014,G,624,Elementos de transporte
-2014,G,625,Mobiliario y enseres
-2014,G,626,Equipos para procesos de la información
-2014,G,629,Otro inmovilizado materia
-2014,G,632,Edificios y otras construcciones
-2014,G,633,"Maquinaria, instalaciones y utillaje"
-2014,G,634,Elementos de transporte
-2014,G,635,Mobiliario y enseres
-2014,G,636,Equipos para procesos de la información
-2014,G,639,Otro inmovilizado material
-2014,G,640,Gastos en inversiones de carácter inmaterial
-2014,G,700,A la Administración General
-2014,G,701,A organismos autónomos
-2014,G,720,Al Servicio de Salud de las IB
-2014,G,740,A sociedades mercantiles públicas
-2014,G,741,A entidades públicas empresariales y a otros entes públicos
-2014,G,742,A empresas vinculadas
-2014,G,743,A consorcios participados por la CAIB
-2014,G,744,A fundaciones del sector público autonómico
-2014,G,745,A otras fundaciones participadas por la CAIB
-2014,G,760,A ayuntamientos
-2014,G,761,A consejos insulares
-2014,G,764,A empresas públicas y a otros entes públicos de corporaciones locales
-2014,G,769,A otros entes territoriales
-2014,G,770,A empresas privadas
-2014,G,780,A familias e instituciones sin fines de lucro
-2014,G,821,Concesión de préstamos al sector público a largo plazo
-2014,G,830,Concesión de préstamos fuera del sector público  corto plazo
-2014,G,831,Concesión de préstamos fuera del sector publico a largo plazo
-2014,G,870,Aportaciones patrimoniales
-2014,G,872,A fundaciones públicas de la CAIB
-2014,G,873,A consorcios participados por la CAIB
-2014,G,874,AL Servicio de Salud de las IB
-2014,G,913,Amortización de préstamos recibidos a largo plazo de entes de fuera del sector público
-2014,G,100,Retribuciones básicas y otras remuneraciones
-2014,G,120,Retribuciones básicas de funcionarios y personal estatutario
-2014,G,121,Retribuciones complementarias de funcionarios y personal estatutario
-2014,G,130,Laboral fijo
-2014,G,131,Laboral temporal
-2014,G,151,Gratificaciones
-2014,G,160,Cuotas sociales
-2014,G,162,Gastos sociales a favor de funcionarios y personal no laboral
-2014,G,163,Gastos sociales a favor del personal laboral
-2014,G,202,Arrendamientos de edificios y otras construcciones
-2014,G,204,Arrendamientos de material de transporte
-2014,G,212,De edificios y otras construcciones
-2014,G,213,"De maquinaria, instalaciones y utillaje"
-2014,G,216,De equipos para procesos de la información
-2014,G,220,Material de oficina
-2014,G,221,Suministros
-2014,G,226,Gastos diversos
-2014,G,227,Trabajos realizados por otras empresas y profesionales independientes
-2014,G,230,"Dietas, locomoción y traslados"
-2014,G,310,Intereses
-2014,G,626,Equipos para procesos de la información
-2014,G,640,Gastos en inversiones de carácter inmaterial
-2014,G,100,Retribuciones básicas y otras remuneraciones
-2014,G,120,Retribuciones básicas de funcionarios y personal estatutario
-2014,G,121,Retribuciones complementarias de funcionarios y personal estatutario
-2014,G,125,Retribuciones de otro personal estatutario y temporal
-2014,G,130,Laboral fijo
-2014,G,131,Laboral temporal
-2014,G,141,Retribuciones de otro personal
-2014,G,149,Retribuciones de personal pendiente de integración en la RLT
-2014,G,150,Productividad
-2014,G,151,Gratificaciones
-2014,G,160,Cuotas sociales
-2014,G,161,Prestaciones complementarias
-2014,G,162,Gastos sociales a favor de funcionarios y personal no laboral
-2014,G,163,Gastos sociales a favor del personal laboral
-2014,G,202,Arrendamientos de edificios y otras construcciones
-2014,G,203,"Arrendamientos de maquinaria, instalaciones y utillaje"
-2014,G,204,Arrendamientos de material de transporte
-2014,G,205,Arrendamientos de mobiliario y enseres
-2014,G,206,Arrendamientos de equipos para procesos de la información
-2014,G,208,Arrendamientos de otro inmovilizado material
-2014,G,209,Cánones
-2014,G,210,De infraestructura y bienes naturales
-2014,G,212,De edificios y otras construcciones
-2014,G,213,"De maquinaria, instalaciones y utillaje"
-2014,G,214,De medios de transporte
-2014,G,215,De mobiliario y enseres
-2014,G,216,De equipos para procesos de la información
-2014,G,219,De otro inmovilizado material
-2014,G,220,Material de oficina
-2014,G,221,Suministros
-2014,G,222,Comunicaciones
-2014,G,223,Transportes
-2014,G,224,Primas de seguros
-2014,G,225,Tributos
-2014,G,226,Gastos diversos
-2014,G,227,Trabajos realizados por otras empresas y profesionales independientes
-2014,G,230,"Dietas, locomoción y traslados"
-2014,G,239,Otras indemnizaciones
-2014,G,251,"Conciertos con instituciones, atención primaria"
-2014,G,252,"Conciertos con instituciones, atención especializada"
-2014,G,253,"Conciertos con instituciones, programas especiales de hemodiálisis"
-2014,G,254,"Conciertos con instituciones, servicios de diagnóstico, tratamiento y terapias"
-2014,G,255,"Conciertos con instituciones, programa especial de transporte"
-2014,G,258,Asistencia sanitaria prestada por terceros
-2014,G,259,Otros servicios de asistencia sanitaria
-2014,G,310,Intereses
-2014,G,352,Intereses de demora
-2014,G,359,Otros gastos financieros
-2014,G,444,A fundaciones del sector público autonómico
-2014,G,486,"Otras prestaciones, indemnizaciones i entregas únicas reglamentarias"
-2014,G,489,Farmacia
-2014,G,622,Edificios y otras construcciones
-2014,G,623,"Maquinaria, instalaciones y utillaje"
-2014,G,624,Elementos de transporte
-2014,G,625,Mobiliario y enseres
-2014,G,626,Equipos para procesos de la información
-2014,G,632,Edificios y otras construcciones
-2014,G,633,"Maquinaria, instalaciones y utillaje"
-2014,G,635,Mobiliario y enseres
-2014,G,636,Equipos para procesos de la información
-2014,G,640,Gastos en inversiones de carácter inmaterial
-2014,G,910,Amortización de préstamos recibidos corto plazo de entes del sector público
-2014,G,911,Amortización de préstamos recibidos a largo plazo de entes del sector público
-2014,G,10000,Retribuciones básicas de altos cargos
-2014,G,10001,Otras remuneraciones de altos cargos
-2014,G,10002,Trienios de altos cargos
-2014,G,11000,Retribuciones básicas del personal eventual
-2014,G,11001,Otras remuneraciones del personal eventual
-2014,G,11002,Trienios del personal eventual
-2014,G,12000,Sueldos del grupo A1/grupo A
-2014,G,12001,Sueldos del grupo A2/grupo B
-2014,G,12002,Sueldos del grupo C1/grupo C
-2014,G,12003,Sueldos del grupo C2/grupo D
-2014,G,12004,Sueldos del personal de agrupaciones profesionales/grupo E
-2014,G,12005,Trienios
-2014,G,12009,Otras retribuciones básicas
-2014,G,12100,Complemento de destino
-2014,G,12101,Complemento específico
-2014,G,12102,Complemento de productividad compensada
-2014,G,12103,Indemnización por residencia
-2014,G,12109,Otros complementos
-2014,G,12121,Complemento específico docente complementario y por formación continuada
-2014,G,12600,Retribuciones de funcionarios interinos
-2014,G,13000,Retribuciones básicas
-2014,G,13001,Complemento de convenio
-2014,G,13002,Complemento de compensación de costes de insularidad
-2014,G,13004,Complemento específico
-2014,G,13005,Trienios
-2014,G,13006,Complemento de turnos rotativos
-2014,G,13009,Otros complementos
-2014,G,13100,Retribuciones del personla laboral temporal
-2014,G,13107,Retribuciones del personal de estabilidad laboral
-2014,G,14100,Retribuciones de otro personal
-2014,G,15000,Productividad
-2014,G,15100,Gratificaciones
-2014,G,16000,Seguridad Social
-2014,G,16009,Otras cuotas sociales
-2014,G,16200,Formación y perfeccionamiento del personal
-2014,G,16204,Acción social
-2014,G,16205,Seguros
-2014,G,16209,Otros gastos sociales
-2014,G,16304,Acción social
-2014,G,16309,Otros gastos sociales
-2014,G,20000,Arrendamientos de terrenos y bienes naturales
-2014,G,20200,Arrendamientos de edificios y de otras construcciones
-2014,G,20300,"Arrendamientos de maquinaria, instalaciones y utillaje"
-2014,G,20400,Arrendamientos de medios de transporte
-2014,G,20500,Arrendamientos de mobiliario y enseres
-2014,G,20600,Arrendamientos de equipos para procesos de la información
-2014,G,20800,Arrendamientos de otro inmovilizado material
-2014,G,20900,Cánones
+2014,I,76130,Del Consejo Insular de Ibiza
+2014,I,49900,Otras transferencias del exterior
+2014,I,54001,Alquileres de locales
+2014,I,45100,De otras comunidades autónomas
+2014,I,33400,Venta de productos agropecuarios
+2014,I,79203,Del Fondo Europeo Agrícola de Desarrollo Rural
+2014,I,44100,De empresas públicas no societarias y de otros entes públicos de la Comunitat Autónoma IB
+2014,I,46900,De otros entes territoriales
+2014,I,28400,Impuesto sobre daños medioambientales causados por vehículos de alquiler
+2014,I,28500,Impuesto sobre daños medioambientales causados por grandes superficies …
+2014,I,28600,Impuesto sobre envases de bebidas
+2014,I,30319,Matrícula/inscripción a las pruebas para la obtención del título de técnico superior de formación profesional
+2014,I,30963,Licencias de vedados de caza
+2014,I,30984,Reconocimiento de títulos a ciudadanos de la UE
+2014,I,31905,"Asistencia sanitaria, empresas colaboradoras de la Seguridad Social"
+2014,I,31916,"Asistencia sanitaria, INSS"
+2014,I,32910,Derechos de matrícula en cursos y seminarios
+2014,I,40300,De fundaciones estatales
+2014,I,46000,De ayuntamientos
+2014,I,48000,De familias e instituciones sin fines de lucro
+2014,I,70400,"De sociedades mercantiles estatales, entidades empresariales y otros entes públicos"
+2014,I,78000,De familias e instituciones sin fines de lucro
+2014,I,30200,Tasas por dirección e inspección de obras
+2014,I,32710,"Asistencia sanitaria, entidades vinculadas a la Comunitat Autónoma IB"
+2014,I,51600,A corporaciones locales y a otros entes territoriales
+2014,I,51800,A familias e instituciones sin fines de lucro
+2014,I,77000,De empresas privadas
+2014,I,79501,Del Fondo Europeo de Pesca FEP
+2014,I,82106,A corporaciones locales
+2014,I,2018/AGIB00/1,Impuestos directos
+2014,I,2018/AGIB00/2,Impuestos indirectos
+2014,I,2018/AGIB00/3,"Tasas, precios públicos y otros ingresos"
+2014,I,2018/AGIB00/4,Transferencias corrientes
+2014,I,2018/AGIB00/5,Ingresos patrimoniales
+2014,I,2018/AGIB00/6,Enajenación de inversiones reales
+2014,I,2018/AGIB00/7,Transferencias de capital
+2014,I,2018/AGIB00/8,Activos financieros
+2014,I,2018/AGIB00/9,Pasivos financieros
+2014,I,2018/ATIB00/3,"Tasas, precios públicos y otros ingresos"
+2014,I,2018/ATIB00/4,Transferencias corrientes
+2014,I,2018/ATIB00/5,Ingresos patrimoniales
+2014,I,2018/ATIB00/7,Transferencias de capital
+2014,I,2018/SSIB00/3,"Tasas, precios públicos y otros ingresos"
+2014,I,2018/SSIB00/4,Transferencias corrientes
+2014,I,2018/SSIB00/5,Ingresos patrimoniales
+2014,I,2018/SSIB00/7,Transferencias de capital
+2014,I,2018/AGIB00/10,Sobre la renta
+2014,I,2018/AGIB00/11,Sobre el capital
+2014,I,2018/AGIB00/20,Sobre transmisiones patrimoniales y actos jurídicos documentados
+2014,I,2018/AGIB00/21,Sobre el valor añadido
+2014,I,2018/AGIB00/22,Sobre consumos específicos
+2014,I,2018/AGIB00/28,Otros impuestos indirectos
+2014,I,2018/AGIB00/30,Tasas
+2014,I,2018/AGIB00/32,Otros ingresos procedentes de la prestación de servicios
+2014,I,2018/AGIB00/33,Venta de bienes
+2014,I,2018/AGIB00/39,Otros ingresos
+2014,I,2018/AGIB00/40,Del Estado
+2014,I,2018/AGIB00/49,Del exterior
+2014,I,2018/AGIB00/51,Intereses de anticipos y préstamos concedidos
+2014,I,2018/AGIB00/52,Intereses de depósitos
+2014,I,2018/AGIB00/54,Rentas de bienes inmuebles
+2014,I,2018/AGIB00/55,Productos de concesiones y aprovechamientos especiales
+2014,I,2018/AGIB00/59,Otros ingresos patrimoniales
+2014,I,2018/AGIB00/60,Enajenación de terrenos
+2014,I,2018/AGIB00/61,Enajenación de las demás inversiones
+2014,I,2018/AGIB00/70,Del Estado
+2014,I,2018/AGIB00/79,Del exterior
+2014,I,2018/AGIB00/82,Reintegros de préstamos concedidos al sector público
+2014,I,2018/AGIB00/91,Préstamos recibidos en euros
+2014,I,2018/ATIB00/33,Venta de bienes
+2014,I,2018/ATIB00/45,De comunidades autónomas
+2014,I,2018/ATIB00/52,Intereses de depósitos
+2014,I,2018/ATIB00/75,De comunidades autónomas
+2014,I,2018/SSIB00/30,Tasas
+2014,I,2018/SSIB00/31,Precios públicos
+2014,I,2018/SSIB00/32,Otros ingresos procedentes de la prestación de servicios
+2014,I,2018/SSIB00/33,Venta de bienes
+2014,I,2018/SSIB00/39,Otros ingresos
+2014,I,2018/SSIB00/45,De comunidades autónomas
+2014,I,2018/SSIB00/52,Intereses de depósitos
+2014,I,2018/SSIB00/55,Productos de concesiones y aprovechamientos especiales
+2014,I,2018/SSIB00/75,De comunidades autónomas
+2014,I,2018/AGIB00/100,Impuesto sobre la renta de las personas físicas
+2014,I,2018/AGIB00/110,Impuesto general sobre sucesiones y donaciones
+2014,I,2018/AGIB00/111,Impuesto sobre el patrimonio de las personas físicas
+2014,I,2018/AGIB00/112,Impuesto sobre depósitos en entidades bancarias
+2014,I,2018/AGIB00/200,Impuesto sobre transmisiones intervivos
+2014,I,2018/AGIB00/201,Impuesto sobre actos jurídicos documentados
+2014,I,2018/AGIB00/210,Impuesto sobre el valor añadido
+2014,I,2018/AGIB00/220,Impuestos especiales
+2014,I,2018/AGIB00/281,Impuesto sobre estancias turísticas y turismo sostenible
+2014,I,2018/AGIB00/283,Canon de depuración de agüas
+2014,I,2018/AGIB00/300,Tasas de juego
+2014,I,2018/AGIB00/301,Tasas y cánones de la ordenación de las telecomunicaciones
+2014,I,2018/AGIB00/303,"Tasas académicas, derechos de matrícula, expedición de títulos y otros similares"
+2014,I,2018/AGIB00/309,Otras tasas
+2014,I,2018/AGIB00/329,Otros ingresos procedentes de la prestación de servicios
+2014,I,2018/AGIB00/330,Venta de publicaciones propias
+2014,I,2018/AGIB00/332,Venta de fotocopias y otros productos de reprografía
+2014,I,2018/AGIB00/333,Venta de medicamentos
+2014,I,2018/AGIB00/334,Venda de productes agropecuaris
+2014,I,2018/AGIB00/339,Venta de otros bienes
+2014,I,2018/AGIB00/391,Recargos y multas
+2014,I,2018/AGIB00/399,Ingresos diversos
+2014,I,2018/AGIB00/400,De la Administración General
+2014,I,2018/AGIB00/401,De organismos autónomos
+2014,I,2018/AGIB00/402,De la Seguretat Social
+2014,I,2018/AGIB00/490,Del Fons Social Europeu
+2014,I,2018/AGIB00/492,Otras transferencias de la UE
+2014,I,2018/AGIB00/514,A empresas públicas y a otros entes públicos
+2014,I,2018/AGIB00/520,Intereses de cuentas bancarias
+2014,I,2018/AGIB00/540,Alquileres y productos de inmuebles
+2014,I,2018/AGIB00/550,Productos de concesiones administrativas
+2014,I,2018/AGIB00/559,Otras concesiones y aprovechamientos
+2014,I,2018/AGIB00/599,Otros ingresos patrimoniales
+2014,I,2018/AGIB00/600,Venta de solares
+2014,I,2018/AGIB00/619,Venta de otras inversiones reales
+2014,I,2018/AGIB00/700,De la Administración General
+2014,I,2018/AGIB00/701,De organismos autónomos
+2014,I,2018/AGIB00/790,Del Fondo Europeo de Desarrollo Regional
+2014,I,2018/AGIB00/792,De los fondos para la financiación de la Política Agraria Común
+2014,I,2018/AGIB00/796,Otras transferencias de la UE
+2014,I,2018/AGIB00/820,De préstamos concedidos a corto plazo
+2014,I,2018/AGIB00/821,De préstamos concedidos a largo plazo
+2014,I,2018/AGIB00/911,A largo plazo de entes del sector público
+2014,I,2018/AGIB00/913,A largo plazo de entes que no pertenecen al sector públic
+2014,I,2018/ATIB00/339,Venta de otros bienes
+2014,I,2018/ATIB00/450,De la Comunidad Autónoma IB
+2014,I,2018/ATIB00/520,Intereses de cuentas bancarias
+2014,I,2018/ATIB00/750,De la Comunidad Autónoma IB
+2014,I,2018/SSIB00/303,"Tasas académicas, derechos de matrícula, expedición de títulos y otros similares"
+2014,I,2018/SSIB00/319,Otros precios públicos
+2014,I,2018/SSIB00/327,Otros ingresos procedentes de la prestación de servicios de asistencia sanitaria
+2014,I,2018/SSIB00/333,Venta de medicamentos
+2014,I,2018/SSIB00/391,Recargos y multas
+2014,I,2018/SSIB00/399,Ingresos diversos
+2014,I,2018/SSIB00/450,De la Comunidad Autónoma IB
+2014,I,2018/SSIB00/520,Intereses de cuentas bancarias
+2014,I,2018/SSIB00/550,Productos de concesiones administrativas
+2014,I,2018/SSIB00/750,De la Comunidad Autónoma IB
+2014,I,2017/AGIB00/10000,"Impuesto sobre la renta de las personas físicas, tarifa autonòmica"
+2014,I,2017/AGIB00/11000,Impuesto general sobre sucesiones y donaciones
+2014,I,2017/AGIB00/11100,Impuesto extraordinario sobre el patrimonio de las personas físicas
+2014,I,2017/AGIB00/11200,Impuesto sobre depósitos en entidades de crédito
+2014,I,2017/AGIB00/20000,Impuesto sobre transmisiones inter-vivos
+2014,I,2017/AGIB00/20001,"Impuesto sobre transmisiones inter-vivos, timbres"
+2014,I,2017/AGIB00/20100,Impuesto sobre actos jurídicos documentados
+2014,I,2017/AGIB00/20101,"Impuesto sobre actos jurídicos documentados, timbres"
+2014,I,2017/AGIB00/21000,Impuesto sobre el valor añadido
+2014,I,2017/AGIB00/22001,Impuesto especial sobre la cerveza
+2014,I,2017/AGIB00/22003,Impuesto especial sobre el alcohol y bebidas derivadas
+2014,I,2017/AGIB00/22004,Impuesto especial sobre las labores del tabaco
+2014,I,2017/AGIB00/22005,Impuesto especial sobre los hidrocarburos
+2014,I,2017/AGIB00/22006,Impuesto especial sobre determinados medios de transporte
+2014,I,2017/AGIB00/22007,Impuesto especial sobre productos intermedios
+2014,I,2017/AGIB00/22008,"Impuesto especial sobre la venta minorista de determinados hidrocarburos, tramo autonómico"
+2014,I,2017/AGIB00/22009,Impuesto especial sobre la electricidad
+2014,I,2017/AGIB00/28100,Impuesto sobre estancias turísticas y turismo sostenible
+2014,I,2017/AGIB00/28300,Canon de saneamiento/depuración de aguas
+2014,I,2017/AGIB00/30000,Tasas de juego
+2014,I,2017/AGIB00/30001,"Tasas por servicios administrativos en materia de casinos, juegos y apuestas"
+2014,I,2017/AGIB00/30101,Autorizaciones/certificaciones relacionadas con la radiodifusión sonora a través de ondas métricas con MF
+2014,I,2017/AGIB00/30301,"Servicios docentes, Conservatorio Profesional de Música y Danza de las IB"
+2014,I,2017/AGIB00/30302,"Servicios docentes, Escuelas Oficiales de Idiomas"
+2014,I,2017/AGIB00/30303,"Servicios docentes, ES de Diseño y de Conservación y Restauración de Bienes Culturales de las IB"
+2014,I,2017/AGIB00/30304,"Derechos de matrícula, pruebas de evaluación y acreditación de conocimiento del catalán"
+2014,I,2017/AGIB00/30305,Expedición de títulos académicos y profesionales
+2014,I,2017/AGIB00/30306,Matrícula/inscripción a las pruebas selectivas para el acceso a los cuerpos docente
+2014,I,2017/AGIB00/30307,Matrícula/inscripción a las pruebas selectivas para el acceso a la Administración de la Comunitat Autónoma IB
+2014,I,2017/AGIB00/30308,Matrícula/inscripción a los cursos programados por la Escuela Balear de Administración Pública
+2014,I,2017/AGIB00/30309,Expedición de títulos i compulsa de documentos expedidos por la Escuela Balear de Administración Pública
+2014,I,2017/AGIB00/30310,Matrícula/inscripción a las pruebas para la verificación de la capacidad profesional de los transportistas y …
+2014,I,2017/AGIB00/30311,Servicios de reconocimiento de la capacidad para el ejercicio de actividades náuticas recreativas
+2014,I,2017/AGIB00/30314,Servicios de reconocimiento de la capacitación náutico pesquera y de buceo profesional
+2014,I,2017/AGIB00/30315,Matrícula/inscripción a las pruebas de guías turísticos de la Comunitat Autónoma IB
+2014,I,2017/AGIB00/30317,"Servicios docentes, enseñanzas deportivas del sistema educativo"
+2014,I,2017/AGIB00/30318,Matrícula/inscripción a las pruebas de acceso a los ciclos formativos
+2014,I,2017/AGIB00/30320,Reconocimiento de la competencia profesional adquirida a través de la experiencia laboral en las IB
+2014,I,2017/AGIB00/30901,Actuaciones del Registro de Entidades Jurídicas
+2014,I,2017/AGIB00/30902,Apertura de establecimientos turísticos y otras autorizaciones administrativas
+2014,I,2017/AGIB00/30904,"Fotocopias, copias y expedición de certificados"
+2014,I,2017/AGIB00/30905,Compulsa y autentificación de documentos
+2014,I,2017/AGIB00/30907,"Servicios del laboratorio de la atmósfera, certificados de emisiones y suministro de datos de la atmósfera"
+2014,I,2017/AGIB00/30908,Informes de evaluación de impacto ambiental
+2014,I,2017/AGIB00/30910,Servicios y actividades en zonas de servitud de protección y tránsito portuario
+2014,I,2017/AGIB00/30911,Autorización de sondeos a cargo de la Junta de Aguas
+2014,I,2017/AGIB00/30912,"Autorización, puesta en servicio y reconocimiento de las instalaciones de elevación de aguas"
+2014,I,2017/AGIB00/30913,Autorización para explotación de agüas subterráneas con caudal < 7000m3/año
+2014,I,2017/AGIB00/30914,Autorización para la concesión de aguas subterráneas
+2014,I,2017/AGIB00/30916,Servicios administrativos por la concesión de aguas depuradas
+2014,I,2017/AGIB00/30917,Autorización de concesiones en zonas de dominio público hidráulico y de policía de canales
+2014,I,2017/AGIB00/30919,Autorización de concesiones para el vertido de aguas residuales
+2014,I,2017/AGIB00/30921,Informes y otras atuaciones sobre concesiones
+2014,I,2017/AGIB00/30922,"Servicios de trabajos de campo para delimitaciones, inspecciones de obras y ..."
+2014,I,2017/AGIB00/30927,Servicios del laboratorio del agua
+2014,I,2017/AGIB00/30928,Reportajes publicitarios en espacios naturales
+2014,I,2017/AGIB00/30930,Control de seguridad alimentaria
+2014,I,2017/AGIB00/30931,Control de animales
+2014,I,2017/AGIB00/30932,Control de sanidat ambiental
+2014,I,2017/AGIB00/30943,Servicios administrativos generales en materia de transportes
+2014,I,2017/AGIB00/30944,Autorizaciones de transporte por carretera y de actividades auxiliares y complementarias del transporte
+2014,I,2017/AGIB00/30946,Servicios y actuaciones en materia de arquitectura y vivienda
+2014,I,2017/AGIB00/30947,"Comprobación, reconocimiento y acreditación de la capacidad para el alquiler de embarcaciones de recreo"
+2014,I,2017/AGIB00/30948,Autorizaciones para el ejercicio de la actividad de escuelas nauticodeportivas y de centros lucrativos de actividades sub acuática
+2014,I,2017/AGIB00/30950,Tramitación de autorizaciones administrativas y de comprobación técnico sanitaria
+2014,I,2017/AGIB00/30951,Inscripciones y anotaciones en el Registro Sanitario
+2014,I,2017/AGIB00/30952,"Tramitación de autorizaciones administrativas en los centros, establecimientos y servicios sanitarios"
+2014,I,2017/AGIB00/30954,Control sanitario de las condiciones de la piscinas de uso público
+2014,I,2017/AGIB00/30956,Control de las condicione sanitarias de los establecimientos que elaboran o sirven comidas preparadas
+2014,I,2017/AGIB00/30957,"Autorizaciones para la instalación, traslado o transmisión de oficinas de farmacia"
+2014,I,2017/AGIB00/30958,Otras actuaciones sanitarias
+2014,I,2017/AGIB00/30959,Servicios del laboratorio de salud pública
+2014,I,2017/AGIB00/30960,Realización de ensayos clínicos con medicamentos
+2014,I,2017/AGIB00/30966,Licencias de pesca
+2014,I,2017/AGIB00/30967,Celebración de campeonatos de pesca
+2014,I,2017/AGIB00/30968,"Ordenación y defensa de las industrias agrícolas, forestales y pecuarias"
+2014,I,2017/AGIB00/30969,Servicios de gestión técnico facultativa de los servicios agronómicos
+2014,I,2017/AGIB00/30970,Servicios facultativos veterinarios
+2014,I,2017/AGIB00/30971,Servicios industriales de energía
+2014,I,2017/AGIB00/30973,Servicios administrativos
+2014,I,2017/AGIB00/30974,Licencia autonómica de gran establecimiento comercial
+2014,I,2017/AGIB00/30976,Concesión de la etiqueta ecológica
+2014,I,2017/AGIB00/30977,Utilización de la etiqueta ecológica
+2014,I,2017/AGIB00/30979,Inscripción en los registros de emergencias
+2014,I,2017/AGIB00/30980,Autorización de entidades formadoras
+2014,I,2017/AGIB00/30981,Declaración de interés sanitario
+2014,I,2017/AGIB00/30982,Registro de entidades formadoras de manipuladores de alimentos
+2014,I,2017/AGIB00/30983,Registro de actividades de carnicería y charcutería
+2014,I,2017/AGIB00/30985,Registro de entidades formadoras para el uso de desfibriladores
+2014,I,2017/AGIB00/30986,Inscripción de empresas de servicios de biocidas y plaguicidas
+2014,I,2017/AGIB00/30987,Supervisión de las instalaciones de agua para el consumo humano
+2014,I,2017/AGIB00/30991,Registro de parejas estables
+2014,I,2017/AGIB00/30992,Servicios administrativos generales del Servicio de Empleo de las IB
+2014,I,2017/AGIB00/30993,Actuaciones administrativas en espàcios silvestres
+2014,I,2017/AGIB00/30994,Autorizaciones para trabajos subacuáticos
+2014,I,2017/AGIB00/30995,Autorización de cambio de puerto base i uso temporal
+2014,I,2017/AGIB00/30996,Expedición de certificado de profesionalidad pesquera
+2014,I,2017/AGIB00/30997,Acreditación de actividades de formación para profesiones sanitarias
+2014,I,2017/AGIB00/30999,Otras tasas
+2014,I,2017/AGIB00/32920,"Entradas a museos, exposiciones, espectáculos, …"
+2014,I,2017/AGIB00/32930,"Derechos de alojamiento, restauración y residencia"
+2014,I,2017/AGIB00/32999,Otros ingresos procedentes de la prestación de servicios
+2014,I,2017/AGIB00/33001,"Venta, publicación y anuncios del BOIB"
+2014,I,2017/AGIB00/33099,Venta de otras publicaciones propias
+2014,I,2017/AGIB00/33200,Venta de fotocopias y de otros productos de reprografía
+2014,I,2017/AGIB00/33300,Venta de medicamentos
+2014,I,2017/AGIB00/33900,Venta de otros bienes
+2014,I,2017/AGIB00/33901,Venta de impresos
+2014,I,2017/AGIB00/38000,Reintegros de ejercicios cerrados
+2014,I,2017/AGIB00/38100,Reintegros del presupuesto corriente
+2014,I,2017/AGIB00/38101,Reintegros de remanentes de pagos a justificar
+2014,I,2017/AGIB00/39100,Recargos de apremio
+2014,I,2017/AGIB00/39101,Intereses de demora
+2014,I,2017/AGIB00/39102,Multas y sanciones
+2014,I,2017/AGIB00/39901,Recursos eventuales
+2014,I,2017/AGIB00/39905,Ingresos por costas procesales
+2014,I,2017/AGIB00/39999,Otros ingresos diversos
+2014,I,2017/AGIB00/40000,De la Administración General
+2014,I,2017/AGIB00/40001,Fondo de garantía
+2014,I,2017/AGIB00/40002,Fondo de suficiencia
+2014,I,2017/AGIB00/40003,Fondo de competitividad
+2014,I,2017/AGIB00/40009,Liquidación de ejercicios anteriores
+2014,I,2017/AGIB00/40100,De organismos autónomos de carácter administrativo
+2014,I,2017/AGIB00/40101,Del Servicio Público de Empleo INEM
+2014,I,2017/AGIB00/40200,De la Seguridad Social
+2014,I,2017/AGIB00/40201,Del Instituto de Migración y Servicios Sociales IMSERSO
+2014,I,2017/AGIB00/40260,Programa de ahorro en incapacidad temporal IT
+2014,I,2017/AGIB00/40261,Asistencia a residentes extranjeros
+2014,I,2017/AGIB00/44400,De fundaciones participadas por la Comunitat Autónoma IB
+2014,I,2017/AGIB00/49000,Del Fondo Social Europeo
+2014,I,2017/AGIB00/49200,Otras transferencias de la UE
+2014,I,2017/AGIB00/51400,A empresas públicas y a otros entes públicos
+2014,I,2017/AGIB00/52099,Otros intereses de cuentas bancarias
+2014,I,2017/AGIB00/54002,Alquileres de edificios en general
+2014,I,2017/AGIB00/55000,Productos de concesiones administrativas
+2014,I,2017/AGIB00/55900,Otras concesiones y aprovechamientos
+2014,I,2017/AGIB00/59900,Otros ingresos patrimoniales
+2014,I,2017/AGIB00/60000,Enajenación de solares
+2014,I,2017/AGIB00/61900,Enajenación de otras inversiones reales
+2014,I,2017/AGIB00/68000,Reintegros de ejercicios cerrados
+2014,I,2017/AGIB00/70000,De la Administración General
+2014,I,2017/AGIB00/70100,De organismos autónomos de carácter administrativo
+2014,I,2017/AGIB00/74300,De consorcios participados por la Comunitat Autónoma IB
+2014,I,2017/AGIB00/79000,Del Fondo Europeo de Desarrollo Regional FEDER
+2014,I,2017/AGIB00/79200,Del FEOGA-Orientación
+2014,I,2017/AGIB00/79600,Otras transferencias de la UE
+2014,I,2017/AGIB00/82007,A empresas vinculadas y a otros entes participados por la Comunidad Autónoma
+2014,I,2017/AGIB00/82104,A empresas públicas y otros entes públicos
+2014,I,2017/AGIB00/87001,"Remanentes de tesorería, financiación de incorporaciones de crédito"
+2014,I,2017/AGIB00/87002,"Remanentes de tesorería, financiación de incorporaciones de crédito"
+2014,I,2017/AGIB00/91100,A largo plazo de entes del sector público
+2014,I,2017/AGIB00/91300,A largo plazo de entes que no pertenecen al sector público
+2014,I,2017/ATIB00/33901,Venta de impresos
+2014,I,2017/ATIB00/38100,Reintegros del presupuesto corriente
+2014,I,2017/ATIB00/45000,De la Comunidad Autónoma IB
+2014,I,2017/ATIB00/52099,Otros intereses de cuentas bancarias
+2014,I,2017/ATIB00/75000,De la Comunidad Autónoma IB
+2014,I,2017/SSIB00/30307,Matrícula/inscripción a las pruebas selectivas para el acceso a la Administración de la Comunitat Autónoma IB
+2014,I,2017/SSIB00/31901,"Asistencia sanitaria, aseguradoras privadas"
+2014,I,2017/SSIB00/31902,"Asistencia sanitaria, particulares"
+2014,I,2017/SSIB00/31903,"Asistencia sanitaria, accidentes de trabajo"
+2014,I,2017/SSIB00/31904,"Asistencia sanitaria, accidentes de tránsito/tráfico UNESPA"
+2014,I,2017/SSIB00/31908,"Asistencia sanitaria, mutuas de seguros escolares y deportivas"
+2014,I,2017/SSIB00/31910,"Asistencia sanitaria, otros entes y organismos públicos"
+2014,I,2017/SSIB00/31917,"Asistencia sanitaria, accidentes de tránsito/tráfico"
+2014,I,2017/SSIB00/31918,"Asistencia sanitaria, cuotas por convenios especiales de asistencia sanitaria"
+2014,I,2017/SSIB00/32700,Otros ingresos procedentes de la prestación de servicios de asistencia sanitaria
+2014,I,2017/SSIB00/32704,"Asistencia sanitaria, empresa colaboradoras de la Seguridad Social"
+2014,I,2017/SSIB00/33300,Venta de medicamentos
+2014,I,2017/SSIB00/38000,Reintegros de ejercicios cerrados
+2014,I,2017/SSIB00/38100,Reintegros del presupuesto corriente
+2014,I,2017/SSIB00/38101,Reintegros de remanentes de pagos a justificar
+2014,I,2017/SSIB00/39100,Recargos de apremio
+2014,I,2017/SSIB00/39101,Intereses de demora
+2014,I,2017/SSIB00/39996,Ingresos por anuncios de concursos
+2014,I,2017/SSIB00/39998,Ingresos por resoluciones judiciales
+2014,I,2017/SSIB00/39999,Otros ingresos diversos
+2014,I,2017/SSIB00/44400,De fundaciones participadas por la Comunitat Autónoma IB
+2014,I,2017/SSIB00/45000,De la Comunidad Autónoma IB
+2014,I,2017/SSIB00/45001,"De la Comunitat Autónoma IB, asistencia a desplazados"
+2014,I,2017/SSIB00/45002,"De la Comunitat Autónoma IB, programa de ahorro en incapacidad temporal IT"
+2014,I,2017/SSIB00/47000,De empresas privadas
+2014,I,2017/SSIB00/52099,Otros intereses de cuentas bancarias
+2014,I,2017/SSIB00/55000,Productos de concesiones administrativas
+2014,I,2017/SSIB00/55001,"Ingresos de cafeterías, librerías y aparatos de TV"
+2014,I,2017/SSIB00/75000,De la Comunidad Autónoma IB
+2014,G,74421,Banco de Sangre y Tejidos de las IB
+2014,G,64028,Campañas de vacunaciones
+2014,G,44372,Reconversión tTerritorial y Paisajística de determinadas zonas de Ibiza
+2014,G,78001,"A famílias e instituciones sin fines de lucro, rehabilitación de patrimonio D 71/94"
+2014,G,74350,Ciudad Romana de Pol·lèntia
+2014,G,44500,A otras fundaciones participadas por la CAIB
+2014,G,91000,Amortización de préstamos a corto plazo de entes del sector público
+2014,G,25413,"Servicios asistenciales concertados/prestados por terceros, oxigenoterapia"
+2014,G,25414,"Servicios asistenciales concertados/prestados por terceros, aerosolterapia"
+2014,G,22716,"Servicios de profesionales independientes, licenciados sanitarios"
+2014,G,74371,Embellecimiento de la Playa de Palma
+2014,G,74403,Conservatorio de Música
+2014,G,74422,Escuela Superior de Arte Dramático de las IB
+2014,G,74424,Atención y Soporte a la Dependencia Promoción a la Autonomía Personal de Personas con Discapacidad
+2014,G,74100,A empresa públicas no societarias y otros entes públicos de la CAIB
+2014,G,25411,"Servicios asistenciales concertados/prestados por terceros, Fundación Kovacs"
+2014,G,48001,"A partidos políticos, subvenciones para gastos electorales"
+2014,G,60003,Indemnizaciones por terrenos y bienes naturales
+2014,G,74116,Radiotelevisión de las IB
+2014,G,48022,"A famílias e instituciones, subvenciones para transporte escolar"
+2014,G,76900,A otros entes territoriales
+2014,G,91200,Amortización de préstamos a corto plazo de entes de fuera del sector público
+2014,G,48999,"Recetas médicas, ejercicios anteriores"
+2014,G,12505,Retribuciones complementarias personal estatutario temporal
+2014,G,22999,Obligaciones de ejercicios anteriores
+2014,G,48102,"A centros de enseñanza concertados, RETA y sustituciones"
+2014,G,44432,Orquesta Sinfónica IIlles Balears
+2014,G,87304,Instituto de Estudios Baleáricos
+2014,G,64016,Aplicaciones informáticas en curso
+2014,G,25213,"Servicios asistenciales concertados/prestados por terceros, Policlínica Miramar"
+2014,G,12007,"Sueldos del grupo A2, personal de contingente"
+2014,G,12114,"Complemento por atención continuada, personal de contingente preintegrado"
+2014,G,16109,Otras prestaciones sociales
 2014,G,21000,De infraestructura y bienes naturales
-2014,G,21200,De edificios y de otras construcciones
-2014,G,21300,"De maquinaria, instalaciones y utillaje"
-2014,G,21400,De medios de transporte
-2014,G,21500,De mobiliario y enseres
-2014,G,21600,De quipos para procesos de la información
-2014,G,21900,De otro inmovilizado material
-2014,G,22000,Material de oficina ordinario no inventariable
-2014,G,22001,"Prensa, revistas, libros y otras publicaciones"
-2014,G,22002,Material informático no inventariable
-2014,G,22009,Otro material de oficina
-2014,G,22100,Energía eléctrica
-2014,G,22101,Agua
-2014,G,22102,Gas
-2014,G,22103,Combustibles y carburantes
-2014,G,22104,Vestuario
-2014,G,22105,Productos alimentarios
-2014,G,22106,Productos farmacéuticos y material sanitario
-2014,G,22108,"Material deportivo, didáctico y cultural"
-2014,G,22109,Otros suministros
-2014,G,22200,Telefónicas
-2014,G,22209,Otras comunicaciones
-2014,G,22300,Transportes
-2014,G,22400,Primas de seguros
-2014,G,22500,Tributos estatales
-2014,G,22501,Tributos autonómicos
-2014,G,22502,Tributos locales
-2014,G,22601,Atenciones protocolarias y de representación
-2014,G,22602,Publicidad y propaganda
-2014,G,22603,Gastos jurídicos y contenciosos
-2014,G,22606,"Reuniones, conferencias y cursos"
-2014,G,22607,Oposiciones y pruebas selectivas
-2014,G,22609,Otros gastos diversos
-2014,G,22700,Limpieza y aseo
-2014,G,22701,Seguridad
-2014,G,22702,Valoraciones y peritajes
-2014,G,22703,Postales
-2014,G,22704,"Custodia, depósito y almacenaje"
-2014,G,22705,Procesos electorales
-2014,G,22706,Estudios y trabajos técnicos
-2014,G,22709,Otros trabajos
-2014,G,22900,Gastos de funcionamiento de centros escolares
-2014,G,22901,Gastos de funcionamiento de la ES de Disseny
-2014,G,23000,"Dietas, locomoción y traslados"
-2014,G,23009,Otras indemnizaciones por razón del servicio
-2014,G,23100,Asistencias y pernoctas
-2014,G,23900,Otras indemnizaciones
-2014,G,24000,Dotación para servicios nuevos
-2014,G,26104,Conciertos de servicios sociales con otras instituciones
-2014,G,30003,"Intereses, obligaciones CAIB 2005"
 2014,G,30004,"Intereses, obligaciones CAIB 2009"
-2014,G,30005,"Intereses, obligaciones CAIB 2010"
-2014,G,30006,"Intereses, obligaciones CAIB 2011"
 2014,G,30007,"Intereses, obligaciones CAIB 2012"
-2014,G,30900,Otros gastos financieros
-2014,G,31000,Intereses
-2014,G,31009,Intereses de préstamos a corto plazo
-2014,G,31900,Otros gastos financieros
-2014,G,35200,Intreses de demora
-2014,G,35900,Otros gastos financieros
-2014,G,35980,Gastos financieros por cesiones de crédito
-2014,G,40000,A la Administración General
-2014,G,40100,A organismos autónomos
-2014,G,40200,A la Seguridad Social
-2014,G,40400,"A sociedades mercantiles estatales, entidades empresariales y otros entes públicos"
-2014,G,42001,Al Servicio Balear de la Salud de las IB
 2014,G,44006,"Servicios de Mejora Agraria, SA"
 2014,G,44009,"Servicios de Información Territorial de las IB, SA"
-2014,G,44014,"Gestión de Emergencias de las IB, SA"
-2014,G,44015,"Multimedia de las IB, SA"
-2014,G,44100,A entidades públicas empresariales y a otros entes públicos de la CAIB
-2014,G,44101,Agencia de Turismo de las IB
-2014,G,44104,Servicios Ferroviarios de Mallorca
-2014,G,44111,Instituto Balear de la Naturaleza
-2014,G,44112,Instituto de Innovación Empresarial de las IB
-2014,G,44113,Universidad de las IB
-2014,G,44114,Insttituto Balear de Infraestructuras y Servicios Educativos y Culturales de las IB
-2014,G,44116,Radiotelevisión de las IB
-2014,G,44117,Fondo de Garantía Agraria y Pesquera de les IB
-2014,G,44118,Agencia Balear del Agua y de Calidad Ambiental
-2014,G,44119,Puertos de las IB
-2014,G,44121,Instituto Balear de la Juventud
-2014,G,44123,"Universidad de las IB, complementos retributivos adicionales"
-2014,G,44150,Agencia Tributaria de las IB
-2014,G,44300,A consorcios participados po la CAIB
-2014,G,44301,Transportes de Mallorca
-2014,G,44302,Centro Baleares Europa
-2014,G,44320,"Música de las IB, Orquesta Sinfónica de las IB"
-2014,G,44323,Protección y Acogida de Personas Disminuidas Psíquicas Profundas
-2014,G,44326,Esculea de Hotelería
-2014,G,44339,Fondo Mallorquín de Solidadidad y Cooperación
-2014,G,44340,Fomento de la Lengua Catalana
-2014,G,44346,Agencia de Calidad Universitaria de las IB
-2014,G,44348,Formentera Desarrollo
-2014,G,44349,Movilidad para Ibiza
-2014,G,44350,Ciudad Romana de Pol·lèntia
-2014,G,44351,Castillo de San Carlos
-2014,G,44352,Museo Militar de Menorca
-2014,G,44353,Fomento de Infraestructuras Universitarias
-2014,G,44356,Recuperación de la Fauna y Vida Silvestre de la IB
-2014,G,44359,Ibiza Patrimonio de la Humaniodad
-2014,G,44361,Desarrollo de Infraestructuras en la Entidad Local de Palmanyola
-2014,G,44363,Fondo Menorquín de Cooperación
-2014,G,44364,Fondo Pitiuso de Cooperación
-2014,G,44365,Sistema de Observación Costera de las IB
-2014,G,44366,Pabellón Deportivo Multifuncional de Mahón
-2014,G,44372,Reconversión tTerritorial y Paisajística de determinadas zonas de Ibiza
-2014,G,44375,Recursos Sociosanitarios de las IB
-2014,G,44377,Velódromo Palma Arena
-2014,G,44378,Infraestructuras de las IB
-2014,G,44379,Aguas de las IB
-2014,G,44402,Espor Balear
-2014,G,44403,Conservatorio de Música
-2014,G,44404,"Instituto Socioeducativo ""s'Estel"""
-2014,G,44414,Robert Graves
-2014,G,44417,Teatro Principal de Inca
-2014,G,44421,Banco de Sangre y Tejidos de las IB
-2014,G,44422,Escuela Superior de Arte Dramàtico de las IB
-2014,G,44423,Investigación Sanitaria de las IB Ramón Llull
-2014,G,44424,Atención y Soporte a la Dependencia Promoción a la Autonomía Personal de Personas con Discapacidad
-2014,G,44429,Santuario de Lluc
-2014,G,44431,Balear de Innovación y Tecnología
-2014,G,44500,A otras fundaciones participadas por la CAIB
-2014,G,44501,Área de Creación Acústica
-2014,G,44503,Coll Bardolet
-2014,G,44504,"Es Baluard, Museo de Arte Moderno y Contemporáneo"
-2014,G,44505,Menorquina de la Ópera
-2014,G,44507,Teatro del Mar
-2014,G,44508,Escuela de Práctica Jurídica
-2014,G,44510,Jardín Botánico de Sóller
-2014,G,46000,A ayuntamientos
-2014,G,46100,A consejos insulares
-2014,G,46110,"A consejos insulares, renta mínima de inserción social"
-2014,G,46400,A empresas públicas y otros entes públicos de corporaciones locales
-2014,G,46900,A otros entes territoriales
-2014,G,47000,A empresa privadas
-2014,G,48000,A famílias e instituciones sin fines de lucro
-2014,G,48015,"A famílias e instituciones, becas y ayudas RD 395/2007"
-2014,G,48016,Tribunal de Arbitraje y Mediación de las IB
-2014,G,48021,"A famílias e instituciones, subvenciones para comedores escolares"
-2014,G,48035,"A famílias e instituciones, subvenciones para el transporte marítimo regular"
-2014,G,48044,Federación de Entidades Locales de las IB
-2014,G,48046,"A famílias e instituciones, subvenciones para la gratuidad del túnel de Sóller para los residentes"
-2014,G,48048,"A famílias e instituciones, ayudas y subvenciones para el desplazamiento interislas de deportistas"
-2014,G,48101,A centros de enseñanza concertados
-2014,G,49000,Al exterior
-2014,G,50000,Fondo de contingencia
-2014,G,60000,Terrenos y bienes naturales
-2014,G,60002,Indemnizaciones por desclasificación de suelo urbanizable
-2014,G,60100,Infraestructuras y bienes destinados al uso general
-2014,G,60800,"Bienes del patrimonio histórico, artístico y cultural"
-2014,G,60801,Adquisición de bienes museísticos
-2014,G,61100,Infraestructuras y bienes destinados al uso general
-2014,G,61106,Infraestructuras hidráulicas
-2014,G,61107,Infraestructuras y mantenimiento de la red de depuradoras
-2014,G,61800,"Bienes del patrimonio histórico, artístico y cultural"
 2014,G,62000,Terrenos y bienes naturales
-2014,G,62200,Edificios y otras construcciones
-2014,G,62301,Instalaciones técnicas
-2014,G,62302,Maquinaria
-2014,G,62303,Utillaje
-2014,G,62400,Elementos de transporte
-2014,G,62500,Mobiliario y enseres
-2014,G,62599,Equipamiento para centros educativos
-2014,G,62600,Equipos para procesos de la información
-2014,G,62900,Otro inmovilizado material
-2014,G,62990,Inversión nueva realizada por cuenta de otros entes
-2014,G,62999,Inversión nueva de entes estatutarios
-2014,G,63200,Edificios y otras construcciones
-2014,G,63301,Instalaciones técnicas
-2014,G,63302,Maquinaria
-2014,G,63303,Utillaje
-2014,G,63400,Elementos de transporte
-2014,G,63500,Mobiliario y enseres
-2014,G,63600,Equipos para procesos de la información
-2014,G,63900,Otro inmobilizado material
-2014,G,63990,Inversión de reposición realizada por cuenta de otros entes
-2014,G,63999,Inversión de reposición de entes estatutarios
-2014,G,64000,Gastos en inversiones de carácter inmaterial
-2014,G,64001,Aplicaciones informáticas y software
 2014,G,64002,Derechos reales y concesiones administrativas
-2014,G,64028,Campañas de vacunaciones
-2014,G,64090,"Arrendamiento financiero con opción de compra, leasing"
-2014,G,70000,A la Administración General
-2014,G,70100,A organismos autónomos
-2014,G,72001,Al Servicio de Salut de las IB
 2014,G,74006,"Servicios de Mejora Agraria, SA"
 2014,G,74009,"Servicios de Información Territorial de las IB, SA"
-2014,G,74014,"Gestión de Emergéncias de las IB, SA"
-2014,G,74015,"Multimedia de las IB, SA"
-2014,G,74101,Agencia de Turismo de las IB
-2014,G,74103,Instituto Balear de la Vivienda
-2014,G,74104,Servicios Ferroviarios de Mallorca
-2014,G,74111,Instituto Balear de la Naturaleza
-2014,G,74112,Instituto de Innovación Empresarial de las IB
-2014,G,74113,Universidad de las IB
-2014,G,74114,Instituto de Infraestructuras y Servicios Educativos y Culturales de las IB
-2014,G,74116,Radiotelevisión de las IB
-2014,G,74117,Fondo de Garantía Agraria y Pesquera de las IB
-2014,G,74118,Agencia Balear del Agua y de Calidad Ambiental
-2014,G,74119,Puertos de las IB
-2014,G,74121,Instituto Balear de la Juventud
-2014,G,74150,Agencia Tributaria de las IB
-2014,G,74202,"ISBA, SGR"
-2014,G,74300,A consorcios participados por la CAIB
-2014,G,74301,Transportes de Mallorca
 2014,G,74303,Pla Mirall
-2014,G,74326,Escuela de Hoteleria
-2014,G,74339,Fondo Mallorquín de Solidaridad y Cooperación
-2014,G,74340,Fomento de la Lengua Catalana COFUC
-2014,G,74348,Formentera Desarrollo
-2014,G,74353,Fomento de Infraestructuras Universitarias
-2014,G,74356,Recuperación de la Vida y Fauna Silvestre de les IB
-2014,G,74359,Ibizza Patrimonio de la Humanidad
-2014,G,74361,Desarrollo de Infraestructuras en la Entidad Local de Palmanyola
-2014,G,74363,Fondo Menorquín de Cooperación
-2014,G,74364,Fondo Pitiuso de Cooperación
-2014,G,74365,Sistema de Observación Costera de las IB
-2014,G,74366,Pabellón Deportivo Multifuncional de Mahón
-2014,G,74371,Embellecimiento de la Playa de Palma
-2014,G,74375,Recursos Sociosanitarios de las IB
-2014,G,74377,Velódromo Palma Arena
-2014,G,74378,Infraestructuras de las IB
-2014,G,74379,Aguas de las IB
-2014,G,74402,Espor Balear
-2014,G,74404,"Instituto Socioeducativo ""s'Estel"""
-2014,G,74414,Robert Graves
-2014,G,74417,Teatro Principal de Inca
-2014,G,74421,Banco de Sangre y Tejidos de las IB
-2014,G,74423,Investigación Sanitaria de las IB Ramón Llull
-2014,G,74429,Santuario de Lluc
-2014,G,74431,Balear de Innovación y Tecnología
 2014,G,74500,A otras fundaciones participadas por la CAIB
-2014,G,76000,A ayuntamientos
-2014,G,76096,"A ayuntamientos, fondos de seguridad pública"
-2014,G,76097,"A ayuntamientos, Palma, transferencias derivadas de la Ley de capaitalidad"
-2014,G,76099,"A ayuntamientos, fondo de cooperación municipal"
-2014,G,76100,A consejos insulares
-2014,G,76400,A empresas públicas y otros entes públicos de corporaciones locales
-2014,G,76900,A otros entes territoriales
-2014,G,77000,A empresa privadas
-2014,G,78000,A famílias e instituciones sin fines de lucro
-2014,G,78001,"A famílias e instituciones, rehabilitación de patrimonio Decreto 71/94"
-2014,G,82104,A empresas públicas y otros entes públicos
-2014,G,83008,A famílias e instituciones sin fines de lucro
-2014,G,83108,A famílias e instituciones sin fines de lucro
 2014,G,87001,Radiotelevisión de las IB
 2014,G,87002,Instituto Balear de la Vivienda
 2014,G,87003,Servicios Ferroviarios de Mallorca
@@ -891,271 +389,947 @@
 2014,G,87301,"Música de las IB, Orquesta Sinfónica de las IB"
 2014,G,87302,Protección y Acogida de Personas Disminuidas Psíquicas Profundas
 2014,G,87303,Aguas de las IB
-2014,G,87400,Servei de Salut de les IB
-2014,G,91300,Amortización de préstamos a largo plazo de entes del fuera del sector público
-2014,G,10000,Retribuciones básicas de altos cargos
-2014,G,10001,Otras remuneraciones de altos cargos
-2014,G,10002,Trienios de altos cargos
-2014,G,12000,Sueldos del grupo A1/grupo A
-2014,G,12001,Sueldos del grupo A2/grupo B
-2014,G,12002,Sueldos del grupo C1/grupo C
-2014,G,12003,Sueldos del grupo C2/grupo D
-2014,G,12004,Sueldos del personal de agrupaciones profesionales/grupo E
-2014,G,12005,Trienios
-2014,G,12009,Otras retribuciones básicas
-2014,G,12100,Complemento de destino
-2014,G,12101,Complemento específico
-2014,G,12102,Complemento de productividad compensada
-2014,G,12103,Indemnización por residencia
-2014,G,12109,Otros complementos
-2014,G,13000,Retribuciones básicas
-2014,G,13001,Complemento de convenio
-2014,G,13002,Complemento de compensación de costes de insularidad
-2014,G,13004,Complemento específico
-2014,G,13005,Trienios
-2014,G,13100,Retribuciones del personla laboral temporal
-2014,G,15100,Gratificaciones
-2014,G,16000,Seguridad Social
-2014,G,16204,Acción social
-2014,G,16304,Acción social
-2014,G,20200,Arrendamientos de edificios y de otras construcciones
-2014,G,20400,Arrendamientos de medios de transporte
-2014,G,21200,De edificios y de otras construcciones
-2014,G,21300,"De maquinaria, instalaciones y utillaje"
-2014,G,21600,De quipos para procesos de la información
-2014,G,22000,Material de oficina ordinario no inventariable
-2014,G,22001,"Prensa, revistas, libros y otras publicaciones"
-2014,G,22002,Material informático no inventariable
-2014,G,22100,Energía eléctrica
-2014,G,22101,Agua
-2014,G,22109,Otros suministros
-2014,G,22601,Atenciones protocolarias y de representación
-2014,G,22609,Otros gastos diversos
-2014,G,22700,Limpieza y aseo
-2014,G,22701,Seguridad
-2014,G,22706,Estudios y trabajos técnicos
-2014,G,22708,Servicios de recaudación
-2014,G,22709,Otros trabajos
-2014,G,23000,"Dietas, locomoción y traslados"
-2014,G,31009,Intereses de préstamos a corto plazo
-2014,G,62600,Equipos para procesos de la información
-2014,G,64000,Gastos en inversiones de carácter inmaterial
-2014,G,10000,Retribuciones básicas de altos cargos
-2014,G,10001,Otras remuneraciones de altos cargos
-2014,G,12000,Sueldos del grupo A1/grupo A
-2014,G,12001,Sueldos del grupo A2/grupo B
-2014,G,12002,Sueldos del grupo C1/grupo C
-2014,G,12003,Sueldos del grupo C2/grupo D
-2014,G,12004,Sueldos del personal de agrupaciones profesionales/grupo E
-2014,G,12005,Trienios
-2014,G,12006,"Sueldos del grupo A1, personal de contingente"
-2014,G,12007,"Sueldos del grupo A2, personal de contingente"
-2014,G,12009,Otras retribuciones básicas
-2014,G,12100,Complemento de destino
-2014,G,12101,Complemento específico
-2014,G,12102,Complemento de productividad compensada
-2014,G,12103,Indemnización por residencia
-2014,G,12105,"Complemento específico, personal sanitario facultativo"
-2014,G,12106,"Complemento específico, personal sanitario no facultativo"
-2014,G,12108,"Complemento específico, personal no sanitario por turnicidad"
-2014,G,12109,"Otros complementos, personal facultativo por atención continuada"
-2014,G,12111,Complemento específico variable
-2014,G,12113,"Complemento por atención continuada, personal no sanitario"
-2014,G,12114,"Complemento por atención continuada, personal de contingente preintegrado"
-2014,G,12115,Complementos transitorios absorbibles
-2014,G,12116,"Retribuciones complementarias, personal de contingente"
-2014,G,12117,Otros complementos
-2014,G,12118,"Complemento específico por turnicidad, personal sanitario no facultativo"
-2014,G,12119,Carrera y desarrollo profesional personal funcionario y estatutario
-2014,G,12122,"Complemento por atención continuada, personal sanitario no facultativo"
-2014,G,12500,Sueldos del grupo A1 personal estatutario temporal
-2014,G,12501,Sueldos del grupo A2 personal estatutario temporal
-2014,G,12502,Sueldos del grupo C1 personal estatutario temporal
-2014,G,12503,Sueldos del grupo C2 personal estatutario temporal
-2014,G,12504,Sueldos del personal de agrupaciones profesionales personal estatutario temporal
-2014,G,12505,Retribuciones complementarias personal estatutario temporal
-2014,G,12506,Complemento de destino personal estatutario temporal
-2014,G,12507,"Complemento específico, personal no sanitario temporal"
-2014,G,12508,"Indemnización por residencia, personal temporal"
-2014,G,12509,"Complemento específico, personal sanitario no facultativo temporal"
-2014,G,12510,"Complemento específico, personal facultativo temporal"
-2014,G,12511,"Complemento específico por atención continuada, personal facultativo temporal"
-2014,G,12512,"Complemento específico por atención continuada, personal sanitario no facultativo temporal"
-2014,G,12513,"Complement específic per atenció continuada, personal no sanitario temporal"
-2014,G,12515,"Trienios, otro personal estatutario temporal"
-2014,G,12519,"Carrera y desarrollo profesional, personal estatutario temporal"
-2014,G,13000,Retribuciones básicas
-2014,G,13001,Complemento de convenio
-2014,G,13002,Complemento de compensación de costes de insularidad
-2014,G,13004,Complemento específico
-2014,G,13005,Trienios
-2014,G,13006,Complemento de turnos rotativos
-2014,G,13009,Otros complementos
-2014,G,13100,Retribuciones del personla laboral temporal
-2014,G,14100,Retribuciones de otro personal
-2014,G,14900,Retribuciones de personal transferido pendiente de integración en la RLT
-2014,G,15000,Productividad
-2014,G,15001,"Productividad, factor fijo personal estatutario"
-2014,G,15002,"Productividad, factor fijo APD personal estatutario"
-2014,G,15003,"Productividad, factor variable personal estatutario"
-2014,G,15004,"Productividad, factor fijo personal estatutario tremporal"
-2014,G,15005,"Productividad, factor variable personal estatutario temporal"
-2014,G,15100,Gratificaciones
-2014,G,16000,Seguridad Social
-2014,G,16009,Otras cuotas sociales
-2014,G,16109,Otras prestaciones sociales
-2014,G,16200,Formación y perfeccionamiento del personal
-2014,G,16204,Acción social
-2014,G,16207,"Acción social, personal estatutario temporal"
-2014,G,16209,Otros gastos sociales
-2014,G,16304,Acción social
-2014,G,20200,Arrendamientos de edificios y de otras construcciones
-2014,G,20300,"Arrendamientos de maquinaria, instalaciones y utillaje"
-2014,G,20301,"Arrendamientos y cánones, maquinaria"
-2014,G,20302,"Arrendamientos y cánones, utillaje"
-2014,G,20400,Arrendamientos de medios de transporte
-2014,G,20500,Arrendamientos de mobiliario y enseres
-2014,G,20600,Arrendamientos de equipos para procesos de la información
-2014,G,20800,Arrendamientos de otro inmovilizado material
-2014,G,20900,Cánones
-2014,G,21000,De infraestructura y bienes naturales
-2014,G,21200,De edificios y de otras construcciones
-2014,G,21300,"De maquinaria, instalaciones y utillaje"
-2014,G,21301,De maquinaria
-2014,G,21302,De utillaje
-2014,G,21304,De aparatos médico asistenciales
-2014,G,21400,De medios de transporte
-2014,G,21500,De mobiliario y enseres
-2014,G,21600,De quipos para procesos de la información
-2014,G,21900,De otro inmovilizado material
-2014,G,22000,Material de oficina ordinario no inventariable
-2014,G,22001,"Prensa, revistas, libros y otras publicaciones"
-2014,G,22100,Energía eléctrica
-2014,G,22101,Agua
-2014,G,22102,Gas
-2014,G,22103,Combustibles y carburantes
-2014,G,22104,Vestuario
-2014,G,22105,Productos alimentarios
-2014,G,22109,Otros suministros
-2014,G,22110,Calzado
-2014,G,22111,Otros productos alimentarios
-2014,G,22113,Combustible para vehículos
-2014,G,22120,Antiinfecciosos
-2014,G,22121,Antineoplásicos y inmunomoduladores
-2014,G,22122,Sangre y órganos hematopotéticos
-2014,G,22123,Fármacos del sistema nervioso central
-2014,G,22124,Fámacos del sistema musculoesquelético
-2014,G,22125,Fármacos del aparato digestivo y  para el metabolismo
-2014,G,22126,Fàrmacos para el aparato cardiovascular
-2014,G,22127,Otros fármacos y productos específicos
-2014,G,22128,Material de radiodiagnóstico
-2014,G,22129,Material para análisis
-2014,G,22130,Material quirúrgico asistencial
-2014,G,22131,Material para dialísis
-2014,G,22132,Reactivos y similares
-2014,G,22133,Material de ortopedia
-2014,G,22134,Gases medicinales
-2014,G,22135,Material de medicina nuclear
-2014,G,22136,Implantes y osteosíntesis
-2014,G,22137,Instrumental y pequeño utillaje sanitario
-2014,G,22138,Material del banco de sangre
-2014,G,22140,Material de reparaciones y conservación
-2014,G,22141,Material de limpieza
-2014,G,22142,Instrumental y pequeño utillaje para uso no sanitario
-2014,G,22143,Limpieza y aseo
-2014,G,22199,Suministros diversos
-2014,G,22200,Telefónicas
-2014,G,22209,Otras comunicaciones
-2014,G,22300,Transportes
-2014,G,22400,Primas de seguros
-2014,G,22401,"Primas de seguros, incendios"
-2014,G,22402,"Primas de seguros, equipos de alta tecnología"
-2014,G,22403,"Primas de seguros, elementos de transporte"
-2014,G,22404,"Primas de seguros, responsabilidad civil"
-2014,G,22500,Tributos estatales
-2014,G,22501,Tributos autonómicos
-2014,G,22502,Tributos locales
-2014,G,22601,Atenciones protocolarias y de representación
-2014,G,22602,Publicidad y propaganda
-2014,G,22603,Gastos jurídicos y contenciosos
-2014,G,22605,Asistencia religiosa
-2014,G,22606,"Reuniones, conferencias y cursos"
-2014,G,22607,Oposiciones y pruebas selectivas
-2014,G,22609,Otros gastos diversos
-2014,G,22610,Otros servicios
-2014,G,22700,Limpieza y aseo
-2014,G,22701,Seguridad
-2014,G,22703,Postales
-2014,G,22704,"Custodia, depósito y almacenaje"
-2014,G,22706,Estudios y trabajos técnicos
-2014,G,22707,Lavanderia
-2014,G,22708,Servicios de recaudación
-2014,G,22709,Otros trabajos
-2014,G,22711,"Servicios asistenciales de otras empresas, laboratorios"
-2014,G,22712,Restauración
-2014,G,22713,"Servicios no asistenciales de otras empresas, jardineria"
-2014,G,22714,"Servicios no asistenciales de otras empresas, mantenimiento de ascensores"
-2014,G,22715,"Servicios no asistenciales de otras empresas, otros"
-2014,G,22716,"Servicios de profesionales independientes, licenciados sanitarios"
-2014,G,22718,Servicios de profesionales independientes
-2014,G,22719,"Servicios de profesionales independientes, altres"
-2014,G,22720,Gestión de residuos
-2014,G,22721,Prevención de riesgos laborales
-2014,G,22722,Consultoria de sistemas de información
-2014,G,22723,Consultoria de calidad y medio ambiente
-2014,G,22724,"Mantenimiento de apartos sanitarios, Hospital de Son Espases"
-2014,G,23000,"Dietas, locomoción y traslados"
-2014,G,23001,Locomoción
-2014,G,23900,Otras indemnizaciones
-2014,G,25102,"Servicios asistenciales concertados/prestados por terceros, PADI programa de atención dental infantil"
-2014,G,25200,"Servicios asistenciales concertados/prestados por terceros, atención especializada"
-2014,G,25213,"Servicios asistenciales concertados/prestados por terceros, Policlínica Miramar"
-2014,G,25300,"Servicios asistenciales concertados/prestados por terceros, programas especiales de hemodiálisis"
-2014,G,25301,"Servicios asistenciales concertados/prestados por terceros, club diálisis"
-2014,G,25405,"Servicios asistenciales concertados/prestados por terceros, Medisub cámara hiperbárica"
-2014,G,25406,"Servicios asistenciales concertados/prestados por terceros, terapias respiratorias"
-2014,G,25408,"Servicios asistenciales concertados/prestados por terceros, RMN resonancia magnética nuclear"
-2014,G,25409,"Servicios asistenciales concertados/prestados por terceros, otras técnicad de diagnóstico por imagen"
-2014,G,25411,"Servicios asistenciales concertados/prestados por terceros, Fundación Kovacs"
-2014,G,25413,"Servicios asistenciales concertados/prestados por terceros, oxigenoterapia"
-2014,G,25414,"Servicios asistenciales concertados/prestados por terceros, aerosolterapia"
-2014,G,25500,"Servicios asistenciales concertados/prestados por terceros, transporte sanitario terrestre"
-2014,G,25501,"Servicios asistenciales concertados/prestados por terceros, transporte sanitario aereo"
-2014,G,25800,Servicios asistenciales concertados/prestados por terceros
-2014,G,25900,"Servicios asistenciales concertados/prestados por terceros, otros"
-2014,G,31000,Intereses
-2014,G,35200,Intreses de demora
-2014,G,35900,Otros gastos financieros
-2014,G,35990,"Intereses de arrendamientos financieros con opción de compra, leasing"
-2014,G,44423,Investigación Sanitaria de las IB Ramón Llull
-2014,G,48604,"Entregas para desplazamientos, particulares"
-2014,G,48605,Entregas para desplazamientos
-2014,G,48606,Entregas para prótesis
-2014,G,48607,Entregas para vehículos para miusválidos
-2014,G,48900,Recetas médicas
-2014,G,48910,Reintegro de gastos de farmacia
-2014,G,48911,"Reintegro de gastos de farmacia, dispensación ambulatoria"
-2014,G,62200,Edificios y otras construcciones
-2014,G,62201,Construcciones nuevas en curso
-2014,G,62302,Maquinaria
-2014,G,62303,Utillaje
-2014,G,62304,Equipos y aparatos medicoasistenciales
-2014,G,62306,Instalaciones técnicas
-2014,G,62400,Elementos de transporte
-2014,G,62501,Equipos de oficina y electrodomésticos
-2014,G,62502,Mobiliario
-2014,G,62600,Equipos para procesos de la información
-2014,G,63200,Edificios y otras construcciones
-2014,G,63201,Construcciones en curso
-2014,G,63302,Maquinaria
-2014,G,63303,Utillaje
-2014,G,63304,Equipos y aparatos medicoasistenciales
-2014,G,63306,Instalaciones técnicas
-2014,G,63501,Equipos de oficina y electrodomésticos
-2014,G,63502,Mobiliario
-2014,G,63600,Equipos para procesos de la información
-2014,G,64006,Aplicaciones informáticas
-2014,G,64016,Aplicaciones informáticas en curso
-2014,G,64090,"Arrendamiento financiero con opción de compra, leasing"
-2014,G,91000,Amortización de préstamos a corto plazo de entes del sector público
-2014,G,91100,Amortización de préstamos a largo plazo de entes del sector público
+2014,G,13300,Retribuciones de personal contratado de investigación
+2014,G,22405,"Primas de seguros, otros"
+2014,G,22710,Servicos asistenciales de profesionales técnico sanitarios
+2014,G,23002,Traslados
+2014,G,25100,"Servicios asistenciales concertados/prestados por terceros, atención primaria"
+2014,G,25101,"Servicios asistenciales concertados/prestados por terceros, prevención del cáncer de mama"
+2014,G,25201,"Servicios asistenciales concertados/prestados por terceros, GESMA"
+2014,G,25203,"Servicios asistenciales concertados/prestados por terceros, FH Manacor"
+2014,G,25204,"Servicios asistenciales concertados/prestados por terceros, FH Son Llàtzer"
+2014,G,25218,"Servicios asistenciales concertados/prestados por terceros, Hospital Comarcal d'Inca"
+2014,G,30100,"Gastos de emisión, modificación y cancelación"
+2014,G,44003,"Instituto de Biología Animal de las IB, SA"
+2014,G,44013,"CAIB Patrimonio, SA"
+2014,G,44120,Agencia de Cooperación Internacional de las IB
+2014,G,44126,Espacios de Naturaleza Balear
+2014,G,44127,Transportes de Mallorca
+2014,G,44358,Museo Torrens Lladó
+2014,G,44376,Penya-segat del Puerto de Mahón
+2014,G,44509,Pro Real Academia Española
+2014,G,48033,"A famílias e instituciones, subvenciones para el transporte interurbano"
+2014,G,48037,"A famílias e instituciones, becas para asistencia"
+2014,G,48047,"A famílias e instituciones, ayudas y subvenciones para guarderia y custodia"
+2014,G,48922,Tiras reactivas
+2014,G,48924,Botiquines de empresa
+2014,G,63000,Terrenos y bienes naturales
+2014,G,64021,Campañas de salut
+2014,G,74003,"Instituto de Biología Animal de Baleares, SA"
+2014,G,74120,Agencia de Cooperación Internacional de las IB
+2014,G,74126,Espacios de Natura Balear
+2014,G,74127,Consorcio de Transportes de Mallorca
+2014,G,74376,Penya-Segat Puerto de Mahón
+2014,G,12112,Productividad sanitaria fija y compensada
+2014,G,12400,Sueldos del grupo A2
+2014,G,22144,Seguridad
+2014,G,30002,"Intereses, obligaciones CAIB 1998"
+2014,G,44000,A empresas públicas societarias y otros entes públicos de la CAIB
+2014,G,44109,Gestión Sanitaria de Mallorca
+2014,G,44125,Hospital Comarcal de Inca
+2014,G,44200,A empresas vinculadas y otros entes participados por la CAIB
+2014,G,44204,"Carn Illa, SA"
+2014,G,44337,Escuela Balear del Deporte
+2014,G,44341,Instituto Ramón Llull
+2014,G,44357,La Gola
+2014,G,44406,Mateo Orfila
+2014,G,44407,Desarrollo Sostenible de las IB
+2014,G,44418,Hospital Son Llàtzer
+2014,G,44419,Hospital de Manacor
+2014,G,44420,Baleares en el Exterior
+2014,G,44506,Museo y Centro de Cultura de Formentera
+2014,G,48002,Consejo de la Juventud de las IB
+2014,G,60112,Infraestructuras hidráulicas
+2014,G,62202,Construcciones
+2014,G,63202,Construcciones
+2014,G,74008,"Desarrollo del Parque Balear de Innovación Tecnológica, SA"
+2014,G,74109,Gestión Sanitaria de Mallorca
+2014,G,74125,Hospital Comarcal de Inca
+2014,G,74337,Escuela Balear del Deporte EBE
+2014,G,74357,La Gola
+2014,G,74401,Islas Baleares para la Innovación Tecnológica IBIT
+2014,G,74406,Mateu Orfila
+2014,G,74418,Hospital Son Llàtzer
+2014,G,74419,Hospital de Manacor
+2014,G,87100,Aportaciones patrimoniales
+2014,G,2018/AGIB00/1,Gastos de personal
+2014,G,2018/AGIB00/2,Gastos corrientes en bienes y servicios
+2014,G,2018/AGIB00/3,Gastos financieros
+2014,G,2018/AGIB00/4,Transferencias corrientes
+2014,G,2018/AGIB00/5,Fondo de contingencia
+2014,G,2018/AGIB00/6,Inversiones reales
+2014,G,2018/AGIB00/7,Transferencias de capital
+2014,G,2018/AGIB00/8,Activos financieros
+2014,G,2018/AGIB00/9,Pasivos financieros
+2014,G,2018/ATIB00/1,Gastos de personal
+2014,G,2018/ATIB00/2,Gastos corrientes en bienes y servicios
+2014,G,2018/ATIB00/3,Gastos financieros
+2014,G,2018/ATIB00/6,Inversiones reales
+2014,G,2018/SSIB00/1,Gastos de personal
+2014,G,2018/SSIB00/2,Gastos corrientes en bienes y servicios
+2014,G,2018/SSIB00/3,Gastos financieros
+2014,G,2018/SSIB00/4,Transferencias corrientes
+2014,G,2018/SSIB00/6,Inversiones reales
+2014,G,2018/SSIB00/9,Pasivos financieros
+2014,G,2018/AGIB00/10,Retribuciones de altos cargos
+2014,G,2018/AGIB00/11,Retribuciones del personal eventual
+2014,G,2018/AGIB00/12,Retribuciones de los funcionarios y del personal estatutario
+2014,G,2018/AGIB00/13,Retribuciones del personal laboral
+2014,G,2018/AGIB00/14,Otro personal
+2014,G,2018/AGIB00/15,Incentivos al rendimiento
+2014,G,2018/AGIB00/16,"Cuotas, prestaciones y gastos sociales a cargo de la empresa"
+2014,G,2018/AGIB00/20,Arrendamientos y cánones
+2014,G,2018/AGIB00/21,"Reparaciones, mantenimiento y conservación"
+2014,G,2018/AGIB00/22,"Material, suministros y otros"
+2014,G,2018/AGIB00/23,Indemnizaciones por razón del servicio
+2014,G,2018/AGIB00/24,Dotación para servicios nuevos
+2014,G,2018/AGIB00/26,Conciertos para la prestación de servicios sociales
+2014,G,2018/AGIB00/30,De deuda pública en euros
+2014,G,2018/AGIB00/31,De préstamos en euros
+2014,G,2018/AGIB00/35,Intereses de demora y otros gastos financieros
+2014,G,2018/AGIB00/40,Al Estado
+2014,G,2018/AGIB00/42,Al Servicio de Salud de las IB
+2014,G,2018/AGIB00/44,Al sector público instrumental y a otros entes del sector público de la CAIB
+2014,G,2018/AGIB00/45,A comunidades autónomas
+2014,G,2018/AGIB00/46,A corporaciones locales
+2014,G,2018/AGIB00/47,A empresas privadas
+2014,G,2018/AGIB00/48,A familias e instituciones sin finalidad lucrativa
+2014,G,2018/AGIB00/49,Al exterior
+2014,G,2018/AGIB00/50,Fondo de contingencia
+2014,G,2018/AGIB00/60,Inversión nueva en infraestructura y bienes destinados al uso general
+2014,G,2018/AGIB00/61,Inversión de reposición  en infraestructura y bienes destinados al uso general
+2014,G,2018/AGIB00/62,Inversión nueva asociada al funcionamiento operativo de los servicios
+2014,G,2018/AGIB00/63,Inversión de reposición asociada al funcionamiento operativo de los servicios
+2014,G,2018/AGIB00/64,Gastos en inversión de carácter inmaterial
+2014,G,2018/AGIB00/70,Al Estado
+2014,G,2018/AGIB00/72,Al Servicio de Salud de las IB
+2014,G,2018/AGIB00/74,Al sector público instrumental y a otros enstes del sectro público de la CAIB
+2014,G,2018/AGIB00/76,A corporaciones locales
+2014,G,2018/AGIB00/77,A empresas privadas
+2014,G,2018/AGIB00/78,A familias e instituciones sin finalidad lucrativa
+2014,G,2018/AGIB00/79,Al exterior
+2014,G,2018/AGIB00/83,Concesión de préstamos fuera del sector público
+2014,G,2018/AGIB00/91,Amortización de préstamos en euros
+2014,G,2018/ATIB00/10,Retribuciones de altos cargos
+2014,G,2018/ATIB00/12,Retribuciones de los funcionarios y del personal estatutario
+2014,G,2018/ATIB00/13,Retribuciones del personal laboral
+2014,G,2018/ATIB00/16,"Cuotas, prestaciones y gastos sociales a cargo de la empresa"
+2014,G,2018/ATIB00/20,Arrendamientos y cánones
+2014,G,2018/ATIB00/21,"Reparaciones, mantenimiento y conservación"
+2014,G,2018/ATIB00/22,"Material, suministros y otros"
+2014,G,2018/ATIB00/23,Indemnizaciones por razón del servicio
+2014,G,2018/ATIB00/31,De préstamos en euros
+2014,G,2018/ATIB00/64,Gastos en inversión de carácter inmaterial
+2014,G,2018/SSIB00/10,Retribuciones de altos cargos
+2014,G,2018/SSIB00/12,Retribuciones de los funcionarios y del personal estatutario
+2014,G,2018/SSIB00/13,Retribuciones del personal laboral
+2014,G,2018/SSIB00/14,Otro personal
+2014,G,2018/SSIB00/15,Incentivos al rendimiento
+2014,G,2018/SSIB00/16,"Cuotas, prestaciones y gastos sociales a cargo de la empresa"
+2014,G,2018/SSIB00/20,Arrendamientos y cánones
+2014,G,2018/SSIB00/21,"Reparaciones, mantenimiento y conservación"
+2014,G,2018/SSIB00/22,"Material, suministros y otros"
+2014,G,2018/SSIB00/23,Indemnizaciones por razón del servicio
+2014,G,2018/SSIB00/25,Asistencia sanitaria con medios ajenos
+2014,G,2018/SSIB00/31,De préstamos en euros
+2014,G,2018/SSIB00/35,Intereses de demora y otros gastos financieros
+2014,G,2018/SSIB00/44,Al sector público instrumental y a otros entes del sector público de la CAIB
+2014,G,2018/SSIB00/48,A familias e instituciones sin finalidad lucrativa
+2014,G,2018/SSIB00/62,Inversión nueva asociada al funcionamiento operativo de los servicios
+2014,G,2018/SSIB00/63,Inversión de reposición asociada al funcionamiento operativo de los servicios
+2014,G,2018/SSIB00/64,Gastos en inversión de carácter inmaterial
+2014,G,2018/SSIB00/91,Amortización de préstamos en euros
+2014,G,2018/AGIB00/100,Retribuciones básicas y otras remuneraciones
+2014,G,2018/AGIB00/110,Retribuciones básicas y otras remuneraciones
+2014,G,2018/AGIB00/120,Retribuciones básicas de funcionarios y personal estatutario
+2014,G,2018/AGIB00/121,Retribuciones complementarias de funcionarios y personal estatutario
+2014,G,2018/AGIB00/126,Retribuciones de funcionarios interinos
+2014,G,2018/AGIB00/130,Laboral fijo
+2014,G,2018/AGIB00/131,Laboral temporal
+2014,G,2018/AGIB00/141,Retribuciones de otro personal
+2014,G,2018/AGIB00/150,Productividad
+2014,G,2018/AGIB00/151,Gratificaciones
+2014,G,2018/AGIB00/160,Cuotas sociales
+2014,G,2018/AGIB00/162,Gastos sociales a favor de funcionarios y personal no laboral
+2014,G,2018/AGIB00/163,Gastos sociales a favor del personal laboral
+2014,G,2018/AGIB00/200,Arrendamientos de terrenos y bienes naturales
+2014,G,2018/AGIB00/202,Arrendamientos de edificios y otras construcciones
+2014,G,2018/AGIB00/203,"Arrendamientos de maquinaria, instalaciones y utillaje"
+2014,G,2018/AGIB00/204,Arrendamientos de material de transporte
+2014,G,2018/AGIB00/205,Arrendamientos de mobiliario y enseres
+2014,G,2018/AGIB00/206,Arrendamientos de equipos para procesos de la información
+2014,G,2018/AGIB00/209,Cánones
+2014,G,2018/AGIB00/212,De edificios y otras construcciones
+2014,G,2018/AGIB00/213,"De maquinaria, instalaciones y utillaje"
+2014,G,2018/AGIB00/214,De medios de transporte
+2014,G,2018/AGIB00/215,De mobiliario y enseres
+2014,G,2018/AGIB00/216,De equipos para procesos de la información
+2014,G,2018/AGIB00/219,De otro inmovilizado material
+2014,G,2018/AGIB00/220,Material de oficina
+2014,G,2018/AGIB00/221,Suministros
+2014,G,2018/AGIB00/222,Comunicaciones
+2014,G,2018/AGIB00/223,Transportes
+2014,G,2018/AGIB00/224,Primas de seguros
+2014,G,2018/AGIB00/225,Tributos
+2014,G,2018/AGIB00/226,Gastos diversos
+2014,G,2018/AGIB00/227,Trabajos realizados por otras empresas y profesionales independientes
+2014,G,2018/AGIB00/229,Gasto de funcionamiento de centros escolares
+2014,G,2018/AGIB00/230,"Dietas, locomoción y traslados"
+2014,G,2018/AGIB00/231,Asistencias y pernoctas
+2014,G,2018/AGIB00/239,Otras indemnizaciones
+2014,G,2018/AGIB00/240,Dotación para servicios nuevos
+2014,G,2018/AGIB00/261,"Conciertos con instituciones, prestación de servicios sociales"
+2014,G,2018/AGIB00/300,Intereses
+2014,G,2018/AGIB00/309,Otros gastos financieros
+2014,G,2018/AGIB00/310,Intereses
+2014,G,2018/AGIB00/319,Otros gastos financieros
+2014,G,2018/AGIB00/352,Intereses de demora
+2014,G,2018/AGIB00/359,Otros gastos financieros
+2014,G,2018/AGIB00/400,A la Administración General
+2014,G,2018/AGIB00/401,A organismos autónomos
+2014,G,2018/AGIB00/402,A la Seguridad Social
+2014,G,2018/AGIB00/404,"A sociedades mercantiles estatales, entidades empresarial y otros entes públicos"
+2014,G,2018/AGIB00/420,Al Servicio de Salud de las IB
+2014,G,2018/AGIB00/440,"A sociedades mercantiles públicas, transferencias"
+2014,G,2018/AGIB00/441,"A entidades públicas empresariales y a otros entes públicos, transferencias"
+2014,G,2018/AGIB00/443,"A consorcios participados por la CAIB, transferencias"
+2014,G,2018/AGIB00/444,"A fundaciones del sector público autonómico, transferencias"
+2014,G,2018/AGIB00/445,"A otras fundaciones participadas por la CAIB, transferencias"
+2014,G,2018/AGIB00/447,"A entidades públicas empresariales y a otros entes públicos, subvenciones"
+2014,G,2018/AGIB00/448,"A consorcios participados por la CAIB, subvenciones"
+2014,G,2018/AGIB00/449,"A fundaciones del sector público autonómico, subvenciones"
+2014,G,2018/AGIB00/451,A otras comunidades autónomas
+2014,G,2018/AGIB00/460,A ayuntamientos
+2014,G,2018/AGIB00/461,A consejos insulares
+2014,G,2018/AGIB00/464,A empresas públicas y a otros entes públicos de corporaciones locales
+2014,G,2018/AGIB00/469,A otros entes territoriales
+2014,G,2018/AGIB00/470,A empresas privadas
+2014,G,2018/AGIB00/480,A familias e instituciones sin fines de lucro
+2014,G,2018/AGIB00/481,A centros de enseñanza concertados
+2014,G,2018/AGIB00/490,Al exterior
+2014,G,2018/AGIB00/500,Fondo de contingencia
+2014,G,2018/AGIB00/600,Terrenos y bienes naturales
+2014,G,2018/AGIB00/601,Infraestructura y bienes destinados al uso general
+2014,G,2018/AGIB00/608,"Bienes del patrimonio histórico, artístico y cultural"
+2014,G,2018/AGIB00/611,Infraestructuras y bienes destinados al uso general
+2014,G,2018/AGIB00/618,"Bienes del patrimonio histórico, artístico y cultural"
+2014,G,2018/AGIB00/622,Edificios y otras construcciones
+2014,G,2018/AGIB00/623,"Maquinaria, instalaciones y utillaje"
+2014,G,2018/AGIB00/624,Elementos de transporte
+2014,G,2018/AGIB00/625,Mobiliario y enseres
+2014,G,2018/AGIB00/626,Equipos para procesos de la información
+2014,G,2018/AGIB00/629,Otro inmovilizado material
+2014,G,2018/AGIB00/632,Edificios y otras construcciones
+2014,G,2018/AGIB00/633,"Maquinaria, instalaciones y utillaje"
+2014,G,2018/AGIB00/634,Elementos de transporte
+2014,G,2018/AGIB00/635,Mobiliario y enseres
+2014,G,2018/AGIB00/636,Equipos para procesos de la información
+2014,G,2018/AGIB00/639,Otro inmovilizado material
+2014,G,2018/AGIB00/640,Gastos en inversiones de carácter inmaterial
+2014,G,2018/AGIB00/700,A la Administración General
+2014,G,2018/AGIB00/701,A organismos autónomos
+2014,G,2018/AGIB00/704,"A sociedades mercantiles estatales, entidades empresariales y otros entes/organismos públicos"
+2014,G,2018/AGIB00/720,Al Servicio de Salud de las IB
+2014,G,2018/AGIB00/740,"A sociedades mercantiles públicas, transferencias"
+2014,G,2018/AGIB00/741,"A entidades públicas empresariales y a otros entes públicos, transferències"
+2014,G,2018/AGIB00/742,"A empresas vinculadas a la CAIB, transferencias"
+2014,G,2018/AGIB00/743,"A consorcios participados por la CAIB, transferencias"
+2014,G,2018/AGIB00/744,"A fundaciones del sector público autonómico, transferencias"
+2014,G,2018/AGIB00/745,"A otras fundaciones participadas por la CAIB, transferencias"
+2014,G,2018/AGIB00/747,"A entidades públicas empresariales y a otros entes públicos, subvenciones"
+2014,G,2018/AGIB00/748,"A consorcios participados por la CAIB, subvenciones"
+2014,G,2018/AGIB00/749,"A fundaciones del sector público autonómico, subvenciones"
+2014,G,2018/AGIB00/760,A ayuntamientos
+2014,G,2018/AGIB00/761,A consejos insulares
+2014,G,2018/AGIB00/764,A empresas públicas y a otros entes públicos de corporaciones locales
+2014,G,2018/AGIB00/770,A empresas privadas
+2014,G,2018/AGIB00/780,A familias e instituciones sin fines de lucro
+2014,G,2018/AGIB00/790,Al exterior
+2014,G,2018/AGIB00/830,Concesión de préstamos fuera del sector público  corto plazo
+2014,G,2018/AGIB00/831,Concesión de préstamos fuera del sector publico a largo plazo
+2014,G,2018/AGIB00/913,Amortización de préstamos recibidos a largo plazo de entes de fuera del sector público
+2014,G,2018/ATIB00/100,Retribuciones básicas y otras remuneraciones
+2014,G,2018/ATIB00/120,Retribuciones básicas de funcionarios y personal estatutario
+2014,G,2018/ATIB00/121,Retribuciones complementarias de funcionarios y personal estatutario
+2014,G,2018/ATIB00/130,Laboral fijo
+2014,G,2018/ATIB00/160,Cuotas sociales
+2014,G,2018/ATIB00/162,Gastos sociales a favor de funcionarios y personal no laboral
+2014,G,2018/ATIB00/202,Arrendamientos de edificios y otras construcciones
+2014,G,2018/ATIB00/204,Arrendamientos de material de transporte
+2014,G,2018/ATIB00/212,De edificios y otras construcciones
+2014,G,2018/ATIB00/216,De equipos para procesos de la información
+2014,G,2018/ATIB00/221,Suministros
+2014,G,2018/ATIB00/226,Gastos diversos
+2014,G,2018/ATIB00/227,Trabajos realizados por otras empresas y profesionales independientes
+2014,G,2018/ATIB00/230,"Dietas, locomoción y traslados"
+2014,G,2018/ATIB00/310,Intereses
+2014,G,2018/ATIB00/640,Gastos en inversiones de carácter inmaterial
+2014,G,2018/SSIB00/100,Retribuciones básicas y otras remuneraciones
+2014,G,2018/SSIB00/120,Retribuciones básicas de funcionarios y personal estatutario
+2014,G,2018/SSIB00/121,Retribuciones complementarias de funcionarios y personal estatutario
+2014,G,2018/SSIB00/125,Retribuciones de otro personal estatutario y temporal
+2014,G,2018/SSIB00/130,Laboral fijo
+2014,G,2018/SSIB00/131,Laboral temporal
+2014,G,2018/SSIB00/141,Retribuciones de otro personal
+2014,G,2018/SSIB00/149,Retribuciones de personal pendiente de integración en la RLT
+2014,G,2018/SSIB00/150,Productividad
+2014,G,2018/SSIB00/151,Gratificaciones
+2014,G,2018/SSIB00/160,Cuotas sociales
+2014,G,2018/SSIB00/162,Gastos sociales a favor de funcionarios y personal no laboral
+2014,G,2018/SSIB00/163,Gastos sociales a favor del personal laboral
+2014,G,2018/SSIB00/202,Arrendamientos de edificios y otras construcciones
+2014,G,2018/SSIB00/203,"Arrendamientos de maquinaria, instalaciones y utillaje"
+2014,G,2018/SSIB00/204,Arrendamientos de material de transporte
+2014,G,2018/SSIB00/205,Arrendamientos de mobiliario y enseres
+2014,G,2018/SSIB00/206,Arrendamientos de equipos para procesos de la información
+2014,G,2018/SSIB00/212,De edificios y otras construcciones
+2014,G,2018/SSIB00/213,"De maquinaria, instalaciones y utillaje"
+2014,G,2018/SSIB00/214,De medios de transporte
+2014,G,2018/SSIB00/215,De mobiliario y enseres
+2014,G,2018/SSIB00/216,De equipos para procesos de la información
+2014,G,2018/SSIB00/219,De otro inmovilizado material
+2014,G,2018/SSIB00/220,Material de oficina
+2014,G,2018/SSIB00/221,Suministros
+2014,G,2018/SSIB00/222,Comunicaciones
+2014,G,2018/SSIB00/223,Transportes
+2014,G,2018/SSIB00/224,Primas de seguros
+2014,G,2018/SSIB00/225,Tributos
+2014,G,2018/SSIB00/226,Gastos diversos
+2014,G,2018/SSIB00/227,Trabajos realizados por otras empresas y profesionales independientes
+2014,G,2018/SSIB00/230,"Dietas, locomoción y traslados"
+2014,G,2018/SSIB00/251,"Conciertos con instituciones, atención primaria"
+2014,G,2018/SSIB00/252,"Conciertos con instituciones, atención especializada"
+2014,G,2018/SSIB00/253,"Conciertos con instituciones, programas especiales de hemodiálisis"
+2014,G,2018/SSIB00/254,"Conciertos con instituciones, servicios de diagnóstico, tratamiento y terapias"
+2014,G,2018/SSIB00/255,"Conciertos con instituciones, programa especial de transporte"
+2014,G,2018/SSIB00/258,Asistencia sanitaria prestada por terceros
+2014,G,2018/SSIB00/259,Otros servicios de asistencia sanitaria
+2014,G,2018/SSIB00/310,Intereses
+2014,G,2018/SSIB00/352,Intereses de demora
+2014,G,2018/SSIB00/359,Otros gastos financieros
+2014,G,2018/SSIB00/441,"A entidades públicas empresariales y a otros entes públicos, transferencias"
+2014,G,2018/SSIB00/480,A familias e instituciones sin fines de lucro
+2014,G,2018/SSIB00/486,"Otras prestaciones, indemnizaciones i entregas únicas reglamentarias"
+2014,G,2018/SSIB00/489,Farmacia
+2014,G,2018/SSIB00/622,Edificios y otras construcciones
+2014,G,2018/SSIB00/623,"Maquinaria, instalaciones y utillaje"
+2014,G,2018/SSIB00/624,Elementos de transporte
+2014,G,2018/SSIB00/625,Mobiliario y enseres
+2014,G,2018/SSIB00/626,Equipos para procesos de la información
+2014,G,2018/SSIB00/632,Edificios y otras construcciones
+2014,G,2018/SSIB00/633,"Maquinaria, instalaciones y utillaje"
+2014,G,2018/SSIB00/634,Elementos de transporte
+2014,G,2018/SSIB00/635,Mobiliario y enseres
+2014,G,2018/SSIB00/636,Equipos para procesos de la información
+2014,G,2018/SSIB00/640,Gastos en inversiones de carácter inmaterial
+2014,G,2018/SSIB00/911,Amortización de préstamos recibidos a largo plazo de entes del sector público
+2014,G,2018/SSIB00/913,Amortización de préstamos recibidos a largo plazo de entes de fuera del sector público
+2014,G,2017/AGIB00/10000,Retribuciones básicas
+2014,G,2017/AGIB00/10001,Otras remuneraciones de altos cargos
+2014,G,2017/AGIB00/10002,Trienios de altos cargos
+2014,G,2017/AGIB00/11000,Retribuciones básicas del personal eventual
+2014,G,2017/AGIB00/11001,Otras remuneraciones del personal eventual
+2014,G,2017/AGIB00/11002,Trienios del personal eventual
+2014,G,2017/AGIB00/12000,Sueldos del grupo A1/grupo A
+2014,G,2017/AGIB00/12001,Sueldos del grupo A2/grupo B
+2014,G,2017/AGIB00/12002,Sueldos del grupo C1/grupo C
+2014,G,2017/AGIB00/12003,Sueldos del grupo C2/grupo D
+2014,G,2017/AGIB00/12004,Sueldos del personal de agrupaciones profesionales/grupo E
+2014,G,2017/AGIB00/12005,Trienios
+2014,G,2017/AGIB00/12009,Otras retribuciones básicas
+2014,G,2017/AGIB00/12100,Complemento de destino
+2014,G,2017/AGIB00/12101,Complemento específico
+2014,G,2017/AGIB00/12102,Complemento de productividad compensada
+2014,G,2017/AGIB00/12103,Indemnización por residencia
+2014,G,2017/AGIB00/12119,Carrera y desarrollo profesional personal funcionario y estatutario
+2014,G,2017/AGIB00/12121,Complemento específico docente complementario y por formación continuada
+2014,G,2017/AGIB00/12199,Otros complementos
+2014,G,2017/AGIB00/12300,Indemnizaciones por destino/residencia en el extranjero
+2014,G,2017/AGIB00/12600,Retribuciones de funcionarios interinos
+2014,G,2017/AGIB00/13000,Retribuciones básicas
+2014,G,2017/AGIB00/13001,Complemento de convenio
+2014,G,2017/AGIB00/13002,Complemento de compensación de costes de insularidad
+2014,G,2017/AGIB00/13004,Complemento específico
+2014,G,2017/AGIB00/13005,Trienios
+2014,G,2017/AGIB00/13006,Complemento de turnos rotativos
+2014,G,2017/AGIB00/13009,Otros complementos
+2014,G,2017/AGIB00/13100,Retribuciones del personla laboral temporal
+2014,G,2017/AGIB00/13107,Retribuciones del personal de estabilidad laboral
+2014,G,2017/AGIB00/14100,Retribuciones de otro personal
+2014,G,2017/AGIB00/15000,Productividad
+2014,G,2017/AGIB00/15100,Gratificaciones
+2014,G,2017/AGIB00/16000,Seguridad social
+2014,G,2017/AGIB00/16009,Otras cuotas sociales
+2014,G,2017/AGIB00/16200,Formación y perfeccionamiento del personal
+2014,G,2017/AGIB00/16204,Acción social
+2014,G,2017/AGIB00/16205,Seguros
+2014,G,2017/AGIB00/16209,Otros gastos sociales
+2014,G,2017/AGIB00/16304,Acción social
+2014,G,2017/AGIB00/16309,Otros gastos sociales
+2014,G,2017/AGIB00/20000,Arrendamientos de terrenos y bienes naturales
+2014,G,2017/AGIB00/20200,Arrendamientos de edificios y de otras construcciones
+2014,G,2017/AGIB00/20300,"Arrendamientos de maquinaria, instalaciones y utillaje"
+2014,G,2017/AGIB00/20400,Arrendamientos de medios de transporte
+2014,G,2017/AGIB00/20500,Arrendamientos de mobiliario y enseres
+2014,G,2017/AGIB00/20600,Arrendamientos de equipos para procesos de la información
+2014,G,2017/AGIB00/20900,Cánones
+2014,G,2017/AGIB00/21200,De edificios y de otras construcciones
+2014,G,2017/AGIB00/21300,"De maquinaria, instalaciones y utillaje"
+2014,G,2017/AGIB00/21400,De medios de transporte
+2014,G,2017/AGIB00/21500,De mobiliario y enseres
+2014,G,2017/AGIB00/21600,De quipos para procesos de la información
+2014,G,2017/AGIB00/21900,De otro inmovilizado material
+2014,G,2017/AGIB00/22000,Material de oficina ordinario no inventariable
+2014,G,2017/AGIB00/22001,"Prensa, revistas, libros y otras publicaciones"
+2014,G,2017/AGIB00/22002,Material informático no inventariable
+2014,G,2017/AGIB00/22009,Otro material de oficina
+2014,G,2017/AGIB00/22100,Energía eléctrica
+2014,G,2017/AGIB00/22101,Agua
+2014,G,2017/AGIB00/22102,Gas
+2014,G,2017/AGIB00/22103,Combustibles y carburantes
+2014,G,2017/AGIB00/22104,Vestuario
+2014,G,2017/AGIB00/22105,Productos alimentarios
+2014,G,2017/AGIB00/22106,Productos farmacéuticos y material sanitario
+2014,G,2017/AGIB00/22108,"Material deportivo, didáctico y cultural"
+2014,G,2017/AGIB00/22109,Otros suministros
+2014,G,2017/AGIB00/22110,Calzado
+2014,G,2017/AGIB00/22113,Combustible para vehículos
+2014,G,2017/AGIB00/22200,Telefónicas
+2014,G,2017/AGIB00/22209,Otras comunicaciones
+2014,G,2017/AGIB00/22300,Transportes
+2014,G,2017/AGIB00/22301,Transporte escolar
+2014,G,2017/AGIB00/22400,Primas de seguros
+2014,G,2017/AGIB00/22500,Tributos estatales
+2014,G,2017/AGIB00/22501,Tributos autonómicos
+2014,G,2017/AGIB00/22502,Tributos locales
+2014,G,2017/AGIB00/22601,Atenciones protocolarias y de representación
+2014,G,2017/AGIB00/22602,Publicidad y propaganda
+2014,G,2017/AGIB00/22603,Gastos jurídicos y contenciosos
+2014,G,2017/AGIB00/22606,"Reuniones, conferencias y cursos"
+2014,G,2017/AGIB00/22607,Gastos jurídicos y contenciosos
+2014,G,2017/AGIB00/22609,Otros gastos diversos
+2014,G,2017/AGIB00/22700,Limpieza y aseo
+2014,G,2017/AGIB00/22701,Seguridad
+2014,G,2017/AGIB00/22702,Valoraciones y peritajes
+2014,G,2017/AGIB00/22703,Postales
+2014,G,2017/AGIB00/22704,"Custodia, depósito y almacenaje"
+2014,G,2017/AGIB00/22705,Procesos electorales
+2014,G,2017/AGIB00/22706,Estudios y trabajos técnicos
+2014,G,2017/AGIB00/22709,Otros trabajos
+2014,G,2017/AGIB00/22900,Gastos de funcionamiento de centros escolares
+2014,G,2017/AGIB00/22901,Despeses de funcionament de l'ES de Disseny
+2014,G,2017/AGIB00/23000,"Dietas, locomoción y traslados"
+2014,G,2017/AGIB00/23009,Otras indemnizaciones por razón del servicio
+2014,G,2017/AGIB00/23100,Asistencias y pernoctas
+2014,G,2017/AGIB00/23900,Asistencias y pernoctas
+2014,G,2017/AGIB00/24000,Dotación para servicios nuevos
+2014,G,2017/AGIB00/24001,"Dotación para servicios nuevos, gastos transitorios extinción CAIB Patrimoni, SA"
+2014,G,2017/AGIB00/26104,Conciertos de servicios sociales con otras instituciones
+2014,G,2017/AGIB00/30003,"Intereses, obligaciones CAIB 2005"
+2014,G,2017/AGIB00/30005,"Intereses, obligaciones CAIB 2010"
+2014,G,2017/AGIB00/30006,"Intereses, obligaciones CAIB 2011"
+2014,G,2017/AGIB00/30900,Otros gastos financieros
+2014,G,2017/AGIB00/31000,Intereses
+2014,G,2017/AGIB00/31009,Intereses de préstamos a corto plazo
+2014,G,2017/AGIB00/31900,Otros gastos financieros
+2014,G,2017/AGIB00/35200,Intreses de demora
+2014,G,2017/AGIB00/35980,Gastos financieros por cesiones de crédito
+2014,G,2017/AGIB00/40000,A la Administración General
+2014,G,2017/AGIB00/40100,A organismos autónomos
+2014,G,2017/AGIB00/40200,A la Seguridad Social
+2014,G,2017/AGIB00/40400,"A sociedades mercantiles estatales, entidades empresariales y otros entes públicos"
+2014,G,2017/AGIB00/42001,Al Servicio Balear de la Salud de las IB
+2014,G,2017/AGIB00/42002,"Al Servicio Balear de la Salud de las IB, subvención"
+2014,G,2017/AGIB00/44014,"Gestión de Emergencias de las IB, SA"
+2014,G,2017/AGIB00/44015,"Multimedia de las IB, SA"
+2014,G,2017/AGIB00/44100,A empresa públicas no societárias y otros entes públicos de la CAIB
+2014,G,2017/AGIB00/44101,Agencia de Turismo de las IB
+2014,G,2017/AGIB00/44103,Instituto Balear de la Vivienda
+2014,G,2017/AGIB00/44104,Servicios Ferroviarios de Mallorca
+2014,G,2017/AGIB00/44111,Instituto Balear de la Naturaleza
+2014,G,2017/AGIB00/44112,Instituto de Innovación Empresarial de las IB
+2014,G,2017/AGIB00/44113,Universidad de las IB
+2014,G,2017/AGIB00/44114,Insttituto Balear de Infraestructuras y Servicios Educativos y Culturales de las IB
+2014,G,2017/AGIB00/44116,Radiotelevisión de las IB
+2014,G,2017/AGIB00/44117,Al Fons de Garantia Agrària i Pesquera de les IB
+2014,G,2017/AGIB00/44118,Agencia Balear del Agua y de Calidad Ambiental
+2014,G,2017/AGIB00/44119,Puertos de las IB
+2014,G,2017/AGIB00/44121,Instituto Balear de la Juventud
+2014,G,2017/AGIB00/44123,"Universidad de las IB, complementos retributivos adicionales"
+2014,G,2017/AGIB00/44129,Serveis de Millora Agrària
+2014,G,2017/AGIB00/44130,Servicios de Informació Territorial de las IB
+2014,G,2017/AGIB00/44133,"Universidad de las IB, implantación estudios de grado en medicina"
+2014,G,2017/AGIB00/44150,Agencia Tributaria de las IB
+2014,G,2017/AGIB00/44300,A consorcios en que participa la CAIB
+2014,G,2017/AGIB00/44301,Transportes de Mallorca
+2014,G,2017/AGIB00/44302,Centro Baleares Europa
+2014,G,2017/AGIB00/44320,"Música de las IB, Orquesta Sinfónica de las IB"
+2014,G,2017/AGIB00/44323,Protección y Acogida de Personas Disminuidas Psíquicas Profundas
+2014,G,2017/AGIB00/44326,Escuela de Hotelería
+2014,G,2017/AGIB00/44339,Fondo Mallorquín de Solidadidad y Cooperación
+2014,G,2017/AGIB00/44340,Instituto de Estudios Baleáricos
+2014,G,2017/AGIB00/44346,Agencia de Calidad Universitaria de las IB
+2014,G,2017/AGIB00/44348,Formentera Desarrollo
+2014,G,2017/AGIB00/44350,Ciutat Romana de Pol·lèntia
+2014,G,2017/AGIB00/44351,Castillo de San Carlos
+2014,G,2017/AGIB00/44352,Museo Militar de Menorca
+2014,G,2017/AGIB00/44353,Fomento de Infraestructuras Universitarias
+2014,G,2017/AGIB00/44356,Recuperación de la Fauna y Vida Silvestre de la IB
+2014,G,2017/AGIB00/44359,Ibiza Patrimonio de la Humanidad
+2014,G,2017/AGIB00/44361,Desenvolupament d'infraestructures a l'Entitat Local de Palmayola
+2014,G,2017/AGIB00/44363,Fondo Menorquín de Cooperación
+2014,G,2017/AGIB00/44364,Fondo Pitiuso de Cooperación
+2014,G,2017/AGIB00/44365,Sistema de Observación Costera de las IB
+2014,G,2017/AGIB00/44366,Pabellón Deportivo Multifuncional de Mahón
+2014,G,2017/AGIB00/44370,Gestión Sociosanitária de Ibiza
+2014,G,2017/AGIB00/44375,Recursos Sociosanitarios de las IB
+2014,G,2017/AGIB00/44377,Velódromo Palma Arena
+2014,G,2017/AGIB00/44378,Infraestructuras de las IB
+2014,G,2017/AGIB00/44379,Aguas de las IB
+2014,G,2017/AGIB00/44400,A fundaciones participadas por la CAIB
+2014,G,2017/AGIB00/44402,Islas Baleares para el Deporte
+2014,G,2017/AGIB00/44403,Conservatorio de Música
+2014,G,2017/AGIB00/44404,"Instituto Socioeducativo ""s'Estel"""
+2014,G,2017/AGIB00/44414,Robert Graves
+2014,G,2017/AGIB00/44417,Teatro Principal de Inca
+2014,G,2017/AGIB00/44421,Banco de Sangre y Tejidos de las IB
+2014,G,2017/AGIB00/44422,Escuela Superior de Arte Dramàtico de las IB
+2014,G,2017/AGIB00/44423,Investigación Sanitaria de las IB Ramón Llull
+2014,G,2017/AGIB00/44424,Atención y Soporte a la Dependencia Promoción a la Autonomía Personal de Personas con Discapacidad
+2014,G,2017/AGIB00/44429,Santuario de Lluc
+2014,G,2017/AGIB00/44431,Balear de Innovación y Tecnología
+2014,G,2017/AGIB00/44501,Àrea de Creació Acústica
+2014,G,2017/AGIB00/44503,Coll Bardolet
+2014,G,2017/AGIB00/44504,"Es Baluard, Museo de Arte Moderno y Contemporáneo"
+2014,G,2017/AGIB00/44505,Menorquina de la Ópera
+2014,G,2017/AGIB00/44507,Teatre del Mar
+2014,G,2017/AGIB00/44508,Escuela de Práctica Jurídica
+2014,G,2017/AGIB00/44510,Jardín Botánico de Sóller
+2014,G,2017/AGIB00/44512,Teatre Principal e Maò
+2014,G,2017/AGIB00/44614,"Gestión de Emergencias de las IB, SA"
+2014,G,2017/AGIB00/44615,"Multimedia de las IB, SA"
+2014,G,2017/AGIB00/44700,A empresa públicas no societárias y otros entes públicos de la CAIB
+2014,G,2017/AGIB00/44701,Agencia de Turismo de las IB
+2014,G,2017/AGIB00/44703,Instituto Balear de la Vivienda
+2014,G,2017/AGIB00/44704,Servicios Ferroviarios de Mallorca
+2014,G,2017/AGIB00/44711,Instituto Balear de la Naturaleza
+2014,G,2017/AGIB00/44712,Instituto de Innovación Empresarial de las IB
+2014,G,2017/AGIB00/44713,Universidad de las IB
+2014,G,2017/AGIB00/44716,Radiotelevisión de las IB
+2014,G,2017/AGIB00/44717,Al Fons de Garantia Agrària i Pesquera de les IB
+2014,G,2017/AGIB00/44718,Agencia Balear del Agua y de Calidad Ambiental
+2014,G,2017/AGIB00/44719,Puertos de las IB
+2014,G,2017/AGIB00/44721,Instituto Balear de la Juventud
+2014,G,2017/AGIB00/44729,Serveis de Millora Agrària
+2014,G,2017/AGIB00/44730,Servicios de Informació Territorial de las IB
+2014,G,2017/AGIB00/44826,Escuela de Hosteleria
+2014,G,2017/AGIB00/44865,Sistema de Observación Costera de las IB
+2014,G,2017/AGIB00/44900,A fundaciones participadas por la CAIB
+2014,G,2017/AGIB00/44902,Islas Baleares para el Deporte
+2014,G,2017/AGIB00/44904,Instituto Socioeducativo S'Estel
+2014,G,2017/AGIB00/44921,Banco de Sangre y Tejidos de las IB
+2014,G,2017/AGIB00/44922,Escuela Superior de Arte Dramàtico de las IB
+2014,G,2017/AGIB00/44923,Investigación Sanitaria de las IB Ramón Llull
+2014,G,2017/AGIB00/44924,Atención y Soporte a la Dependencia Promoción a la Autonomía Personal de Personas con Discapacidad
+2014,G,2017/AGIB00/44931,Balear de Innovación y Tecnología
+2014,G,2017/AGIB00/45100,A otras comunidades autónomas
+2014,G,2017/AGIB00/45104,A empresas publicas y otros entes públicos
+2014,G,2017/AGIB00/46000,A ayuntamientos
+2014,G,2017/AGIB00/46001,"A ayuntamientos, subvenciones"
+2014,G,2017/AGIB00/46100,A consejos insulares
+2014,G,2017/AGIB00/46101,"A consejos insulares, subvenciones"
+2014,G,2017/AGIB00/46110,"A consejos insulares, renta mínima de inserción social"
+2014,G,2017/AGIB00/46111,"A consejos insulares, fondo interinsular para la financiación de servicios"
+2014,G,2017/AGIB00/46113,"A consejos insulares, fondos para la financiación de competencias no homogéneas"
+2014,G,2017/AGIB00/46114,"A consejos insulares, programa de valores deportivos"
+2014,G,2017/AGIB00/46400,A empresas públicas y otros entes públicos de corporaciones locales
+2014,G,2017/AGIB00/46401,"A empresas públicas y otros entes públicos de corporaciones locales, subvenciones"
+2014,G,2017/AGIB00/46900,A otros entes territoriales
+2014,G,2017/AGIB00/46901,"A otros entes territoriales, subvenciones"
+2014,G,2017/AGIB00/47000,A empresa privadas
+2014,G,2017/AGIB00/48000,A famílias e instituciones sin fines de lucro
+2014,G,2017/AGIB00/48015,"A famílias e instituciones, becas y ayudas RD 395/2007"
+2014,G,2017/AGIB00/48016,Tribunal de Arbitraje y Mediación de las IB
+2014,G,2017/AGIB00/48021,"A famílias e instituciones, subvenciones para comedores escolares"
+2014,G,2017/AGIB00/48035,"A famílias e instituciones, subvenciones para el transporte marítimo regular"
+2014,G,2017/AGIB00/48044,Federación de Entidades Locales de las IB
+2014,G,2017/AGIB00/48046,"A famílias e instituciones, subvenciones para la gratuidad del túnel de Sóller para los residentes"
+2014,G,2017/AGIB00/48048,"A famílias e instituciones, ayudas y subvenciones para el desplazamiento interislas de deportistas"
+2014,G,2017/AGIB00/48076,"A famílias e instituciones, ayudas y subvenciones para tecnificación deportiva"
+2014,G,2017/AGIB00/48077,"A famílias e instituciones, ayudas y subvenciones para proyectos socioeducativos en centros escolares"
+2014,G,2017/AGIB00/48101,A centros de enseñanza concertados
+2014,G,2017/AGIB00/49000,Al exterior
+2014,G,2017/AGIB00/50000,Fondo de contingencia
+2014,G,2017/AGIB00/60000,Terrenos y bienes naturales
+2014,G,2017/AGIB00/60002,Indemnizaciones por desclasificación de suelo urbanizable
+2014,G,2017/AGIB00/60100,Infraestructuras y bienes destinados al uso general
+2014,G,2017/AGIB00/60800,"Bienes del patrimonio histórico, artístico y cultural"
+2014,G,2017/AGIB00/60801,Adquisición de bienes museísticos
+2014,G,2017/AGIB00/61100,Infraestructuras y bienes destinados al uso general
+2014,G,2017/AGIB00/61106,Infraestructuras hidráulicas
+2014,G,2017/AGIB00/61107,Infraestructuras y mantenimiento de la red de depuradoras
+2014,G,2017/AGIB00/61800,"Bienes del patrimonio histórico, artístico y cultural"
+2014,G,2017/AGIB00/62200,Edificios y otras construcciones
+2014,G,2017/AGIB00/62201,Construcciones nuevas en curso
+2014,G,2017/AGIB00/62301,Instalaciones técnicas
+2014,G,2017/AGIB00/62302,Maquinaria
+2014,G,2017/AGIB00/62303,Utillaje
+2014,G,2017/AGIB00/62307,Instalaciones técnicas en curso
+2014,G,2017/AGIB00/62400,Elementos de transporte
+2014,G,2017/AGIB00/62500,Mobiliario y enseres
+2014,G,2017/AGIB00/62599,Equipamiento para centros educativos
+2014,G,2017/AGIB00/62600,Equipos para procesos de la información
+2014,G,2017/AGIB00/62900,Otro inmovilizado material
+2014,G,2017/AGIB00/62990,Inversión realizada por cuenta de otros entes
+2014,G,2017/AGIB00/62999,Inversión de entes estatutarios
+2014,G,2017/AGIB00/63200,Edificios y otras construcciones
+2014,G,2017/AGIB00/63201,Edificios y otras construcciones en curso
+2014,G,2017/AGIB00/63301,Instalaciones técnicas
+2014,G,2017/AGIB00/63302,Maquinaria
+2014,G,2017/AGIB00/63303,Utillaje
+2014,G,2017/AGIB00/63400,Elementos de transporte
+2014,G,2017/AGIB00/63500,Mobiliario y enseres
+2014,G,2017/AGIB00/63501,Equipos de oficina y electrodomésticos
+2014,G,2017/AGIB00/63600,Equipos para procesos de la información
+2014,G,2017/AGIB00/63900,Otro inmobilizado material
+2014,G,2017/AGIB00/63990,Inversión realizada por cuenta de otros entes
+2014,G,2017/AGIB00/63999,Inversión de entes estatutarios
+2014,G,2017/AGIB00/64000,Gastos en inversiones de carácter inmaterial
+2014,G,2017/AGIB00/64001,Aplicaciones informáticas y software
+2014,G,2017/AGIB00/70000,A la Administración General
+2014,G,2017/AGIB00/70100,A organismos autónomos
+2014,G,2017/AGIB00/70400,"A sociedades mercantiles estatales, entidades empresariales y otros organismos públicos"
+2014,G,2017/AGIB00/72001,Al Servicio de Salut de las IB
+2014,G,2017/AGIB00/74014,"Gestión de Emergéncias de las IB, SA"
+2014,G,2017/AGIB00/74015,"Multimedia de las IB, SA"
+2014,G,2017/AGIB00/74101,Agencia de Turismo de las IB
+2014,G,2017/AGIB00/74103,Instituto Balear de la Vivienda
+2014,G,2017/AGIB00/74104,Servicios Ferroviarios de Mallorca
+2014,G,2017/AGIB00/74111,Instituto Balear de la Naturaleza
+2014,G,2017/AGIB00/74112,Instituto de Innovación Empresarial de las IB
+2014,G,2017/AGIB00/74113,Universidad de las IB
+2014,G,2017/AGIB00/74114,Instituto de Infraestructuras y Servicios Educativos y Culturales de las IB
+2014,G,2017/AGIB00/74117,Fondo de Garantía Agraria y Pesquera de las IB
+2014,G,2017/AGIB00/74118,Agencia Balear del Agua y de Calidad Ambiental
+2014,G,2017/AGIB00/74119,Puertos de las IB
+2014,G,2017/AGIB00/74121,Instituto Balear de la Juventud
+2014,G,2017/AGIB00/74129,Serveis de Millora Agrària
+2014,G,2017/AGIB00/74130,Servicios de Información Territorial de las IB
+2014,G,2017/AGIB00/74150,Agencia Tributaria de las IB
+2014,G,2017/AGIB00/74202,"ISBA, SGR"
+2014,G,2017/AGIB00/74300,A consorcios participados por la CAIB
+2014,G,2017/AGIB00/74301,Transportes de Mallorca
+2014,G,2017/AGIB00/74302,Centro Baleares Europa
+2014,G,2017/AGIB00/74326,Escuela de Hoteleria
+2014,G,2017/AGIB00/74339,Fondo Mallorquín de Solidaridad y Cooperación
+2014,G,2017/AGIB00/74340,Instituto de Estudios Baleáricos
+2014,G,2017/AGIB00/74348,Formentera Desarrollo
+2014,G,2017/AGIB00/74352,Museo Militar de Menorca
+2014,G,2017/AGIB00/74353,Fomento de Infraestructuras Universitarias
+2014,G,2017/AGIB00/74356,Recuperación de la Vida y Fauna Silvestre de les IB
+2014,G,2017/AGIB00/74359,Ibiza Patrimonio de la Humanidad
+2014,G,2017/AGIB00/74361,Desarrollo de Infraestructuras en la Entidad Local de Palmanyola
+2014,G,2017/AGIB00/74363,Fondo Menorquín de Cooperación
+2014,G,2017/AGIB00/74364,Fondo Pitiuso de Cooperación
+2014,G,2017/AGIB00/74365,Sistema de Observación Costera de las IB
+2014,G,2017/AGIB00/74366,Pabellón Deportivo Multifuncional de Mahón
+2014,G,2017/AGIB00/74375,Recursos Sociosanitarios de las IB
+2014,G,2017/AGIB00/74377,Velódromo Palma Arena
+2014,G,2017/AGIB00/74378,Infraestructuras de las IB
+2014,G,2017/AGIB00/74379,Aguas de las IB
+2014,G,2017/AGIB00/74402,Deporte Balear
+2014,G,2017/AGIB00/74404,"Instituto Socioeducativo ""s'Estel"""
+2014,G,2017/AGIB00/74414,Robert Graves
+2014,G,2017/AGIB00/74417,Teatro Principal de Inca
+2014,G,2017/AGIB00/74423,Investigación Sanitaria de las IB Ramón Llull
+2014,G,2017/AGIB00/74429,Santuario de Lluc
+2014,G,2017/AGIB00/74431,Balear de Innovación y Tecnología
+2014,G,2017/AGIB00/74513,Fundación Enciclopedia de Menorca
+2014,G,2017/AGIB00/74700,A empresa públicas no societarias y otros entes públicos de la CAIB
+2014,G,2017/AGIB00/74701,"Agencia de Turismo de las IB, subvenciones"
+2014,G,2017/AGIB00/74704,"Servicios Ferroviarios de Mallorca, subvenciones"
+2014,G,2017/AGIB00/74711,"Instituto de Innovación Empresarial de las IB, subvenciones"
+2014,G,2017/AGIB00/74713,Universidad de las IB
+2014,G,2017/AGIB00/74717,"Fondo de Garantía Agraria y Pesquera de las IB, subvenciones"
+2014,G,2017/AGIB00/74718,"Agencia Balear del Agua y de Calidad Ambiental, subvenciones"
+2014,G,2017/AGIB00/74801,"Transportes de Mallorca, subvenciones"
+2014,G,2017/AGIB00/74820,"Conservatorio de Música de las IB, subvenciones"
+2014,G,2017/AGIB00/74865,Sistema de Observación Costera de las IB
+2014,G,2017/AGIB00/74921,Banco de Sangre y Tejidos de las IB
+2014,G,2017/AGIB00/74923,Investigación Sanitaria de las IB Ramón Llull
+2014,G,2017/AGIB00/76000,A ayuntamientos
+2014,G,2017/AGIB00/76096,"A ayuntamientos, fondos de seguridad pública"
+2014,G,2017/AGIB00/76097,"A ayuntamientos, Palma, transferencias derivadas de la Ley de capitalidad"
+2014,G,2017/AGIB00/76099,"A ayuntamientos, fondo de cooperación municipal"
+2014,G,2017/AGIB00/76100,A consejos insulares
+2014,G,2017/AGIB00/76111,"A consejos insulares, fondo interinsular de financiación de servicios"
+2014,G,2017/AGIB00/76112,"A consejos insulares, fondo de compensación interinsular"
+2014,G,2017/AGIB00/76400,A empresas públicas y otros entes públicos de corporaciones locales
+2014,G,2017/AGIB00/76401,"A empresas públicas y otros entes públicos de corporaciones locales, subvenciones"
+2014,G,2017/AGIB00/77000,A empresa privadas
+2014,G,2017/AGIB00/78000,A famílias e instituciones sin fines de lucro
+2014,G,2017/AGIB00/79000,Al exterior
+2014,G,2017/AGIB00/82007,A empresas vinculadas y a otros entes participados por la CAIB
+2014,G,2017/AGIB00/82104,A empresas públicas y otros entes públicos
+2014,G,2017/AGIB00/83008,A famílias e instituciones sin fines de lucro
+2014,G,2017/AGIB00/83108,A famílias e instituciones sin fines de lucro
+2014,G,2017/AGIB00/90100,Amortitzación de deute pública en euros a llargo plazo
+2014,G,2017/AGIB00/91300,Amortización de préstamos a largo plazo de entes del fuera del sector público
+2014,G,2017/ATIB00/10000,Retribuciones básicas
+2014,G,2017/ATIB00/10001,Otras remuneraciones de altos cargos
+2014,G,2017/ATIB00/12000,Sueldos del grupo A1/grupo A
+2014,G,2017/ATIB00/12001,Sueldos del grupo A2/grupo B
+2014,G,2017/ATIB00/12002,Sueldos del grupo C1/grupo C
+2014,G,2017/ATIB00/12003,Sueldos del grupo C2/grupo D
+2014,G,2017/ATIB00/12004,Sueldos del personal de agrupaciones profesionales/grupo E
+2014,G,2017/ATIB00/12005,Trienios
+2014,G,2017/ATIB00/12009,Otras retribuciones básicas
+2014,G,2017/ATIB00/12100,Complemento de destino
+2014,G,2017/ATIB00/12101,Complemento específico
+2014,G,2017/ATIB00/12102,Complemento de productividad compensada
+2014,G,2017/ATIB00/12103,Indemnización por residencia
+2014,G,2017/ATIB00/12119,Carrera y desarrollo profesional personal funcionario y estatutario
+2014,G,2017/ATIB00/12199,Otros complementos
+2014,G,2017/ATIB00/12600,Retribuciones de funcionarios interinos
+2014,G,2017/ATIB00/13000,Retribuciones básicas
+2014,G,2017/ATIB00/13001,Complemento de convenio
+2014,G,2017/ATIB00/13002,Complemento de compensación de costes de insularidad
+2014,G,2017/ATIB00/13004,Complemento específico
+2014,G,2017/ATIB00/13005,Trienios
+2014,G,2017/ATIB00/13009,Otros complementos
+2014,G,2017/ATIB00/13100,Retribuciones del personla laboral temporal
+2014,G,2017/ATIB00/15100,Gratificaciones
+2014,G,2017/ATIB00/16000,Seguridad social
+2014,G,2017/ATIB00/16204,Acción social
+2014,G,2017/ATIB00/16304,Acción social
+2014,G,2017/ATIB00/20200,Arrendamientos de edificios y de otras construcciones
+2014,G,2017/ATIB00/20400,Arrendamientos de medios de transporte
+2014,G,2017/ATIB00/21200,De edificios y de otras construcciones
+2014,G,2017/ATIB00/21300,"De maquinaria, instalaciones y utillaje"
+2014,G,2017/ATIB00/21600,De quipos para procesos de la información
+2014,G,2017/ATIB00/22000,Material de oficina ordinario no inventariable
+2014,G,2017/ATIB00/22001,"Prensa, revistas, libros y otras publicaciones"
+2014,G,2017/ATIB00/22002,Material informático no inventariable
+2014,G,2017/ATIB00/22100,Energía eléctrica
+2014,G,2017/ATIB00/22101,Agua
+2014,G,2017/ATIB00/22109,Otros suministros
+2014,G,2017/ATIB00/22601,Atenciones protocolarias y de representación
+2014,G,2017/ATIB00/22602,Publicidad y propaganda
+2014,G,2017/ATIB00/22603,Gastos jurídicos y contenciosos
+2014,G,2017/ATIB00/22609,Otros gastos diversos
+2014,G,2017/ATIB00/22700,Limpieza y aseo
+2014,G,2017/ATIB00/22701,Seguridad
+2014,G,2017/ATIB00/22706,Estudios y trabajos técnicos
+2014,G,2017/ATIB00/22708,Servicios de recaudación
+2014,G,2017/ATIB00/22709,Otros trabajos
+2014,G,2017/ATIB00/23000,"Dietas, locomoción y traslados"
+2014,G,2017/ATIB00/31009,Intereses de préstamos a corto plazo
+2014,G,2017/ATIB00/62600,Equipos para procesos de la información
+2014,G,2017/ATIB00/64000,Gastos en inversiones de carácter inmaterial
+2014,G,2017/SSIB00/10000,Retribuciones básicas de altos cargos
+2014,G,2017/SSIB00/10001,Otras remuneraciones de altos cargos
+2014,G,2017/SSIB00/12000,Sueldos del grupo A1/grupo A
+2014,G,2017/SSIB00/12001,Sueldos del grupo A2/grupo B
+2014,G,2017/SSIB00/12002,Sueldos del grupo C1/grupo C
+2014,G,2017/SSIB00/12003,Sueldos del grupo C2/grupo D
+2014,G,2017/SSIB00/12004,Sueldos del personal de agrupaciones profesionales/grupo E
+2014,G,2017/SSIB00/12005,Trienios
+2014,G,2017/SSIB00/12006,"Sueldos del grupo A1, personal de contingente"
+2014,G,2017/SSIB00/12009,Otras retribuciones básicas
+2014,G,2017/SSIB00/12100,Complemento de destino
+2014,G,2017/SSIB00/12101,Complemento específico
+2014,G,2017/SSIB00/12102,Complemento de productividad compensada
+2014,G,2017/SSIB00/12103,Indemnización por residencia
+2014,G,2017/SSIB00/12105,"Complemento específico, personal sanitario facultativo"
+2014,G,2017/SSIB00/12106,"Complemento específico, personal sanitario no facultativo"
+2014,G,2017/SSIB00/12108,"Complemento específico, personal no sanitario por turnicidad"
+2014,G,2017/SSIB00/12109,"Otros complementos, personal facultativo por atención continuada"
+2014,G,2017/SSIB00/12111,Complemento específico variable
+2014,G,2017/SSIB00/12113,"Complemento por atención continuada, personal no sanitario"
+2014,G,2017/SSIB00/12115,Complementos transitorios absorbibles
+2014,G,2017/SSIB00/12116,"Retribuciones complementarias, personal de contingente"
+2014,G,2017/SSIB00/12117,Otros complementos
+2014,G,2017/SSIB00/12118,"Complemento específico por turnicidad, personal sanitario no facultativo"
+2014,G,2017/SSIB00/12119,Carrera y desarrollo profesional personal funcionario y estatutario
+2014,G,2017/SSIB00/12122,"Complemento por atención continuada, personal sanitario no facultativo"
+2014,G,2017/SSIB00/12500,Sueldos del subgrupo A1 personal estatutario temporal
+2014,G,2017/SSIB00/12501,Sueldos del subgrupo A2 personal estatutario temporal
+2014,G,2017/SSIB00/12502,Sueldos del subgrupo C1 personal estatutario temporal
+2014,G,2017/SSIB00/12503,Sueldos del subgrupo C2 personal estatutario temporal
+2014,G,2017/SSIB00/12504,Sueldos del personal de agrupaciones profesionales personal estatutario temporal
+2014,G,2017/SSIB00/12506,Complemento de destino personal estatutario temporal
+2014,G,2017/SSIB00/12507,"Complemento específico, personal no sanitario temporal"
+2014,G,2017/SSIB00/12508,"Indemnitzacions per residència, personal estatutari temporal"
+2014,G,2017/SSIB00/12509,"Complemento específico, personal sanitario no facultativo temporal"
+2014,G,2017/SSIB00/12510,"Complemento específico, personal facultativo temporal"
+2014,G,2017/SSIB00/12511,"Complemento específico por atención continuada, personal facultativo temporal"
+2014,G,2017/SSIB00/12512,"Complemento específico por atención continuada, personal sanitario no facultativo temporal"
+2014,G,2017/SSIB00/12513,"Complement específic per atenció continuada, personal no sanitario temporal"
+2014,G,2017/SSIB00/12515,"Trienios, otro personal estatutario temporal"
+2014,G,2017/SSIB00/12519,"Carrera y desarrollo profesional, personal estatutario temporal"
+2014,G,2017/SSIB00/13000,Retribuciones básicas
+2014,G,2017/SSIB00/13001,Complemento de convenio
+2014,G,2017/SSIB00/13002,Complemento de compensación de costes de insularidad
+2014,G,2017/SSIB00/13004,Complemento específico
+2014,G,2017/SSIB00/13005,Trienios
+2014,G,2017/SSIB00/13006,Complemento de turnos rotativos
+2014,G,2017/SSIB00/13009,Otros complementos
+2014,G,2017/SSIB00/13100,Retribuciones del personla laboral temporal
+2014,G,2017/SSIB00/14100,Retribuciones de otro personal
+2014,G,2017/SSIB00/14900,Retribuciones de personal transferido pendiente de integración en la RLT
+2014,G,2017/SSIB00/15000,Productividad
+2014,G,2017/SSIB00/15001,"Productividad, factor fijo personal estatutario"
+2014,G,2017/SSIB00/15002,"Productivitat, factor fix APD personal estatutari"
+2014,G,2017/SSIB00/15003,"Productividad, factor variable personal estatutario"
+2014,G,2017/SSIB00/15004,"Productividad, factor fijo personal estatutario tremporal"
+2014,G,2017/SSIB00/15005,"Productividad, factor variable personal estatutario temporal"
+2014,G,2017/SSIB00/15100,Gratificaciones
+2014,G,2017/SSIB00/16000,Seguridad social
+2014,G,2017/SSIB00/16009,Otras cuotas sociales
+2014,G,2017/SSIB00/16200,Formación y perfeccionamiento del personal
+2014,G,2017/SSIB00/16204,Acción social
+2014,G,2017/SSIB00/16207,"Acción social, personal estatutario temporal"
+2014,G,2017/SSIB00/16209,"Acción social, personal estatutario temporal"
+2014,G,2017/SSIB00/16304,Acción social
+2014,G,2017/SSIB00/20200,Arrendamientos de edificios y de otras construcciones
+2014,G,2017/SSIB00/20300,"Arrendamientos de maquinaria, instalaciones y utillaje"
+2014,G,2017/SSIB00/20301,"Arrendamientos y cánones, maquinaria"
+2014,G,2017/SSIB00/20302,"Arrendamientos y cánones, utillaje"
+2014,G,2017/SSIB00/20400,Arrendamientos de medios de transporte
+2014,G,2017/SSIB00/20500,Arrendamientos de mobiliario y enseres
+2014,G,2017/SSIB00/20600,Arrendamientos de equipos para procesos de la información
+2014,G,2017/SSIB00/20800,Arrendamientos de otro inmovilizado material
+2014,G,2017/SSIB00/21200,De edificios y de otras construcciones
+2014,G,2017/SSIB00/21300,"De maquinaria, instalaciones y utillaje"
+2014,G,2017/SSIB00/21301,De maquinaria
+2014,G,2017/SSIB00/21302,De utillaje
+2014,G,2017/SSIB00/21304,D'aparells medico assistencials
+2014,G,2017/SSIB00/21400,D'aparells medico assistencials
+2014,G,2017/SSIB00/21500,De mobiliario y enseres
+2014,G,2017/SSIB00/21600,De quipos para procesos de la información
+2014,G,2017/SSIB00/21900,De otro inmovilizado material
+2014,G,2017/SSIB00/22000,Material de oficina ordinario no inventariable
+2014,G,2017/SSIB00/22001,"Prensa, revistas, libros y otras publicaciones"
+2014,G,2017/SSIB00/22100,Material d'oficina ordinari no inventariable
+2014,G,2017/SSIB00/22101,Agua
+2014,G,2017/SSIB00/22102,Gas
+2014,G,2017/SSIB00/22103,Combustibles i carburants
+2014,G,2017/SSIB00/22104,Vestuario
+2014,G,2017/SSIB00/22105,Productos alimentarios
+2014,G,2017/SSIB00/22109,Otros suministros
+2014,G,2017/SSIB00/22110,Calzado
+2014,G,2017/SSIB00/22111,Calzado
+2014,G,2017/SSIB00/22113,Combustible para vehículos
+2014,G,2017/SSIB00/22120,Antiinfecciosos
+2014,G,2017/SSIB00/22121,Antineoplásicos y inmunomoduladores
+2014,G,2017/SSIB00/22122,Sangre y órganos hematopotéticos
+2014,G,2017/SSIB00/22123,Fármacos del sistema nervioso central
+2014,G,2017/SSIB00/22124,Fámacos del sistema musculoesquelético
+2014,G,2017/SSIB00/22125,Fármacos del aparato digestivo y  para el metabolismo
+2014,G,2017/SSIB00/22126,Fármacos para el sistema cardiovascular
+2014,G,2017/SSIB00/22127,Otros fármacos y productos específicos
+2014,G,2017/SSIB00/22128,Material de radiodiagnosi
+2014,G,2017/SSIB00/22129,Material para análisis
+2014,G,2017/SSIB00/22130,Material para análisis
+2014,G,2017/SSIB00/22131,Material de diálisis
+2014,G,2017/SSIB00/22132,Reactivos y similares
+2014,G,2017/SSIB00/22133,Reactivos y similares
+2014,G,2017/SSIB00/22134,Gases medicinales
+2014,G,2017/SSIB00/22135,Material de medicina nuclear
+2014,G,2017/SSIB00/22136,Implants i osteosíntesi
+2014,G,2017/SSIB00/22137,Instrumental y pequeño utillaje sanitario
+2014,G,2017/SSIB00/22138,Material del banco de sangre
+2014,G,2017/SSIB00/22140,Material de reparaciones y conservación
+2014,G,2017/SSIB00/22141,Material de limpieza
+2014,G,2017/SSIB00/22142,Instrumental y pequeño utillaje para uso no sanitario
+2014,G,2017/SSIB00/22143,Limpieza y aseo
+2014,G,2017/SSIB00/22199,Suminisros diversos
+2014,G,2017/SSIB00/22200,Limpieza y aseo
+2014,G,2017/SSIB00/22209,Otras comunicaciones
+2014,G,2017/SSIB00/22300,Transportes
+2014,G,2017/SSIB00/22400,Primas de seguros
+2014,G,2017/SSIB00/22401,"Primes d'assegurances, incendis"
+2014,G,2017/SSIB00/22402,"Primes d'assegurances, equips d'alta tecnologia"
+2014,G,2017/SSIB00/22403,"Primas de seguros, elementos de transporte"
+2014,G,2017/SSIB00/22404,"Primas de seguros, responsabilidad civil"
+2014,G,2017/SSIB00/22500,Tributos estatales
+2014,G,2017/SSIB00/22501,Tributos autonómicos
+2014,G,2017/SSIB00/22502,Tributos locales
+2014,G,2017/SSIB00/22601,Atenciones protocolarias y de representación
+2014,G,2017/SSIB00/22602,Publicidad y propaganda
+2014,G,2017/SSIB00/22603,Gastos jurídicos y contenciosos
+2014,G,2017/SSIB00/22605,Asistencia religiosa
+2014,G,2017/SSIB00/22606,"Reuniones, conferencias y cursos"
+2014,G,2017/SSIB00/22607,Oposiciones y pruebas selectivas
+2014,G,2017/SSIB00/22609,Otros gastos diversos
+2014,G,2017/SSIB00/22610,Otros servicios
+2014,G,2017/SSIB00/22700,Limpieza y aseo
+2014,G,2017/SSIB00/22701,Seguridad
+2014,G,2017/SSIB00/22703,Postales
+2014,G,2017/SSIB00/22704,"Custodia, depósito y almacenaje"
+2014,G,2017/SSIB00/22706,Estudios y trabajos técnicos
+2014,G,2017/SSIB00/22707,Lavanderia
+2014,G,2017/SSIB00/22708,Servicios de recaudación
+2014,G,2017/SSIB00/22709,Otros trabajos
+2014,G,2017/SSIB00/22711,"Serveis assistencials d'altres empreses, laboratoris"
+2014,G,2017/SSIB00/22712,"Serveis assistencials d'altres empreses, laboratoris"
+2014,G,2017/SSIB00/22713,"Servicios no asistenciales de otras empresas, jardineria"
+2014,G,2017/SSIB00/22714,"Servicios no asistenciales de otras empresas, mantenimiento de ascensores"
+2014,G,2017/SSIB00/22715,"Servicios no asistenciales de otras empresas, otros"
+2014,G,2017/SSIB00/22718,Servicios de profesionales independientes
+2014,G,2017/SSIB00/22719,"Servicios de profesionales independientes, altres"
+2014,G,2017/SSIB00/22720,Gestión de residuos
+2014,G,2017/SSIB00/22721,Prevención de riesgos laborales
+2014,G,2017/SSIB00/22722,Consultoria de sistemas de información
+2014,G,2017/SSIB00/22723,Consultoria de calidad y medio ambiente
+2014,G,2017/SSIB00/22724,Mantenimiento de apartos sanitarios del Hospital de Son Espases
+2014,G,2017/SSIB00/23000,"Dietas, locomoción y traslados"
+2014,G,2017/SSIB00/23001,Locomoción
+2014,G,2017/SSIB00/25102,"ervicios asistenciales concertados/prestados por terceros, PADI programa de atención dental infantil"
+2014,G,2017/SSIB00/25200,"Servicios asistenciales concertados/prestados por terceros, atención especializada"
+2014,G,2017/SSIB00/25300,"Servicios asistenciales concertados/prestados por terceros, programas especiales de hemodiálisis"
+2014,G,2017/SSIB00/25301,"Servicios asistenciales concertados/prestados por terceros, club diálisis"
+2014,G,2017/SSIB00/25405,"Servicios asistenciales concertados/prestados por terceros, Medisub cámara hiperbárica"
+2014,G,2017/SSIB00/25406,"Servicios asistenciales concertados/prestados por terceros, terapias respiratorias"
+2014,G,2017/SSIB00/25408,"Serveis assistencials concertats/prestats per tercers, RMN ressonància magnètica nuclear"
+2014,G,2017/SSIB00/25409,"Servicios asistenciales concertados/prestados por terceros, otras técnicad de diagnóstico por imag"
+2014,G,2017/SSIB00/25500,"Servicios asistenciales concertados/prestados por terceros, transporte sanitario terrestre"
+2014,G,2017/SSIB00/25501,"Servicios asistenciales concertados/prestados por terceros, transporte sanitario aer"
+2014,G,2017/SSIB00/25800,Servicios asistenciales concertados/prestados por terceros
+2014,G,2017/SSIB00/25900,"Servicios asistenciales concertados/prestados por terceros, otros"
+2014,G,2017/SSIB00/31000,Intereses
+2014,G,2017/SSIB00/35200,"Servicios asistenciales concertados/prestados por terceros, otros"
+2014,G,2017/SSIB00/35900,Otros gastos financieros
+2014,G,2017/SSIB00/35990,"Intereses de arrendamientos financieros con opció de compra, lesing"
+2014,G,2017/SSIB00/48000,A famílias e instituciones sin fines de lucro
+2014,G,2017/SSIB00/48604,"Entregas para desplazamientos, particulares"
+2014,G,2017/SSIB00/48605,Entregas para desplazamientos
+2014,G,2017/SSIB00/48606,Entregas para prótesis
+2014,G,2017/SSIB00/48607,Entregas para vehículos para miusválidos
+2014,G,2017/SSIB00/48900,Recetas médicas
+2014,G,2017/SSIB00/48910,Reintegro de gastos de farmacia
+2014,G,2017/SSIB00/48911,"Reintegro de gastos de farmacia, dispensación ambulatoria"
+2014,G,2017/SSIB00/62200,Edificios y otras construcciones
+2014,G,2017/SSIB00/62201,Construcciones nuevas en curso
+2014,G,2017/SSIB00/62302,Maquinaria
+2014,G,2017/SSIB00/62303,Utillaje
+2014,G,2017/SSIB00/62304,Equipos y aparatos medicoasistenciales
+2014,G,2017/SSIB00/62306,Instalaciones técnicas
+2014,G,2017/SSIB00/62400,Elementos de transporte
+2014,G,2017/SSIB00/62501,Equipos de oficina y electrodomésticos
+2014,G,2017/SSIB00/62502,Mobiliario
+2014,G,2017/SSIB00/62600,Equipos para procesos de la información
+2014,G,2017/SSIB00/63201,Construccions en curs
+2014,G,2017/SSIB00/63302,Maquinaria
+2014,G,2017/SSIB00/63303,Utillaje
+2014,G,2017/SSIB00/63304,Equipos y aparatos medicoasistenciales
+2014,G,2017/SSIB00/63306,Instalaciones técnicas
+2014,G,2017/SSIB00/63400,Elementos de transporte
+2014,G,2017/SSIB00/63501,Equipos de oficina y electrodomésticos
+2014,G,2017/SSIB00/63502,Mobiliario
+2014,G,2017/SSIB00/63600,Equipos para procesos de la información
+2014,G,2017/SSIB00/64000,Gastos en inversiones de carácter inmaterial
+2014,G,2017/SSIB00/64006,Aplicaciones informáticas
+2014,G,2017/SSIB00/64090,"Arrendamiento financiero con opción de compra, leasing"
+2014,G,2017/SSIB00/91100,Amortització de préstecs a curt termini d'ens de fora del sectro públic
+2014,G,2017/SSIB00/91300,Amortización de préstamos a corto plazo de entes de fuera del sector público
