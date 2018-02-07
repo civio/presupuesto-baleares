@@ -1,43 +1,47 @@
-2016,I,54900,Altres rendes de béns immobles
-2016,I,30909,Serveis facultatius en matèria de medi ambient
 2016,I,22010,Impost sobre estades en empreses turístiques d'allotjament
-2016,I,30990,Revisió de grau de dependència
-2016,I,30909,Serveis facultatius en matèria de medi ambient
 2016,I,22010,Impost sobre estades en empreses turístiques d'allotjament
-2016,I,40008,Bestretes a compta per ajornament devolucions de liquidacions negatives
-2016,I,70101,Del Servicio Público de Empleo INEM
-2016,I,30989,Revisió del grau de discapacitat
-2016,I,40060,"Fons cohesió sanitat, assistència a desplaçats"
-2016,I,52000,Interessos de consignacions judicials
-2016,I,31900,"Assistència sanitària, pagaments al comptat"
-2016,I,31909,"Assistència sanitària, corporacions locals"
-2016,I,76130,Del Consell Insular d'Eivissa
-2016,I,49900,Altres transferències de l'exterior
-2016,I,54001,Lloguers de locals
-2016,I,45100,D'altres comunitats autònomes
-2016,I,33400,Venda de productes agropecuaris
-2016,I,79203,Del Fons Europeu Agricola de Desenvolupament Rural
-2016,I,44100,D'empreses públiques no societàries  i d'altres ens públics de la Comunitat Autònoma IB
-2016,I,46900,D'altres ens territorials
 2016,I,28400,Impost sobre danys mediambiental causats per vehicles de lloguer
 2016,I,28500,Impost sobre danys mediambientals causats per grans superfícies ...
 2016,I,28600,Impost sobre envasos de begudes
+2016,I,30200,Taxes per direcció i inspecció d'obres
 2016,I,30319,Matrícula/inscripció per a proves d'obtenció del títol de tècnic superior de formació professional
+2016,I,30909,Serveis facultatius en matèria de medi ambient
+2016,I,30909,Serveis facultatius en matèria de medi ambient
+2016,I,30918,Delimitación dels canasl del domini públic hidràulic
+2016,I,30920,Autorizació d'instal·lació de dessaladores d'aigüa
+2016,I,30923,Serveis d'inspecció de les condicions concessionals
+2016,I,30924,"Serveis facultatius per redacció, taxació d'obres i projectes"
 2016,I,30963,Llicències de vedats de caça
 2016,I,30984,Reconeixement de títols a ciutadans de la UE
+2016,I,30989,Revisió del grau de discapacitat
+2016,I,30990,Revisió de grau de dependència
+2016,I,31900,"Assistència sanitària, pagaments al comptat"
 2016,I,31905,"Assistència sanitària, empreses col·laboradores de la Seguretat Social"
+2016,I,31909,"Assistència sanitària, corporacions locals"
 2016,I,31916,"Assistència sanitària, INSS"
-2016,I,32910,Drets de matrícula a cursos i seminaris
-2016,I,40300,De fundacions estatals
-2016,I,46000,D'ajuntaments
-2016,I,48000,De famílies i institucions sense finalitat lucrativa
-2016,I,70400,"De societats mercantils estatals, entitats empresarials i altres ens públics"
-2016,I,78000,De famílies i institucions sense finalitat lucrativa
-2016,I,30200,Taxes per direcció i inspecció d'obres
 2016,I,32710,"Assistència sanitària, entitats vinculades a la Comunitat Autònoma IB"
+2016,I,32910,Drets de matrícula a cursos i seminaris
+2016,I,33400,Venda de productes agropecuaris
+2016,I,40008,Bestretes a compta per ajornament devolucions de liquidacions negatives
+2016,I,40060,"Fons cohesió sanitat, assistència a desplaçats"
+2016,I,40300,De fundacions estatals
+2016,I,44100,D'empreses públiques no societàries  i d'altres ens públics de la Comunitat Autònoma IB
+2016,I,45100,D'altres comunitats autònomes
+2016,I,46000,D'ajuntaments
+2016,I,46900,D'altres ens territorials
+2016,I,48000,De famílies i institucions sense finalitat lucrativa
+2016,I,49900,Altres transferències de l'exterior
 2016,I,51600,A corporacions locals i altres ens territorials
 2016,I,51800,A famílies i institucions sense finalitat lucrativa
+2016,I,52000,Interessos de consignacions judicials
+2016,I,54001,Lloguers de locals
+2016,I,54900,Altres rendes de béns immobles
+2016,I,70101,Del Servicio Público de Empleo INEM
+2016,I,70400,"De societats mercantils estatals, entitats empresarials i altres ens públics"
+2016,I,76130,Del Consell Insular d'Eivissa
 2016,I,77000,D'empreses privades
+2016,I,78000,De famílies i institucions sense finalitat lucrativa
+2016,I,79203,Del Fons Europeu Agricola de Desenvolupament Rural
 2016,I,79501,Del Fons Europeu de Pesca FEP
 2016,I,82106,A corporacions locals
 2016,I,2018/AGIB00/1,Imposts directes
@@ -337,121 +341,150 @@
 2016,I,2017/SSIB00/55000,Productes de concessions administratives
 2016,I,2017/SSIB00/55001,"Ingressos de cafeteries, llibreries i aparells TV"
 2016,I,2017/SSIB00/75000,De la Comunitat Autònoma IB
-2016,G,74421,Banc de Sang i Teixits de les IB
-2016,G,64028,Campanyes de vacunacions
-2016,G,44372,Reconversió Territorial i Paisatgística de determinades zones d'Eivissa
-2016,G,78001,"A famílies i institucions sense finalitat lucrativa, rehabilitació de patrimoni Decret 71/94"
-2016,G,74350,Ciutat Romana de Pol·lèntia
-2016,G,44500,A altres fundacions en què participi la CAIB
-2016,G,91000,Amortització de préstecs a curt termini d'ens del sector públic
-2016,G,25413,"Serveis assistencials concertats/prestats per tercers, oxigenoterapia"
-2016,G,25414,"Serveis assistencials concertats/prestats per tercers, aerosolteràpia"
-2016,G,22716,"Serveis de professionals independents, llicenciats sanitaris"
-2016,G,74371,Embelliment de la Platja de Palma
-2016,G,74403,Conservatori de Música
-2016,G,74422,Escola Superior d'Art Dramàtic de les IB
-2016,G,74424,Atenció i Suport a la Dependència i Promoció de l'Autonomia Personal de Persones amb Discapacitats
-2016,G,74100,A empreses públiques no societàries i altres ens públics de la CAIB
-2016,G,25411,"Serveis assistencials concertats/prestats per tercers, Fundació Kovacs"
-2016,G,48001,"A partits polítics, subvencions per a despeses electorals"
-2016,G,60003,Indemnitzacions per terrenys i béns naturals
-2016,G,74116,Radiotelevisió de les IB
-2016,G,48022,"A famílies i institucions, subvencions per a transport escolar"
-2016,G,76900,A altres ens territorials
-2016,G,91200,Amortització de préstecs a curt termini d'ens de fora del sectro públic
-2016,G,48999,"Receptes mèdiques, exercicis anteriors"
-2016,G,12505,Retribucions complementàries personal estatutario temporal
-2016,G,22999,Obligacions d'exercicis anteriors
-2016,G,48102,"A centres d'ensenyament concertats, RETA i substitucions"
-2016,G,44432,Orquestra Simfònica Illes Balears
-2016,G,87304,Institut d'Estudis Baleàrics
-2016,G,64016,Aplicacions informàtiques en curs
-2016,G,25213,"Serveis assistencials concertats/prestats per tercers, Policlínica Miramar"
 2016,G,12007,"Sous del grup A2, personal de contingent"
+2016,G,12112,"Productivitat sanitària, fixa i compensada"
 2016,G,12114,"Complement per atenció continuada, personal de contingent preintegrat"
+2016,G,12400,Sous del grup A1
+2016,G,12505,Retribucions complementàries personal estatutario temporal
+2016,G,13019,"Carrera i desenvolupament professional, personal laboral"
+2016,G,13300,Retribucions de personal contractat d'investigació
 2016,G,16109,Altres prestacions socials
 2016,G,21000,D'infraestructura i béns naturals
-2016,G,30004,"Interessos, obligacions CAIB 2009"
-2016,G,30007,"Interessos, obligacions CAIB 2012"
-2016,G,44006,"Serveis de Millora Agrària, SA"
-2016,G,44009,"Serveis d'Informació Territorial de les IB, SA"
-2016,G,62000,Terrenys i béns naturals
-2016,G,64002,Drets reals i concessions administratives
-2016,G,74006,"Serveis de Millora Agrària, SA"
-2016,G,74009,"Serveis d'Informació Territorial de les IB, SA"
-2016,G,74303,Pla Mirall
-2016,G,74500,A altres fundacions en què participi la CAIB
-2016,G,87001,Radiotelevisió de les IB
-2016,G,87002,Institut Balear de l'Habitatge
-2016,G,87003,Serveis Ferroviaris de Mallorca
-2016,G,87004,Institut d'Infraestructures i Serveis Educatius i Culturals de les IB
-2016,G,87201,Illes Balears per a l'esport ILLESPORT
-2016,G,87301,"Música de les IB, Orquestra Simfònica de les IB"
-2016,G,87302,Protecció i Acollida de Persones Disminuïdes Psíquiques Profundes
-2016,G,87303,Aigües de les IB
-2016,G,13300,Retribucions de personal contractat d'investigació
+2016,G,22144,Seguretat
+2016,G,22302,Transport aeri sanitari
 2016,G,22405,"Primes d'assegurances, altres assegurances"
 2016,G,22710,Serveis assistencials de professionals tècnics sanitaris
+2016,G,22716,"Serveis de professionals independents, llicenciats sanitaris"
+2016,G,22999,Obligacions d'exercicis anteriors
 2016,G,23002,Trasllats
+2016,G,24002,"Dotació per a serveis nous, oficina d'habitatge"
 2016,G,25100,"Serveis assistencials concertats/prestats per tercers, atenció primària"
 2016,G,25101,"Serveis assistencials concertats/prestats per tercers, prevenció del càncer de mama"
 2016,G,25201,"Serveis assistencials concertats/prestats per tercers, GESMA"
 2016,G,25203,"Serveis assistencials concertats/prestats per tercers, FH Manacor"
 2016,G,25204,"Serveis assistencials concertats/prestats per tercers, FH Son Llàtzer"
+2016,G,25213,"Serveis assistencials concertats/prestats per tercers, Policlínica Miramar"
 2016,G,25218,"Serveis assistencials concertats/prestats per tercers, Hospital Comarcal d'Inca"
+2016,G,25411,"Serveis assistencials concertats/prestats per tercers, Fundació Kovacs"
+2016,G,25413,"Serveis assistencials concertats/prestats per tercers, oxigenoterapia"
+2016,G,25414,"Serveis assistencials concertats/prestats per tercers, aerosolteràpia"
+2016,G,30002,"Interessos, obligacions CAIB 1998"
+2016,G,30004,"Interessos, obligacions CAIB 2009"
+2016,G,30007,"Interessos, obligacions CAIB 2012"
 2016,G,30100,"Despeses d'emissió, modificació i cancel·lació"
+2016,G,44000,A empreses públiques societàries i altres ens públics de la CAIB
 2016,G,44003,"Institut de Biologia Animal de les IB, SA"
+2016,G,44006,"Serveis de Millora Agrària, SA"
+2016,G,44009,"Serveis d'Informació Territorial de les IB, SA"
 2016,G,44013,"CAIB Patrimoni, SA, SA"
+2016,G,44109,Gestió Sanitària de Mallorca
 2016,G,44120,Agència de Cooperació Internacional de les IB
+2016,G,44125,Hospital Comarcal d'Inca
 2016,G,44126,Espais de Natura Balear
 2016,G,44127,Transports de Mallorca
-2016,G,44358,Museu Torrens Lladó
-2016,G,44376,Penya-segat del Port de Maó
-2016,G,44509,Pro Real Academia Española
-2016,G,48033,"A famílies i institucions, subvencions per a transport interurbà"
-2016,G,48037,"A famílies i institucions, beques per assistència"
-2016,G,48047,"A famílies i institucions, ajuts i subvencions per a guarderia i custòdia"
-2016,G,48922,Tires reactives
-2016,G,48924,Farmaciola d'empreses
-2016,G,63000,Terrenys i béns naturals
-2016,G,64021,Campanyes de salut
-2016,G,74003,"Institut de Biologia Animal de Balears, SA"
-2016,G,74120,Agència de Cooperació Internacional de les IB
-2016,G,74126,Espais de Natura Balear
-2016,G,74127,Consorci de Transports de Mallorca
-2016,G,74376,Penya-Segat Port de Maò
-2016,G,12112,"Productivitat sanitària, fixa i compensada"
-2016,G,12400,Sous del grup A1
-2016,G,22144,Seguretat
-2016,G,30002,"Interessos, obligacions CAIB 1998"
-2016,G,44000,A empreses públiques societàries i altres ens públics de la CAIB
-2016,G,44109,Gestió Sanitària de Mallorca
-2016,G,44125,Hospital Comarcal d'Inca
+2016,G,44131,Telecomunicacions i Innovació de les IB
+2016,G,44132,Institut d'Estudis Baleàrics
 2016,G,44200,A empreses vinculades i altres ens participats per la CAIB
 2016,G,44204,"Carn Illa, SA"
 2016,G,44337,Escola Balear de l'Esport
 2016,G,44341,Institut Ramon Llull
 2016,G,44357,La Gola
+2016,G,44358,Museu Torrens Lladó
+2016,G,44372,Reconversió Territorial i Paisatgística de determinades zones d'Eivissa
+2016,G,44376,Penya-segat del Port de Maó
 2016,G,44406,Mateu Orfila
 2016,G,44407,Desenvolupament Sostenible de les IB
 2016,G,44418,Hospital Son Llàtzer
 2016,G,44419,Hospital de Manacor
 2016,G,44420,Balears a l'Exterior
+2016,G,44432,Orquestra Simfònica Illes Balears
+2016,G,44500,A altres fundacions en què participi la CAIB
 2016,G,44506,Museu i Centre de Cultura de Formentera
+2016,G,44509,Pro Real Academia Española
+2016,G,44801,Transports de Mallorca
+2016,G,44823,"Protecció i Acollida de Persones Disminuïdes Psíquiques Profundes, subvencions"
+2016,G,44839,"Fons Mallorquí de Solidaritat i Cooperació, subvencions"
+2016,G,44850,Ciutat romana de Pol·lentia
+2016,G,44851,Castell de Sant Carles
+2016,G,44852,Museu Militar de Menorca
+2016,G,44859,Eivissa patrimoni de la humanitat
+2016,G,44863,"Fons Menorquí de Cooperació, subvencions"
+2016,G,44864,"Fons Pitiús de Cooperació, subvencions"
+2016,G,44879,Aigües de les IB
+2016,G,48001,"A partits polítics, subvencions per a despeses electorals"
 2016,G,48002,Consell de la Joventut de les IB
+2016,G,48022,"A famílies i institucions, subvencions per a transport escolar"
+2016,G,48033,"A famílies i institucions, subvencions per a transport interurbà"
+2016,G,48037,"A famílies i institucions, beques per assistència"
+2016,G,48047,"A famílies i institucions, ajuts i subvencions per a guarderia i custòdia"
+2016,G,48078,Fundació Universitat-Empresa de les IB
+2016,G,48079,Associació d'amics del poble Saharaui de les IB
+2016,G,48080,Cambra de Comerç de Mallorca
+2016,G,48081,Cambra de Comerç de Menorca
+2016,G,48082,Cambra de Comerç d'Eivissa i Formentera
+2016,G,48083,Fundació de Graduats Socials de les IB
+2016,G,48102,"A centres d'ensenyament concertats, RETA i substitucions"
+2016,G,48922,Tires reactives
+2016,G,48924,Farmaciola d'empreses
+2016,G,48999,"Receptes mèdiques, exercicis anteriors"
+2016,G,60003,Indemnitzacions per terrenys i béns naturals
 2016,G,60112,Infraestructures hidràuliques
+2016,G,62000,Terrenys i béns naturals
 2016,G,62202,Construccions
+2016,G,63000,Terrenys i béns naturals
 2016,G,63202,Construccions
+2016,G,64002,Drets reals i concessions administratives
+2016,G,64008,Creació de l'ens públics Energia i Camvi Climátic
+2016,G,64016,Aplicacions informàtiques en curs
+2016,G,64021,Campanyes de salut
+2016,G,64028,Campanyes de vacunacions
+2016,G,74003,"Institut de Biologia Animal de Balears, SA"
+2016,G,74006,"Serveis de Millora Agrària, SA"
 2016,G,74008,"Desenvolupament del Parc Balear d'Innovació Tecnològica, SA"
+2016,G,74009,"Serveis d'Informació Territorial de les IB, SA"
+2016,G,74100,A empreses públiques no societàries i altres ens públics de la CAIB
 2016,G,74109,Gestió Sanitària de Mallorca
+2016,G,74116,Radiotelevisió de les IB
+2016,G,74120,Agència de Cooperació Internacional de les IB
 2016,G,74125,Hospital Comarcal d'Inca
+2016,G,74126,Espais de Natura Balear
+2016,G,74127,Consorci de Transports de Mallorca
+2016,G,74131,Telecomunicacions i Innovació de les IB
+2016,G,74303,Pla Mirall
 2016,G,74337,Escola Balear de l'Esport EBE
+2016,G,74350,Ciutat Romana de Pol·lèntia
 2016,G,74357,La Gola
+2016,G,74371,Embelliment de la Platja de Palma
+2016,G,74376,Penya-Segat Port de Maò
 2016,G,74401,Iles Balears per a la Innovació Tecnològica IBIT
+2016,G,74403,Conservatori de Música
 2016,G,74406,Mateu Orfila
 2016,G,74418,Hospital Son Llàtzer
 2016,G,74419,Hospital de Manacor
+2016,G,74421,Banc de Sang i Teixits de les IB
+2016,G,74422,Escola Superior d'Art Dramàtic de les IB
+2016,G,74424,Atenció i Suport a la Dependència i Promoció de l'Autonomia Personal de Persones amb Discapacitats
+2016,G,74500,A altres fundacions en què participi la CAIB
+2016,G,74506,Museu i Centre de Cultura de Formentera
+2016,G,74729,"Serveis de Millora Agrària, subvencions"
+2016,G,74850,"Ciutat Romana de Pol·lentia, subvencions"
+2016,G,74859,"Eivissa patrimoni de la humanitat, subvencions"
+2016,G,74879,"Aigües de les IB, subvencions"
+2016,G,76001,"A ajuntaments, subvencions"
+2016,G,76900,A altres ens territorials
+2016,G,78001,"A famílies i institucions sense finalitat lucrativa, rehabilitació de patrimoni Decret 71/94"
+2016,G,87001,Radiotelevisió de les IB
+2016,G,87002,Institut Balear de l'Habitatge
+2016,G,87003,Serveis Ferroviaris de Mallorca
+2016,G,87004,Institut d'Infraestructures i Serveis Educatius i Culturals de les IB
 2016,G,87100,Aportacions patrimonials
+2016,G,87201,Illes Balears per a l'esport ILLESPORT
+2016,G,87301,"Música de les IB, Orquestra Simfònica de les IB"
+2016,G,87302,Protecció i Acollida de Persones Disminuïdes Psíquiques Profundes
+2016,G,87303,Aigües de les IB
+2016,G,87304,Institut d'Estudis Baleàrics
+2016,G,91000,Amortització de préstecs a curt termini d'ens del sector públic
+2016,G,91200,Amortització de préstecs a curt termini d'ens de fora del sectro públic
 2016,G,2018/AGIB00/1,Despeses de personal
 2016,G,2018/AGIB00/2,Despeses corrents en béns i serveis
 2016,G,2018/AGIB00/3,Despeses financeres

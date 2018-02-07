@@ -1,473 +1,616 @@
-2018,0,Deute públic
-2018,1,Funcionament institucional i administració general
-2018,2,Serveis públics generals
-2018,3,Protecció i promoció social
-2018,4,Producció de béns públics de caràcter social
-2018,5,Producció de béns públics de caràcter econòmic
-2018,7,Foment i regulació de sectors productius
-2018,8,Fons de contingència
-2018,9,Suport financer a altres administracions públiques
-2018,1,Funcionament institucional i administració general
-2018,4,Producció de béns públics de caràcter social
-2018,01,Deute públic
-2018,11,Alta direcció de la Comunitat Autònoma i del Govern
-2018,12,Administració i serveis generals
-2018,13,Relacions institucionals i processos electorals
-2018,14,Regulació econòmica
-2018,15,"Transparència, comunicació i participació"
-2018,21,Justícia
-2018,22,Seguretat i protecció civil
-2018,23,Relacions exteriors i cooperació per al desenvolupament
-2018,31,Protecció social
-2018,32,Promoció social
-2018,41,Salut
-2018,42,Educació
-2018,43,Habitatge
-2018,44,Consum
-2018,45,Cultura
-2018,46,Esports
-2018,51,Infraestructures bàsiques i transports
-2018,52,Transports
-2018,53,Ordenació del territori i urbanisme
-2018,54,"Recerca científica, tècnica i aplicada"
-2018,55,Societat de la informació i el coneixement i telecomunicacions
-2018,56,Cicle de l'aigüa
-2018,57,Actuacions ambientals
-2018,58,Infraestructures agràries i rurals
-2018,59,Altres actuacions de caràcter econòmic
-2018,71,"Agricultura, ramaderia i pesca"
-2018,72,Indústria
-2018,73,Energia
-2018,75,Turisme
-2018,76,Comerç
-2018,81,Fons de contingència
-2018,91,Suport financer a altres administracions públiques
-2018,14,Regulació econòmica
-2018,41,Salut
-2018,011,Deute públic
-2018,111,Alta direcció de la Comunitat Autònoma IB
-2018,121,Serveis generals i funció pública
-2018,126,Altres serveis generals
-2018,131,Relacions institucionals
-2018,141,Política econòmica i pressupostària
-2018,151,"Transparència, comunicació i participació"
-2018,211,Actuacions en matèria de justícia
-2018,222,Seguretat i ordre públic
-2018,223,Protecció civil
-2018,231,Relacions exteriors
-2018,232,Cooperació internacional
-2018,313,Serveis socials
-2018,314,Pensions i altres prestacions econòmiques
-2018,322,Promoció de l'ocupació
-2018,323,Promoció sociocultural
-2018,324,Relacions laborals
-2018,411,Administració general de salut
-2018,413,Accions públiques relatives a la salut
-2018,421,Administració general d'educació
-2018,422,Ensenyament
-2018,423,Promoció educativa
-2018,431,Habitatge
-2018,441,"Ordenació, control i informació sobre el consum"
-2018,451,Administració general de cultura
-2018,455,Promoció cultural
-2018,461,Esports
-2018,511,Administració general d'infraestructures bàsiques i de transports
-2018,521,Transport terrestre
-2018,522,Transports aéris i marítims
-2018,531,Ordenació del territori
-2018,541,Recerca i documentació científica
-2018,542,Recerca tècnica i aplicada
-2018,551,Societat de la informació i del coneixement i telecomunicacions
-2018,561,Recursos hidràulics
-2018,562,Sanejament i proveïment d'aigües
-2018,571,Protecció i conservació del medi natural
-2018,572,Prevenció i control ambiental
-2018,581,Infraestructures per el desenvolupament rural
-2018,591,Cartografía i estadística
-2018,711,"Administració general d'aagricultura, ramaderia i pesca"
-2018,714,Ordenació de les produccions i regulació dels mercats
-2018,718,Proteció dels recursos pesquers i reforma estructural del sector
-2018,722,Actuacions administratives sobre les indústries
-2018,723,Reconversió i modernització del sector industrial
-2018,731,Planificació i producció energètica
-2018,751,Ordenació i promoció turística
-2018,761,Comerç
-2018,811,Fons de contingència
-2018,912,Soporte financiero a corporaciones locales
-2018,142,Gestió del sistema tributari
-2018,411,Administració general de salut
-2018,412,"Hospitals, serveis assistencials i centres de salut"
-2018,011A,Amortització i despeses financeres de deute públic
-2018,111A,Activitat legislativa
-2018,111B,Control extern de les administracions
-2018,111C,Assessorament consultiu institucional
-2018,111D,"Assessorament matèria social, econòmica i laboral"
-2018,111E,Control patrimonial dels alts càrrecs
-2018,111F,Control dels mitjans de comunicació audiovisuals
-2018,121A,Serveis generals de la Presidència del Govern
-2018,121B,Direcció i serveis generals de Presidència
-2018,121C,Coordinació de programes del Govern
-2018,121G,Formació i selecció del personal
-2018,121H,Gestió dels recursos humans
-2018,121I,Salut i prevenció de riscs laborals a l'administració
-2018,121L,"Direcció i serveis generals de Treball, Comerç i Indústria"
-2018,126B,Publicacions i BOIB
-2018,126E,Serveis de l'advocacia i coordinació dels serveis jurídics de la CAIB
-2018,126F,Serveis comuns generals
-2018,126H,"Assessorament, estudi, recerca i difusió normativa"
-2018,126I,Gestió del parc mòbil
-2018,126J,Gestió de la central de contractació
-2018,126K,Gestió de la Junta Consultiva de Contractació
-2018,126L,Serveis comuns tecnològics
-2018,126M,Contractació centralitzada
-2018,131A,Relacions amb el Parlament de les IB
-2018,131B,Relacions i cooperació amb altres admistración públiques i altres ens públics
-2018,131C,Foment de la participació de centres i cases regionals
-2018,131D,Polítiques de Memòria
-2018,141A,Direcció i serveis generals d'hisenda i administracions públiques
-2018,141B,Planificación pressupostària i finançament
-2018,141C,Gestió comptable i control intern
-2018,141D,Planificació i ordenació de la política econòmica
-2018,141E,Gestió de tresoreria i política financera
-2018,141F,Organització i gestió del patrimoni de la Comunitat Autònoma
-2018,141G,Gestió dels fons procedents de la UE
-2018,151A,Comunicació institucional
-2018,151C,"Qualitat, transparència i participació"
-2018,151D,Participación y voluntariat
-2018,211A,Col·laboracions institucionals en matèria de justicia
-2018,222A,Seguretat als edificis administratius de la CAIB
-2018,222B,Activitats classificades i espectacles
-2018,222C,Actuació de policies
-2018,223A,Emergències
-2018,231A,Coordinació de l'acció exterior del Govern
-2018,231B,Foment i relacions amb comunitats balears radicades a l'exterior
-2018,232A,Cooperació internacional
-2018,313B,Atenció a la discapacitat
-2018,313C,Mesures judicials i prevenció del delicte
-2018,313D,Atenció a la dependència
-2018,313F,Protecció i defensa dels drets dels menors
-2018,313G,Família i unitats de convivència
-2018,313I,Planificació i ordenació social
-2018,313J,Integració social d'immigrants
-2018,313K,Direcció i serveis generals de Serveis Socials i Cooperació
-2018,314A,Pensions i prestacions econòmiques
-2018,322A,Ocupació i inserció laboral específiques
-2018,322B,Gestió de les relacions laborals
-2018,322D,Foment i gestió de l'ocupació de les Illes Balears
-2018,322E,"Impuls del Turisme Sostenible (ITS), projectes d'ocupació"
-2018,323A,Protecció i foment de la  integració i de la participació social de la joventut
-2018,323C,"Promoció, protecció i serveis per a la dona"
-2018,324A,Salut i prevenció de riscs laborals
-2018,411A,Direcció i serveis generals de Salut
-2018,411D,"Planificació, avaluació i cartera de serveis"
-2018,411E,Finançament de la sanitat pública
-2018,413A,"Acreditació, docència i recerca en salut"
-2018,413B,Programes de salut pública
-2018,413C,Sanitat ambiental i alimentària
-2018,413D,Coordinació de centres insulars
-2018,413E,Pla autonòmic de drogues
-2018,413F,"Planificació, control i gestió del medicament i dels serveis farmacèutics"
-2018,421A,Direcció i serveis generals d'Educació i Universitat
-2018,421B,Ordenació general del sistema educatiu
-2018,421C,Planificació educativa i règim de centres escolars
-2018,421D,Formació del professorat
-2018,421E,Projectes lingüístics
-2018,421F,Política i actuacions en matèria universitària
-2018,421G,Formació professional i aprenentatge permanent
-2018,421H,Inspecció educativa
-2018,421I,Administració i serveis de suport a l'ensenyament
-2018,421K,Innovació i comunitat educativa
-2018,422A,Educació pública
-2018,422B,Educació concertada
-2018,423B,Altres serveis a l'ensenyament
-2018,431A,Gestió i foment de l'habitatge social
-2018,431B,"Arquitectura, habitatge i protecció del patrimoni"
-2018,441A,Protecció i defensa del consumidor
-2018,451A,"Direcció i serveis generals de, Cultura, Transparància i Esports"
-2018,455A,Promoció i serveis de cultura
-2018,455B,Planificació i normalització de la llengua catalana
-2018,455C,"Impuls del Turisme Sostenible (ITS), projectes de patrimoni cultural"
-2018,461A,Promoció i foment de l'esport
-2018,511B,"Direció i serveis generals de territori, energía i mobilitat"
-2018,521A,Infraestructures bàsiques
-2018,521B,Ordenació i inspecció del transport terrestre
-2018,521C,Transport ferroviari
-2018,521D,Transport per carretera
-2018,522A,Ports i transport marítim
-2018,522B,Aeroports i transport aeri
-2018,531A,Ordenació del territori i urbanisme
-2018,541A,Recerca i desenvolupament tecnològic
-2018,541B,"Impuls del Turisme Sostenible (ITS), projectes de reçerca"
-2018,542A,Innovació
-2018,551A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
-2018,551B,Gestió de sistemes i tecnologies de la informació
-2018,551C,Mitjans de comunicació social
-2018,561A,"Protecció, control i defensa del domini públic hidràulic. Directiva marc de l'aigüa"
-2018,562A,Abastament d'aigües
-2018,562B,Sanejament i depuració d'aigües
-2018,571A,Gestió de residus
-2018,571B,Educació ambiental
-2018,571C,Gestió d'espais naturals
-2018,571D,Conservació i millora del medi natural
-2018,571E,Planificació forestal
-2018,571F,Espècies silvestres
-2018,571G,Sanitat forestal
-2018,571H,"Impuls del Turisme Sostenible (ITS), projectes medioambientals"
-2018,572A,Seguiment i control del canvi climàtic
-2018,572B,Qualitat ambiental i sostenibilitat
-2018,581A,Infraestructures de regadiu
-2018,591A,Estadística
-2018,591B,Cartografía
-2018,711A,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
-2018,714B,Foment del sector agrari de les IB
-2018,718A,Recursos marins i ordenació del sector pesquer
-2018,722A,Regulació i normativa industrial
-2018,723A,Promoció industrial
-2018,731A,Foment de l'ús d'energies renovables i de l'estalvi d'energia
-2018,751A,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
-2018,751B,Promoció del turisme
-2018,751C,Ordenació del sector i redefinició del model turístic
-2018,751D,"Impuls del Turisme Sostenible (ITS), projectes turístics"
-2018,761A,Ordenació i promoció comercial i empresarial
-2018,761B,Gestió en matèria de joc
-2018,811A,Fons de contingència
-2018,912A,Suport financer als consells insulars
-2018,912B,Suport financer a ajuntament i altres entitats locals
-2018,142A,Gestió i inspecció de tributs
-2018,142B,Suport a la gestió tributaria
-2018,411B,Administració i serveis generals de l'assistència sanitària
-2018,411C,Formació del personal sanitari
-2018,412A,Atenció primària de salut
-2018,412B,Atenció especialitzada de salut
-2018,412C,Assistència sociosanitària i salut mental
-2018,412D,Assistència sanitària
-2018,011A01,Amortització i despeses financeres de Deute Públic
-2018,111A01,Activitat legislativa
-2018,111B01,Control extern de les administracions
-2018,111C01,Assessorament consultiu institucional
-2018,111D01,"Assessorament en matèria social, econòmica i laboral"
-2018,111E01,Control patrimonial dels càrrecs públics
-2018,111F01,Control del mitjans de comunicació audiovisuals
-2018,121A01,Serveis generals de la Presidència del Govern
-2018,121A02,Obertura a la ciutadania dels edificis de Presidència
-2018,121B01,Direcció i serveis generals de Presidència
-2018,121B02,Manteniment i conservació del complex de Marivent
-2018,121C01,Coordinació dels programes de Govern
-2018,121C02,Polítiques en matèria d'igualtat
+2018,112G,Reorganització i racionalització del sector públic instrumental de la CAIB
+2018,112G01,Reorganització i racionalització del sector públic instrumental de la CAIB
+2018,112G99,Pagaments compte 409 OPAP exercicis anteriors
 2018,121C03,Immersió digital
-2018,121G01,Formació i selecció del personal
-2018,121H01,Gestió de recursos humans
-2018,121I01,Salut i prevenció de riscs laborals a l'Administració
+2018,121C99,Pagaments compte 409 OPAP exercicis anteriors
 2018,121L01,"Direcció i serveis generals de Treball, Comerç i Indústria"
-2018,126B01,Publicacions i Butlletí Oficial Illes Balears
-2018,126E01,Serveis de l'Advocacia i coordinació dels serveis jurídics de la CAIB
-2018,126F01,Serveis comuns generals
-2018,126H01,"Assessorament, estudi, recerca i difusió normativa"
-2018,126H02,Publicacions
-2018,126I01,Gestió del parc mòbil
-2018,126J01,Gestió de la central de contractació
-2018,126K01,Gestió de la Junta Consultiva de Contractació
-2018,126L01,Serveis comuns tecnològics
-2018,126M01,Contractació centralitzada
-2018,131A01,Relacions amb el Parlament
-2018,131B01,Foment de l'acció cívica
-2018,131B02,Rememoració efemèrides pròpies de la Comunitat Autònoma
-2018,131C01,Foment de la participació de centres i cases regionals
+2018,126B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,126F99,Pagaments compte 409 OPAP exercicis anteriors
+2018,126H99,Pagaments compte 409 OPAP exercicis anteriors
+2018,131B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,131C99,Pagaments compte 409 OPAP exercicis anteriors
 2018,131D01,Polítiques de Memòria
-2018,141A01,Direcció i serveis generals d' Hisenda i Administracions Públiques
-2018,141B01,Planificació i política pressupostària
-2018,141C01,Gestió comptable i control intern
-2018,141D01,Planificació i ordenació de la política econòmica
-2018,141E01,Gestió de tresoreria i política financera
-2018,141F01,Organització i gestió del Patrimoni de la Comunitat Autònoma
-2018,141G01,Gestió dels fons procedents de la Unió Europea
-2018,151A01,Publicitat institucional
-2018,151A02,Comunicació institucional
-2018,151C01,Qualitat al Govern de les Illes Balears
-2018,151C02,Atenció i informació a la ciutadania
-2018,151C03,Transparència i bona governança
-2018,151C04,Responsabilitat social corporativa
+2018,132A,Eleccions i partits polítics
+2018,132A01,Eleccions i partits polítics
+2018,132A01,Eleccions i partits polítics
+2018,141E99,Pagaments compte 409 OPAP exercicis anteriors
+2018,151B,Foment de projectes de comunicació i d'interès social
+2018,151B01,Foment de projectes de comunicació i d'interès social
+2018,151B99,Pagaments compte 409 OPAP exercicis anteriors
 2018,151D01,Participació
 2018,151D02,Voluntariat
-2018,211A01,Col·laboracions institucionals en matèria justícia
-2018,222A01,Seguretat als edificis administratius de la CAIB
-2018,222B01,Activitats classificades i espectacles
-2018,222C01,Actuació de policies
-2018,223A01,Emergències
-2018,231A01,Participació en organismes interregionals
-2018,231A02,Impuls i coordinació de l'acció exterior
-2018,231B01,Foment i relacions amb comunitats balears radicades a l'exterior
-2018,232A01,Cooperació internacional
-2018,232A02,Cooperació amb entitats
-2018,313B01,Atenció a la discapacitat
-2018,313C01,Mesures judicials i prevenció del delicte
-2018,313D01,Atenció a la dependència
-2018,313F01,Protecció i defensa dels drets dels menor
-2018,313G01,Suport a la infància i a la família
-2018,313G02,Programa d'emancipació
-2018,313I01,Planificació i ordenació socials
-2018,313I02,Construcció de centres de serveis socials
-2018,313I03,Rendes socials
-2018,313J01,Integració social d'immigrants
-2018,313K01,Direcció i serveis generals de Serveis Socials i Cooperació
-2018,314A01,Pensions i prestacions econòmiques
-2018,322A01,Ocupació i inserció laboral específiques
-2018,322B01,Gestió de les relacions laborals
-2018,322D01,Direcció i serveis generals del Servei d'Ocupació de les IB
-2018,322D02,Orientació i informació laboral
-2018,322D03,Formació per a desocupats
-2018,322D04,Gestió d'accions formatives
-2018,322D05,Foment de l'ocupació
-2018,322D06,Formació professional dirigida a desocupats
-2018,322D08,Oportunitats d'ocupació i formació
+2018,211A99,Pagaments compte 409 OPAP exercicis anteriors
+2018,222B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,222C99,Pagaments compte 409 OPAP exercicis anteriors
+2018,232A99,Pagaments compte 409 OPAP exercicis anteriors
+2018,313L,Ajuda a les víctimes del delicte
+2018,313L01,Ajuda a les víctimes de delictes
+2018,322B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,322C,Foment de la responsabilitat social corporativa
+2018,322D50,"Foment i gestió de l'ocupació a les IB, no justificable Conferèecia Sectorial"
 2018,322E01,"Impuls del Turisme Sostenible (ITS), projectes d'ocupació"
-2018,323A01,Protecció i foment de la  integració i foment de la participació social de la joventut
-2018,323A02,Consell de la Joventut de les IB
-2018,323C01,"Promoció, protecció i serveis per a la dona"
-2018,323C02,Igualtat de dones i homes
-2018,323C03,Violències masclistes
-2018,324A01,Salut i prevenció de riscs laborals
-2018,411A01,Direcció i serveis generals de Salut
-2018,411D01,"Planificació, avaluació i cartera de serveis"
-2018,411E01,Finançament sanitari
-2018,413A01,"Acreditació, docència i recerca en salut"
-2018,413B01,Programes de salut pública
-2018,413B02,Campanyes de vacunació
-2018,413C01,Sanitat ambiental i alimentària
-2018,413C02,Laboratori de salut pública
-2018,413D01,Coordinació de centres insulars
-2018,413E01,Pla autonòmic de drogues
-2018,413F01,"Planificació, control i gestió del medicament i del serveis farmacèutics"
-2018,421A01,Direcció i serveis generals d'Educació i Universitat
-2018,421A02,Consell escolar de les IB
-2018,421A03,Institut de qualitat i avaluació del sistema educatiu
-2018,421B01,Ordenació general del sistema educatiu
-2018,421C01,Planificació educativa i règim de funcionament de centres escolars
-2018,421C02,Qualitat i millora continua del sistema educatiu
-2018,421D01,Formació del professorat
-2018,421D02,Pla cuadriennal de formació del professional docent
-2018,421D03,Pla de formació lingüística (FOLC)
+2018,411D99,Pagaments compte 409 OPAP exercicis anteriors
+2018,421B02,Programes internacionals
+2018,421B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,421C02,Institut d'avaluació i qualitat de l'ensenyament
+2018,421C03,Institut per a la convivència i l'èxit escolar
 2018,421D04,Dinamització lingüística
 2018,421D05,Formació homologada i capacitació
-2018,421E01,Llengües estrangeres i programes internacionals
-2018,421E03,Auxiliars de conversa
-2018,421E05,Projecte EuroFP II
 2018,421E07,Anglés FP
 2018,421E08,Ajuts a la immersió lingüística en anglés
-2018,421F01,Actuacions en matèria universitària
-2018,421F02,Agència de qualitat universitària de les  IB
-2018,421F03,Ensenyaments artístics superiors
-2018,421F04,Infraestructures universitàries
-2018,421F05,Ajuts per a desplaçaments i Euroregió
-2018,421F06,Convenis per a la implantació nous estudis universitaris
-2018,421F07,Transferència nominativa UIB
-2018,421F08,Millora de competitivitat de la UIB
-2018,421G01,Despeses generals de la Formació Professional
-2018,421G02,Institut de les qualificacions professionals
-2018,421G03,Despeses generals d'aprenentatge permanent
-2018,421G04,Assegurances FCT
-2018,421G05,Tutors FCT
-2018,421G06,Formació del professorat de la Formació Professional
-2018,421G07,Promoció de la Formació Professional
-2018,421G09,Proves lliures d'ESO i batxillerat
-2018,421G10,Conveni amb la Cambra de Comerç
-2018,421G11,Programa de qualificació inicial
-2018,421G12,Convenis amb ajuntaments i consells insulars
-2018,421G13,Compres d'equipament per a centres de Formació Professional
-2018,421H01,Inspecció educativa
-2018,421I01,Gestió i nòmines del personal docent
-2018,421I02,Serveis d'Educació Infantil
-2018,421I03,Serveis ESO
-2018,421I04,Serveis de Règim Especial
-2018,421I05,Serveis de Educació Especials
-2018,421I06,Serveis de Adults
-2018,421I07,Servei de prevenció de Personal Docent
-2018,421K01,Atenció a la diversitat
-2018,421K02,Innovació educativa
-2018,421K03,Comunitat educativa
-2018,421K04,Institut de l'Educació a la Primera Infància
-2018,421K05,Institut per a la Convivència i l'Èxit Escolar
-2018,421K06,Tecnologies de la informació i de la comunicació
-2018,421K07,Arxiu i Museu de l'Educació de les IB
-2018,422A01,Educació pública
-2018,422B01,Educació infantil concertada
-2018,422B02,Educació primària concertada
-2018,422B03,Educació secundària obligatòria i batxillerat concertats
-2018,422B04,Formació professional concertada
-2018,423B02,Equipament i mobiliari escolar
-2018,423B03,Infraestructures de centres docents
-2018,423B04,Funcionament de centres educatius
-2018,431A01,Gestió i foment de l'habitatge social
-2018,431B01,Habitatge
-2018,431B02,Arquitectura i protecció del patrimoni
-2018,441A01,Protecció i defensa del consumidor
-2018,451A01,"Direcció i serveis generals de Cultura, Participació i Esports"
-2018,455A01,Promoció i serveis de cultura
-2018,455A04,Museus
-2018,455A05,Arxius
-2018,455A06,Biblioteques
-2018,455B01,Planificació i normalització de la llengua catalana
-2018,455C01,"Impuls del Turisme Sostenible (ITS), projectes de patrimoni cultural"
-2018,461A01,Promoció i foment de l'esport
-2018,511B01,"Direcció i serveis generals de Territori, Energia i Mobilitat"
-2018,521A01,Infraestructures bàsiques
-2018,521B01,Ordenació i inspecció del transport terrestre
-2018,521C01,Transport ferroviari
-2018,521D01,Transport per carretera
-2018,522A01,Ports i transport marítim
-2018,522B01,Aeroports i transport aeri
-2018,531A01,Ordenació del territori i urbanisme
-2018,541A01,Recerca i desenvolupament
+2018,422A99,Pagaments compte 409 OPAP exercicis anteriors
+2018,422G,Tecnologies de la informació i la comunicació
+2018,422G01,Tecnologies de la informació i la comunicació a l'àmbit escolar
+2018,422G99,Pagaments compte 409 OPAP exercicis anteriors
+2018,422H,Suport al trilingüisme
+2018,422H01,Suport al trilinguisme
+2018,423A,Beques i ajuts
+2018,423A01,Beques i ajuts
+2018,423B01,Infraestructures a centres docents
+2018,423B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,431B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,443A,Administració i plans mediambientals
+2018,443A01,Administració i plans mediambientals
+2018,455A02,Formació i avaluació de la llengua
+2018,455C01,Promoció de la cultura de les IB
+2018,522B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,531A99,Pagaments compte 409 OPAP exercicis anteriors
+2018,541A02,Transferència del coneixement
 2018,541B01,"Impuls del Turisme Sostenible (ITS), projectes d'investigació"
-2018,542A01,Innovació
-2018,551A01,"Ordenació, regulació i desenvolupament de les telecomunicacions"
-2018,551B01,Gestió de sistemes i tecnologies de la informació
 2018,551C01,Mitjans de comunicació social
-2018,561A01,"Protecció, control i defensa del domini públic hidràulic"
 2018,561A02,Infraestructura hidràulica
-2018,562A01,Abastament d'aigües
-2018,562B01,Sanejament i depuració d'aigües
-2018,571A01,Gestió de residus
-2018,571B01,Educació ambiental
-2018,571C01,Gestió d'espais naturals
-2018,571C02,Planificació d'espais naturals protegits
+2018,561A99,Pagaments compte 409 OPAP exercicis anteriors
+2018,562A02,Gestió de la demanda
+2018,562A99,Pagaments compte 409 OPAP exercicis anteriors
+2018,571C02,Gestió de la Xarxa Natura 2000 i projectes
 2018,571C03,"Conservació dels hàbitats i protecció d'espècies, Xarxa Natura 2000"
-2018,571D01,Conservació i millora del medi natural
-2018,571E01,Planificació forestal
-2018,571F01,Espècies silvestres
-2018,571G01,Sanitat forestal
+2018,571F99,Pagaments compte 409 OPAP exercicis anteriors
 2018,571H01,"Impuls del Turisme Sostenible (ITS), projectes mediambientals"
-2018,572A01,Seguiment i control del canvi climàtic
-2018,572B01,Qualitat ambiental i sostenibilitat
-2018,581A01,Infraestructures de regadiu
-2018,591A01,Estadística
-2018,591B01,Cartografia
-2018,711A01,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
-2018,714B01,Agricultura
-2018,714B02,Ramaderia
 2018,714B03,Qualitat agroalimentària
 2018,714B04,Investigació i formació del sector agrari
 2018,714B05,Sanitat vegetal
-2018,718A01,Recursos marins
 2018,718A02,Ordenació del sector pesquer
-2018,722A01,Regulació i normativa industrial
-2018,723A01,Promoció industrial i tecnològica
-2018,731A01,Foment de l'ús d'energies renovables i de l'estalvi d'energia
-2018,751A01,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
-2018,751B01,Promoció turística
-2018,751C01,Ordenació del sector i redefinició del model turístic
+2018,718C,Programes europeus de pesca
+2018,718C01,Programes europeus de pesca
+2018,718C02,"Inversions FEP, recursos marins"
+2018,718C03,"Inversions FEP, ordenació de la pesca"
+2018,721A,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2018,731A99,Pagaments compte 409 OPAP exercicis anteriors
+2018,751C99,Pagaments compte 409 OPAP exercicis anteriors
 2018,751D01,"Impuls del Turisme Sostenible (ITS), projectes turístics"
-2018,761A01,Ordenació i promoció comercial
-2018,761A02,Promoció empresarial
-2018,761B01,Gestió en matèria de joc
-2018,811A01,Fons de contingència
-2018,912A01,Suport financer als consells insulars
-2018,912B01,Suport financer a ajuntaments i altres ens locals
-2018,142A01,Gestió i inspecció de tributs
-2018,142B01,Suport a la gestió tributaria
-2018,411B01,Administració i serveis generals de l'assistència sanitària
-2018,411C01,Formació del personal sanitari
-2018,412A01,Atenció primària de salut
-2018,412B01,Atenció especialitzada de salut
-2018,412C01,Assistència sociosanitària i salut mental
-2018,412D01,Assistència sanitària
+2018,761A99,Pagaments compte 409 OPAP exercicis anteriors
+2018,761B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,912B99,Pagaments compte 409 OPAP exercicis anteriors
+2018,2018/AGIB00/0,Deute públic
+2018,2018/AGIB00/1,Funcionament institucional i administració general
+2018,2018/AGIB00/2,Serveis públics generals
+2018,2018/AGIB00/3,Protecció i promoció social
+2018,2018/AGIB00/4,Producció de béns públics de caràcter social
+2018,2018/AGIB00/5,Producció de béns públics de caràcter econòmic
+2018,2018/AGIB00/7,Foment i regulació de sectors productius
+2018,2018/AGIB00/8,Fons de contingència
+2018,2018/AGIB00/9,Suport financer a altres administracions públiques
+2018,2018/ATIB00/1,Funcionament institucional i administració general
+2018,2018/SSIB00/4,Producció de béns públics de caràcter social
+2018,2018/AGIB00/01,Deute públic
+2018,2018/AGIB00/11,Alta direcció de la Comunitat Autònoma i del Govern
+2018,2018/AGIB00/12,Administració i serveis generals
+2018,2018/AGIB00/13,Relacions institucionals i processos electorals
+2018,2018/AGIB00/14,Regulació econòmica
+2018,2018/AGIB00/15,"Transparència, comunicació i participació"
+2018,2018/AGIB00/21,Justícia
+2018,2018/AGIB00/22,Seguretat i protecció civil
+2018,2018/AGIB00/23,Relacions exteriors i cooperació per al desenvolupament
+2018,2018/AGIB00/31,Protecció social
+2018,2018/AGIB00/32,Promoció social
+2018,2018/AGIB00/41,Salut
+2018,2018/AGIB00/42,Educació
+2018,2018/AGIB00/43,Habitatge
+2018,2018/AGIB00/44,Consum
+2018,2018/AGIB00/45,Cultura
+2018,2018/AGIB00/46,Esports
+2018,2018/AGIB00/51,Infraestructures bàsiques i transports
+2018,2018/AGIB00/52,Transports
+2018,2018/AGIB00/53,Ordenació del territori i urbanisme
+2018,2018/AGIB00/54,"Recerca científica, tècnica i aplicada"
+2018,2018/AGIB00/55,Societat de la informació i el coneixement i telecomunicacions
+2018,2018/AGIB00/56,Cicle de l'aigüa
+2018,2018/AGIB00/57,Actuacions ambientals
+2018,2018/AGIB00/58,Infraestructures agràries i rurals
+2018,2018/AGIB00/59,Altres actuacions de caràcter econòmic
+2018,2018/AGIB00/71,"Agricultura, ramaderia i pesca"
+2018,2018/AGIB00/72,Indústria
+2018,2018/AGIB00/73,Energia
+2018,2018/AGIB00/75,Turisme
+2018,2018/AGIB00/76,Comerç
+2018,2018/AGIB00/81,Fons de contingència
+2018,2018/AGIB00/91,Suport financer a altres administracions públiques
+2018,2018/ATIB00/14,Regulació econòmica
+2018,2018/SSIB00/41,Salut
+2018,2018/AGIB00/011,Deute públic
+2018,2018/AGIB00/111,Alta direcció de la Comunitat Autònoma IB
+2018,2018/AGIB00/121,Serveis generals i funció pública
+2018,2018/AGIB00/126,Altres serveis generals
+2018,2018/AGIB00/131,Relacions institucionals
+2018,2018/AGIB00/141,Política econòmica i pressupostària
+2018,2018/AGIB00/151,"Transparència, comunicació i participació"
+2018,2018/AGIB00/211,Actuacions en matèria de justícia
+2018,2018/AGIB00/222,Seguretat i ordre públic
+2018,2018/AGIB00/223,Protecció civil
+2018,2018/AGIB00/231,Relacions exteriors
+2018,2018/AGIB00/232,Cooperació internacional
+2018,2018/AGIB00/313,Serveis socials
+2018,2018/AGIB00/314,Pensions i altres prestacions econòmiques
+2018,2018/AGIB00/322,Promoció de l'ocupació
+2018,2018/AGIB00/323,Promoció sociocultural
+2018,2018/AGIB00/324,Relacions laborals
+2018,2018/AGIB00/411,Administració general de salut
+2018,2018/AGIB00/413,Accions públiques relatives a la salut
+2018,2018/AGIB00/421,Administració general d'educació
+2018,2018/AGIB00/422,Ensenyament
+2018,2018/AGIB00/423,Promoció educativa
+2018,2018/AGIB00/431,Habitatge
+2018,2018/AGIB00/441,"Ordenació, control i informació sobre el consum"
+2018,2018/AGIB00/451,Administració general de cultura
+2018,2018/AGIB00/455,Promoció cultural
+2018,2018/AGIB00/461,Esports
+2018,2018/AGIB00/511,Administració general d'infraestructures bàsiques i de transports
+2018,2018/AGIB00/521,Transport terrestre
+2018,2018/AGIB00/522,Transports aéris i marítims
+2018,2018/AGIB00/531,Ordenació del territori
+2018,2018/AGIB00/541,Recerca i documentació científica
+2018,2018/AGIB00/542,Recerca tècnica i aplicada
+2018,2018/AGIB00/551,Societat de la informació i del coneixement i telecomunicacions
+2018,2018/AGIB00/561,Recursos hidràulics
+2018,2018/AGIB00/562,Sanejament i proveïment d'aigües
+2018,2018/AGIB00/571,Protecció i conservació del medi natural
+2018,2018/AGIB00/572,Prevenció i control ambiental
+2018,2018/AGIB00/581,Infraestructures per el desenvolupament rural
+2018,2018/AGIB00/591,Cartografía i estadística
+2018,2018/AGIB00/711,"Administració general d'aagricultura, ramaderia i pesca"
+2018,2018/AGIB00/714,Ordenació de les produccions i regulació dels mercats
+2018,2018/AGIB00/718,Proteció dels recursos pesquers i reforma estructural del sector
+2018,2018/AGIB00/722,Actuacions administratives sobre les indústries
+2018,2018/AGIB00/723,Reconversió i modernització del sector industrial
+2018,2018/AGIB00/731,Planificació i producció energètica
+2018,2018/AGIB00/751,Ordenació i promoció turística
+2018,2018/AGIB00/761,Comerç
+2018,2018/AGIB00/811,Fons de contingència
+2018,2018/AGIB00/912,Soporte financiero a corporaciones locales
+2018,2018/ATIB00/142,Gestió del sistema tributari
+2018,2018/SSIB00/411,Administració general de salut
+2018,2018/SSIB00/412,"Hospitals, serveis assistencials i centres de salut"
+2018,2018/AGIB00/011A,Amortització i despeses financeres de deute públic
+2018,2018/AGIB00/111A,Activitat legislativa
+2018,2018/AGIB00/111B,Control extern de les administracions
+2018,2018/AGIB00/111C,Assessorament consultiu institucional
+2018,2018/AGIB00/111D,"Assessorament matèria social, econòmica i laboral"
+2018,2018/AGIB00/111E,Control patrimonial dels alts càrrecs
+2018,2018/AGIB00/111F,Control dels mitjans de comunicació audiovisuals
+2018,2018/AGIB00/121A,Serveis generals de la Presidència del Govern
+2018,2018/AGIB00/121B,Direcció i serveis generals de Presidència
+2018,2018/AGIB00/121C,Coordinació de programes del Govern
+2018,2018/AGIB00/121G,Formació i selecció del personal
+2018,2018/AGIB00/121H,Gestió dels recursos humans
+2018,2018/AGIB00/121I,Salut i prevenció de riscs laborals a l'administració
+2018,2018/AGIB00/121L,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2018,2018/AGIB00/126B,Publicacions i BOIB
+2018,2018/AGIB00/126E,Serveis de l'advocacia i coordinació dels serveis jurídics de la CAIB
+2018,2018/AGIB00/126F,Serveis comuns generals
+2018,2018/AGIB00/126H,"Assessorament, estudi, recerca i difusió normativa"
+2018,2018/AGIB00/126I,Gestió del parc mòbil
+2018,2018/AGIB00/126J,Gestió de la central de contractació
+2018,2018/AGIB00/126K,Gestió de la Junta Consultiva de Contractació
+2018,2018/AGIB00/126L,Serveis comuns tecnològics
+2018,2018/AGIB00/126M,Contractació centralitzada
+2018,2018/AGIB00/131A,Relacions amb el Parlament de les IB
+2018,2018/AGIB00/131B,Relacions i cooperació amb altres admistración públiques i altres ens públics
+2018,2018/AGIB00/131C,Foment de la participació de centres i cases regionals
+2018,2018/AGIB00/131D,Polítiques de Memòria
+2018,2018/AGIB00/141A,Direcció i serveis generals d'hisenda i administracions públiques
+2018,2018/AGIB00/141B,Planificación pressupostària i finançament
+2018,2018/AGIB00/141C,Gestió comptable i control intern
+2018,2018/AGIB00/141D,Planificació i ordenació de la política econòmica
+2018,2018/AGIB00/141E,Gestió de tresoreria i política financera
+2018,2018/AGIB00/141F,Organització i gestió del patrimoni de la Comunitat Autònoma
+2018,2018/AGIB00/141G,Gestió dels fons procedents de la UE
+2018,2018/AGIB00/151A,Comunicació institucional
+2018,2018/AGIB00/151C,"Qualitat, transparència i participació"
+2018,2018/AGIB00/151D,Participación y voluntariat
+2018,2018/AGIB00/211A,Col·laboracions institucionals en matèria de justicia
+2018,2018/AGIB00/222A,Seguretat als edificis administratius de la CAIB
+2018,2018/AGIB00/222B,Activitats classificades i espectacles
+2018,2018/AGIB00/222C,Actuació de policies
+2018,2018/AGIB00/223A,Emergències
+2018,2018/AGIB00/231A,Coordinació de l'acció exterior del Govern
+2018,2018/AGIB00/231B,Foment i relacions amb comunitats balears radicades a l'exterior
+2018,2018/AGIB00/232A,Cooperació internacional
+2018,2018/AGIB00/313B,Atenció a la discapacitat
+2018,2018/AGIB00/313C,Mesures judicials i prevenció del delicte
+2018,2018/AGIB00/313D,Atenció a la dependència
+2018,2018/AGIB00/313F,Protecció i defensa dels drets dels menors
+2018,2018/AGIB00/313G,Família i unitats de convivència
+2018,2018/AGIB00/313I,Planificació i ordenació social
+2018,2018/AGIB00/313J,Integració social d'immigrants
+2018,2018/AGIB00/313K,Direcció i serveis generals de Serveis Socials i Cooperació
+2018,2018/AGIB00/314A,Pensions i prestacions econòmiques
+2018,2018/AGIB00/322A,Ocupació i inserció laboral específiques
+2018,2018/AGIB00/322B,Gestió de les relacions laborals
+2018,2018/AGIB00/322D,Foment i gestió de l'ocupació de les Illes Balears
+2018,2018/AGIB00/322E,"Impuls del Turisme Sostenible (ITS), projectes d'ocupació"
+2018,2018/AGIB00/323A,Protecció i foment de la  integració i de la participació social de la joventut
+2018,2018/AGIB00/323C,"Promoció, protecció i serveis per a la dona"
+2018,2018/AGIB00/324A,Salut i prevenció de riscs laborals
+2018,2018/AGIB00/411A,Direcció i serveis generals de Salut
+2018,2018/AGIB00/411D,"Planificació, avaluació i cartera de serveis"
+2018,2018/AGIB00/411E,Finançament de la sanitat pública
+2018,2018/AGIB00/413A,"Acreditació, docència i recerca en salut"
+2018,2018/AGIB00/413B,Programes de salut pública
+2018,2018/AGIB00/413C,Sanitat ambiental i alimentària
+2018,2018/AGIB00/413D,Coordinació de centres insulars
+2018,2018/AGIB00/413E,Pla autonòmic de drogues
+2018,2018/AGIB00/413F,"Planificació, control i gestió del medicament i dels serveis farmacèutics"
+2018,2018/AGIB00/421A,Direcció i serveis generals d'Educació i Universitat
+2018,2018/AGIB00/421B,Ordenació general del sistema educatiu
+2018,2018/AGIB00/421C,Planificació educativa i règim de centres escolars
+2018,2018/AGIB00/421D,Formació del professorat
+2018,2018/AGIB00/421E,Projectes lingüístics
+2018,2018/AGIB00/421F,Política i actuacions en matèria universitària
+2018,2018/AGIB00/421G,Formació professional i aprenentatge permanent
+2018,2018/AGIB00/421H,Inspecció educativa
+2018,2018/AGIB00/421I,Administració i serveis de suport a l'ensenyament
+2018,2018/AGIB00/421K,Innovació i comunitat educativa
+2018,2018/AGIB00/422A,Educació pública
+2018,2018/AGIB00/422B,Educació concertada
+2018,2018/AGIB00/423B,Altres serveis a l'ensenyament
+2018,2018/AGIB00/431A,Gestió i foment de l'habitatge social
+2018,2018/AGIB00/431B,"Arquitectura, habitatge i protecció del patrimoni"
+2018,2018/AGIB00/441A,Protecció i defensa del consumidor
+2018,2018/AGIB00/451A,"Direcció i serveis generals de, Cultura, Transparància i Esports"
+2018,2018/AGIB00/455A,Promoció i serveis de cultura
+2018,2018/AGIB00/455B,Planificació i normalització de la llengua catalana
+2018,2018/AGIB00/455C,"Impuls del Turisme Sostenible (ITS), projectes de patrimoni cultural"
+2018,2018/AGIB00/461A,Promoció i foment de l'esport
+2018,2018/AGIB00/511B,"Direció i serveis generals de territori, energía i mobilitat"
+2018,2018/AGIB00/521A,Infraestructures bàsiques
+2018,2018/AGIB00/521B,Ordenació i inspecció del transport terrestre
+2018,2018/AGIB00/521C,Transport ferroviari
+2018,2018/AGIB00/521D,Transport per carretera
+2018,2018/AGIB00/522A,Ports i transport marítim
+2018,2018/AGIB00/522B,Aeroports i transport aeri
+2018,2018/AGIB00/531A,Ordenació del territori i urbanisme
+2018,2018/AGIB00/541A,Recerca i desenvolupament tecnològic
+2018,2018/AGIB00/541B,"Impuls del Turisme Sostenible (ITS), projectes de reçerca"
+2018,2018/AGIB00/542A,Innovació
+2018,2018/AGIB00/551A,"Ordenació, regulació i desenvolupament de les telecomunicacions"
+2018,2018/AGIB00/551B,Gestió de sistemes i tecnologies de la informació
+2018,2018/AGIB00/551C,Mitjans de comunicació social
+2018,2018/AGIB00/561A,"Protecció, control i defensa del domini públic hidràulic. Directiva marc de l'aigüa"
+2018,2018/AGIB00/562A,Abastament d'aigües
+2018,2018/AGIB00/562B,Sanejament i depuració d'aigües
+2018,2018/AGIB00/571A,Gestió de residus
+2018,2018/AGIB00/571B,Educació ambiental
+2018,2018/AGIB00/571C,Gestió d'espais naturals
+2018,2018/AGIB00/571D,Conservació i millora del medi natural
+2018,2018/AGIB00/571E,Planificació forestal
+2018,2018/AGIB00/571F,Espècies silvestres
+2018,2018/AGIB00/571G,Sanitat forestal
+2018,2018/AGIB00/571H,"Impuls del Turisme Sostenible (ITS), projectes medioambientals"
+2018,2018/AGIB00/572A,Seguiment i control del canvi climàtic
+2018,2018/AGIB00/572B,Qualitat ambiental i sostenibilitat
+2018,2018/AGIB00/581A,Infraestructures de regadiu
+2018,2018/AGIB00/591A,Estadística
+2018,2018/AGIB00/591B,Cartografía
+2018,2018/AGIB00/711A,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
+2018,2018/AGIB00/714B,Foment del sector agrari de les IB
+2018,2018/AGIB00/718A,Recursos marins i ordenació del sector pesquer
+2018,2018/AGIB00/722A,Regulació i normativa industrial
+2018,2018/AGIB00/723A,Promoció industrial
+2018,2018/AGIB00/731A,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2018,2018/AGIB00/751A,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2018,2018/AGIB00/751B,Promoció del turisme
+2018,2018/AGIB00/751C,Ordenació del sector i redefinició del model turístic
+2018,2018/AGIB00/751D,"Impuls del Turisme Sostenible (ITS), projectes turístics"
+2018,2018/AGIB00/761A,Ordenació i promoció comercial i empresarial
+2018,2018/AGIB00/761B,Gestió en matèria de joc
+2018,2018/AGIB00/811A,Fons de contingència
+2018,2018/AGIB00/912A,Suport financer als consells insulars
+2018,2018/AGIB00/912B,Suport financer a ajuntament i altres entitats locals
+2018,2018/ATIB00/142A,Gestió i inspecció de tributs
+2018,2018/ATIB00/142B,Suport a la gestió tributaria
+2018,2018/SSIB00/411B,Administració i serveis generals de l'assistència sanitària
+2018,2018/SSIB00/411C,Formació del personal sanitari
+2018,2018/SSIB00/412A,Atenció primària de salut
+2018,2018/SSIB00/412B,Atenció especialitzada de salut
+2018,2018/SSIB00/412C,Assistència sociosanitària i salut mental
+2018,2018/SSIB00/412D,Assistència sanitària
+2018,2017/AGIB00/011A01,Amortització i despeses financeres de Deute Públic
+2018,2017/AGIB00/011A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/111A01,Activitat legislativa
+2018,2017/AGIB00/111B01,Control extern de les administracions
+2018,2017/AGIB00/111C01,Assessorament consultiu institucional
+2018,2017/AGIB00/111C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/111D01,"Assessorament en matèria social, econòmica i laboral"
+2018,2017/AGIB00/111E01,Control patrimonial dels càrrecs públics
+2018,2017/AGIB00/111F01,Control del mitjans de comunicació audiovisuals
+2018,2017/AGIB00/121A01,Serveis generals de la Presidència del Govern
+2018,2017/AGIB00/121A02,Obertura a la ciutadania dels edificis de Presidència
+2018,2017/AGIB00/121A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/121B01,Direcció i serveis generals de Presidència
+2018,2017/AGIB00/121B02,Manteniment i conservació del complex de Marivent
+2018,2017/AGIB00/121B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/121C01,Coordinació dels programes de Govern
+2018,2017/AGIB00/121C02,Polítiques en matèria d'igualtat
+2018,2017/AGIB00/121G01,Formació i selecció del personal
+2018,2017/AGIB00/121G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/121H01,Gestió de recursos humans
+2018,2017/AGIB00/121H99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/121I01,Salut i prevenció de riscs laborals a l'Administració
+2018,2017/AGIB00/121I99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/126B01,Publicacions i Butlletí Oficial Illes Balears
+2018,2017/AGIB00/126E01,Serveis de l'Advocacia i coordinació dels serveis jurídics de la CAIB
+2018,2017/AGIB00/126F01,Serveis comuns generals
+2018,2017/AGIB00/126H01,"Assessorament, estudi, recerca i difusió normativa"
+2018,2017/AGIB00/126H02,Publicacions
+2018,2017/AGIB00/126I01,Gestió del parc mòbil
+2018,2017/AGIB00/126I99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/126J01,Gestió de la central de contractació
+2018,2017/AGIB00/126J99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/126K01,Gestió de la Junta Consultiva de Contractació
+2018,2017/AGIB00/126L01,Serveis comuns tecnològics
+2018,2017/AGIB00/126L99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/126M01,Contractació centralitzada
+2018,2017/AGIB00/131A01,Relacions amb el Parlament
+2018,2017/AGIB00/131B01,Foment de l'acció cívica
+2018,2017/AGIB00/131B02,Rememoració efemèrides pròpies de la Comunitat Autònoma
+2018,2017/AGIB00/131C01,Foment de la participació de centres i cases regionals
+2018,2017/AGIB00/141A01,Direcció i serveis generals d' Hisenda i Administracions Públiques
+2018,2017/AGIB00/141A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/141B01,Planificació i política pressupostària
+2018,2017/AGIB00/141B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/141C01,Gestió comptable i control intern
+2018,2017/AGIB00/141C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/141D01,Planificació i ordenació de la política econòmica
+2018,2017/AGIB00/141E01,Gestió de tresoreria i política financera
+2018,2017/AGIB00/141F01,Organització i gestió del Patrimoni de la Comunitat Autònoma
+2018,2017/AGIB00/141F99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/141G01,Gestió dels fons procedents de la Unió Europea
+2018,2017/AGIB00/141G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/151A01,Publicitat institucional
+2018,2017/AGIB00/151A02,Comunicació institucional
+2018,2017/AGIB00/151A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/151C01,Qualitat al Govern de les Illes Balears
+2018,2017/AGIB00/151C02,Atenció i informació a la ciutadania
+2018,2017/AGIB00/151C03,Transparència i bona governança
+2018,2017/AGIB00/151C04,Participació
+2018,2017/AGIB00/151C05,Voluntariat
+2018,2017/AGIB00/151C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/211A01,Col·laboracions institucionals en matèria justícia
+2018,2017/AGIB00/222A01,Seguretat als edificis administratius de la CAIB
+2018,2017/AGIB00/222A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/222B01,Activitats classificades i espectacles
+2018,2017/AGIB00/222C01,Actuació de policies
+2018,2017/AGIB00/223A01,Emergències
+2018,2017/AGIB00/223A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/231A01,Participació en organismes interregionals
+2018,2017/AGIB00/231A02,Impuls i coordinació de l'acció exterior
+2018,2017/AGIB00/231B01,Foment i relacions amb comunitats balears radicades a l'exterior
+2018,2017/AGIB00/232A01,Cooperació internacional
+2018,2017/AGIB00/232A02,Cooperació amb entitats
+2018,2017/AGIB00/313B01,Atenció a la discapacitat
+2018,2017/AGIB00/313B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/313C01,Mesures judicials i prevenció del delicte
+2018,2017/AGIB00/313C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/313D01,Atenció a la dependència
+2018,2017/AGIB00/313D99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/313F01,Protecció i defensa dels drets dels menor
+2018,2017/AGIB00/313F99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/313G01,Suport a la infància i a la família
+2018,2017/AGIB00/313G02,Programa d'emancipació
+2018,2017/AGIB00/313G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/313I01,Planificació i ordenació socials
+2018,2017/AGIB00/313I02,Construcció de centres de serveis socials
+2018,2017/AGIB00/313I03,Rendes socials
+2018,2017/AGIB00/313I99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/313J01,Integració social d'immigrants
+2018,2017/AGIB00/313J99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/313K01,Direcció i serveis generals de Serveis Socials i Cooperació
+2018,2017/AGIB00/313K99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/314A01,Pensions i prestacions econòmiques
+2018,2017/AGIB00/322A01,Ocupació i inserció laboral específiques
+2018,2017/AGIB00/322B01,Gestió de les relacions laborals
+2018,2017/AGIB00/322C01,Foment de la responsabilitat social corporativa
+2018,2017/AGIB00/322D01,Direcció i serveis generals del Servei d'Ocupació de les IB
+2018,2017/AGIB00/322D02,Orientació i informació laboral
+2018,2017/AGIB00/322D03,Formació per a desocupats
+2018,2017/AGIB00/322D04,Gestió d'accions formatives
+2018,2017/AGIB00/322D05,Foment de l'ocupació
+2018,2017/AGIB00/322D06,Formació professional dirigida a desocupats
+2018,2017/AGIB00/322D07,Formació professional dirigida a ocupats
+2018,2017/AGIB00/322D08,Oportunitats d'ocupació i formació
+2018,2017/AGIB00/322D99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/323A01,Protecció i foment de la  integració i foment de la participació social de la joventut
+2018,2017/AGIB00/323A02,Consell de la Joventut de les IB
+2018,2017/AGIB00/323A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/323C01,"Promoció, protecció i serveis per a la dona"
+2018,2017/AGIB00/323C02,Igualtat de dones i homes
+2018,2017/AGIB00/323C03,Violències masclistes
+2018,2017/AGIB00/323C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/324A01,Salut i prevenció de riscs laborals
+2018,2017/AGIB00/324A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/411A01,Direcció i serveis generals de Salut
+2018,2017/AGIB00/411A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/411D01,"Planificació, avaluació i cartera de serveis"
+2018,2017/AGIB00/411E01,Finançament sanitari
+2018,2017/AGIB00/413A01,"Acreditació, docència i recerca en salut"
+2018,2017/AGIB00/413A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/413B01,Programes de salut pública
+2018,2017/AGIB00/413B02,Campanyes de vacunació
+2018,2017/AGIB00/413B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/413C01,Sanitat ambiental i alimentària
+2018,2017/AGIB00/413C02,Laboratori de salut pública
+2018,2017/AGIB00/413C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/413D01,Coordinació de centres insulars
+2018,2017/AGIB00/413D99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/413E01,Pla autonòmic de drogues
+2018,2017/AGIB00/413E99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/413F01,"Planificació, control i gestió del medicament i del serveis farmacèutics"
+2018,2017/AGIB00/413F99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/421A01,Direcció i serveis generals d'Educació i Universitat
+2018,2017/AGIB00/421A02,Consell escolar de les IB
+2018,2017/AGIB00/421A03,Institut de qualitat i avaluació del sistema educatiu
+2018,2017/AGIB00/421A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/421B01,Ordenació general del sistema educatiu
+2018,2017/AGIB00/421C01,Planificació educativa i règim de funcionament de centres escolars
+2018,2017/AGIB00/421C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/421D01,Formació del professorat
+2018,2017/AGIB00/421D02,Pla cuadriennal de formació del professional docent
+2018,2017/AGIB00/421D03,Pla de formació lingüística (FOLC)
+2018,2017/AGIB00/421D99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/421E01,Projectes lingüístics
+2018,2017/AGIB00/421E02,Dinamitzadors lingüístics
+2018,2017/AGIB00/421E03,Auxiliars de conversa
+2018,2017/AGIB00/421E04,Projecte EuroFP I
+2018,2017/AGIB00/421E05,Projecte EuroFP II
+2018,2017/AGIB00/421F01,Actuacions en matèria universitària
+2018,2017/AGIB00/421F02,Agència de qualitat universitària de les  IB
+2018,2017/AGIB00/421F03,Ensenyaments artístics superiors
+2018,2017/AGIB00/421F04,Infraestructures universitàries
+2018,2017/AGIB00/421F05,Ajuts per a desplaçaments i Euroregió
+2018,2017/AGIB00/421F06,Convenis per a la implantació nous estudis universitaris
+2018,2017/AGIB00/421F07,Transferència nominativa UIB
+2018,2017/AGIB00/421F08,Millora de competitivitat de la UIB
+2018,2017/AGIB00/421F99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/421G01,Despeses generals de la Formació Professional
+2018,2017/AGIB00/421G02,Institut de les qualificacions professionals
+2018,2017/AGIB00/421G03,Despeses generals d'aprenentatge permanent
+2018,2017/AGIB00/421G04,Assegurances FCT
+2018,2017/AGIB00/421G05,Tutors FCT
+2018,2017/AGIB00/421G06,Formació del professorat de la Formació Professional
+2018,2017/AGIB00/421G07,Promoció de la Formació Professional
+2018,2017/AGIB00/421G08,"Promoció i difussio de la Formació Professional, cofinançat AGE/FSE"
+2018,2017/AGIB00/421G09,Proves lliures d'ESO i batxillerat
+2018,2017/AGIB00/421G10,Conveni amb la Cambra de Comerç
+2018,2017/AGIB00/421G11,Programa de qualificació inicial
+2018,2017/AGIB00/421G12,Convenis amb ajuntaments i consells insulars
+2018,2017/AGIB00/421G13,Compres d'equipament per a centres de Formació Professional
+2018,2017/AGIB00/421G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/421H01,Inspecció educativa
+2018,2017/AGIB00/421H99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/421I01,Gestió i nòmines del personal docent
+2018,2017/AGIB00/421I02,Serveis d'Educació Infantil
+2018,2017/AGIB00/421I03,Serveis ESO
+2018,2017/AGIB00/421I04,Serveis de Règim Especial
+2018,2017/AGIB00/421I05,Serveis de Educació Especials
+2018,2017/AGIB00/421I06,Serveis de Adults
+2018,2017/AGIB00/421I07,Servei de prevenció de Personal Docent
+2018,2017/AGIB00/421I99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/421K01,Atenció a la diversitat
+2018,2017/AGIB00/421K02,Innovació educativa
+2018,2017/AGIB00/421K03,Comunitat educativa
+2018,2017/AGIB00/421K04,Institut de l'Educació a la Primera Infància
+2018,2017/AGIB00/421K05,Institut per a la Convivència i l'Èxit Escolar
+2018,2017/AGIB00/421K06,Tecnologies de la informació i de la comunicació
+2018,2017/AGIB00/421K07,Arxiu i Museu de l'Educació de les IB
+2018,2017/AGIB00/421K99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/422A01,Educació pública
+2018,2017/AGIB00/422B01,Educació infantil concertada
+2018,2017/AGIB00/422B02,Educació primària concertada
+2018,2017/AGIB00/422B03,Educació secundària obligatòria i batxillerat concertats
+2018,2017/AGIB00/422B04,Formació professional concertada
+2018,2017/AGIB00/423B02,Equipament i mobiliari escolar
+2018,2017/AGIB00/423B03,Infraestructures de centres docents
+2018,2017/AGIB00/423B04,Funcionament de centres educatius
+2018,2017/AGIB00/431A01,Gestió i foment de l'habitatge social
+2018,2017/AGIB00/431B01,Habitatge
+2018,2017/AGIB00/431B02,Arquitectura i protecció del patrimoni
+2018,2017/AGIB00/441A01,Protecció i defensa del consumidor
+2018,2017/AGIB00/441A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/451A01,"Direcció i serveis generals de Transparència, Cultura i Esports"
+2018,2017/AGIB00/451A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/455A01,Promoció i serveis de cultura
+2018,2017/AGIB00/455A04,Museus
+2018,2017/AGIB00/455A05,Arxius
+2018,2017/AGIB00/455A06,Biblioteques
+2018,2017/AGIB00/455A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/455B01,Planificació i normalització de la llengua catalana
+2018,2017/AGIB00/455B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/461A01,Promoció i foment de l'esport
+2018,2017/AGIB00/461A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/511B01,"Direcció i serveis generals de Territori, Energia i Mobilitat"
+2018,2017/AGIB00/511B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/521A01,Infraestructures bàsiques
+2018,2017/AGIB00/521A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/521B01,Ordenació i inspecció del transport terrestre
+2018,2017/AGIB00/521B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/521C01,Transport ferroviari
+2018,2017/AGIB00/521D01,Transport per carretera
+2018,2017/AGIB00/522A01,Ports i transport marítim
+2018,2017/AGIB00/522B01,Aeroports i transport aeri
+2018,2017/AGIB00/531A01,Ordenació del territori i urbanisme
+2018,2017/AGIB00/533G01,Gestió de la sanitat forestal
+2018,2017/AGIB00/541A01,Recerca i desenvolupament
+2018,2017/AGIB00/541A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/542A01,Innovació
+2018,2017/AGIB00/542A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/551A01,"Ordenació, regulació i desenvolupament de les telecomunicacions"
+2018,2017/AGIB00/551A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/551B01,Gestió de sistemes i tecnologies de la informació
+2018,2017/AGIB00/551B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/561A01,"Protecció, control i defensa del domini públic hidràulic"
+2018,2017/AGIB00/562A01,Abastament d'aigües
+2018,2017/AGIB00/562B01,Sanejament i depuració d'aigües
+2018,2017/AGIB00/562B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/571A01,Gestió de residus
+2018,2017/AGIB00/571A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/571B01,Educació ambiental
+2018,2017/AGIB00/571B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/571C01,Gestió d'espais naturals
+2018,2017/AGIB00/571C99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/571D01,Conservació i millora del medi natural
+2018,2017/AGIB00/571E01,Planificació forestal
+2018,2017/AGIB00/571E99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/571F01,Espècies silvestres
+2018,2017/AGIB00/571G01,Sanitat forestal
+2018,2017/AGIB00/571G99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/572A01,Seguiment i control del canvi climàtic
+2018,2017/AGIB00/572A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/572B01,Qualitat ambiental i sostenibilitat
+2018,2017/AGIB00/572B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/581A01,Infraestructures de regadiu
+2018,2017/AGIB00/591A01,Estadística
+2018,2017/AGIB00/591A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/591B01,Cartografia
+2018,2017/AGIB00/711A01,"Direcció i serveis generals de Medi Ambient, Agricultura i Pesca"
+2018,2017/AGIB00/711A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/714B01,Agricultura
+2018,2017/AGIB00/714B02,Ramaderia
+2018,2017/AGIB00/714B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/718A01,Recursos marins
+2018,2017/AGIB00/718A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/721A01,"Direcció i serveis generals de Treball, Comerç i Indústria"
+2018,2017/AGIB00/721A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/722A01,Regulació i normativa industrial
+2018,2017/AGIB00/722A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/723A01,Promoció industrial i tecnològica
+2018,2017/AGIB00/731A01,Foment de l'ús d'energies renovables i de l'estalvi d'energia
+2018,2017/AGIB00/751A01,"Direcció i serveis generals d'Innovació, Recerca i Turisme"
+2018,2017/AGIB00/751A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/AGIB00/751B01,Promoció turística
+2018,2017/AGIB00/751C01,Ordenació del sector i redefinició del model turístic
+2018,2017/AGIB00/761A01,Ordenació i promoció comercial
+2018,2017/AGIB00/761A02,Promoció empresarial
+2018,2017/AGIB00/761B01,Gestió en matèria de joc
+2018,2017/AGIB00/811A01,Fons de contingència
+2018,2017/AGIB00/912A01,Suport financer als consells insulars
+2018,2017/AGIB00/912B01,Suport financer a ajuntaments i altres ens locals
+2018,2017/ATIB00/142A01,Gestió i inspecció de tributs
+2018,2017/ATIB00/142A99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/ATIB00/142B01,Suport a la gestió tributaria
+2018,2017/ATIB00/142B99,Pagaments compte 409/413 OPAP exercicis anteriors
+2018,2017/SSIB00/411B01,Administració i serveis generals de l'assistència sanitària
+2018,2017/SSIB00/411C01,Formació del personal sanitari
+2018,2017/SSIB00/412A01,Atenció primària de salut
+2018,2017/SSIB00/412B01,Atenció especialitzada de salut
+2018,2017/SSIB00/412C01,Assistència sociosanitària i salut mental
+2018,2017/SSIB00/412D01,Assistència sanitària
