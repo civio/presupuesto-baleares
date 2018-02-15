@@ -70,9 +70,9 @@ function updateBudgetTotals(chapterBreakdown, economicBreakdown, budgetStatuses,
     if ( hasPreviousYear ) {
       var previousExpense = getSum(chapterBreakdown, ids, field, uiState.year-1, budgetStatuses),
           variation = currentExpense - previousExpense,
-          variationPercentage = variation / previousExpense;
+          variationPercentage = (previousExpense!=0) ? variation / previousExpense : null;
       $('.column-1 .data-point', row).text(format(previousExpense));
-      $('.column-3 .data-point', row).text(format(variation)+' ('+formatPercentage(variationPercentage)+')');
+      $('.column-3 .data-point', row).text(format(variation)+' ('+(variationPercentage ? formatPercentage(variationPercentage) : "NA")+')');
 
     } else {
       $('.column-1 .data-point', row).text('');
