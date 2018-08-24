@@ -11,15 +11,11 @@
     <h2 class="page-title">{{ _('Sector público instrumental') }}</h2>
 
     <ul id="tabs" class="nav nav-tabs nav-tabs-centered" role="tablist">
-      <li class="{{ 'active' if show_side=='income' }}">
-        <a href="#income" title="{{ _('Ingresos') }}">
-          <h3>{{ _('Ingresos') }}</h3>
-        </a>
+      <li class="{{ 'active' if show_side=='income' }}" role="presentation">
+        <a href="#income" role="tab">{{ _('Ingresos') }}</a>
       </li>
-      <li class="{{ 'active' if show_side!='income' }}">
-        <a href="#expense" title="{{ _('Gastos') }}">
-          <h3>{{ _('Gastos') }}</h3>
-        </a>
+      <li class="{{ 'active' if show_side!='income' }}" role="presentation">
+        <a href="#expense" role="tab">{{ _('Gastos') }}</a>
       </li>
     </ul>
   </div>

@@ -159,6 +159,11 @@
       .col-sm-3{
         padding: $grid-gutter-width/4 0 0;
       }
+
+      .row{
+        border-top-style: solid;
+        border-top-width: 1px;
+      }
     }
   }
 }
@@ -199,6 +204,11 @@
     font-size: 90%;
   }
 }
+
+.policies-header .nav-tabs > li > a{
+  color: $brand-primary;
+}
+
 
 // Glossary
 .form-search-glossary .btn-primary{
@@ -293,7 +303,7 @@ table.table-grid{
   }
 }
 
-// Proyects panel
+// Projects panel
 
 #projects-panel{
   margin-top: $grid-gutter-width;

@@ -16,7 +16,7 @@ function getSum(breakdown, ids, field, year, budgetStatuses) {
 // Update budget totals
 function updateBudgetTotals(chapterBreakdown, economicBreakdown, budgetStatuses, adjustInflationFn, uiState) {
   function format(amount) {
-    return formatAmount(adjustInflationFn(amount, uiState.year));
+    return Formatter.amount(adjustInflationFn(amount, uiState.year));
   }
 
   var hasPreviousYear = (chapterBreakdown.years[uiState.year-1]!=null);
@@ -72,7 +72,7 @@ function updateBudgetTotals(chapterBreakdown, economicBreakdown, budgetStatuses,
           variation = currentExpense - previousExpense,
           variationPercentage = (previousExpense!=0) ? variation / previousExpense : null;
       $('.column-1 .data-point', row).text(format(previousExpense));
-      $('.column-3 .data-point', row).text(format(variation)+' ('+(variationPercentage ? formatPercentage(variationPercentage) : "NA")+')');
+      $('.column-3 .data-point', row).text(format(variation)+' ('+(variationPercentage ? Formatter.percentage(variationPercentage) : "NA")+')');
 
     } else {
       $('.column-1 .data-point', row).text('');
@@ -84,7 +84,7 @@ function updateBudgetTotals(chapterBreakdown, economicBreakdown, budgetStatuses,
 // Calculate global budget indicators
 function calculateIndicators(chapterBreakdown, budgetStatuses, adjustInflationFn, uiState) {
   function format(amount) {
-    return formatAmount(adjustInflationFn(amount, uiState.year));
+    return Formatter.amount(adjustInflationFn(amount, uiState.year));
   }
 
   var gross_savings = getSum(chapterBreakdown, _.range(1, 6), 'income', uiState.year, budgetStatuses) -

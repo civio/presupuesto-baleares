@@ -142,6 +142,6 @@ COLOR_SCALE = [ '#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b'
 
 # We can define additional URLs applicable only to the theme. These will get added
 # to the project URL patterns list.
-EXTRA_URLS = i18n_patterns('presupuesto-baleares.views',
+EXTRA_URLS = (
     url(r'^instituciones$', 'institutions', name="institutions"),
 )
