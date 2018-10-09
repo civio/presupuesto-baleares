@@ -1,3 +1,18 @@
+2018,I,38,Reintegraments d'operacions corrents
+2018,I,44,Del sector públic instrumental i d'altres ens públics de la CAIB
+2018,I,47,D'empreses privades
+2018,I,68,Reintegraments per operacions de capital
+2018,I,74,Del sector públic instrumental i d'altres ens públics de la CAIB
+2018,I,78,De famílies i institucions sense finalitat lucrativa
+2018,I,380,Reintegraments d'exercicis tancats
+2018,I,381,Reintegraments del pressupost corrent
+2018,I,441,D'empreses públiques no societàries i d'altres ens públics de la Comunitat Autònoma IB
+2018,I,444,De fundacions del sector públic autonòmic
+2018,I,470,D'empreses privades
+2018,I,680,Reintegraments d'exercicis tancats
+2018,I,741,D'empreses públiques no societàries i d'altres ens públics de la Comunitat Autònoma IB
+2018,I,743,De consorcis en que participa la CAIB
+2018,I,780,De famílies i institucions sense finalitat lucrativa
 2018,I,22010,Impost sobre estades en empreses turístiques d'allotjament
 2018,I,22010,Impost sobre estades en empreses turístiques d'allotjament
 2018,I,28400,Impost sobre danys mediambiental causats per vehicles de lloguer
@@ -25,8 +40,9 @@
 2018,I,40008,Bestretes a compta per ajornament devolucions de liquidacions negatives
 2018,I,40060,"Fons cohesió sanitat, assistència a desplaçats"
 2018,I,40300,De fundacions estatals
-2018,I,44100,D'empreses públiques no societàries  i d'altres ens públics de la Comunitat Autònoma IB
+2018,I,44100,D'empreses públiques no societàries i d'altres ens públics de la Comunitat Autònoma IB
 2018,I,44101,Agència de Turisme de les IB
+2018,I,44113,Universitat de les IB
 2018,I,45100,D'altres comunitats autònomes
 2018,I,46000,D'ajuntaments
 2018,I,46900,D'altres ens territorials
@@ -343,6 +359,11 @@
 2018,I,2017/SSIB00/55000,Productes de concessions administratives
 2018,I,2017/SSIB00/55001,"Ingressos de cafeteries, llibreries i aparells TV"
 2018,I,2017/SSIB00/75000,De la Comunitat Autònoma IB
+2018,G,82,Concessió de préstecs al sector públic
+2018,G,208,Arrendaments d'altre immobilitzat material
+2018,G,820,Concessió de préstecs al sector públic a curt termini
+2018,G,821,Concessió de préstecs al sector públic a llarg termini
+2018,G,910,Amortització de préstecs rebuts a curt termini d'ens del sector públic
 2018,G,12007,"Sous del grup A2, personal de contingent"
 2018,G,12112,"Productivitat sanitària, fixa i compensada"
 2018,G,12114,"Complement per atenció continuada, personal de contingent preintegrat"
@@ -437,6 +458,7 @@
 2018,G,62202,Construccions
 2018,G,63000,Terrenys i béns naturals
 2018,G,63202,Construccions
+2018,G,63599,Equipament de centres educatius
 2018,G,64002,Drets reals i concessions administratives
 2018,G,64008,Creació de l'ens públics Energia i Camvi Climátic
 2018,G,64016,Aplicacions informàtiques en curs
@@ -470,6 +492,7 @@
 2018,G,74424,Atenció i Suport a la Dependència i Promoció de l'Autonomia Personal de Persones amb Discapacitats
 2018,G,74500,A altres fundacions en què participi la CAIB
 2018,G,74506,Museu i Centre de Cultura de Formentera
+2018,G,74719,"Ports de les IB, subvencions"
 2018,G,74729,"Serveis de Millora Agrària, subvencions"
 2018,G,74850,"Ciutat Romana de Pol·lentia, subvencions"
 2018,G,74859,"Eivissa patrimoni de la humanitat, subvencions"
@@ -1364,11 +1387,9 @@
 2018,G,2017/SSIB00/63400,Elements de transport
 2018,G,2017/SSIB00/63501,Equips d'oficina i electrodomèstics
 2018,G,2017/SSIB00/63502,Mobiliari
-2018,G,63599,Equipament de centres educatius
 2018,G,2017/SSIB00/63600,Equips per a processos d'informació
 2018,G,2017/SSIB00/64000,Despeses en inversions de caràcter immaterial
 2018,G,2017/SSIB00/64006,Aplicacions informàtiques
 2018,G,2017/SSIB00/64090,"Arrendament financer amb opció de compra, leasing"
-2018,G,74719,"Ports de les IB, subvencions"
 2018,G,2017/SSIB00/91100,Amortització de préstecs a llarg termini d'ens del sector públic
 2018,G,2017/SSIB00/91300,Amortització de préstecs a curt termini d'ens de fora del sectro públic
