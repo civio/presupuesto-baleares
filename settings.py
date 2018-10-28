@@ -13,6 +13,9 @@ FEATURED_PROGRAMMES = ['121C', '723A', '722A', '542A', '423B', '413B', '455A', '
 # Number of programmes to feature in home page. Default: 3
 # NUMBER_OF_FEATURED_PROGRAMMES = 4
 
+# Use new Sankey visualization or the old one. Default: False
+OVERVIEW_USE_NEW_VIS = True
+
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': '21',
