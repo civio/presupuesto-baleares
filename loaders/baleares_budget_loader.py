@@ -152,7 +152,7 @@ class BalearesBudgetLoader(BudgetLoader):
             # Functional codes: keep only the final part of the code...
             fc_code = self._get_trailing_code(line[4])
             # ...and map it to the new classification
-            if line[0]!='2017' and line[0]!='2018':
+            if line[0]!='2017' and line[0]!='2018' and line[0]!='2019':
                 fc_code = self.map_to_new_functional_structure(fc_code)
 
             fc_area = fc_code[0:1]
