@@ -826,7 +826,7 @@ data = [
 
 entity_descriptions = [
     ['001', 'Ens públic Radiotelevisió de les Illes Balears', 'Ente público Radiotelevisión de las Illes Balears'],
-    ['002', 'Agència del Turisme de les Illes Balears', 'Agencia del Turismo de las Illes Balears'],
+    ['002', "Agència d'Estrategia Turística de les Illes Balears", 'Agencia de Estrategia Turística de las Illes Balears'],
     ['003', "Agència Balear de l'Aigua i de la Qualitat Ambiental", 'Agencia Balear del Agua y de la Calidad Ambiental'],
     ['004', 'Institut Balear de la Natura', 'Instituto Balear de la Naturaleza'],
     ['005', "Institut Balear de l'Habitatge", 'Instituto Balear de la Vivienda'],
@@ -862,7 +862,7 @@ entity_descriptions = [
     ['223', "Fundació Orquestra Simfònica Illes Balears", 'Fundación Orquesta Sinfónica Illes Balears'],
     ['301', 'Centre Balears Europa', 'Centro Baleares Europa'],
     ['302', 'Escola d’Hoteleria', 'Escuela de Hostelería'],
-    ['303', 'Consorci Desestacionalització de l’Oferta a l’Illa de Mallorca', 'Consorcio Desestacionalitzación de la Oferta en la isla de Mallorca'],
+    ['303', "Consorcio Borsa d'Allotjament Turístics de les Illes Balears", 'Consorcio Bolsa de Alojamientos Turísticos de las Illes Balears'],
     ['304', 'Velòdrom Palma Arena', 'Consorcio Velódromo Palma Arena'],
     ['305', 'Consorci d’Infraestructures de les Illes Balears', 'Consorcio de Infraestructuras de las Illes Balears'],
     ['306', 'Consorci Orquestra Simfònica Illes Balears “Ciutat de Palma”', 'Consorcio Orquesta Sinfònica de las Illes Balears “Ciutat de Palma”'],
