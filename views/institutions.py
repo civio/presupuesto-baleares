@@ -917,6 +917,10 @@ def institutions(request, render_callback=None):
     populate_budget_statuses(c, main_entity.id)
     c['entity'] = main_entity
 
+    # Status of SPI data currently doesn't match the overall budget status.
+    # See civio/presupuesto-management#804
+    c['budget_statuses'] = '{"2016": "", "2017": "", "2018": "2T", "2019": "PR", "2010": "", "2012": "", "2013": "", "2014": "", "2015": ""}'
+
     # Add our custom descriptions
     descriptions_position = 1 if c['LANGUAGE_CODE']=='ca' else 2
     c['descriptions'] = { 'income': {}, 'expense': {} }
