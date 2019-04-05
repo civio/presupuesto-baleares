@@ -6,18 +6,21 @@
 2019,I,74,De sector público instrumental y de otros entes públicos de la CAIB
 2019,I,76,De corporaciones locales
 2019,I,78,De familias e instituciones sin fines de lucro
+2019,I,90,Emisión de deuda pública en euros
 2019,I,380,Reintegros de ejercicios cerrados
 2019,I,381,Reintegros del presupuesto corriente
 2019,I,441,De empresas públicas no societarias y de otros entes públicos de la Comunidad Autónoma IB
 2019,I,444,De fundacions del sector públic autonòmic
 2019,I,460,De ayuntamientos
 2019,I,470,De empresas privadas
+2019,I,517,A empresas privadas
 2019,I,680,Reintegros de ejercicios cerrados
 2019,I,741,De empresas públicas no societarias y de otros entes públicos de la Comunidad Autónoma IB
 2019,I,743,De consorcios en que participa la CAIB
 2019,I,760,Otras transferencias de la UE
 2019,I,761,De préstamos concedidos a corto plazo
 2019,I,780,De famílias e instituciones sin fines de lucro
+2019,I,901,A llarg termini
 2019,I,22010,Impuesto sobre estancias en empresas turísticas de alojamiento
 2019,I,22010,Impuesto sobre estancias en empresas turísticas de alojamiento
 2019,I,28400,Impuesto sobre daños medioambientales causados por vehículos de alquiler
@@ -42,6 +45,7 @@
 2019,I,32710,"Asistencia sanitaria, entidades vinculadas a la Comunitat Autónoma IB"
 2019,I,32910,Derechos de matrícula en cursos y seminarios
 2019,I,33400,Venta de productos agropecuarios
+2019,I,39199,Otros recargos y multas
 2019,I,40008,Anticipos a cuenta por aplazamiento devolución de liquidaciones negativas
 2019,I,40060,"Fondo de cohesión sanidad, asistencia a desplazados"
 2019,I,40300,De fundaciones estatales
@@ -54,6 +58,7 @@
 2019,I,48000,De familias e instituciones sin fines de lucro
 2019,I,49900,Otras transferencias del exterior
 2019,I,51600,A corporaciones locales y a otros entes territoriales
+2019,I,51700,A empresas privadas
 2019,I,51800,A familias e instituciones sin fines de lucro
 2019,I,52000,Intereses de consignaciones judiciales
 2019,I,54001,Alquileres de locales
@@ -66,6 +71,7 @@
 2019,I,78000,De familias e instituciones sin fines de lucro
 2019,I,79203,Del Fondo Europeo Agrícola de Desarrollo Rural
 2019,I,79501,Del Fondo Europeo de Pesca FEP
+2019,I,90100,A largo plazo
 2019,I,82106,A corporaciones locales
 2019,I,2018/AGIB00/1,Impuestos directos
 2019,I,2018/AGIB00/2,Impuestos indirectos
@@ -387,6 +393,8 @@
 2019,G,22405,"Primas de seguros, otros"
 2019,G,22710,Servicos asistenciales de profesionales técnico sanitarios
 2019,G,22716,"Servicios de profesionales independientes, licenciados sanitarios"
+2019,G,22725,Servicios por derivación asistencial
+2019,G,22728,Terapias respiratorias
 2019,G,22999,Obligaciones de ejercicios anteriores
 2019,G,23002,Traslados
 2019,G,24002,"Dotación para servicios nuevos, oficina de vivienda"
@@ -433,6 +441,7 @@
 2019,G,44500,A otras fundaciones participadas por la CAIB
 2019,G,44506,Museo y Centro de Cultura de Formentera
 2019,G,44509,Pro Real Academia Española
+2019,G,44735,"Gestión Sanitaria y Asistencial de las IB, GSAIB; transferencias justificables"
 2019,G,44800,Fundaciones del sector público autonómico
 2019,G,44801,Transportes de Mallorca
 2019,G,44823,"Protección y Acogida de Personas Disminuidas Psíquicas Profundas, subvenciones"
@@ -468,6 +477,7 @@
 2019,G,63202,Construcciones
 2019,G,63599,Equipamiento de centros educativos
 2019,G,64002,Derechos reales y concesiones administrativas
+2019,G,64004,Propiedad industrial
 2019,G,64008,Creación del ente público Energia y Cambio Climático
 2019,G,64016,Aplicaciones informáticas en curso
 2019,G,64021,Campañas de salut

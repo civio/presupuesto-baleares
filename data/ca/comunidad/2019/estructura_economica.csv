@@ -6,18 +6,21 @@
 2019,I,74,Del sector públic instrumental i d'altres ens públics de la CAIB
 2019,I,76,De corporacions locals
 2019,I,78,De famílies i institucions sense finalitat lucrativa
+2019,I,90,Emissió de deute públic en euros
 2019,I,380,Reintegraments d'exercicis tancats
 2019,I,381,Reintegraments del pressupost corrent
 2019,I,441,D'empreses públiques no societàries i d'altres ens públics de la Comunitat Autònoma IB
 2019,I,444,De fundacions del sector públic autonòmic
 2019,I,460,D'ajuntaments
 2019,I,470,D'empreses privades
+2019,I,517,A empreses privades
 2019,I,680,Reintegraments d'exercicis tancats
 2019,I,741,D'empreses públiques no societàries i d'altres ens públics de la Comunitat Autònoma IB
 2019,I,743,De consorcis en que participa la CAIB
 2019,I,760,Altres transferències de la UE
 2019,I,761,De préstecs concedits a curt termini
 2019,I,780,De famílies i institucions sense finalitat lucrativa
+2019,I,901,A llarg termini
 2019,I,22010,Impost sobre estades en empreses turístiques d'allotjament
 2019,I,22010,Impost sobre estades en empreses turístiques d'allotjament
 2019,I,28400,Impost sobre danys mediambiental causats per vehicles de lloguer
@@ -42,6 +45,7 @@
 2019,I,32710,"Assistència sanitària, entitats vinculades a la Comunitat Autònoma IB"
 2019,I,32910,Drets de matrícula a cursos i seminaris
 2019,I,33400,Venda de productes agropecuaris
+2019,I,39199,Altres recàrrecs i multes
 2019,I,40008,Bestretes a compta per ajornament devolucions de liquidacions negatives
 2019,I,40060,"Fons cohesió sanitat, assistència a desplaçats"
 2019,I,40300,De fundacions estatals
@@ -54,6 +58,7 @@
 2019,I,48000,De famílies i institucions sense finalitat lucrativa
 2019,I,49900,Altres transferències de l'exterior
 2019,I,51600,A corporacions locals i altres ens territorials
+2019,I,51700,A empreses privades
 2019,I,51800,A famílies i institucions sense finalitat lucrativa
 2019,I,52000,Interessos de consignacions judicials
 2019,I,54001,Lloguers de locals
@@ -67,6 +72,7 @@
 2019,I,79203,Del Fons Europeu Agricola de Desenvolupament Rural
 2019,I,79501,Del Fons Europeu de Pesca FEP
 2019,I,82106,A corporacions locals
+2019,I,90100,A llarg termini
 2019,I,2018/AGIB00/1,Imposts directes
 2019,I,2018/AGIB00/2,Imposts indirectes
 2019,I,2018/AGIB00/3,"Taxes, preus públics i altres ingressos"
@@ -387,6 +393,8 @@
 2019,G,22405,"Primes d'assegurances, altres assegurances"
 2019,G,22710,Serveis assistencials de professionals tècnics sanitaris
 2019,G,22716,"Serveis de professionals independents, llicenciats sanitaris"
+2019,G,22725,Serveis per derivació assistencial
+2019,G,22728,Teràpies respiratòries
 2019,G,22999,Obligacions d'exercicis anteriors
 2019,G,23002,Trasllats
 2019,G,24002,"Dotació per a serveis nous, oficina d'habitatge"
@@ -433,6 +441,7 @@
 2019,G,44500,A altres fundacions en què participi la CAIB
 2019,G,44506,Museu i Centre de Cultura de Formentera
 2019,G,44509,Pro Real Academia Española
+2019,G,44735,"Gestió Sanitària i Assistencial de les IB, GSAIB; transferències justificables"
 2019,G,44800,Fundacions del sector públic autonòmic
 2019,G,44801,Transports de Mallorca
 2019,G,44823,"Protecció i Acollida de Persones Disminuïdes Psíquiques Profundes, subvencions"
@@ -468,6 +477,7 @@
 2019,G,63202,Construccions
 2019,G,63599,Equipament de centres educatius
 2019,G,64002,Drets reals i concessions administratives
+2019,G,64004,Propietat industrial
 2019,G,64008,Creació de l'ens públics Energia i Camvi Climátic
 2019,G,64016,Aplicacions informàtiques en curs
 2019,G,64021,Campanyes de salut
