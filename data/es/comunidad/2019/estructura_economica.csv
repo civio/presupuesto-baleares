@@ -20,7 +20,7 @@
 2019,I,760,Otras transferencias de la UE
 2019,I,761,De préstamos concedidos a corto plazo
 2019,I,780,De famílias e instituciones sin fines de lucro
-2019,I,901,A llarg termini
+2019,I,901,A largo plazo
 2019,I,22010,Impuesto sobre estancias en empresas turísticas de alojamiento
 2019,I,22010,Impuesto sobre estancias en empresas turísticas de alojamiento
 2019,I,28400,Impuesto sobre daños medioambientales causados por vehículos de alquiler
@@ -71,8 +71,8 @@
 2019,I,78000,De familias e instituciones sin fines de lucro
 2019,I,79203,Del Fondo Europeo Agrícola de Desarrollo Rural
 2019,I,79501,Del Fondo Europeo de Pesca FEP
-2019,I,90100,A largo plazo
 2019,I,82106,A corporaciones locales
+2019,I,90100,A largo plazo
 2019,I,2018/AGIB00/1,Impuestos directos
 2019,I,2018/AGIB00/2,Impuestos indirectos
 2019,I,2018/AGIB00/3,"Tasas, precios públicos y otros ingresos"
@@ -374,9 +374,17 @@
 2019,I,2017/SSIB00/55001,"Ingresos de cafeterías, librerías y aparatos de TV"
 2019,I,2017/SSIB00/75000,De la Comunidad Autónoma IB
 2019,G,82,Concesión de préstamos al sector público
+2019,G,87,Aportaciones patrimoniales
+2019,G,90,Amortización de deuda pública en euros
 2019,G,208,Arrendamientos de otro inmovilizado material
 2019,G,820,Concesión de préstamos al sector público a corto plazo
+2019,G,870,Aportaciones patrimoniales
+2019,G,871,Aportaciones patrimoniales
+2019,G,872,A fundaciones públicas de la CAIB
+2019,G,873,A consorcios participados por la CAIB
+2019,G,874,Al Servicio de Salud de las IB
 2019,G,821,Concesión de préstamos al sector público a largo plazo
+2019,G,901,Amortización de deuda pública en euros a largo plazo
 2019,G,910,Amortización de préstamos recibidos a corto plazo de entes del sector público
 2019,G,12007,"Sueldos del grupo A2, personal de contingente"
 2019,G,12112,Productividad sanitaria fija y compensada
